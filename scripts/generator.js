@@ -35,9 +35,9 @@ function main() {
   const meterTokens = generate(meter_mappings, meterTitle);
   const bscTokens = generate(bsc_mappings, bscTitle);
   
-  fs.writeFileSync("eth.json", JSON.stringify(ethTokens));
-  fs.writeFileSync("meter.json", JSON.stringify(meterTokens));
-  fs.writeFileSync("bsc.json", JSON.stringify(bscTokens));
+  fs.writeFileSync("eth.json", JSON.stringify(ethTokens, null, 2));
+  fs.writeFileSync("meter.json", JSON.stringify(meterTokens, null, 2));
+  fs.writeFileSync("bsc.json", JSON.stringify(bscTokens, null, 2));
 }
 
 main();
