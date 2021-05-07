@@ -8,7 +8,8 @@ const ethTitle = {
   "address": "Ethereum Token Address",
   "name": "Ethereum Token Name",
   "symbol": "Ethereum Token Symbol",
-  "resourceId": "Resource ID"
+  "resourceId": "Resource ID",
+  "nativeDecimals": "Ethereum Token Decimals"
 }
 
 const meterTitle = {
@@ -34,6 +35,8 @@ function main() {
   const ethTokens = generate(eth_mappings, ethTitle);
   const meterTokens = generate(meter_mappings, meterTitle);
   const bscTokens = generate(bsc_mappings, bscTitle);
+
+  fs.writeFileSync("all.json", JSON.stringify(eth_mappings.concat(bsc_mappings), null, 2));
   
   fs.writeFileSync("eth.json", JSON.stringify(ethTokens, null, 2));
   fs.writeFileSync("meter.json", JSON.stringify(meterTokens, null, 2));
@@ -72,14 +75,19 @@ function mergeEthAndBsc(eth_mappings, bsc_mappings) {
 function generate(mappings, title) {
   let tokens = {data: []}
   mappings.forEach((item) => {
-    tokens.data.push({
+    let o = {
       "address": item[title.address],
       "name": item[title.name],
       "symbol": item[title.symbol],
       "imageUri": HOST_URL + "/" + LOGOS_DIR + "/" + item['Meter Token Address'] + "/" + "logo.png",
       "native": false,
       "resourceId": "0x" + item[title.resourceId],
-    })
+    }
+    if (o.symbol === 'ETH') {
+      o.native = true;
+      o.nativeDecimals = item[title.nativeDecimals]
+    }
+    tokens.data.push(o)
   })
 
   return tokens;

@@ -11,10 +11,11 @@
     {
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "name": "Wrapped Ether",
-      "symbol": "WETH",
+      "symbol": "ETH",
       "imageUri": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/logo-tokens/0x1a6eef221e4c4a2CCf84d125E975FbB3A879F66E/logo.png",
-      "native": false,
-      "resourceId": "0x0000000000000000000000c02aaa39b223fe8d0a0e5c4f27ead9083c756cc201"
+      "native": true,
+      "resourceId": "0x0000000000000000000000c02aaa39b223fe8d0a0e5c4f27ead9083c756cc201",
+      "nativeDecimals": "18"
     },
     {
       "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
