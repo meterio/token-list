@@ -6,7 +6,7 @@ const parse = require('csv-parse/lib/sync');
 const HOST_URL = "https://raw.githubusercontent.com/meterio/bridge-tokens/master";
 const LOGOS_DIR = 'data/resource-logos';
 
-const ethTitle = {
+const ETH_TITLE = {
   "address": "Ethereum Token Address",
   "name": "Ethereum Token Name",
   "symbol": "Ethereum Token Symbol",
@@ -14,14 +14,14 @@ const ethTitle = {
   "nativeDecimals": "Ethereum Token Decimals"
 }
 
-const meterTitle = {
+const METER_TITLE = {
   "address": "Meter Token Address",
   "name": "Meter Token Name",
   "symbol": "Meter Token Symbol",
   "resourceId": "Resource ID"
 }
 
-const bscTitle = {
+const BSC_TITLE = {
   "address": "BSC Token Address",
   "name": "BSC Token Name",
   "symbol": "BSC Token Symbol",
@@ -41,16 +41,74 @@ const bscTitle = {
   })
 }
 
+/**
+ * copy logo from resource-logos to destDir
+ * @param {array} resourceLogoDirs 
+ * @param {string} resourceId 
+ * @param {string} destDir 
+ */
+const copy = (resourceLogoDirs, resourceId, destDir) => {
+
+  if (resourceLogoDirs.includes(resourceId)) {
+    const readPath = path.join(__dirname, '..', 'data/resource-logos', resourceId, 'logo.png');
+    const writePath = path.join(__dirname, '..', destDir);
+
+    // if write directory does not exist then mkdir
+    const isDirExists = fs.existsSync(writePath);
+    isDirExists || fs.mkdirSync(writePath);
+
+    // if logo.png does not exist then copy
+    const isLogoExists = fs.existsSync(writePath + '/logo.png');
+    if (!isLogoExists) {
+      const logo = fs.readFileSync(readPath);
+      fs.writeFileSync(writePath + "/logo.png", logo);
+    }
+  } else {
+    throw new Error('can not find the ' + resourceId + ' directory in data/resource-logos')
+  }
+}
+/**
+ * copy token logo
+ * @param {obj[]} tokenMappings 
+ * @param {[]} resourceLogoDirs 
+ */
+const copyTokenLogo = (tokenMappings, resourceLogoDirs) => {
+  tokenMappings.forEach(item => {
+
+    const resource_id = item['Resource ID'];
+
+    if (item[ETH_TITLE.address] !== '') {
+      const eth_dist_dir = 'tokens/eth/' + item[ETH_TITLE.address].toLowerCase();
+      copy(resourceLogoDirs, resource_id, eth_dist_dir);
+    }
+
+    if (item[METER_TITLE.address] !== '') {
+      const meter_dist_dir = 'tokens/meter/' + item[METER_TITLE.address].toLowerCase();
+      copy(resourceLogoDirs, resource_id, meter_dist_dir);
+    }
+
+    if (item[BSC_TITLE.address] !== '') {
+      const bsc_dist_dir = 'tokens/bsc/' + item[BSC_TITLE.address].toLowerCase();
+      copy(resourceLogoDirs, resource_id, bsc_dist_dir);
+    }
+  })
+}
+
 function main() {
-  const tokenMappings = loadCSV(path.join(__dirname, '..', 'data', 'token_mappings.csv'));
+  const token_mappings = loadCSV(path.join(__dirname, '..', 'data', 'token_mappings.csv'));
 
-  const ethTokens = generate(tokenMappings, ethTitle);
-  const meterTokens = generate(tokenMappings, meterTitle);
-  const bscTokens = generate(tokenMappings, bscTitle);
+  const eth = generate(token_mappings, ETH_TITLE);
+  const meter = generate(token_mappings, METER_TITLE);
+  const bsc = generate(token_mappings, BSC_TITLE);
 
-  fs.writeFileSync(path.join(__dirname, '..', "eth.json"), JSON.stringify(ethTokens, null, 2));
-  fs.writeFileSync(path.join(__dirname, '..', "meter.json"), JSON.stringify(meterTokens, null, 2));
-  fs.writeFileSync(path.join(__dirname, '..', "bsc.json"), JSON.stringify(bscTokens, null, 2));
+  fs.writeFileSync(path.join(__dirname, '..', "eth.json"), JSON.stringify(eth, null, 2));
+  fs.writeFileSync(path.join(__dirname, '..', "meter.json"), JSON.stringify(meter, null, 2));
+  fs.writeFileSync(path.join(__dirname, '..', "bsc.json"), JSON.stringify(bsc, null, 2));
+
+  // get resourceId directories
+  const resource_logo_dirs = fs.readdirSync(path.join(__dirname, '..', 'data/resource-logos'));
+
+  copyTokenLogo(token_mappings, resource_logo_dirs);
 }
 
 main();
