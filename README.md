@@ -17,7 +17,7 @@ The resrouceID is used for identifying a token in Meter passport.  The naming co
 
 # The following are important contract addresses in various networks
 
-#For Mainnets:
+For Mainnets:
 
 ETH Contract Addresses
 ================================================================
@@ -46,7 +46,8 @@ Erc20 Handler:      0x0D152F033DDF3920f445963d8e38a40105Ffbe4d
 Generic Handler:    0x2f318898Ef6977BA02A72E20C0B1e9fb89947771
 ================================================================
 
-#For Testnets
+For Testnets
+
 ETH Ropsten Contract Addresses
 ================================================================
 Bridge:             0xd7fb746e905f60e0f84F5eE545104A05066eCD86
