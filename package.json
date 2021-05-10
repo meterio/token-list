@@ -18,5 +18,7 @@
     "url": "https://github.com/meterio/bridge-tokens/issues"
   },
   "homepage": "https://github.com/meterio/bridge-tokens#readme",
-  "dependencies": {}
+  "dependencies": {
+    "csv-parse": "^4.15.4"
+  }
 }
