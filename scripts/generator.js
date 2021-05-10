@@ -1,8 +1,10 @@
 const fs = require("fs");
 const os = require("os");
+const path = require('path');
+const parse = require('csv-parse/lib/sync');
 
 const HOST_URL = "https://raw.githubusercontent.com/meterio/bridge-tokens/master";
-const LOGOS_DIR = 'logo-tokens';
+const LOGOS_DIR = 'data/resource-logos';
 
 const ethTitle = {
   "address": "Ethereum Token Address",
@@ -26,26 +28,67 @@ const bscTitle = {
   "resourceId": "Resource ID"
 }
 
+/**
+ * read csv file and transfer it to obj list
+ * @param {string} fileName 
+ * @returns json object for csv
+ */
+ const loadCSV = (path)=>{
+  const content = fs.readFileSync(path).toString()
+  return parse(content, {
+    columns: true,
+    skip_empty_lines: true
+  })
+}
+
 function main() {
-  const eth_mappings = cvsToMap('eth_mappings.csv');
-  const bsc_mappings = cvsToMap('bsc_mappings.csv');
+  const tokenMappings = loadCSV(path.join(__dirname, '..', 'data', 'token_mappings.csv'));
 
-  const meter_mappings = mergeEthAndBsc(eth_mappings, bsc_mappings);
+  const ethTokens = generate(tokenMappings, ethTitle);
+  const meterTokens = generate(tokenMappings, meterTitle);
+  const bscTokens = generate(tokenMappings, bscTitle);
 
-  const ethTokens = generate(eth_mappings, ethTitle);
-  const meterTokens = generate(meter_mappings, meterTitle);
-  const bscTokens = generate(bsc_mappings, bscTitle);
-
-  fs.writeFileSync("all.json", JSON.stringify(eth_mappings.concat(bsc_mappings), null, 2));
-  
-  fs.writeFileSync("eth.json", JSON.stringify(ethTokens, null, 2));
-  fs.writeFileSync("meter.json", JSON.stringify(meterTokens, null, 2));
-  fs.writeFileSync("bsc.json", JSON.stringify(bscTokens, null, 2));
+  fs.writeFileSync(path.join(__dirname, '..', "eth.json"), JSON.stringify(ethTokens, null, 2));
+  fs.writeFileSync(path.join(__dirname, '..', "meter.json"), JSON.stringify(meterTokens, null, 2));
+  fs.writeFileSync(path.join(__dirname, '..', "bsc.json"), JSON.stringify(bscTokens, null, 2));
 }
 
 main();
 
+
 /**
+ * generate json by mapping and title
+ * @param {obj[]} mappings 
+ * @param {obj} title 
+ * @returns obj
+ */
+function generate(mappings, title) {
+  let tokens = {data: []}
+  mappings.forEach((item) => {
+    let o = {
+      "address": item[title.address],
+      "name": item[title.name],
+      "symbol": item[title.symbol],
+      "imageUri": HOST_URL + "/" + LOGOS_DIR + "/" + item[title.resourceId] + "/" + "logo.png",
+      "native": false,
+      "resourceId": "0x" + item[title.resourceId],
+    }
+    if (!o.address && !o.name && !o.symbol){
+      // no name, address and symbol, skip
+      return
+    }
+    if (o.symbol === 'ETH') {
+      o.native = true;
+      o.nativeDecimals = item[title.nativeDecimals]
+    }
+    tokens.data.push(o)
+  })
+
+  return tokens;
+}
+
+/**
+ * @deprecated
  * merge the same Resource ID
  * @param {obj[]} eth_mappings 
  * @param {obj[]} bsc_mappings 
@@ -66,34 +109,10 @@ function mergeEthAndBsc(eth_mappings, bsc_mappings) {
 
   return tMappings;
 }
-/**
- * generate json by mapping and title
- * @param {obj[]} mappings 
- * @param {obj} title 
- * @returns obj
- */
-function generate(mappings, title) {
-  let tokens = {data: []}
-  mappings.forEach((item) => {
-    let o = {
-      "address": item[title.address],
-      "name": item[title.name],
-      "symbol": item[title.symbol],
-      "imageUri": HOST_URL + "/" + LOGOS_DIR + "/" + item['Meter Token Address'] + "/" + "logo.png",
-      "native": false,
-      "resourceId": "0x" + item[title.resourceId],
-    }
-    if (o.symbol === 'ETH') {
-      o.native = true;
-      o.nativeDecimals = item[title.nativeDecimals]
-    }
-    tokens.data.push(o)
-  })
 
-  return tokens;
-}
 /**
  * read csv file and transfer it to obj list
+ * @deprecated
  * @param {string} fileName 
  * @returns obj[]
  */
@@ -116,3 +135,4 @@ function cvsToMap(fileName) {
 
   return mappings;
 }
+
