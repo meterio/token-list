@@ -4,7 +4,7 @@
       "address": "0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F",
       "name": "Meter Governance mapped by Meter.io",
       "symbol": "eMTRG",
-      "imageUri": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/logo-tokens/0x228ebBeE999c6a7ad74A6130E81b12f9Fe237Ba3/logo.png",
+      "imageUri": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/resource-logos/0000000000000000000000bd2949f67dcdc549c6ebe98696449fa79d988a9f01/logo.png",
       "native": false,
       "resourceId": "0x0000000000000000000000bd2949f67dcdc549c6ebe98696449fa79d988a9f01"
     },
@@ -12,7 +12,7 @@
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "name": "Wrapped Ether",
       "symbol": "ETH",
-      "imageUri": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/logo-tokens/0x1a6eef221e4c4a2CCf84d125E975FbB3A879F66E/logo.png",
+      "imageUri": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/resource-logos/0000000000000000000000c02aaa39b223fe8d0a0e5c4f27ead9083c756cc201/logo.png",
       "native": true,
       "resourceId": "0x0000000000000000000000c02aaa39b223fe8d0a0e5c4f27ead9083c756cc201",
       "nativeDecimals": "18"
@@ -21,25 +21,25 @@
       "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
       "name": "Tether USD",
       "symbol": "USDT",
-      "imageUri": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/logo-tokens/0xa285BFF4202fE703B497729E4076C601CBB96d04/logo.png",
+      "imageUri": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/resource-logos/0000000000000000000000dac17f958d2ee523a2206206994597c13d831ec701/logo.png",
       "native": false,
-      "resourceId": "0x0x0000000000000000000000dac17f958d2ee523a2206206994597c13d831ec701"
+      "resourceId": "0x0000000000000000000000dac17f958d2ee523a2206206994597c13d831ec701"
     },
     {
       "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
       "name": "USD Coin",
       "symbol": "USDC",
-      "imageUri": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/logo-tokens/0xDF63b7B8D0330e20a69f557Bac54943b76D0a7cf/logo.png",
+      "imageUri": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/resource-logos/0000000000000000000000a0b86991c6218b36c1d19d4a2e9eb0ce3606eb4801/logo.png",
       "native": false,
-      "resourceId": "0x0x0000000000000000000000a0b86991c6218b36c1d19d4a2e9eb0ce3606eb4801"
+      "resourceId": "0x0000000000000000000000a0b86991c6218b36c1d19d4a2e9eb0ce3606eb4801"
     },
     {
       "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
       "name": "Wrapped BTC",
       "symbol": "WBTC",
-      "imageUri": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/logo-tokens/0xe347E3948761832b9bcC288d2202A69278D51ddD/logo.png",
+      "imageUri": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/resource-logos/00000000000000000000002260fac5e5542a773aa44fbcfedf7c193bc2c59901/logo.png",
       "native": false,
-      "resourceId": "0x0x00000000000000000000002260fac5e5542a773aa44fbcfedf7c193bc2c59901"
+      "resourceId": "0x00000000000000000000002260fac5e5542a773aa44fbcfedf7c193bc2c59901"
     }
   ]
 }
