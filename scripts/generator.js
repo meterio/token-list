@@ -101,6 +101,8 @@ function main() {
   const meter = generate(token_mappings, METER_TITLE);
   const bsc = generate(token_mappings, BSC_TITLE);
 
+  // fs.writeFileSync(path.join(__dirname, '..', "all.json"), JSON.stringify(token_mappings, null, 2));
+
   fs.writeFileSync(path.join(__dirname, '..', "eth.json"), JSON.stringify(eth, null, 2));
   fs.writeFileSync(path.join(__dirname, '..', "meter.json"), JSON.stringify(meter, null, 2));
   fs.writeFileSync(path.join(__dirname, '..', "bsc.json"), JSON.stringify(bsc, null, 2));
