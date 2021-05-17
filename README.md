@@ -2,13 +2,17 @@
 ## Integrating a new ERC20 token to Meter Passport
 This repository is created to simplify the process of adding new ERC20 tokens to [Meter Passport](https://passport.meter.io).  
 
+Projects could either use Meter team created ERC20 wrapped tokens or deploy their own ERC20 token contracts on the destination networks. If projects deploy their own contracts, please make sure to use include the minter burner extension of the open zepplin implementation like the [following] (https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/presets/ERC20PresetMinterPauser.sol).
+
+Once the tokens on the destination networks are created, please use the following instructions to submit the pull request for including your tokens in Meter Passport.
+
 Only the files under the `data` directory have to be modified manually. Please submit a pull request to the files under the `data` directory only.  We will update the rest with the scripts.
 
 The following files have to be changed:
 
 1. `token_mappings.csv`
 Create a new entry with `resourceID`
-The resrouceID is used for identifying a token in Meter passport. The naming convention for `resrouceID` is based on the ERC20 contract address of the asset in its origin network (for example Ethereum), with 01 as surfix (represent version number) and 0 as prefix to make the total length of the resource ID to be 32 bytes.  Please make sure all the letters in the address has to be lower case.  You will also have to add ERC20 token addresses, name and decimals in various networks for your token. We could deploy a standard ERC20 wrapper token for you or you could deploy your own ERC20 contract.  If you deploy your own token in different network, we recommend you to use the same private key and nonce as the contract in the original network.  This ensures the contract address the same as the original network and make it easier for the users to identify.  
+The resourceID is used for identifying a token in Meter passport. The naming convention for `resource ID` is based on the ERC20 contract address of the asset in its origin network (for example Ethereum), with 01 as surfix (represent version number) and 0 as prefix to make the total length of the resource ID to be 32 bytes.  Please make sure all the letters in the address has to be lower case.  You will also have to add ERC20 token addresses, name and decimals in various networks for your token. We could deploy a standard ERC20 wrapper token for you or you could deploy your own ERC20 contract.  If you deploy your own token in different network, we recommend you to use the same private key and nonce as the contract in the original network.  This ensures the contract address the same as the original network and make it easier for the users to identify.  
 
 A sample resource ID for `USDT` on Ethereum network (token address: `0xdAC17F958D2ee523a2206206994597C13D831ec7`)
 
@@ -19,7 +23,7 @@ A sample resource ID for `USDT` on Ethereum network (token address: `0xdAC17F958
 
 2. Add the ERC20 handler contract address as the only minter and burner for the new ERC20 tokens outside the home networks.  This allows Passport to mint a new token the destination network when a token is locked in the home network. Please do not mint new tokens outside the home network without going through the relayer, this may cause the number of circulating tokens unbalanced on both side of the bridge.
 
-3. add 256x256 png logos under the new resrouce ID folder.  This logo will be used to display your tokens
+3. add 256x256 png logos under the new resource ID folder.  This logo will be used to display your tokens
 
 4. If your token has none standard ERC20 features like different decimals, rebasing features and etc, please inquire in our [discord channel](https://discordapp.com/invite/WPjTpMG).
 
