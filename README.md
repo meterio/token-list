@@ -2,7 +2,7 @@
 ## Integrating a new ERC20 token to Meter Passport
 This repository is created to simplify the process of adding new ERC20 tokens to [Meter Passport](https://passport.meter.io).  
 
-Projects could either use Meter team created ERC20 wrapped tokens or deploy their own ERC20 token contracts on the destination networks. If projects deploy their own contracts, please make sure to use include the minter burner extension of the open zepplin implementation like the [following] (https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/presets/ERC20PresetMinterPauser.sol).
+Projects could either use Meter team created ERC20 wrapped tokens or deploy their own ERC20 token contracts on the destination networks. If projects deploy their own contracts, please make sure to use include the minter burner extension of the open zepplin implementation like the [following](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/presets/ERC20PresetMinterPauser.sol), passport uses the mint and burnFrom functions in the destination chain.
 
 Once the tokens on the destination networks are created, please use the following instructions to submit the pull request for including your tokens in Meter Passport.
 
@@ -34,18 +34,18 @@ A sample resource ID for `USDT` on Ethereum network (token address: `0xdAC17F958
 ```
 ETH Contract Addresses
 ================================================================
-Bridge:             0x0682642d18ebb4bb5e759AF07A7DE4eADAE8E8c5
-Erc20 Handler:      0xCCf4A9FdEE040782A6a37A65C986C23D964aad9D
-Generic Handler:    0x30b7026e9E5b35C844F6B115Ab4558c3F7e7e3B1
+Bridge:             0x3267701115c58384e70897739f5bb1C258D620e7
+Erc20 Handler:      0xde4fC7C3C5E7bE3F16506FcC790a8D93f8Ca0b40
+Generic Handler:    0x517828d2549cEC09386f89a67E92825E26740240
 ```
 ### On Meter Mainnet
 
 ```
 Meter Contract Addresses
 ================================================================
-Bridge:             0x55dab796D3f98a5A4EDbF7eF4C5E9944B63e9e59
-Erc20 Handler:      0x0D152F033DDF3920f445963d8e38a40105Ffbe4d
-Generic Handler:    0x2f318898Ef6977BA02A72E20C0B1e9fb89947771
+Bridge:             0x697349C119632bc6328167322AD658bD45D4341b
+Erc20 Handler:      0x60f1ABAa3ED8A573c91C65A5b82AeC4BF35b77b8
+Generic Handler:    0x89CA53Bf11d24D32A7aC3aDb7750868360c90590
 ```
 
 ### On BSC Mainnet
@@ -53,9 +53,9 @@ Generic Handler:    0x2f318898Ef6977BA02A72E20C0B1e9fb89947771
 ```
 BSC Contract Addresses
 ================================================================
-Bridge:             0x39fCb6203cf870F5E37DcCabF99F9bC39108CA70
-Erc20 Handler:      0xaB569cb439559B5484FBf11733Fc9CA0437DD84A
-Generic Handler:    0x047B69380FD7257274361ED9BEc137Ddf0dfc75e
+Bridge:             0x8bFc6203906549C7998624DA1c786D342e4BCD81
+Erc20 Handler:      0x5945241BBB68B4454bB67Bd2B069e74C09AC3D51
+Generic Handler:    0x83Fc24eB56121FA2A05e0b5170E7310738425839
 ```
 
 
@@ -64,10 +64,9 @@ Generic Handler:    0x047B69380FD7257274361ED9BEc137Ddf0dfc75e
 ```
 ETH Ropsten Contract Addresses
 ================================================================
-Bridge:             0xd7fb746e905f60e0f84F5eE545104A05066eCD86
-Erc20 Handler:      0x5eb75e79CDa25AB88e4779aA00F1D5a95AC1352B
-Generic Handler:    0x4CbbA9ea441cae4c07cB42549F3b2372c445CDd3
-================================================================
+Bridge:             0xf137D4391bb510a6bDd7F486980D5a3F8639A56E
+Erc20 Handler:      0xC56065ee94eD4d05360e130075Dd06DE55eE0916
+Generic Handler:    0xBAb8402E278F45d51BB342525716611fE1090027
 ```
 
 ### On Meter Warringstakes Testnet
@@ -75,9 +74,9 @@ Generic Handler:    0x4CbbA9ea441cae4c07cB42549F3b2372c445CDd3
 ```
 Meter Warringstakes Contract Address:
 ================================================================
-Bridge:             0xcC5A4195323CB835f22A9B7c6C5Cf6691D4419ec
-Erc20 Handler:      0xf8A06b9E8B24Ea21E88930F9878C410334EE076f
-Generic Handler:    0xb145C8E7EBbD692cFC495E6a5f414DF6f72503FA
+Bridge:             0x8411Abf226C67c566Ca53Db06F206174b2d908cd
+Erc20 Handler:      0x73BBF74df1c58903132CD4aa0e268C79f10aB042
+Generic Handler:    0x56f03E0B73fa6Ff6704CA399CE88282EDcF9FeEA
 ```
 
 ### On BSC Testnet
@@ -85,7 +84,7 @@ Generic Handler:    0xb145C8E7EBbD692cFC495E6a5f414DF6f72503FA
 ```
 BSC Testnet Contract Addresses
 ================================================================
-Bridge:             0xa939D6a9E91ebD962f36bD0f7cf1c6C3C12c798f
-Erc20 Handler:      0xD352C65Bcea484A5d10cB596CF80aBB846c6898F
-Generic Handler:    0x8E61cC786AaFA0BFd13035a5b0b7A8CcdFB4CE12
+Bridge:             0xD58A75F1217E0e5c8776e5178dCe9050B3A82aC9
+Erc20 Handler:      0xEc239B20C6d93CE22316F807F898d0C9fA67E3D6
+Generic Handler:    0xb264Cf6be02f17BF638Cd59F63C68Ec3036b32b5
 ```
