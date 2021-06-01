@@ -34,7 +34,7 @@ A sample resource ID for `USDT` on Ethereum network (token address: `0xdAC17F958
 ```
 ETH Contract Addresses
 ================================================================
-Bridge:             0x3267701115c58384e70897739f5bb1C258D620e7
+Bridge:             0xbD515E41DF155112Cc883f8981CB763a286261be
 Erc20 Handler:      0xde4fC7C3C5E7bE3F16506FcC790a8D93f8Ca0b40
 Generic Handler:    0x517828d2549cEC09386f89a67E92825E26740240
 ```
@@ -43,7 +43,7 @@ Generic Handler:    0x517828d2549cEC09386f89a67E92825E26740240
 ```
 Meter Contract Addresses
 ================================================================
-Bridge:             0x697349C119632bc6328167322AD658bD45D4341b
+Bridge:             0x7C6Fb3B4a23BD9b0c2874bEe4EF672C64e83838B
 Erc20 Handler:      0x60f1ABAa3ED8A573c91C65A5b82AeC4BF35b77b8
 Generic Handler:    0x89CA53Bf11d24D32A7aC3aDb7750868360c90590
 ```
@@ -53,7 +53,7 @@ Generic Handler:    0x89CA53Bf11d24D32A7aC3aDb7750868360c90590
 ```
 BSC Contract Addresses
 ================================================================
-Bridge:             0x8bFc6203906549C7998624DA1c786D342e4BCD81
+Bridge:             0x223fafbc2cA53A75CcfF5B2369128d3d1a828F36
 Erc20 Handler:      0x5945241BBB68B4454bB67Bd2B069e74C09AC3D51
 Generic Handler:    0x83Fc24eB56121FA2A05e0b5170E7310738425839
 ```
@@ -64,7 +64,7 @@ Generic Handler:    0x83Fc24eB56121FA2A05e0b5170E7310738425839
 ```
 ETH Ropsten Contract Addresses
 ================================================================
-Bridge:             0xf137D4391bb510a6bDd7F486980D5a3F8639A56E
+Bridge:             0x6fC272eD9B6B947a7858DF30D7DD2D8173306EA8
 Erc20 Handler:      0xC56065ee94eD4d05360e130075Dd06DE55eE0916
 Generic Handler:    0xBAb8402E278F45d51BB342525716611fE1090027
 ```
@@ -74,7 +74,7 @@ Generic Handler:    0xBAb8402E278F45d51BB342525716611fE1090027
 ```
 Meter Warringstakes Contract Address:
 ================================================================
-Bridge:             0x8411Abf226C67c566Ca53Db06F206174b2d908cd
+Bridge:             0x4E68f5f704878e69AF9d58D5616168d69f1D03e4
 Erc20 Handler:      0x73BBF74df1c58903132CD4aa0e268C79f10aB042
 Generic Handler:    0x56f03E0B73fa6Ff6704CA399CE88282EDcF9FeEA
 ```
@@ -84,7 +84,7 @@ Generic Handler:    0x56f03E0B73fa6Ff6704CA399CE88282EDcF9FeEA
 ```
 BSC Testnet Contract Addresses
 ================================================================
-Bridge:             0xD58A75F1217E0e5c8776e5178dCe9050B3A82aC9
+Bridge:             0xcCeA086cbb7DA6bA5eb004fAd435F9b7712bA80e
 Erc20 Handler:      0xEc239B20C6d93CE22316F807F898d0C9fA67E3D6
 Generic Handler:    0xb264Cf6be02f17BF638Cd59F63C68Ec3036b32b5
 ```
