@@ -131,7 +131,7 @@ function generate(mappings, title) {
       "symbol": item[title.symbol],
       "imageUri": HOST_URL + "/" + LOGOS_DIR + "/" + item[title.resourceId] + "/" + "logo.png",
       "native": false,
-      "resourceId": "0x" + item[title.resourceId],
+      "resourceId": item[title.resourceId],
     }
     if (!o.address && !o.name && !o.symbol){
       // no name, address and symbol, skip
