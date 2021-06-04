@@ -15,6 +15,14 @@
       "imageUri": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/resource-logos/0x0000000000000000000000a58a4f5c4bb043d2cc1e170613b74e767c94189b01/logo.png",
       "native": false,
       "resourceId": "0x0000000000000000000000a58a4f5c4bb043d2cc1e170613b74e767c94189b01"
+    },
+    {
+      "address": "0xe795347731Bc547F4E4643F7945738cE2BC18529",
+      "name": "Cliq Token",
+      "symbol": "CLIQ",
+      "imageUri": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/resource-logos/0x00000000000000000000000def8d8adde14c9ef7c2a986df3ea4bd6582676701/logo.png",
+      "native": false,
+      "resourceId": "0x00000000000000000000000def8d8adde14c9ef7c2a986df3ea4bd6582676701"
     }
   ]
 }
