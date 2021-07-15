@@ -88,3 +88,13 @@ Bridge:             0xcCeA086cbb7DA6bA5eb004fAd435F9b7712bA80e
 Erc20 Handler:      0xEc239B20C6d93CE22316F807F898d0C9fA67E3D6
 Generic Handler:    0xb264Cf6be02f17BF638Cd59F63C68Ec3036b32b5
 ```
+
+### On Moonbase Alpha Testnet
+
+```
+BSC Testnet Contract Addresses
+================================================================
+Bridge:             0xFC72F77e2f4fCcd2E4DEd30cF9d9eb806142505f
+Erc20 Handler:      0xe4Fd0BC0601d1f4E042e93D28C6A429B26dF1457
+Generic Handler:    0x26c61e08d6fd620420079ED4B90Ec4a99c6bCEaa
+```
