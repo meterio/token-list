@@ -115,6 +115,17 @@ function main() {
 
   // fs.writeFileSync(path.join(__dirname, '..', "all.json"), JSON.stringify(token_mappings, null, 2));
 
+  const tokens = {
+    ETH: eth.data,
+    MTR: meter.data,
+    BNB: bsc.data,
+  };
+
+  fs.writeFileSync(
+    path.join(__dirname, "..", "tokens.json"),
+    JSON.stringify(tokens, null, 2)
+  );
+
   fs.writeFileSync(
     path.join(__dirname, "..", "eth.json"),
     JSON.stringify(eth, null, 2)
