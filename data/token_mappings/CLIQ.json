@@ -1,0 +1,18 @@
+{
+  "Resource ID": "0x00000000000000000000000def8d8adde14c9ef7c2a986df3ea4bd6582676701",
+  "Ethereum Token Address": "0x0Def8d8addE14c9eF7c2a986dF3eA4Bd65826767",
+  "Ethereum Handler Address": "0xde4fC7C3C5E7bE3F16506FcC790a8D93f8Ca0b40",
+  "Ethereum Token Name": "Cliq Token",
+  "Ethereum Token Symbol": "CLIQ",
+  "Ethereum Token Decimals": "18",
+  "Meter Token Address": "",
+  "Meter Handler Address": "",
+  "Meter Token Name": "",
+  "Meter Token Symbol": "",
+  "Meter Token Decimals": "",
+  "BSC Token Address": "0xe795347731Bc547F4E4643F7945738cE2BC18529",
+  "BSC Handler Address": "0x5945241BBB68B4454bB67Bd2B069e74C09AC3D51",
+  "BSC Token Name": "Cliq Token",
+  "BSC Token Symbol": "CLIQ",
+  "BSC Token Decimals": "18"
+}

@@ -1,0 +1,18 @@
+{
+  "Resource ID": "0x0000000000000000000000c02aaa39b223fe8d0a0e5c4f27ead9083c756cc201",
+  "Ethereum Token Address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+  "Ethereum Handler Address": "0xde4fC7C3C5E7bE3F16506FcC790a8D93f8Ca0b40",
+  "Ethereum Token Name": "Wrapped Ether",
+  "Ethereum Token Symbol": "ETH",
+  "Ethereum Token Decimals": "18",
+  "Meter Token Address": "0x1a6eef221e4c4a2CCf84d125E975FbB3A879F66E",
+  "Meter Handler Address": "0x60f1ABAa3ED8A573c91C65A5b82AeC4BF35b77b8",
+  "Meter Token Name": "ETH from Ethereum on Meter",
+  "Meter Token Symbol": "WETH",
+  "Meter Token Decimals": "18",
+  "BSC Token Address": "",
+  "BSC Handler Address": "",
+  "BSC Token Name": "",
+  "BSC Token Symbol": "",
+  "BSC Token Decimals": ""
+}

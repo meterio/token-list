@@ -1,0 +1,18 @@
+{
+  "Resource ID": "0x0000000000000000000000bd2949f67dcdc549c6ebe98696449fa79d988a9f01",
+  "Ethereum Token Address": "0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F",
+  "Ethereum Handler Address": "0xde4fC7C3C5E7bE3F16506FcC790a8D93f8Ca0b40",
+  "Ethereum Token Name": "Meter Governance mapped by Meter.io",
+  "Ethereum Token Symbol": "eMTRG",
+  "Ethereum Token Decimals": "18",
+  "Meter Token Address": "0x228ebBeE999c6a7ad74A6130E81b12f9Fe237Ba3",
+  "Meter Handler Address": "0x60f1ABAa3ED8A573c91C65A5b82AeC4BF35b77b8",
+  "Meter Token Name": "Meter Governance",
+  "Meter Token Symbol": "MTRG",
+  "Meter Token Decimals": "18",
+  "BSC Token Address": "0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F",
+  "BSC Handler Address": "0x5945241BBB68B4454bB67Bd2B069e74C09AC3D51",
+  "BSC Token Name": "Meter Governance mapped by Meter.io",
+  "BSC Token Symbol": "MTRG",
+  "BSC Token Decimals": "18"
+}
