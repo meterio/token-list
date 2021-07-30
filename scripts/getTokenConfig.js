@@ -25,6 +25,7 @@ const BSC_TITLE = {
   name: "BSC Token Name",
   symbol: "BSC Token Symbol",
   resourceId: "Resource ID",
+  tokenProxy: "BSC Token Proxy",
 };
 
 /**
@@ -192,6 +193,9 @@ function generate(mappings, title) {
     if (o.symbol === "ETH") {
       o.native = true;
       o.nativeDecimals = item[title.nativeDecimals];
+    }
+    if (o.symbol === "UTU") {
+      o.tokenProxy = item[title.tokenProxy];
     }
     tokens.data.push(o);
   });

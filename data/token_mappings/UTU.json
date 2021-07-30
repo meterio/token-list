@@ -14,5 +14,6 @@
   "BSC Handler Address": "0xaB569cb439559B5484FBf11733Fc9CA0437DD84A",
   "BSC Token Name": "UTU Coin ",
   "BSC Token Symbol": "UTU",
-  "BSC Token Decimals": "18"
+  "BSC Token Decimals": "18",
+  "BSC Token Proxy": "0xd4183192BfaA828fCcfb599948964C0BFFdE933c"
 }
