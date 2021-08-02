@@ -1,18 +1,17 @@
 {
   "Resource ID": "0x0000000000000000000000a0b86991c6218b36c1d19d4a2e9eb0ce3606eb4801",
-  "Ethereum Token Address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-  "Ethereum Handler Address": "0xde4fC7C3C5E7bE3F16506FcC790a8D93f8Ca0b40",
-  "Ethereum Token Name": "USD Coin",
-  "Ethereum Token Symbol": "USDC",
-  "Ethereum Token Decimals": "18",
-  "Meter Token Address": "0x39BFB931Cae5B1A3033237Db1244004a3dF5987b",
-  "Meter Handler Address": "0x60f1ABAa3ED8A573c91C65A5b82AeC4BF35b77b8",
-  "Meter Token Name": "USDC from Ethereum on Meter",
-  "Meter Token Symbol": "USDC",
-  "Meter Token Decimals": "18",
-  "BSC Token Address": "",
-  "BSC Handler Address": "",
-  "BSC Token Name": "",
-  "BSC Token Symbol": "",
-  "BSC Token Decimals": ""
+  "Ethereum": {
+    "Token Address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "Handler Address": "0xde4fC7C3C5E7bE3F16506FcC790a8D93f8Ca0b40",
+    "Token Name": "USDC from Ethereum on Meter",
+    "Token Symbol": "USDC",
+    "Token Decimals": "18"
+  },
+  "Meter": {
+    "Token Address": "0x39BFB931Cae5B1A3033237Db1244004a3dF5987b",
+    "Handler Address": "0x60f1ABAa3ED8A573c91C65A5b82AeC4BF35b77b8",
+    "Token Name": "Meter Governance",
+    "Token Symbol": "USDC",
+    "Token Decimals": "18"
+  }
 }

@@ -1,18 +1,17 @@
 {
   "Resource ID": "0x0000000000000000000000dac17f958d2ee523a2206206994597c13d831ec701",
-  "Ethereum Token Address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
-  "Ethereum Handler Address": "0xde4fC7C3C5E7bE3F16506FcC790a8D93f8Ca0b40",
-  "Ethereum Token Name": "Tether USD",
-  "Ethereum Token Symbol": "USDT",
-  "Ethereum Token Decimals": "6",
-  "Meter Token Address": "0xa285BFF4202fE703B497729E4076C601CBB96d04",
-  "Meter Handler Address": "0x60f1ABAa3ED8A573c91C65A5b82AeC4BF35b77b8",
-  "Meter Token Name": "USDT from Ethereum on Meter",
-  "Meter Token Symbol": "USDT",
-  "Meter Token Decimals": "6",
-  "BSC Token Address": "",
-  "BSC Handler Address": "",
-  "BSC Token Name": "",
-  "BSC Token Symbol": "",
-  "BSC Token Decimals": ""
+  "Ethereum": {
+    "Token Address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "Handler Address": "0xde4fC7C3C5E7bE3F16506FcC790a8D93f8Ca0b40",
+    "Token Name": "Tether USD",
+    "Token Symbol": "USDT",
+    "Token Decimals": "6"
+  },
+  "Meter": {
+    "Token Address": "0xa285BFF4202fE703B497729E4076C601CBB96d04",
+    "Handler Address": "0x60f1ABAa3ED8A573c91C65A5b82AeC4BF35b77b8",
+    "Token Name": "USDT from Ethereum on Meter",
+    "Token Symbol": "USDT",
+    "Token Decimals": "6"
+  }
 }

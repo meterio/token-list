@@ -1,37 +1,35 @@
-{
-  "data": [
-    {
-      "address": "0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F",
-      "name": "Meter Governance mapped by Meter.io",
-      "symbol": "MTRG",
-      "imageUri": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/resource-logos/0x0000000000000000000000bd2949f67dcdc549c6ebe98696449fa79d988a9f01/logo.png",
-      "native": false,
-      "resourceId": "0x0000000000000000000000bd2949f67dcdc549c6ebe98696449fa79d988a9f01"
-    },
-    {
-      "address": "0xed4Bb33F20F32E989AF975196E86019773A7CFf0",
-      "name": "UTU Coin ",
-      "symbol": "UTU",
-      "imageUri": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/resource-logos/0x0000000000000000000000a58a4f5c4bb043d2cc1e170613b74e767c94189b01/logo.png",
-      "native": false,
-      "resourceId": "0x0000000000000000000000a58a4f5c4bb043d2cc1e170613b74e767c94189b01",
-      "tokenProxy": "0xd4183192BfaA828fCcfb599948964C0BFFdE933c"
-    },
-    {
-      "address": "0xe795347731Bc547F4E4643F7945738cE2BC18529",
-      "name": "Cliq Token",
-      "symbol": "CLIQ",
-      "imageUri": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/resource-logos/0x00000000000000000000000def8d8adde14c9ef7c2a986df3ea4bd6582676701/logo.png",
-      "native": false,
-      "resourceId": "0x00000000000000000000000def8d8adde14c9ef7c2a986df3ea4bd6582676701"
-    },
-    {
-      "address": "0xDB021b1B247fe2F1fa57e0A87C748Cc1E321F07F",
-      "name": "AMPL",
-      "symbol": "AMPL",
-      "imageUri": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/resource-logos/0x1f3eb8ee12ce38ffa19fc4c635621ad2c9a0bd609def9ddce77680e33bc2224b/logo.png",
-      "native": false,
-      "resourceId": "0x1f3eb8ee12ce38ffa19fc4c635621ad2c9a0bd609def9ddce77680e33bc2224b"
-    }
-  ]
-}
+[
+  {
+    "address": "0xDB021b1B247fe2F1fa57e0A87C748Cc1E321F07F",
+    "name": "AMPL",
+    "symbol": "AMPL",
+    "imageUri": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/resource-logos/0x1f3eb8ee12ce38ffa19fc4c635621ad2c9a0bd609def9ddce77680e33bc2224b/logo.png",
+    "native": false,
+    "resourceId": "0x1f3eb8ee12ce38ffa19fc4c635621ad2c9a0bd609def9ddce77680e33bc2224b"
+  },
+  {
+    "address": "0xe795347731Bc547F4E4643F7945738cE2BC18529",
+    "name": "Cliq Token",
+    "symbol": "CLIQ",
+    "imageUri": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/resource-logos/0x00000000000000000000000def8d8adde14c9ef7c2a986df3ea4bd6582676701/logo.png",
+    "native": false,
+    "resourceId": "0x00000000000000000000000def8d8adde14c9ef7c2a986df3ea4bd6582676701"
+  },
+  {
+    "address": "0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F",
+    "name": "Meter Governance mapped by Meter.io",
+    "symbol": "MTRG",
+    "imageUri": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/resource-logos/0x0000000000000000000000bd2949f67dcdc549c6ebe98696449fa79d988a9f01/logo.png",
+    "native": false,
+    "resourceId": "0x0000000000000000000000bd2949f67dcdc549c6ebe98696449fa79d988a9f01"
+  },
+  {
+    "address": "0xed4Bb33F20F32E989AF975196E86019773A7CFf0",
+    "name": "UTU Coin",
+    "symbol": "UTU",
+    "imageUri": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/resource-logos/0x0000000000000000000000a58a4f5c4bb043d2cc1e170613b74e767c94189b01/logo.png",
+    "native": true,
+    "resourceId": "0x0000000000000000000000a58a4f5c4bb043d2cc1e170613b74e767c94189b01",
+    "tokenProxy": "0xd4183192BfaA828fCcfb599948964C0BFFdE933c"
+  }
+]

@@ -1,18 +1,17 @@
 {
   "Resource ID": "0x1f3eb8ee12ce38ffa19fc4c635621ad2c9a0bd609def9ddce77680e33bc2224b",
-  "Ethereum Token Address": "0xD46bA6D942050d489DBd938a2C909A5d5039A161",
-  "Ethereum Handler Address": "",
-  "Ethereum Token Name": "AMPL",
-  "Ethereum Token Symbol": "AMPL",
-  "Ethereum Token Decimals": "",
-  "Meter Token Address": "",
-  "Meter Handler Address": "",
-  "Meter Token Name": "",
-  "Meter Token Symbol": "",
-  "Meter Token Decimals": "",
-  "BSC Token Address": "0xDB021b1B247fe2F1fa57e0A87C748Cc1E321F07F",
-  "BSC Handler Address": "",
-  "BSC Token Name": "AMPL",
-  "BSC Token Symbol": "AMPL",
-  "BSC Token Decimals": ""
+  "Ethereum": {
+    "Token Address": "0xD46bA6D942050d489DBd938a2C909A5d5039A161",
+    "Handler Address": "0xde4fC7C3C5E7bE3F16506FcC790a8D93f8Ca0b40",
+    "Token Name": "AMPL",
+    "Token Symbol": "AMPL",
+    "Token Decimals": "9"
+  },
+  "BSC": {
+    "Token Address": "0xDB021b1B247fe2F1fa57e0A87C748Cc1E321F07F",
+    "Handler Address": "0x5945241BBB68B4454bB67Bd2B069e74C09AC3D51",
+    "Token Name": "AMPL",
+    "Token Symbol": "AMPL",
+    "Token Decimals": "9"
+  }
 }

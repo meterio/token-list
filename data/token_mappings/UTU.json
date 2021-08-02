@@ -1,19 +1,18 @@
 {
   "Resource ID": "0x0000000000000000000000a58a4f5c4bb043d2cc1e170613b74e767c94189b01",
-  "Ethereum Token Address": "0xa58a4f5c4Bb043d2CC1E170613B74e767c94189B",
-  "Ethereum Handler Address": "0xde4fC7C3C5E7bE3F16506FcC790a8D93f8Ca0b40",
-  "Ethereum Token Name": "UTU Coin",
-  "Ethereum Token Symbol": "UTU",
-  "Ethereum Token Decimals": "18",
-  "Meter Token Address": "",
-  "Meter Handler Address": "",
-  "Meter Token Name": "",
-  "Meter Token Symbol": "",
-  "Meter Token Decimals": "",
-  "BSC Token Address": "0xed4Bb33F20F32E989AF975196E86019773A7CFf0",
-  "BSC Handler Address": "0xaB569cb439559B5484FBf11733Fc9CA0437DD84A",
-  "BSC Token Name": "UTU Coin ",
-  "BSC Token Symbol": "UTU",
-  "BSC Token Decimals": "18",
-  "BSC Token Proxy": "0xd4183192BfaA828fCcfb599948964C0BFFdE933c"
+  "Ethereum": {
+    "Token Address": "0xa58a4f5c4Bb043d2CC1E170613B74e767c94189B",
+    "Handler Address": "0xde4fC7C3C5E7bE3F16506FcC790a8D93f8Ca0b40",
+    "Token Name": "UTU Coin",
+    "Token Symbol": "UTU",
+    "Token Decimals": "18"
+  },
+  "BSC": {
+    "Token Address": "0xed4Bb33F20F32E989AF975196E86019773A7CFf0",
+    "Handler Address": "0xaB569cb439559B5484FBf11733Fc9CA0437DD84A",
+    "Token Name": "UTU Coin",
+    "Token Symbol": "UTU",
+    "Token Decimals": "18",
+    "Token Proxy": "0xd4183192BfaA828fCcfb599948964C0BFFdE933c"
+  }
 }
