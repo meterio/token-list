@@ -5,20 +5,21 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node scripts/getTokenConfig.js"
+    "start": "node scripts/gen.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/meterio/bridge-tokens.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Simon Zhang",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/meterio/bridge-tokens/issues"
   },
   "homepage": "https://github.com/meterio/bridge-tokens#readme",
   "dependencies": {
+    "ajv": "^8.6.2",
     "csv-parse": "^4.15.4"
   }
 }

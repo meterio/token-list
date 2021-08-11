@@ -1,0 +1,27 @@
+{
+  "resourceID": "0x0000000000000000000000bd2949f67dcdc549c6ebe98696449fa79d988a9f01",
+  "tokens": [
+    {
+      "network": "Ethereum",
+      "address": "0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F",
+      "name": "Meter Governance mapped by Meter.io",
+      "symbol": "eMTRG",
+      "decimals": 18
+    },
+    {
+      "network": "Meter",
+      "address": "0x228ebBeE999c6a7ad74A6130E81b12f9Fe237Ba3",
+      "name": "Meter Governance",
+      "symbol": "MTRG",
+      "decimals": 18,
+      "native": false
+    },
+    {
+      "network": "BSC",
+      "address": "0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F",
+      "name": "Meter Governance mapped by Meter.io",
+      "symbol": "MTRG",
+      "decimals": 18
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "resourceID": "0x0000000000000000000000c02aaa39b223fe8d0a0e5c4f27ead9083c756cc201",
+  "tokens": [
+    {
+      "network": "Ethereum",
+      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "name": "Wrapped Ether",
+      "symbol": "ETH",
+      "decimals": 18,
+      "native": true
+    },
+    {
+      "network": "Meter",
+      "address": "0x1a6eef221e4c4a2CCf84d125E975FbB3A879F66E",
+      "name": "ETH from Ethereum on Meter",
+      "symbol": "WETH",
+      "decimals": 18
+    }
+  ]
+}

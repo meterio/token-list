@@ -1,18 +1,44 @@
 # Token definitions for Meter Passport
-## Integrating a new ERC20 token to Meter Passport
-This repository is created to simplify the process of adding new ERC20 tokens to [Meter Passport](https://passport.meter.io).  
 
-Projects could either use Meter team created ERC20 wrapped tokens or deploy their own ERC20 token contracts on the destination networks. If projects deploy their own contracts, please make sure to use include the minter burner extension of the open zepplin implementation like the [following](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/presets/ERC20PresetMinterPauser.sol), passport uses the mint and burnFrom functions in the destination chain.
+## Supported Networks
+
+| Network Name        | Enum         | ChainID hex | ChainID decimal |
+| ------------------- | ------------ | ----------- | --------------- |
+| Ethereum            | Ethereum     | 0x1         | 1               |
+| Ropsten             | Ropsten      | 0x3         | 3               |
+| Binance Smart Chain | BSC          | 0x36        | 56              |
+| Binance Smart Chain | BSCTest      | 0x61        | 97              |
+| Meter               | Meter        | 0x52        | 82              |
+| Meter Testnet       | MeterTest    | 0x65        | 101             |
+| Moonbeam Testnet    | MoonbeamTest | 0x507       | 1287            |
+
+## Integrating a new ERC20 token to Meter Passport
+
+> You will also have to add ERC20 token addresses, name and decimals in various networks for your token. We could deploy a standard ERC20 wrapper token for you or you could deploy your own ERC20 contract. If you deploy your own token in different network, we recommend you to use the same private key and nonce as the contract in the original network. This ensures the contract address the same as the original network and make it easier for the users to identify.
+
+This repository is created to simplify the process of adding new ERC20 tokens to [Meter Passport](https://passport.meter.io).
+
+Projects could either use Meter team created ERC20 wrapped tokens or deploy their own ERC20 token contracts on the destination networks. If projects deploy their own contracts, please make sure to use include the minter burner extension of the open zepplin implementation like the [following](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/presets/ERC20PresetMinterPauser.sol), passport uses the `mint` and `burnFrom` functions in the destination chain.
 
 Once the tokens on the destination networks are created, please use the following instructions to submit the pull request for including your tokens in Meter Passport.
 
-Only the files under the `data` directory have to be modified manually. Please submit a pull request to the files under the `data` directory only.  We will update the rest with the scripts.
+Only the files under the `data` directory have to be modified manually. Please submit a pull request to the files under the `data` directory only. We will update the rest with the scripts.
 
-The following files have to be changed:
+Please take the following steps:
 
-1. `token_mappings.csv`
-Create a new entry with `resourceID`
-The resourceID is used for identifying a token in Meter passport. The naming convention for `resource ID` is based on the ERC20 contract address of the asset in its origin network (for example Ethereum), with 01 as surfix (represent version number) and 0 as prefix to make the total length of the resource ID to be 32 bytes.  Please make sure all the letters in the address has to be lower case.  You will also have to add ERC20 token addresses, name and decimals in various networks for your token. We could deploy a standard ERC20 wrapper token for you or you could deploy your own ERC20 contract.  If you deploy your own token in different network, we recommend you to use the same private key and nonce as the contract in the original network.  This ensures the contract address the same as the original network and make it easier for the users to identify.  
+1. Create token config folder
+   Create a folder under `data` directory, and name it with token symbol. Put token config file `config.json` and **256x256** token logo `logo.png` inside this folder. For example, to add a `FOO` token, create the following file structure:
+
+```
+- data
+  |-- FOO
+       |-- config.json
+       |-- logo.png
+```
+
+2. Calculate resourceID
+   Create a new entry with `resourceID`
+   The resourceID is used for identifying a token in Meter passport. The naming convention for `resource ID` is based on the ERC20 contract address of the asset in its origin network (for example Ethereum), with 01 as surfix (represent version number) and 0 as prefix to make the total length of the resource ID to be 32 bytes. Please make sure all the letters in the address has to be **lower case**.
 
 A sample resource ID for `USDT` on Ethereum network (token address: `0xdAC17F958D2ee523a2206206994597C13D831ec7`)
 
@@ -21,13 +47,47 @@ A sample resource ID for `USDT` on Ethereum network (token address: `0xdAC17F958
 <-----padding 0------>   <-----token address in lower case------>   <-suffix->
 ```
 
-2. Add the ERC20 handler contract address as the only minter and burner for the new ERC20 tokens outside the home networks.  This allows Passport to mint a new token the destination network when a token is locked in the home network. Please do not mint new tokens outside the home network without going through the relayer, this may cause the number of circulating tokens unbalanced on both side of the bridge.
+3. prepare `config.json`
 
-3. add 256x256 png logos under the new resource ID folder.  This logo will be used to display your tokens
+Put your ERC20 information in `config.json`, for each network, create one entry in `tokens` list and set values. The fields that could be configured in `config.json` is defined with a ajv schema like this:
 
-4. If your token has none standard ERC20 features like different decimals, rebasing features and etc, please inquire in our [discord channel](https://discordapp.com/invite/WPjTpMG).
+```js
+const tokenSchema = {
+  type: 'object',
+  properties: {
+    network: { enum: ['Ethereum', 'Meter', 'BSC', 'Ropsten', 'BSCTest', 'MeterTest', 'MoonbeamTest'] }, // enum for supported network
+    name: { type: 'string', pattern: '^[0-9a-zA-Z._ ]{1,100}$' }, // string of 1-100 digit/letter
+    address: { type: 'string', pattern: '^0x[0-9a-zA-Z]{40}$' }, // string of 0x + 40 digit/letter
+    symbol: { type: 'string', pattern: '^[0-9a-zA-Z]{1,9}$' }, // string of 1-9 digit/upper_letter
+    decimals: { type: 'number', maximum: 20, minimum: 1 }, // number between 1-20
+    native: { type: 'boolean' }, // optional
+    tokenProxy: { type: 'string' }, // optional
+  },
+  required: ['network', 'name', 'symbol', 'decimals'],
+};
 
-## The following are important contract addresses in various networks
+const schema = {
+  type: 'object',
+  properties: {
+    resourceID: { type: 'string', pattern: '^0x[0-9a-z]{64}$' }, // string of 0x + 64 digit/lower_letter
+    tokens: { type: 'array', items: tokenSchema, minItems: 1 },
+  },
+};
+```
+
+4. Validate your config.json by
+
+```bash
+npm install
+node scripts/validate.js [your-token-symbol]
+# if validation failed, it will list out errors
+```
+
+5. Add the ERC20 handler contract address as the only minter and burner for the new ERC20 tokens outside the home networks. This allows Passport to mint a new token the destination network when a token is locked in the home network. Please do not mint new tokens outside the home network without going through the relayer, this may cause the number of circulating tokens unbalanced on both side of the bridge.
+
+6. If your token has none standard ERC20 features like different decimals, rebasing features and etc, please inquire in our [discord channel](https://discordapp.com/invite/WPjTpMG).
+
+## Deployed contracts on various networks
 
 ### On Ethereum Mainnets
 
@@ -38,6 +98,7 @@ Bridge:             0xbD515E41DF155112Cc883f8981CB763a286261be
 Erc20 Handler:      0xde4fC7C3C5E7bE3F16506FcC790a8D93f8Ca0b40
 Generic Handler:    0x517828d2549cEC09386f89a67E92825E26740240
 ```
+
 ### On Meter Mainnet
 
 ```
@@ -57,7 +118,6 @@ Bridge:             0x223fafbc2cA53A75CcfF5B2369128d3d1a828F36
 Erc20 Handler:      0x5945241BBB68B4454bB67Bd2B069e74C09AC3D51
 Generic Handler:    0x83Fc24eB56121FA2A05e0b5170E7310738425839
 ```
-
 
 ### On Ethereum Ropsten
 

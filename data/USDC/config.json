@@ -1,0 +1,20 @@
+{
+  "resourceID": "0x0000000000000000000000a0b86991c6218b36c1d19d4a2e9eb0ce3606eb4801",
+  "tokens": [
+    {
+      "network": "Ethereum",
+      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "name": "USDC from Ethereum on Meter",
+      "symbol": "USDC",
+      "decimals": 18
+    },
+    {
+      "network": "Meter",
+      "address": "0x39BFB931Cae5B1A3033237Db1244004a3dF5987b",
+      "Handler Address": "0x60f1ABAa3ED8A573c91C65A5b82AeC4BF35b77b8",
+      "name": "USDC Token",
+      "symbol": "USDC",
+      "decimals": 18
+    }
+  ]
+}
