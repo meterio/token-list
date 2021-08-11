@@ -166,3 +166,24 @@ Bridge:             0xFC72F77e2f4fCcd2E4DEd30cF9d9eb806142505f
 Erc20 Handler:      0xe4Fd0BC0601d1f4E042e93D28C6A429B26dF1457
 Generic Handler:    0x26c61e08d6fd620420079ED4B90Ec4a99c6bCEaa
 ```
+
+## Generated Folder Structure
+
+```
+ -- generated
+   |-- chain-configs (token configs for various chain)
+   |    |-- ethereum.json
+   |    |-- ...
+   |
+   |-- resource-logos (logo files with resource id)
+   |    |-- [resource-id].png
+   |    |-- ...
+   |
+   |-- token-logos (logo files with token address)
+   |    |-- [token-address].png
+   |    |-- ...
+   |
+   |-- mainnet-configs.json (merged config for mainnet)
+   |-- testnet-configs.json (merged config for testnet)
+
+```
