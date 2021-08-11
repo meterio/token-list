@@ -1,19 +1,27 @@
 {
   "resourceID": "0x0000000000000000000000dac17f958d2ee523a2206206994597c13d831ec701",
+  "testResourceID": "0x0000000000000000000000dac17f958d2ee523a2206206994597c13d831ec701",
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "decimals": 6,
   "tokens": [
     {
       "network": "Ethereum",
-      "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
-      "name": "Tether USD",
-      "symbol": "USDT",
-      "decimals": 6
+      "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7"
     },
     {
       "network": "Meter",
       "address": "0xa285BFF4202fE703B497729E4076C601CBB96d04",
-      "name": "USDT from Ethereum on Meter",
-      "symbol": "USDT",
-      "decimals": 6
+      "name": "USDT from Ethereum on Meter"
+    },
+    {
+      "network": "Ropsten",
+      "address": "0x76F2c2C3380587252076a8de5C7147c6a185127d"
+    },
+    {
+      "network": "MeterTest",
+      "address": "0x3e5a2A4812D319Ded22479A88ed708c6B55ca0b1",
+      "name": "Wrapped USDT"
     }
   ]
 }

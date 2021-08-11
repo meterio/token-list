@@ -2,7 +2,7 @@
   "Ethereum": [
     {
       "address": "0xD46bA6D942050d489DBd938a2C909A5d5039A161",
-      "name": "AMPL",
+      "name": "AmpleForth",
       "symbol": "AMPL",
       "imageUri": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/AMPL/logo.png",
       "resourceId": "0x1f3eb8ee12ce38ffa19fc4c635621ad2c9a0bd609def9ddce77680e33bc2224b",
@@ -18,27 +18,18 @@
     },
     {
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
-      "name": "Wrapped Ether",
+      "name": "Ether",
       "symbol": "ETH",
       "imageUri": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/ETH/logo.png",
       "resourceId": "0x0000000000000000000000c02aaa39b223fe8d0a0e5c4f27ead9083c756cc201",
-      "native": true,
-      "nativeDecimals": 18
+      "native": true
     },
     {
       "address": "0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F",
-      "name": "Meter Governance mapped by Meter.io",
-      "symbol": "eMTRG",
+      "name": "Meter Governance",
+      "symbol": "MTRG",
       "imageUri": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/MTRG/logo.png",
       "resourceId": "0x0000000000000000000000bd2949f67dcdc549c6ebe98696449fa79d988a9f01",
-      "native": false
-    },
-    {
-      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-      "name": "USDC from Ethereum on Meter",
-      "symbol": "USDC",
-      "imageUri": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/USDC/logo.png",
-      "resourceId": "0x0000000000000000000000a0b86991c6218b36c1d19d4a2e9eb0ce3606eb4801",
       "native": false
     },
     {
@@ -69,7 +60,7 @@
   "BSC": [
     {
       "address": "0xDB021b1B247fe2F1fa57e0A87C748Cc1E321F07F",
-      "name": "AMPL",
+      "name": "AmpleForth",
       "symbol": "AMPL",
       "imageUri": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/AMPL/logo.png",
       "resourceId": "0x1f3eb8ee12ce38ffa19fc4c635621ad2c9a0bd609def9ddce77680e33bc2224b",
@@ -85,7 +76,7 @@
     },
     {
       "address": "0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F",
-      "name": "Meter Governance mapped by Meter.io",
+      "name": "Meter Governance",
       "symbol": "MTRG",
       "imageUri": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/MTRG/logo.png",
       "resourceId": "0x0000000000000000000000bd2949f67dcdc549c6ebe98696449fa79d988a9f01",
@@ -104,8 +95,8 @@
   "Meter": [
     {
       "address": "0x1a6eef221e4c4a2CCf84d125E975FbB3A879F66E",
-      "name": "ETH from Ethereum on Meter",
-      "symbol": "WETH",
+      "name": "Ether",
+      "symbol": "ETH",
       "imageUri": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/ETH/logo.png",
       "resourceId": "0x0000000000000000000000c02aaa39b223fe8d0a0e5c4f27ead9083c756cc201",
       "native": false
@@ -119,16 +110,8 @@
       "native": false
     },
     {
-      "address": "0x39BFB931Cae5B1A3033237Db1244004a3dF5987b",
-      "name": "USDC Token",
-      "symbol": "USDC",
-      "imageUri": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/USDC/logo.png",
-      "resourceId": "0x0000000000000000000000a0b86991c6218b36c1d19d4a2e9eb0ce3606eb4801",
-      "native": false
-    },
-    {
       "address": "0xa285BFF4202fE703B497729E4076C601CBB96d04",
-      "name": "USDT from Ethereum on Meter",
+      "name": "Tether USD",
       "symbol": "USDT",
       "imageUri": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/USDT/logo.png",
       "resourceId": "0x0000000000000000000000dac17f958d2ee523a2206206994597c13d831ec701",
@@ -136,7 +119,7 @@
     },
     {
       "address": "0xe347E3948761832b9bcC288d2202A69278D51ddD",
-      "name": "WBTC from Ethereum on Meter",
+      "name": "Wrapped BTC",
       "symbol": "WBTC",
       "imageUri": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/WBTC/logo.png",
       "resourceId": "0x00000000000000000000002260fac5e5542a773aa44fbcfedf7c193bc2c59901",

@@ -1,0 +1,113 @@
+{
+  "Ropsten": [
+    {
+      "address": "0xD0E9335817f7B7c2567b784FD55b203697177E2A",
+      "name": "AmpleForth",
+      "symbol": "AMPL",
+      "imageUri": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/AMPL/logo.png",
+      "resourceId": "0x1f3eb8ee12ce38ffa19fc4c635621ad2c9a0bd609def9ddce77680e33bc2224b",
+      "native": false
+    },
+    {
+      "address": "0xc778417e063141139fce010982780140aa0cd5ab",
+      "name": "Ether",
+      "symbol": "ETH",
+      "imageUri": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/ETH/logo.png",
+      "resourceId": "0x0000000000000000000000C02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc201",
+      "native": true
+    },
+    {
+      "address": "0x48a6fd66512d45006fc0426576c264d03dfda304",
+      "name": "Meter Governance",
+      "symbol": "MTRG",
+      "imageUri": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/MTRG/logo.png",
+      "resourceId": "0x0000000000000000000000228ebBeE999c6a7ad74A6130E81b12f9Fe237Ba301",
+      "native": false
+    },
+    {
+      "address": "0x76F2c2C3380587252076a8de5C7147c6a185127d",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "imageUri": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/USDT/logo.png",
+      "resourceId": "0x0000000000000000000000dac17f958d2ee523a2206206994597c13d831ec701",
+      "native": false
+    },
+    {
+      "address": "0x6078222Bf12f973dD13BD70696aA4dBcE7659Ad0",
+      "name": "UTU Coin",
+      "symbol": "UTU",
+      "imageUri": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/UTU/logo.png",
+      "resourceId": "0x0000000000000000000000a58a4f5c4bb043d2cc1e170613b74e767c94189b01",
+      "native": false
+    }
+  ],
+  "MeterTest": [
+    {
+      "address": "0xd259ED8E7ACa1f5eA16fD58a860c09Af335b8198",
+      "name": "AmpleForth",
+      "symbol": "AMPL",
+      "imageUri": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/AMPL/logo.png",
+      "resourceId": "0x1f3eb8ee12ce38ffa19fc4c635621ad2c9a0bd609def9ddce77680e33bc2224b",
+      "native": false
+    },
+    {
+      "address": "0xe7536A823165D83E43EA95079cc1bb70E6a874b5",
+      "name": "Ether",
+      "symbol": "ETH",
+      "imageUri": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/ETH/logo.png",
+      "resourceId": "0x0000000000000000000000C02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc201",
+      "native": false
+    },
+    {
+      "address": "0x8A419EF4941355476CF04933E90BF3BBF2F73814",
+      "name": "Meter Governance",
+      "symbol": "MTRG",
+      "imageUri": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/MTRG/logo.png",
+      "resourceId": "0x0000000000000000000000228ebBeE999c6a7ad74A6130E81b12f9Fe237Ba301",
+      "native": false
+    },
+    {
+      "address": "0x3e5a2A4812D319Ded22479A88ed708c6B55ca0b1",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "imageUri": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/USDT/logo.png",
+      "resourceId": "0x0000000000000000000000dac17f958d2ee523a2206206994597c13d831ec701",
+      "native": false
+    }
+  ],
+  "BSCTest": [
+    {
+      "address": "0x75c00CF8B6C932AaD2E20fa238a57D389aE3842d",
+      "name": "AmpleForth",
+      "symbol": "AMPL",
+      "imageUri": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/AMPL/logo.png",
+      "resourceId": "0x1f3eb8ee12ce38ffa19fc4c635621ad2c9a0bd609def9ddce77680e33bc2224b",
+      "native": false
+    },
+    {
+      "address": "0x93b43BA0Fda0490dD0Ceb52dafB9463A844cC1c9",
+      "name": "Ether",
+      "symbol": "ETH",
+      "imageUri": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/ETH/logo.png",
+      "resourceId": "0x0000000000000000000000C02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc201",
+      "native": false
+    },
+    {
+      "address": "0x53ccb3D86B04b5FD7e647e11a39d1AAE746C2E98",
+      "name": "Meter Governance",
+      "symbol": "MTRG",
+      "imageUri": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/MTRG/logo.png",
+      "resourceId": "0x0000000000000000000000228ebBeE999c6a7ad74A6130E81b12f9Fe237Ba301",
+      "native": false
+    },
+    {
+      "address": "0x28387Fde25Df9E9a2314fC0C134218E6Fe199d8e",
+      "name": "UTU Coin",
+      "symbol": "UTU",
+      "imageUri": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/UTU/logo.png",
+      "resourceId": "0x0000000000000000000000a58a4f5c4bb043d2cc1e170613b74e767c94189b01",
+      "native": false,
+      "tokenProxy": "0x468cddEeaAbb2b8F554b8a7D6FBEb5c3330c1bE3"
+    }
+  ]
+}

@@ -1,19 +1,29 @@
 {
   "resourceID": "0x1f3eb8ee12ce38ffa19fc4c635621ad2c9a0bd609def9ddce77680e33bc2224b",
+  "testResourceID": "0x1f3eb8ee12ce38ffa19fc4c635621ad2c9a0bd609def9ddce77680e33bc2224b",
+  "name": "AmpleForth",
+  "symbol": "AMPL",
+  "decimals": 9,
   "tokens": [
     {
       "network": "Ethereum",
-      "address": "0xD46bA6D942050d489DBd938a2C909A5d5039A161",
-      "name": "AMPL",
-      "symbol": "AMPL",
-      "decimals": 9
+      "address": "0xD46bA6D942050d489DBd938a2C909A5d5039A161"
     },
     {
       "network": "BSC",
-      "address": "0xDB021b1B247fe2F1fa57e0A87C748Cc1E321F07F",
-      "name": "AMPL",
-      "symbol": "AMPL",
-      "decimals": 9
+      "address": "0xDB021b1B247fe2F1fa57e0A87C748Cc1E321F07F"
+    },
+    {
+      "network": "Ropsten",
+      "address": "0xD0E9335817f7B7c2567b784FD55b203697177E2A"
+    },
+    {
+      "network": "MeterTest",
+      "address": "0xd259ED8E7ACa1f5eA16fD58a860c09Af335b8198"
+    },
+    {
+      "network": "BSCTest",
+      "address": "0x75c00CF8B6C932AaD2E20fa238a57D389aE3842d"
     }
   ]
 }

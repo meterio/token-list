@@ -1,6 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 const { validateSchema } = require('./utils/schema');
+const { TESTNETS } = require('./utils/config');
 
 const HOST_URL = 'https://raw.githubusercontent.com/meterio/bridge-tokens/master';
 
@@ -34,6 +35,11 @@ const loadSupportedSymbols = (basedir) => {
     const configValid = validateSchema(config);
     if (!configValid) {
       console.log(`config schema is not valid, skip ${f}`);
+      continue;
+    }
+    if ('enable' in config && !config.enable) {
+      console.log(`config is not enabled, skip ${f}`);
+      continue;
     }
 
     // validte if logo exists
@@ -68,21 +74,30 @@ const getAddressImagePath = (network, address) => {
   return path.join(OUT_PATH, 'token-logos', network.toLowerCase(), `${address}.png`.toLowerCase());
 };
 
+const mkdirIfNeeded = (dir) => {
+  if (!fs.existsSync(dir)) {
+    fs.mkdirSync(dir, { recursive: true });
+  }
+};
+
 const generateChainConfig = (symbols) => {
   const chainConfigs = {};
   for (const sym of symbols) {
     const config = getConfig(sym);
+
     for (const token of config.tokens) {
       if (!(token.network in chainConfigs)) {
         chainConfigs[token.network] = [];
       }
 
+      const isTestnet = TESTNETS.includes(token.network);
+
       let tokenConfig = {
         address: token.address,
-        name: token.name,
-        symbol: token.symbol,
+        name: config.name || token.name,
+        symbol: config.symbol || token.symbol,
         imageUri: getImageUri(sym),
-        resourceId: config.resourceID,
+        resourceId: isTestnet ? config.testResourceID : config.resourceID,
         native: token.native || false,
         nativeDecimals: token.native ? token.decimals : undefined,
         tokenProxy: token.tokenProxy || undefined,
@@ -91,15 +106,30 @@ const generateChainConfig = (symbols) => {
     }
   }
 
+  const chainConfigDir = path.join(OUT_PATH, 'chain-configs');
+  mkdirIfNeeded(chainConfigDir);
   for (const chain in chainConfigs) {
-    const filepath = path.join(OUT_PATH, `${chain}.json`.toLowerCase());
+    const filepath = path.join(chainConfigDir, `${chain}.json`.toLowerCase());
     fs.writeFileSync(filepath, JSON.stringify(chainConfigs[chain], null, 2));
     console.log(`write chain config to ${filepath}`);
   }
 
-  const mergedPath = path.join(OUT_PATH, `merged.json`);
-  fs.writeFileSync(mergedPath, JSON.stringify(chainConfigs, null, 2));
-  console.log(`write merged config to ${mergedPath}`);
+  let mainnet = {};
+  let testnet = {};
+  for (const chain in chainConfigs) {
+    if (TESTNETS.includes(chain)) {
+      testnet[chain] = chainConfigs[chain];
+    } else {
+      mainnet[chain] = chainConfigs[chain];
+    }
+  }
+  const mainnetPath = path.join(OUT_PATH, `mainnet-configs.json`);
+  const testnetPath = path.join(OUT_PATH, `testnet-configs.json`);
+  fs.writeFileSync(mainnetPath, JSON.stringify(mainnet, null, 2));
+  console.log(`write merged mainnet config to ${mainnetPath}`);
+
+  fs.writeFileSync(testnetPath, JSON.stringify(testnet, null, 2));
+  console.log(`write merged testnet config to ${testnetPath}`);
 };
 
 /**
@@ -110,16 +140,12 @@ const placeImages = (symbols) => {
     const config = getConfig(sym);
     const imagePath = getImagePath(sym);
     const resourceImagePath = getResourceImagePath(config.resourceID);
-    if (!fs.existsSync(path.dirname(resourceImagePath))) {
-      fs.mkdirSync(path.dirname(resourceImagePath), { recursive: true });
-    }
+    mkdirIfNeeded(path.dirname(resourceImagePath));
     fs.copyFileSync(imagePath, resourceImagePath);
 
     for (const token of config.tokens) {
       const addressImagePath = getAddressImagePath(token.network, token.address);
-      if (!fs.existsSync(path.dirname(addressImagePath))) {
-        fs.mkdirSync(path.dirname(addressImagePath), { recursive: true });
-      }
+      mkdirIfNeeded(path.dirname(addressImagePath));
       fs.copyFileSync(imagePath, addressImagePath);
     }
   }

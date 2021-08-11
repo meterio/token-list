@@ -1,27 +1,40 @@
 {
   "resourceID": "0x0000000000000000000000bd2949f67dcdc549c6ebe98696449fa79d988a9f01",
+  "testResourceID": "0x0000000000000000000000228ebBeE999c6a7ad74A6130E81b12f9Fe237Ba301",
+  "name": "Meter Governance",
+  "symbol": "MTRG",
+  "decimals": 18,
   "tokens": [
     {
       "network": "Ethereum",
       "address": "0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F",
       "name": "Meter Governance mapped by Meter.io",
-      "symbol": "eMTRG",
-      "decimals": 18
+      "symbol": "eMTRG"
     },
     {
       "network": "Meter",
       "address": "0x228ebBeE999c6a7ad74A6130E81b12f9Fe237Ba3",
-      "name": "Meter Governance",
-      "symbol": "MTRG",
-      "decimals": 18,
       "native": false
     },
     {
       "network": "BSC",
       "address": "0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F",
-      "name": "Meter Governance mapped by Meter.io",
-      "symbol": "MTRG",
-      "decimals": 18
+      "name": "Meter Governance mapped by Meter.io"
+    },
+    {
+      "network": "Ropsten",
+      "address": "0x48a6fd66512d45006fc0426576c264d03dfda304",
+      "name": "eMTRG",
+      "symbol": "MTRG"
+    },
+    {
+      "network": "MeterTest",
+      "address": "0x8A419EF4941355476CF04933E90BF3BBF2F73814"
+    },
+    {
+      "network": "BSCTest",
+      "address": "0x53ccb3D86B04b5FD7e647e11a39d1AAE746C2E98",
+      "name": "Meter Governance mapped by Meter.io"
     }
   ]
 }
