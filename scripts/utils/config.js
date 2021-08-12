@@ -2,7 +2,8 @@ const fs = require('fs');
 const path = require('path');
 const DATA_PATH = path.join(__dirname, '..', '..', 'data');
 const OUT_PATH = path.join(__dirname, '..', '..', 'generated');
-const HOST_URL = 'https://raw.githubusercontent.com/meterio/bridge-tokens/master';
+const { name } = require('../../package.json');
+const HOST_URL = `https://raw.githubusercontent.com/meterio/${name}/master`;
 const { CHAIN_IDS, MAINNETS, TESTNETS, validateSchema } = require('./schema');
 
 const validateConfig = (sym) => {

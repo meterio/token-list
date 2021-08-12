@@ -3,7 +3,7 @@
     "address": "0x1a6eef221e4c4a2CCf84d125E975FbB3A879F66E",
     "name": "Ether",
     "symbol": "ETH",
-    "imageUri": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/ETH/logo.png",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png",
     "resourceId": "0x0000000000000000000000c02aaa39b223fe8d0a0e5c4f27ead9083c756cc201",
     "native": false
   },
@@ -11,7 +11,7 @@
     "address": "0x228ebBeE999c6a7ad74A6130E81b12f9Fe237Ba3",
     "name": "Meter Governance",
     "symbol": "MTRG",
-    "imageUri": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/MTRG/logo.png",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png",
     "resourceId": "0x0000000000000000000000bd2949f67dcdc549c6ebe98696449fa79d988a9f01",
     "native": false
   },
@@ -19,7 +19,7 @@
     "address": "0xa285BFF4202fE703B497729E4076C601CBB96d04",
     "name": "Tether USD",
     "symbol": "USDT",
-    "imageUri": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/USDT/logo.png",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDT/logo.png",
     "resourceId": "0x0000000000000000000000dac17f958d2ee523a2206206994597c13d831ec701",
     "native": false
   },
@@ -27,7 +27,7 @@
     "address": "0xe347E3948761832b9bcC288d2202A69278D51ddD",
     "name": "Wrapped BTC",
     "symbol": "WBTC",
-    "imageUri": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/WBTC/logo.png",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/WBTC/logo.png",
     "resourceId": "0x00000000000000000000002260fac5e5542a773aa44fbcfedf7c193bc2c59901",
     "native": false
   }

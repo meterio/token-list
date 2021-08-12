@@ -1,6 +1,6 @@
 {
   "name": "Meter Wallet Default List",
-  "timestamp": "2021-08-12T06:04:19.412Z",
+  "timestamp": "2021-08-12T06:29:34.139Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -18,7 +18,7 @@
       "symbol": "AMPL",
       "decimals": 9,
       "chainId": 1,
-      "logoURI": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/AMPL/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/AMPL/logo.png"
     },
     {
       "name": "Cliq Token",
@@ -26,7 +26,7 @@
       "symbol": "CLIQ",
       "decimals": 18,
       "chainId": 1,
-      "logoURI": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/CLIQ/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/CLIQ/logo.png"
     },
     {
       "name": "Ether",
@@ -34,7 +34,7 @@
       "symbol": "ETH",
       "decimals": 18,
       "chainId": 1,
-      "logoURI": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/ETH/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png"
     },
     {
       "name": "Meter Governance",
@@ -42,7 +42,7 @@
       "symbol": "MTRG",
       "decimals": 18,
       "chainId": 1,
-      "logoURI": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/MTRG/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png"
     },
     {
       "name": "Tether USD",
@@ -50,7 +50,7 @@
       "symbol": "USDT",
       "decimals": 6,
       "chainId": 1,
-      "logoURI": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/USDT/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDT/logo.png"
     },
     {
       "name": "UTU Coin",
@@ -58,7 +58,7 @@
       "symbol": "UTU",
       "decimals": 18,
       "chainId": 1,
-      "logoURI": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/UTU/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/UTU/logo.png"
     },
     {
       "name": "Wrapped BTC",
@@ -66,7 +66,7 @@
       "symbol": "WBTC",
       "decimals": 18,
       "chainId": 1,
-      "logoURI": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/WBTC/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/WBTC/logo.png"
     },
     {
       "name": "AmpleForth",
@@ -74,7 +74,7 @@
       "symbol": "AMPL",
       "decimals": 9,
       "chainId": 3,
-      "logoURI": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/AMPL/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/AMPL/logo.png"
     },
     {
       "name": "Ether",
@@ -82,7 +82,7 @@
       "symbol": "ETH",
       "decimals": 18,
       "chainId": 3,
-      "logoURI": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/ETH/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png"
     },
     {
       "name": "Meter Governance",
@@ -90,7 +90,7 @@
       "symbol": "MTRG",
       "decimals": 18,
       "chainId": 3,
-      "logoURI": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/MTRG/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png"
     },
     {
       "name": "Tether USD",
@@ -98,7 +98,7 @@
       "symbol": "USDT",
       "decimals": 6,
       "chainId": 3,
-      "logoURI": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/USDT/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDT/logo.png"
     },
     {
       "name": "UTU Coin",
@@ -106,7 +106,7 @@
       "symbol": "UTU",
       "decimals": 18,
       "chainId": 3,
-      "logoURI": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/UTU/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/UTU/logo.png"
     },
     {
       "name": "AmpleForth",
@@ -114,7 +114,7 @@
       "symbol": "AMPL",
       "decimals": 9,
       "chainId": 56,
-      "logoURI": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/AMPL/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/AMPL/logo.png"
     },
     {
       "name": "Cliq Token",
@@ -122,7 +122,7 @@
       "symbol": "CLIQ",
       "decimals": 18,
       "chainId": 56,
-      "logoURI": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/CLIQ/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/CLIQ/logo.png"
     },
     {
       "name": "Meter Governance",
@@ -130,7 +130,7 @@
       "symbol": "MTRG",
       "decimals": 18,
       "chainId": 56,
-      "logoURI": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/MTRG/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png"
     },
     {
       "name": "UTU Coin",
@@ -138,7 +138,7 @@
       "symbol": "UTU",
       "decimals": 18,
       "chainId": 56,
-      "logoURI": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/UTU/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/UTU/logo.png"
     },
     {
       "name": "Ether",
@@ -146,7 +146,7 @@
       "symbol": "ETH",
       "decimals": 18,
       "chainId": 82,
-      "logoURI": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/ETH/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png"
     },
     {
       "name": "Meter Governance",
@@ -154,7 +154,7 @@
       "symbol": "MTRG",
       "decimals": 18,
       "chainId": 82,
-      "logoURI": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/MTRG/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png"
     },
     {
       "name": "Tether USD",
@@ -162,7 +162,7 @@
       "symbol": "USDT",
       "decimals": 6,
       "chainId": 82,
-      "logoURI": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/USDT/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDT/logo.png"
     },
     {
       "name": "Wrapped BTC",
@@ -170,7 +170,7 @@
       "symbol": "WBTC",
       "decimals": 18,
       "chainId": 82,
-      "logoURI": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/WBTC/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/WBTC/logo.png"
     },
     {
       "name": "AmpleForth",
@@ -178,7 +178,7 @@
       "symbol": "AMPL",
       "decimals": 9,
       "chainId": 97,
-      "logoURI": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/AMPL/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/AMPL/logo.png"
     },
     {
       "name": "Ether",
@@ -186,7 +186,7 @@
       "symbol": "ETH",
       "decimals": 18,
       "chainId": 97,
-      "logoURI": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/ETH/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png"
     },
     {
       "name": "Meter Governance",
@@ -194,7 +194,7 @@
       "symbol": "MTRG",
       "decimals": 18,
       "chainId": 97,
-      "logoURI": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/MTRG/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png"
     },
     {
       "name": "UTU Coin",
@@ -202,7 +202,7 @@
       "symbol": "UTU",
       "decimals": 18,
       "chainId": 97,
-      "logoURI": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/UTU/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/UTU/logo.png"
     },
     {
       "name": "AmpleForth",
@@ -210,7 +210,7 @@
       "symbol": "AMPL",
       "decimals": 9,
       "chainId": 101,
-      "logoURI": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/AMPL/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/AMPL/logo.png"
     },
     {
       "name": "Ether",
@@ -218,7 +218,7 @@
       "symbol": "ETH",
       "decimals": 18,
       "chainId": 101,
-      "logoURI": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/ETH/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png"
     },
     {
       "name": "Meter Governance",
@@ -226,7 +226,7 @@
       "symbol": "MTRG",
       "decimals": 18,
       "chainId": 101,
-      "logoURI": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/MTRG/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png"
     },
     {
       "name": "Tether USD",
@@ -234,7 +234,7 @@
       "symbol": "USDT",
       "decimals": 6,
       "chainId": 101,
-      "logoURI": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/USDT/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDT/logo.png"
     },
     {
       "name": "Ether",
@@ -242,7 +242,7 @@
       "symbol": "ETH",
       "decimals": 18,
       "chainId": 1287,
-      "logoURI": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/ETH/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png"
     }
   ]
 }

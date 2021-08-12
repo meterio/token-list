@@ -1,5 +1,5 @@
 {
-  "name": "bridge-tokens",
+  "name": "token-list",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/meterio/bridge-tokens.git"
+    "url": "git+https://github.com/meterio/token-list.git"
   },
   "keywords": [],
   "author": "Simon Zhang",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/meterio/bridge-tokens/issues"
+    "url": "https://github.com/meterio/token-list/issues"
   },
-  "homepage": "https://github.com/meterio/bridge-tokens#readme",
+  "homepage": "https://github.com/meterio/token-list#readme",
   "dependencies": {
     "ajv": "^8.6.2",
     "csv-parse": "^4.15.4"

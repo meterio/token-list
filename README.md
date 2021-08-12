@@ -1,16 +1,16 @@
-# Token definitions for Meter Passport
+# Token List for Meter Ecosystem (Passport, Voltswap, Wallet)
 
 ## Supported Networks
 
-| Network Name        | Enum         | ChainID hex | ChainID decimal |
-| ------------------- | ------------ | ----------- | --------------- |
-| Ethereum            | Ethereum     | 0x1         | 1               |
-| Ropsten             | Ropsten      | 0x3         | 3               |
-| Binance Smart Chain | BSC          | 0x36        | 56              |
-| Binance Smart Chain | BSCTest      | 0x61        | 97              |
-| Meter               | Meter        | 0x52        | 82              |
-| Meter Testnet       | MeterTest    | 0x65        | 101             |
-| Moonbeam Testnet    | MoonbeamTest | 0x507       | 1287            |
+| Network Name        | Enum      | ChainID hex | ChainID decimal |
+| ------------------- | --------- | ----------- | --------------- |
+| Ethereum            | Ethereum  | 0x1         | 1               |
+| Ropsten             | Ropsten   | 0x3         | 3               |
+| Binance Smart Chain | BSC       | 0x36        | 56              |
+| Binance Smart Chain | BSCTest   | 0x61        | 97              |
+| Meter               | Meter     | 0x52        | 82              |
+| Meter Testnet       | MeterTest | 0x65        | 101             |
+| Moonbeam Testnet    | Moonbase  | 0x507       | 1287            |
 
 ## Integrating a new ERC20 token to Meter Passport
 
@@ -49,13 +49,17 @@ A sample resource ID for `USDT` on Ethereum network (token address: `0xdAC17F958
 
 3. prepare `config.json`
 
-Put your ERC20 information in `config.json`, for each network, create one entry in `tokens` list and set values. The fields that could be configured in `config.json` is defined with a ajv schema like this:
+Put your ERC20 information in `config.json`, for each network, create one entry in `tokens` list and set values. The fields that could be configured in `config.json` is defined with a ajv schema like this (as defined in [schema.js](./scripts/utils/schema.js)):
 
 ```js
+// supported networks
+const MAINNETS = ['Ethereum', 'Meter', 'BSC'];
+const TESTNETS = ['Ropsten', 'MeterTest', 'BSCTest', 'Moonbase'];
+
 const tokenSchema = {
   type: 'object',
   properties: {
-    network: { enum: ['Ethereum', 'Meter', 'BSC', 'Ropsten', 'BSCTest', 'MeterTest', 'MoonbeamTest'] }, // enum for supported network
+    network: { enum: [].concat(...MAINNETS, ...TESTNETS) }, // enum for supported network
     address: { type: 'string', pattern: '^0x[0-9a-zA-Z]{40}$' }, // string of 0x + 40 digit/letter
 
     // chain-specific configs, optional
@@ -167,6 +171,12 @@ Erc20 Handler:      0xe4Fd0BC0601d1f4E042e93D28C6A429B26dF1457
 Generic Handler:    0x26c61e08d6fd620420079ED4B90Ec4a99c6bCEaa
 ```
 
+## Generate configs
+
+```bash
+npm install
+npm start
+```
 ## Generated Folder Structure
 
 ```
@@ -183,7 +193,8 @@ Generic Handler:    0x26c61e08d6fd620420079ED4B90Ec4a99c6bCEaa
    |    |-- [token-address].png
    |    |-- ...
    |
-   |-- mainnet-configs.json (merged config for mainnet)
-   |-- testnet-configs.json (merged config for testnet)
+   |-- passport-tokens.json (token list for meter passport)
+   |-- swap-tokens.json (token list for voltswap)
+   |-- wallet-tokens.json (token list for wallet)
 
 ```

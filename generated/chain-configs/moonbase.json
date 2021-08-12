@@ -3,7 +3,7 @@
     "address": "0x9037816b5D8f5Fe182DA2EC935AA945dc2f0a27D",
     "name": "Ether",
     "symbol": "ETH",
-    "imageUri": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/ETH/logo.png",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png",
     "resourceId": "0x0000000000000000000000C02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc201",
     "native": false
   }

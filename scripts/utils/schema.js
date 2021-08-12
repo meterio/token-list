@@ -1,9 +1,5 @@
 const Ajv = require('ajv');
 const ajv = new Ajv();
-
-// supported networks
-const MAINNETS = ['Ethereum', 'Meter', 'BSC'];
-const TESTNETS = ['Ropsten', 'MeterTest', 'BSCTest', 'Moonbase'];
 const CHAIN_IDS = {
   Ethereum: 1,
   Ropsten: 3,
@@ -13,6 +9,10 @@ const CHAIN_IDS = {
   MeterTest: 101,
   Moonbase: 1287,
 };
+
+// supported networks
+const MAINNETS = ['Ethereum', 'Meter', 'BSC'];
+const TESTNETS = ['Ropsten', 'MeterTest', 'BSCTest', 'Moonbase'];
 
 const tokenSchema = {
   type: 'object',

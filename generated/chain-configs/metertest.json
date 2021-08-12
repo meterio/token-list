@@ -3,7 +3,7 @@
     "address": "0xd259ED8E7ACa1f5eA16fD58a860c09Af335b8198",
     "name": "AmpleForth",
     "symbol": "AMPL",
-    "imageUri": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/AMPL/logo.png",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/AMPL/logo.png",
     "resourceId": "0x1f3eb8ee12ce38ffa19fc4c635621ad2c9a0bd609def9ddce77680e33bc2224b",
     "native": false
   },
@@ -11,7 +11,7 @@
     "address": "0xe7536A823165D83E43EA95079cc1bb70E6a874b5",
     "name": "Ether",
     "symbol": "ETH",
-    "imageUri": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/ETH/logo.png",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png",
     "resourceId": "0x0000000000000000000000C02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc201",
     "native": false
   },
@@ -19,7 +19,7 @@
     "address": "0x8A419EF4941355476CF04933E90BF3BBF2F73814",
     "name": "Meter Governance",
     "symbol": "MTRG",
-    "imageUri": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/MTRG/logo.png",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png",
     "resourceId": "0x0000000000000000000000228ebBeE999c6a7ad74A6130E81b12f9Fe237Ba301",
     "native": false
   },
@@ -27,7 +27,7 @@
     "address": "0x3e5a2A4812D319Ded22479A88ed708c6B55ca0b1",
     "name": "Tether USD",
     "symbol": "USDT",
-    "imageUri": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/USDT/logo.png",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDT/logo.png",
     "resourceId": "0x0000000000000000000000dac17f958d2ee523a2206206994597c13d831ec701",
     "native": false
   }
