@@ -1,11 +1,23 @@
 const Ajv = require('ajv');
 const ajv = new Ajv();
-const { TESTNETS } = require('./config');
+
+// supported networks
+const MAINNETS = ['Ethereum', 'Meter', 'BSC'];
+const TESTNETS = ['Ropsten', 'MeterTest', 'BSCTest', 'Moonbase'];
+const CHAIN_IDS = {
+  Ethereum: 1,
+  Ropsten: 3,
+  BSC: 56,
+  BSCTest: 97,
+  Meter: 82,
+  MeterTest: 101,
+  Moonbase: 1287,
+};
 
 const tokenSchema = {
   type: 'object',
   properties: {
-    network: { enum: ['Ethereum', 'Meter', 'BSC', 'Ropsten', 'BSCTest', 'MeterTest', 'MoonbeamTest'] }, // enum for supported network
+    network: { enum: [].concat(...MAINNETS, ...TESTNETS) }, // enum for supported network
     address: { type: 'string', pattern: '^0x[0-9a-zA-Z]{40}$' }, // string of 0x + 40 digit/letter
 
     // chain-specific configs, optional
@@ -36,14 +48,7 @@ const validate = ajv.compile(schema);
 
 const validateSchema = (jsonObj) => {
   const valid = validate(jsonObj);
-  for (const t of jsonObj.tokens) {
-    if (TESTNETS.includes(t.network)) {
-      if (!('testResourceID' in jsonObj)) {
-        return { errors: ['no testResourceID found, but tokens includes testnet configs'], valid: false };
-      }
-    }
-  }
   return { errors: validate.errors, valid };
 };
 
-module.exports = { validateSchema };
+module.exports = { validateSchema, MAINNETS, TESTNETS, CHAIN_IDS };

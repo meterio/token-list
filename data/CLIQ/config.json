@@ -1,19 +1,16 @@
 {
   "resourceID": "0x00000000000000000000000def8d8adde14c9ef7c2a986df3ea4bd6582676701",
+  "name": "Cliq Token",
+  "symbol": "CLIQ",
+  "decimals": 18,
   "tokens": [
     {
       "network": "Ethereum",
-      "address": "0x0Def8d8addE14c9eF7c2a986dF3eA4Bd65826767",
-      "name": "Cliq Token",
-      "symbol": "CLIQ",
-      "decimals": 18
+      "address": "0x0Def8d8addE14c9eF7c2a986dF3eA4Bd65826767"
     },
     {
       "network": "BSC",
-      "address": "0xe795347731Bc547F4E4643F7945738cE2BC18529",
-      "name": "Cliq Token",
-      "symbol": "CLIQ",
-      "decimals": 18
+      "address": "0xe795347731Bc547F4E4643F7945738cE2BC18529"
     }
   ]
 }

@@ -4,7 +4,7 @@
     "name": "Ether",
     "symbol": "ETH",
     "imageUri": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/ETH/logo.png",
-    "resourceId": "0x0000000000000000000000c02aaa39b223fe8d0a0e5c4f27ead9083c756cc201",
+    "resourceId": "0x0000000000000000000000C02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc201",
     "native": false
   }
 ]
