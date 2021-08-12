@@ -43,6 +43,10 @@ const mkdirIfNeeded = (dir) => {
   }
 };
 
+/**
+ * generate token list for meter passport with given symbol array
+ * @param {Array} symbols
+ */
 const genPassportTokens = (symbols) => {
   const passportTokens = {};
   for (const sym of symbols) {
@@ -88,6 +92,10 @@ const genPassportTokens = (symbols) => {
   console.log(`write passport tokens config to ${outPath}`);
 };
 
+/**
+ * generate token list for voltswap with given symbol array
+ * @param {Array} symbols
+ */
 const genSwapTokens = (symbols) => {
   const parsed = version.split('.');
   const tokenList = [];
@@ -134,7 +142,54 @@ const genSwapTokens = (symbols) => {
 };
 
 /**
- * copy logo from resource-logos to destDir
+ * generate token list for meter online wallet with given symbol array
+ * @param {Array} symbols
+ */
+const genWalletTokens = (symbols) => {
+  const parsed = version.split('.');
+  const tokenList = [];
+  for (const sym of symbols) {
+    const config = getConfig(sym);
+
+    for (const token of config.tokens) {
+      const chainId = getChainId(token.network);
+      tokenList.push({
+        name: config.name || token.name,
+        address: token.address,
+        symbol: config.symbol || token.symbol,
+        decimals: config.decimals || token.decimals,
+        chainId,
+        logoURI: getImageUri(sym),
+      });
+    }
+  }
+
+  const walletTokens = {
+    name: 'Meter Wallet Default List',
+    timestamp: new Date().toISOString(),
+    version: {
+      major: +parsed[0],
+      minor: +parsed[1],
+      patch: +parsed[2],
+    },
+    keywords: ['voltswap', 'default', 'meter'],
+    tokens: tokenList
+      .filter((t) => t.chainId > 0)
+      .sort((t1, t2) => {
+        if (t1.chainId === t2.chainId) {
+          return t1.symbol.toLowerCase() < t2.symbol.toLowerCase() ? -1 : 1;
+        }
+        return t1.chainId < t2.chainId ? -1 : 1;
+      }),
+  };
+
+  const outPath = path.join(OUT_PATH, `wallet-tokens.json`);
+  fs.writeFileSync(outPath, JSON.stringify(walletTokens, null, 2));
+  console.log(`write wallet tokens config to ${outPath}`);
+};
+
+/**
+ * place images in `resource-logos` and `token-logos`
  */
 const placeImages = (symbols) => {
   for (const sym of symbols) {
@@ -157,5 +212,6 @@ console.log(symbols);
 
 genPassportTokens(symbols);
 genSwapTokens(symbols);
+genWalletTokens(symbols);
 
 placeImages(symbols);

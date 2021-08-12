@@ -1,16 +1,14 @@
 const path = require('path');
-const { validateSchema } = require('./utils/schema');
+const { validateConfig } = require('./utils/config');
 
 if (process.argv.length < 3) {
-  console.log('usage: node scripts/validate.js [token name]');
+  console.log('usage: node scripts/validate.js [token symbol]');
   return;
 }
-const tokenName = process.argv[2].toUpperCase();
-console.log(`Validating ${tokenName}`);
+const sym = process.argv[2].toUpperCase();
+console.log(`Validating ${sym}`);
 
-const config = require(path.join(__dirname, '..', 'data', tokenName, 'config.json'));
-
-const result = validateSchema(config);
+const result = validateConfig(sym);
 if (result.errors) {
   console.log('Validation failed, errors:', result.errors);
 } else {

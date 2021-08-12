@@ -1,13 +1,11 @@
 {
-  "name": "Voltswap Default List",
-  "timestamp": "2021-08-12T06:04:19.410Z",
+  "name": "Meter Wallet Default List",
+  "timestamp": "2021-08-12T06:04:19.412Z",
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
   },
-  "tags": {},
-  "logoURI": "",
   "keywords": [
     "voltswap",
     "default",
