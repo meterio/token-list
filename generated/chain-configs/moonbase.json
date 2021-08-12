@@ -1,0 +1,10 @@
+[
+  {
+    "address": "0x9037816b5D8f5Fe182DA2EC935AA945dc2f0a27D",
+    "name": "Ether",
+    "symbol": "ETH",
+    "imageUri": "https://raw.githubusercontent.com/meterio/bridge-tokens/master/data/ETH/logo.png",
+    "resourceId": "0x0000000000000000000000c02aaa39b223fe8d0a0e5c4f27ead9083c756cc201",
+    "native": false
+  }
+]

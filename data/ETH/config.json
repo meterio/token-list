@@ -33,6 +33,12 @@
       "address": "0x93b43BA0Fda0490dD0Ceb52dafB9463A844cC1c9",
       "name": "Wrapped ETH",
       "symbol": "WETH"
+    },
+    {
+      "network": "Moonbase",
+      "address": "0x9037816b5D8f5Fe182DA2EC935AA945dc2f0a27D",
+      "name": "Wrapped ETH",
+      "symbol": "WETH"
     }
   ]
 }
