@@ -3,7 +3,7 @@
   "testResourceID": "0x0000000000000000000000a0b86991c6218b36c1d19d4a2e9eb0ce3606eb4801",
   "name": "USD Coin",
   "symbol": "USDC",
-  "decimals": 18,
+  "decimals": 6,
   "enable": false,
 
   "tokens": [
@@ -15,8 +15,9 @@
     {
       "network": "Meter",
       "address": "0x39BFB931Cae5B1A3033237Db1244004a3dF5987b",
-      "Handler Address": "0x60f1ABAa3ED8A573c91C65A5b82AeC4BF35b77b8",
-      "name": "USDC Token"
+      "Handler Address": "0xD86e243FC0007e6226B07c9A50C9d70D78299EB5",
+      "name": "USDC Token",
+      "symbol": "USDC.eth"
     }
   ]
 }

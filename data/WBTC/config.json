@@ -10,8 +10,9 @@
     },
     {
       "network": "Meter",
-      "address": "0xe347E3948761832b9bcC288d2202A69278D51ddD",
-      "name": "WBTC from Ethereum on Meter"
+      "address": "0x093Dc064D9E7b7558241E014bAE631F02f684146",
+      "name": "WBTC from Ethereum on Meter",
+      "symbol": "WBTC.eth"
     }
   ]
 }
