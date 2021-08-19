@@ -67,8 +67,8 @@ const genPassportTokens = (symbols) => {
 
       let tokenConfig = {
         address: token.address,
-        name: config.name || token.name,
-        symbol: config.symbol || token.symbol,
+        name: token.name || config.name,
+        symbol: token.symbol || config.symbol,
         imageUri: getImageUri(sym),
         resourceId: isTestnet ? config.testResourceID : config.resourceID,
         native: token.native || false,

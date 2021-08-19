@@ -1,8 +1,8 @@
 [
   {
-    "address": "0x1a6eef221e4c4a2CCf84d125E975FbB3A879F66E",
-    "name": "Ether",
-    "symbol": "ETH",
+    "address": "0x79A61D3A28F8c8537A3DF63092927cFa1150Fb3C",
+    "name": "ETH from Ethereum on Meter",
+    "symbol": "WETH.eth",
     "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png",
     "resourceId": "0x0000000000000000000000c02aaa39b223fe8d0a0e5c4f27ead9083c756cc201",
     "native": false
@@ -16,17 +16,25 @@
     "native": false
   },
   {
-    "address": "0xa285BFF4202fE703B497729E4076C601CBB96d04",
-    "name": "Tether USD",
-    "symbol": "USDT",
+    "address": "0x39BFB931Cae5B1A3033237Db1244004a3dF5987b",
+    "name": "USDC Token",
+    "symbol": "USDC.eth",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDC/logo.png",
+    "resourceId": "0x0000000000000000000000a0b86991c6218b36c1d19d4a2e9eb0ce3606eb4801",
+    "native": false
+  },
+  {
+    "address": "0xC3266026DB809f923bF7594d6C3c03363854746c",
+    "name": "USDT from Ethereum on Meter",
+    "symbol": "USDT.eth",
     "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDT/logo.png",
     "resourceId": "0x0000000000000000000000dac17f958d2ee523a2206206994597c13d831ec701",
     "native": false
   },
   {
-    "address": "0xe347E3948761832b9bcC288d2202A69278D51ddD",
-    "name": "Wrapped BTC",
-    "symbol": "WBTC",
+    "address": "0x093Dc064D9E7b7558241E014bAE631F02f684146",
+    "name": "WBTC from Ethereum on Meter",
+    "symbol": "WBTC.eth",
     "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/WBTC/logo.png",
     "resourceId": "0x00000000000000000000002260fac5e5542a773aa44fbcfedf7c193bc2c59901",
     "native": false

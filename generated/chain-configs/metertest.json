@@ -9,8 +9,8 @@
   },
   {
     "address": "0xe7536A823165D83E43EA95079cc1bb70E6a874b5",
-    "name": "Ether",
-    "symbol": "ETH",
+    "name": "Wrapped ETH",
+    "symbol": "WETH",
     "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png",
     "resourceId": "0x0000000000000000000000C02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc201",
     "native": false
@@ -25,7 +25,7 @@
   },
   {
     "address": "0x3e5a2A4812D319Ded22479A88ed708c6B55ca0b1",
-    "name": "Tether USD",
+    "name": "Wrapped USDT",
     "symbol": "USDT",
     "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDT/logo.png",
     "resourceId": "0x0000000000000000000000dac17f958d2ee523a2206206994597c13d831ec701",

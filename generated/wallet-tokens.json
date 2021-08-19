@@ -1,6 +1,6 @@
 {
   "name": "Meter Wallet Default List",
-  "timestamp": "2021-08-12T06:29:34.139Z",
+  "timestamp": "2021-08-19T00:57:47.360Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -43,6 +43,14 @@
       "decimals": 18,
       "chainId": 1,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png"
+    },
+    {
+      "name": "USD Coin",
+      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDC/logo.png"
     },
     {
       "name": "Tether USD",
@@ -142,7 +150,7 @@
     },
     {
       "name": "Ether",
-      "address": "0x1a6eef221e4c4a2CCf84d125E975FbB3A879F66E",
+      "address": "0x79A61D3A28F8c8537A3DF63092927cFa1150Fb3C",
       "symbol": "ETH",
       "decimals": 18,
       "chainId": 82,
@@ -157,8 +165,16 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png"
     },
     {
+      "name": "USD Coin",
+      "address": "0x39BFB931Cae5B1A3033237Db1244004a3dF5987b",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDC/logo.png"
+    },
+    {
       "name": "Tether USD",
-      "address": "0xa285BFF4202fE703B497729E4076C601CBB96d04",
+      "address": "0xC3266026DB809f923bF7594d6C3c03363854746c",
       "symbol": "USDT",
       "decimals": 6,
       "chainId": 82,
@@ -166,7 +182,7 @@
     },
     {
       "name": "Wrapped BTC",
-      "address": "0xe347E3948761832b9bcC288d2202A69278D51ddD",
+      "address": "0x093Dc064D9E7b7558241E014bAE631F02f684146",
       "symbol": "WBTC",
       "decimals": 18,
       "chainId": 82,

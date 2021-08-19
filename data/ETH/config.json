@@ -15,7 +15,7 @@
       "network": "Meter",
       "address": "0x79A61D3A28F8c8537A3DF63092927cFa1150Fb3C",
       "name": "ETH from Ethereum on Meter",
-      "symbol": "WETHeth"
+      "symbol": "WETH.eth"
     },
     {
       "network": "Ropsten",
