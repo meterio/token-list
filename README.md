@@ -106,7 +106,7 @@ node scripts/validate.js [your-token-symbol]
 ```
 ETH Contract Addresses
 ================================================================
-Bridge:             0xbD515E41DF155112Cc883f8981CB763a286261be
+Bridge:             0xa2A22B46B8df38cd7C55E6bf32Ea5a32637Cf2b1
 Erc20 Handler:      0xde4fC7C3C5E7bE3F16506FcC790a8D93f8Ca0b40
 Generic Handler:    0x517828d2549cEC09386f89a67E92825E26740240
 ```
@@ -116,7 +116,7 @@ Generic Handler:    0x517828d2549cEC09386f89a67E92825E26740240
 ```
 Meter Contract Addresses
 ================================================================
-Bridge:             0x7C6Fb3B4a23BD9b0c2874bEe4EF672C64e83838B
+Bridge:             0x3f396Af107049232Bc2804C171ecad65DBCC0323
 Erc20 Handler:      0x60f1ABAa3ED8A573c91C65A5b82AeC4BF35b77b8
 Generic Handler:    0x89CA53Bf11d24D32A7aC3aDb7750868360c90590
 ```
@@ -126,7 +126,7 @@ Generic Handler:    0x89CA53Bf11d24D32A7aC3aDb7750868360c90590
 ```
 BSC Contract Addresses
 ================================================================
-Bridge:             0x223fafbc2cA53A75CcfF5B2369128d3d1a828F36
+Bridge:             0xFd55eBc7bBde603A048648C6eAb8775c997C1001
 Erc20 Handler:      0x5945241BBB68B4454bB67Bd2B069e74C09AC3D51
 Generic Handler:    0x83Fc24eB56121FA2A05e0b5170E7310738425839
 ```
