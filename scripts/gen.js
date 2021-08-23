@@ -103,6 +103,9 @@ const genSwapTokens = (symbols) => {
     const config = getConfig(sym);
 
     for (const token of config.tokens) {
+      if (token.network !== 'Meter' && token.network !== 'MeterTest') {
+        continue;
+      }
       const chainId = getChainId(token.network);
       tokenList.push({
         name: config.name || token.name,

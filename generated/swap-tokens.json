@@ -1,6 +1,6 @@
 {
   "name": "Voltswap Default List",
-  "timestamp": "2021-08-19T00:57:47.360Z",
+  "timestamp": "2021-08-23T12:35:25.258Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -14,142 +14,6 @@
     "meter"
   ],
   "tokens": [
-    {
-      "name": "AmpleForth",
-      "address": "0xD46bA6D942050d489DBd938a2C909A5d5039A161",
-      "symbol": "AMPL",
-      "decimals": 9,
-      "chainId": 1,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/AMPL/logo.png"
-    },
-    {
-      "name": "Cliq Token",
-      "address": "0x0Def8d8addE14c9eF7c2a986dF3eA4Bd65826767",
-      "symbol": "CLIQ",
-      "decimals": 18,
-      "chainId": 1,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/CLIQ/logo.png"
-    },
-    {
-      "name": "Ether",
-      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
-      "symbol": "ETH",
-      "decimals": 18,
-      "chainId": 1,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png"
-    },
-    {
-      "name": "Meter Governance",
-      "address": "0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F",
-      "symbol": "MTRG",
-      "decimals": 18,
-      "chainId": 1,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png"
-    },
-    {
-      "name": "USD Coin",
-      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-      "symbol": "USDC",
-      "decimals": 6,
-      "chainId": 1,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDC/logo.png"
-    },
-    {
-      "name": "Tether USD",
-      "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
-      "symbol": "USDT",
-      "decimals": 6,
-      "chainId": 1,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDT/logo.png"
-    },
-    {
-      "name": "UTU Coin",
-      "address": "0xa58a4f5c4Bb043d2CC1E170613B74e767c94189B",
-      "symbol": "UTU",
-      "decimals": 18,
-      "chainId": 1,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/UTU/logo.png"
-    },
-    {
-      "name": "Wrapped BTC",
-      "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
-      "symbol": "WBTC",
-      "decimals": 18,
-      "chainId": 1,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/WBTC/logo.png"
-    },
-    {
-      "name": "AmpleForth",
-      "address": "0xD0E9335817f7B7c2567b784FD55b203697177E2A",
-      "symbol": "AMPL",
-      "decimals": 9,
-      "chainId": 3,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/AMPL/logo.png"
-    },
-    {
-      "name": "Ether",
-      "address": "0xc778417e063141139fce010982780140aa0cd5ab",
-      "symbol": "ETH",
-      "decimals": 18,
-      "chainId": 3,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png"
-    },
-    {
-      "name": "Meter Governance",
-      "address": "0x48a6fd66512d45006fc0426576c264d03dfda304",
-      "symbol": "MTRG",
-      "decimals": 18,
-      "chainId": 3,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png"
-    },
-    {
-      "name": "Tether USD",
-      "address": "0x76F2c2C3380587252076a8de5C7147c6a185127d",
-      "symbol": "USDT",
-      "decimals": 6,
-      "chainId": 3,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDT/logo.png"
-    },
-    {
-      "name": "UTU Coin",
-      "address": "0x6078222Bf12f973dD13BD70696aA4dBcE7659Ad0",
-      "symbol": "UTU",
-      "decimals": 18,
-      "chainId": 3,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/UTU/logo.png"
-    },
-    {
-      "name": "AmpleForth",
-      "address": "0xDB021b1B247fe2F1fa57e0A87C748Cc1E321F07F",
-      "symbol": "AMPL",
-      "decimals": 9,
-      "chainId": 56,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/AMPL/logo.png"
-    },
-    {
-      "name": "Cliq Token",
-      "address": "0xe795347731Bc547F4E4643F7945738cE2BC18529",
-      "symbol": "CLIQ",
-      "decimals": 18,
-      "chainId": 56,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/CLIQ/logo.png"
-    },
-    {
-      "name": "Meter Governance",
-      "address": "0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F",
-      "symbol": "MTRG",
-      "decimals": 18,
-      "chainId": 56,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png"
-    },
-    {
-      "name": "UTU Coin",
-      "address": "0xed4Bb33F20F32E989AF975196E86019773A7CFf0",
-      "symbol": "UTU",
-      "decimals": 18,
-      "chainId": 56,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/UTU/logo.png"
-    },
     {
       "name": "Ether",
       "address": "0x79A61D3A28F8c8537A3DF63092927cFa1150Fb3C",
@@ -192,38 +56,6 @@
     },
     {
       "name": "AmpleForth",
-      "address": "0x75c00CF8B6C932AaD2E20fa238a57D389aE3842d",
-      "symbol": "AMPL",
-      "decimals": 9,
-      "chainId": 97,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/AMPL/logo.png"
-    },
-    {
-      "name": "Ether",
-      "address": "0x93b43BA0Fda0490dD0Ceb52dafB9463A844cC1c9",
-      "symbol": "ETH",
-      "decimals": 18,
-      "chainId": 97,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png"
-    },
-    {
-      "name": "Meter Governance",
-      "address": "0x53ccb3D86B04b5FD7e647e11a39d1AAE746C2E98",
-      "symbol": "MTRG",
-      "decimals": 18,
-      "chainId": 97,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png"
-    },
-    {
-      "name": "UTU Coin",
-      "address": "0x28387Fde25Df9E9a2314fC0C134218E6Fe199d8e",
-      "symbol": "UTU",
-      "decimals": 18,
-      "chainId": 97,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/UTU/logo.png"
-    },
-    {
-      "name": "AmpleForth",
       "address": "0xd259ED8E7ACa1f5eA16fD58a860c09Af335b8198",
       "symbol": "AMPL",
       "decimals": 9,
@@ -253,14 +85,6 @@
       "decimals": 6,
       "chainId": 101,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDT/logo.png"
-    },
-    {
-      "name": "Ether",
-      "address": "0x9037816b5D8f5Fe182DA2EC935AA945dc2f0a27D",
-      "symbol": "ETH",
-      "decimals": 18,
-      "chainId": 1287,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png"
     }
   ]
 }
