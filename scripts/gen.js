@@ -103,15 +103,12 @@ const genSwapTokens = (symbols) => {
     const config = getConfig(sym);
 
     for (const token of config.tokens) {
-      if (token.network !== 'Meter' && token.network !== 'MeterTest') {
-        continue;
-      }
       const chainId = getChainId(token.network);
       tokenList.push({
-        name: config.name || token.name,
+        name: token.name || config.name,
         address: token.address,
-        symbol: config.symbol || token.symbol,
-        decimals: config.decimals || token.decimals,
+        symbol: token.symbol || config.symbol,
+        decimals: token.decimals || config.decimals,
         chainId,
         logoURI: getImageUri(sym),
       });
@@ -157,10 +154,10 @@ const genWalletTokens = (symbols) => {
     for (const token of config.tokens) {
       const chainId = getChainId(token.network);
       tokenList.push({
-        name: config.name || token.name,
+        name: token.name || config.name,
         address: token.address,
-        symbol: config.symbol || token.symbol,
-        decimals: config.decimals || token.decimals,
+        symbol: token.symbol || config.symbol,
+        decimals: token.decimals || config.decimals,
         chainId,
         logoURI: getImageUri(sym),
       });
