@@ -14,6 +14,8 @@ const {
   getChainId,
 } = require('./utils/config');
 
+const coingecko = require('./coingecko.json');
+
 const loadSupportedSymbols = (basedir) => {
   const files = fs.readdirSync(basedir);
   let symbols = [];
@@ -149,6 +151,10 @@ const genWalletTokens = (symbols) => {
   const parsed = version.split('.');
   const tokenList = [];
   for (const sym of symbols) {
+    let coinId;
+    if (coingecko.hasOwnProperty(sym)) {
+      coinId = coingecko[sym];
+    }
     const config = getConfig(sym);
 
     for (const token of config.tokens) {
@@ -160,6 +166,7 @@ const genWalletTokens = (symbols) => {
         decimals: token.decimals || config.decimals,
         chainId,
         logoURI: getImageUri(sym),
+        coinId,
       });
     }
   }
