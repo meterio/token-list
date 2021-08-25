@@ -1,6 +1,6 @@
 {
   "name": "Voltswap Default List",
-  "timestamp": "2021-08-25T08:21:38.090Z",
+  "timestamp": "2021-08-25T13:17:51.761Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -29,6 +29,14 @@
       "decimals": 18,
       "chainId": 1,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/CLIQ/logo.png"
+    },
+    {
+      "name": "Crowns",
+      "address": "0xac0104cca91d167873b8601d2e71eb3d4d8c33e0",
+      "symbol": "CWS",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/CWS/logo.png"
     },
     {
       "name": "Meter Governance mapped by Meter.io",
@@ -85,6 +93,14 @@
       "decimals": 9,
       "chainId": 3,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/AMPL/logo.png"
+    },
+    {
+      "name": "Crowns",
+      "address": "0x3272E6086BDd382291B819fE2596c128E11eC32F",
+      "symbol": "CWS",
+      "decimals": 18,
+      "chainId": 3,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/CWS/logo.png"
     },
     {
       "name": "Ether",
@@ -253,6 +269,14 @@
       "decimals": 18,
       "chainId": 101,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png"
+    },
+    {
+      "name": "Crowns",
+      "address": "0xFde9cad69E98b3Cc8C998a8F2094293cb0bD6911",
+      "symbol": "CWS",
+      "decimals": 18,
+      "chainId": 1287,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/CWS/logo.png"
     },
     {
       "name": "Wrapped ETH",

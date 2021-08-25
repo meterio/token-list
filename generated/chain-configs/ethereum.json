@@ -16,6 +16,14 @@
     "native": false
   },
   {
+    "address": "0xac0104cca91d167873b8601d2e71eb3d4d8c33e0",
+    "name": "Crowns",
+    "symbol": "CWS",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/CWS/logo.png",
+    "resourceId": "0x0000000000000000000000ac0104cca91d167873b8601d2e71eb3d4d8c33e001",
+    "native": false
+  },
+  {
     "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
     "name": "Wrapped Ether",
     "symbol": "ETH",
