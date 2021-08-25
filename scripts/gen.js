@@ -159,6 +159,8 @@ const genWalletTokens = (symbols) => {
 
     for (const token of config.tokens) {
       const chainId = getChainId(token.network);
+      const isTestnet = TESTNETS.includes(token.network);
+
       tokenList.push({
         name: token.name || config.name,
         address: token.address,
@@ -167,6 +169,7 @@ const genWalletTokens = (symbols) => {
         chainId,
         logoURI: getImageUri(sym),
         coinId,
+        resourceId: isTestnet ? config.testResourceID : config.resourceID,
       });
     }
   }
