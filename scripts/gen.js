@@ -180,7 +180,7 @@ const genWalletTokens = (symbols, chainConfigs) => {
   }
 
   for (const c of chainConfigs) {
-    const key = `${c.enum}_${c.nativeSymbol}`;
+    const key = `${c.enum}_${c.nativeToken.symbol}`;
     if (key in visited) {
       console.log(`already visited ${key}, skip adding native token ...`);
       continue;

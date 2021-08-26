@@ -1,6 +1,6 @@
 {
   "name": "Meter Wallet Default List",
-  "timestamp": "2021-08-26T06:48:52.804Z",
+  "timestamp": "2021-08-26T07:40:33.390Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -55,16 +55,6 @@
       "coinId": "ethereum",
       "native": true,
       "resourceId": "0x0000000000000000000000c02aaa39b223fe8d0a0e5c4f27ead9083c756cc201"
-    },
-    {
-      "name": "Ether",
-      "address": "0x",
-      "symbol": "ETH",
-      "decimals": 18,
-      "chainId": 1,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png",
-      "coinId": "ethereum",
-      "native": true
     },
     {
       "name": "USDC from Ethereum on Meter",
@@ -131,16 +121,6 @@
       "coinId": "ethereum",
       "native": true,
       "resourceId": "0x0000000000000000000000C02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc201"
-    },
-    {
-      "name": "Ropsten Ether",
-      "address": "0x",
-      "symbol": "ETH",
-      "decimals": 18,
-      "chainId": 3,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png",
-      "coinId": "ethereum",
-      "native": true
     },
     {
       "name": "eMTRG",
