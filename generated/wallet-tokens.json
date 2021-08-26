@@ -1,6 +1,6 @@
 {
   "name": "Meter Wallet Default List",
-  "timestamp": "2021-08-26T06:43:16.913Z",
+  "timestamp": "2021-08-26T06:48:52.804Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -63,6 +63,7 @@
       "decimals": 18,
       "chainId": 1,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png",
+      "coinId": "ethereum",
       "native": true
     },
     {
@@ -138,6 +139,7 @@
       "decimals": 18,
       "chainId": 3,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png",
+      "coinId": "ethereum",
       "native": true
     },
     {
@@ -191,6 +193,7 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/BNB/logo.png",
+      "coinId": "binancecoin",
       "native": true
     },
     {
@@ -233,6 +236,7 @@
       "decimals": 18,
       "chainId": 82,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTR/logo.png",
+      "coinId": "meter-stable",
       "native": true
     },
     {
@@ -308,6 +312,7 @@
       "decimals": 18,
       "chainId": 97,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/BNB/logo.png",
+      "coinId": "binancecoin",
       "native": true
     },
     {
@@ -361,6 +366,7 @@
       "decimals": 18,
       "chainId": 101,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTR/logo.png",
+      "coinId": "meter-stable",
       "native": true
     },
     {
@@ -403,6 +409,7 @@
       "decimals": 18,
       "chainId": 1287,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/DEV/logo.png",
+      "coinId": "meter-stable",
       "native": true
     },
     {

@@ -185,6 +185,11 @@ const genWalletTokens = (symbols, chainConfigs) => {
       console.log(`already visited ${key}, skip adding native token ...`);
       continue;
     }
+    const sym = c.nativeToken.symbol;
+    if (coingecko.hasOwnProperty(sym)) {
+      coinId = coingecko[sym];
+    }
+
     visited[key] = true;
     tokenList.push({
       name: c.nativeToken.name,
@@ -192,7 +197,8 @@ const genWalletTokens = (symbols, chainConfigs) => {
       symbol: c.nativeToken.symbol,
       decimals: c.nativeToken.decimals,
       chainId: c.chainId,
-      logoURI: getImageUri(c.nativeToken.symbol),
+      logoURI: getImageUri(sym),
+      coinId,
       native: true,
       resourceId: undefined,
     });

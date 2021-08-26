@@ -6,5 +6,7 @@
   "USDT": "tether",
   "UTU": "utu-coin",
   "WBTC": "wrapped-bitcoin",
-  "USDC": "usd-coin"
+  "USDC": "usd-coin",
+  "MTR": "meter-stable",
+  "BNB": "binancecoin"
 }
