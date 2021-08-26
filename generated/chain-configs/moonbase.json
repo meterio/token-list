@@ -1,5 +1,13 @@
 [
   {
+    "address": "0xFde9cad69E98b3Cc8C998a8F2094293cb0bD6911",
+    "name": "Crowns",
+    "symbol": "CWS",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/CWS/logo.png",
+    "resourceId": "0x00000000000000000000003272e6086bdd382291b819fe2596c128e11ec32f03",
+    "native": false
+  },
+  {
     "address": "0x9037816b5D8f5Fe182DA2EC935AA945dc2f0a27D",
     "name": "Wrapped ETH",
     "symbol": "WETH",

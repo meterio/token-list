@@ -8,6 +8,14 @@
     "native": false
   },
   {
+    "address": "0x3272E6086BDd382291B819fE2596c128E11eC32F",
+    "name": "Crowns",
+    "symbol": "CWS",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/CWS/logo.png",
+    "resourceId": "0x00000000000000000000003272e6086bdd382291b819fe2596c128e11ec32f03",
+    "native": false
+  },
+  {
     "address": "0xc778417e063141139fce010982780140aa0cd5ab",
     "name": "Ether",
     "symbol": "ETH",

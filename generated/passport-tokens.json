@@ -17,6 +17,14 @@
       "native": false
     },
     {
+      "address": "0xac0104cca91d167873b8601d2e71eb3d4d8c33e0",
+      "name": "Crowns",
+      "symbol": "CWS",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/CWS/logo.png",
+      "resourceId": "0x0000000000000000000000ac0104cca91d167873b8601d2e71eb3d4d8c33e001",
+      "native": false
+    },
+    {
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "name": "Wrapped Ether",
       "symbol": "ETH",
@@ -107,6 +115,14 @@
       "symbol": "AMPL",
       "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/AMPL/logo.png",
       "resourceId": "0x1f3eb8ee12ce38ffa19fc4c635621ad2c9a0bd609def9ddce77680e33bc2224b",
+      "native": false
+    },
+    {
+      "address": "0x3272E6086BDd382291B819fE2596c128E11eC32F",
+      "name": "Crowns",
+      "symbol": "CWS",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/CWS/logo.png",
+      "resourceId": "0x00000000000000000000003272e6086bdd382291b819fe2596c128e11ec32f03",
       "native": false
     },
     {
@@ -211,6 +227,24 @@
       "tokenProxy": "0x468cddEeaAbb2b8F554b8a7D6FBEb5c3330c1bE3"
     }
   ],
+  "Moonbase": [
+    {
+      "address": "0xFde9cad69E98b3Cc8C998a8F2094293cb0bD6911",
+      "name": "Crowns",
+      "symbol": "CWS",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/CWS/logo.png",
+      "resourceId": "0x00000000000000000000003272e6086bdd382291b819fe2596c128e11ec32f03",
+      "native": false
+    },
+    {
+      "address": "0x9037816b5D8f5Fe182DA2EC935AA945dc2f0a27D",
+      "name": "Wrapped ETH",
+      "symbol": "WETH",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png",
+      "resourceId": "0x0000000000000000000000C02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc201",
+      "native": false
+    }
+  ],
   "Meter": [
     {
       "address": "0x79A61D3A28F8c8537A3DF63092927cFa1150Fb3C",
@@ -250,16 +284,6 @@
       "symbol": "WBTC.eth",
       "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/WBTC/logo.png",
       "resourceId": "0x00000000000000000000002260fac5e5542a773aa44fbcfedf7c193bc2c59901",
-      "native": false
-    }
-  ],
-  "Moonbase": [
-    {
-      "address": "0x9037816b5D8f5Fe182DA2EC935AA945dc2f0a27D",
-      "name": "Wrapped ETH",
-      "symbol": "WETH",
-      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png",
-      "resourceId": "0x0000000000000000000000C02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc201",
       "native": false
     }
   ]
