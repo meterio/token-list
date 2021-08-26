@@ -1,6 +1,6 @@
 {
   "name": "Voltswap Default List",
-  "timestamp": "2021-08-25T13:17:51.761Z",
+  "timestamp": "2021-08-26T18:27:17.781Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -96,7 +96,7 @@
     },
     {
       "name": "Crowns",
-      "address": "0x3272E6086BDd382291B819fE2596c128E11eC32F",
+      "address": "0xaaeffc5B43Ef3FB83c9F4888301CE7e9c6DEDDC4",
       "symbol": "CWS",
       "decimals": 18,
       "chainId": 3,
@@ -272,7 +272,7 @@
     },
     {
       "name": "Crowns",
-      "address": "0xFde9cad69E98b3Cc8C998a8F2094293cb0bD6911",
+      "address": "0xfbEf5F4BE5f87CDB4cCAB7000C572e701ce78898",
       "symbol": "CWS",
       "decimals": 18,
       "chainId": 1287,

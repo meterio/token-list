@@ -1,7 +1,7 @@
 {
   
   "resourceID": "0x0000000000000000000000ac0104cca91d167873b8601d2e71eb3d4d8c33e001",
-  "testResourceID": "0x00000000000000000000003272e6086bdd382291b819fe2596c128e11ec32f03",
+  "testResourceID": "0x0000000000000000000000aaeffc5B43Ef3FB83c9F4888301CE7e9c6DEDDC403",
   "name": "Crowns",
   "symbol": "CWS",
   "decimals": 18,
@@ -12,11 +12,11 @@
     },
     {
       "network": "Ropsten",
-      "address": "0x3272E6086BDd382291B819fE2596c128E11eC32F"
+      "address": "0xaaeffc5B43Ef3FB83c9F4888301CE7e9c6DEDDC4"
     },
     {
       "network": "Moonbase",
-      "address": "0xFde9cad69E98b3Cc8C998a8F2094293cb0bD6911"
+      "address": "0xfbEf5F4BE5f87CDB4cCAB7000C572e701ce78898"
     }
   ]
 }
