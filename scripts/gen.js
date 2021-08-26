@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const { version } = require('../package.json');
 const {
-  TESTNETS,
+  isTestnet,
   DATA_PATH,
   OUT_PATH,
   validateConfig,
@@ -12,6 +12,7 @@ const {
   getAddressImagePath,
   getResourceImagePath,
   getChainId,
+  getChainConfigs,
 } = require('./utils/config');
 
 const coingecko = require('./coingecko.json');
@@ -65,14 +66,12 @@ const genPassportTokens = (symbols) => {
         passportTokens[token.network] = [];
       }
 
-      const isTestnet = TESTNETS.includes(token.network);
-
       let tokenConfig = {
         address: token.address,
         name: token.name || config.name,
         symbol: token.symbol || config.symbol,
         imageUri: getImageUri(sym),
-        resourceId: isTestnet ? config.testResourceID : config.resourceID,
+        resourceId: isTestnet(token.network) ? config.testResourceID : config.resourceID,
         native: token.native || false,
         nativeDecimals: token.native ? token.decimals : undefined,
         tokenProxy: token.tokenProxy || undefined,
@@ -147,9 +146,10 @@ const genSwapTokens = (symbols) => {
  * generate token list for meter online wallet with given symbol array
  * @param {Array} symbols
  */
-const genWalletTokens = (symbols) => {
+const genWalletTokens = (symbols, chainConfigs) => {
   const parsed = version.split('.');
   const tokenList = [];
+  let visited = {};
   for (const sym of symbols) {
     let coinId;
     if (coingecko.hasOwnProperty(sym)) {
@@ -159,8 +159,12 @@ const genWalletTokens = (symbols) => {
 
     for (const token of config.tokens) {
       const chainId = getChainId(token.network);
-      const isTestnet = TESTNETS.includes(token.network);
-
+      const key = `${token.network}_${token.symbol || config.symbol}`;
+      if (key in visited) {
+        console.log(`already visited ${key}, skip ...`);
+        continue;
+      }
+      visited[key] = true;
       tokenList.push({
         name: token.name || config.name,
         address: token.address,
@@ -169,9 +173,29 @@ const genWalletTokens = (symbols) => {
         chainId,
         logoURI: getImageUri(sym),
         coinId,
-        resourceId: isTestnet ? config.testResourceID : config.resourceID,
+        native: token.native || false,
+        resourceId: isTestnet(token.network) ? config.testResourceID : config.resourceID,
       });
     }
+  }
+
+  for (const c of chainConfigs) {
+    const key = `${c.enum}_${c.nativeSymbol}`;
+    if (key in visited) {
+      console.log(`already visited ${key}, skip adding native token ...`);
+      continue;
+    }
+    visited[key] = true;
+    tokenList.push({
+      name: c.nativeToken.name,
+      address: '0x',
+      symbol: c.nativeToken.symbol,
+      decimals: c.nativeToken.decimals,
+      chainId: c.chainId,
+      logoURI: getImageUri(c.nativeToken.symbol),
+      native: true,
+      resourceId: undefined,
+    });
   }
 
   const walletTokens = {
@@ -220,8 +244,9 @@ const placeImages = (symbols) => {
 const symbols = loadSupportedSymbols(DATA_PATH);
 console.log(symbols);
 
+const chainConfigs = getChainConfigs();
 genPassportTokens(symbols);
 genSwapTokens(symbols);
-genWalletTokens(symbols);
+genWalletTokens(symbols, chainConfigs);
 
 placeImages(symbols);

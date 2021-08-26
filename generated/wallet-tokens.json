@@ -1,6 +1,6 @@
 {
   "name": "Meter Wallet Default List",
-  "timestamp": "2021-08-25T08:21:38.091Z",
+  "timestamp": "2021-08-26T06:43:16.913Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -20,6 +20,7 @@
       "chainId": 1,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/AMPL/logo.png",
       "coinId": "ampleforth",
+      "native": false,
       "resourceId": "0x1f3eb8ee12ce38ffa19fc4c635621ad2c9a0bd609def9ddce77680e33bc2224b"
     },
     {
@@ -30,6 +31,7 @@
       "chainId": 1,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/CLIQ/logo.png",
       "coinId": "deficliq",
+      "native": false,
       "resourceId": "0x00000000000000000000000def8d8adde14c9ef7c2a986df3ea4bd6582676701"
     },
     {
@@ -40,6 +42,7 @@
       "chainId": 1,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png",
       "coinId": "meter",
+      "native": false,
       "resourceId": "0x0000000000000000000000bd2949f67dcdc549c6ebe98696449fa79d988a9f01"
     },
     {
@@ -50,7 +53,17 @@
       "chainId": 1,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png",
       "coinId": "ethereum",
+      "native": true,
       "resourceId": "0x0000000000000000000000c02aaa39b223fe8d0a0e5c4f27ead9083c756cc201"
+    },
+    {
+      "name": "Ether",
+      "address": "0x",
+      "symbol": "ETH",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png",
+      "native": true
     },
     {
       "name": "USDC from Ethereum on Meter",
@@ -60,6 +73,7 @@
       "chainId": 1,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDC/logo.png",
       "coinId": "usd-coin",
+      "native": false,
       "resourceId": "0x0000000000000000000000a0b86991c6218b36c1d19d4a2e9eb0ce3606eb4801"
     },
     {
@@ -70,6 +84,7 @@
       "chainId": 1,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDT/logo.png",
       "coinId": "tether",
+      "native": false,
       "resourceId": "0x0000000000000000000000dac17f958d2ee523a2206206994597c13d831ec701"
     },
     {
@@ -80,6 +95,7 @@
       "chainId": 1,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/UTU/logo.png",
       "coinId": "utu-coin",
+      "native": false,
       "resourceId": "0x0000000000000000000000a58a4f5c4bb043d2cc1e170613b74e767c94189b01"
     },
     {
@@ -90,6 +106,7 @@
       "chainId": 1,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/WBTC/logo.png",
       "coinId": "wrapped-bitcoin",
+      "native": false,
       "resourceId": "0x00000000000000000000002260fac5e5542a773aa44fbcfedf7c193bc2c59901"
     },
     {
@@ -100,6 +117,7 @@
       "chainId": 3,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/AMPL/logo.png",
       "coinId": "ampleforth",
+      "native": false,
       "resourceId": "0x1f3eb8ee12ce38ffa19fc4c635621ad2c9a0bd609def9ddce77680e33bc2224b"
     },
     {
@@ -110,7 +128,17 @@
       "chainId": 3,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png",
       "coinId": "ethereum",
+      "native": true,
       "resourceId": "0x0000000000000000000000C02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc201"
+    },
+    {
+      "name": "Ropsten Ether",
+      "address": "0x",
+      "symbol": "ETH",
+      "decimals": 18,
+      "chainId": 3,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png",
+      "native": true
     },
     {
       "name": "eMTRG",
@@ -120,6 +148,7 @@
       "chainId": 3,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png",
       "coinId": "meter",
+      "native": false,
       "resourceId": "0x0000000000000000000000228ebBeE999c6a7ad74A6130E81b12f9Fe237Ba301"
     },
     {
@@ -130,6 +159,7 @@
       "chainId": 3,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDT/logo.png",
       "coinId": "tether",
+      "native": false,
       "resourceId": "0x0000000000000000000000dac17f958d2ee523a2206206994597c13d831ec701"
     },
     {
@@ -140,6 +170,7 @@
       "chainId": 3,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/UTU/logo.png",
       "coinId": "utu-coin",
+      "native": false,
       "resourceId": "0x0000000000000000000000a58a4f5c4bb043d2cc1e170613b74e767c94189b01"
     },
     {
@@ -150,7 +181,17 @@
       "chainId": 56,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/AMPL/logo.png",
       "coinId": "ampleforth",
+      "native": false,
       "resourceId": "0x1f3eb8ee12ce38ffa19fc4c635621ad2c9a0bd609def9ddce77680e33bc2224b"
+    },
+    {
+      "name": "Binance Token",
+      "address": "0x",
+      "symbol": "BNB",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/BNB/logo.png",
+      "native": true
     },
     {
       "name": "Cliq Token",
@@ -160,6 +201,7 @@
       "chainId": 56,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/CLIQ/logo.png",
       "coinId": "deficliq",
+      "native": false,
       "resourceId": "0x00000000000000000000000def8d8adde14c9ef7c2a986df3ea4bd6582676701"
     },
     {
@@ -170,6 +212,7 @@
       "chainId": 56,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png",
       "coinId": "meter",
+      "native": false,
       "resourceId": "0x0000000000000000000000bd2949f67dcdc549c6ebe98696449fa79d988a9f01"
     },
     {
@@ -180,7 +223,17 @@
       "chainId": 56,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/UTU/logo.png",
       "coinId": "utu-coin",
+      "native": false,
       "resourceId": "0x0000000000000000000000a58a4f5c4bb043d2cc1e170613b74e767c94189b01"
+    },
+    {
+      "name": "Meter Stable",
+      "address": "0x",
+      "symbol": "MTR",
+      "decimals": 18,
+      "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTR/logo.png",
+      "native": true
     },
     {
       "name": "Meter Governance",
@@ -190,6 +243,7 @@
       "chainId": 82,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png",
       "coinId": "meter",
+      "native": false,
       "resourceId": "0x0000000000000000000000bd2949f67dcdc549c6ebe98696449fa79d988a9f01"
     },
     {
@@ -200,6 +254,7 @@
       "chainId": 82,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDC/logo.png",
       "coinId": "usd-coin",
+      "native": false,
       "resourceId": "0x0000000000000000000000a0b86991c6218b36c1d19d4a2e9eb0ce3606eb4801"
     },
     {
@@ -210,6 +265,7 @@
       "chainId": 82,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDT/logo.png",
       "coinId": "tether",
+      "native": false,
       "resourceId": "0x0000000000000000000000dac17f958d2ee523a2206206994597c13d831ec701"
     },
     {
@@ -220,6 +276,7 @@
       "chainId": 82,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/WBTC/logo.png",
       "coinId": "wrapped-bitcoin",
+      "native": false,
       "resourceId": "0x00000000000000000000002260fac5e5542a773aa44fbcfedf7c193bc2c59901"
     },
     {
@@ -230,6 +287,7 @@
       "chainId": 82,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png",
       "coinId": "ethereum",
+      "native": false,
       "resourceId": "0x0000000000000000000000c02aaa39b223fe8d0a0e5c4f27ead9083c756cc201"
     },
     {
@@ -240,7 +298,17 @@
       "chainId": 97,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/AMPL/logo.png",
       "coinId": "ampleforth",
+      "native": false,
       "resourceId": "0x1f3eb8ee12ce38ffa19fc4c635621ad2c9a0bd609def9ddce77680e33bc2224b"
+    },
+    {
+      "name": "Test Binance Token",
+      "address": "0x",
+      "symbol": "BNB",
+      "decimals": 18,
+      "chainId": 97,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/BNB/logo.png",
+      "native": true
     },
     {
       "name": "Meter Governance mapped by Meter.io",
@@ -250,6 +318,7 @@
       "chainId": 97,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png",
       "coinId": "meter",
+      "native": false,
       "resourceId": "0x0000000000000000000000228ebBeE999c6a7ad74A6130E81b12f9Fe237Ba301"
     },
     {
@@ -260,6 +329,7 @@
       "chainId": 97,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/UTU/logo.png",
       "coinId": "utu-coin",
+      "native": false,
       "resourceId": "0x0000000000000000000000a58a4f5c4bb043d2cc1e170613b74e767c94189b01"
     },
     {
@@ -270,6 +340,7 @@
       "chainId": 97,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png",
       "coinId": "ethereum",
+      "native": false,
       "resourceId": "0x0000000000000000000000C02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc201"
     },
     {
@@ -280,7 +351,17 @@
       "chainId": 101,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/AMPL/logo.png",
       "coinId": "ampleforth",
+      "native": false,
       "resourceId": "0x1f3eb8ee12ce38ffa19fc4c635621ad2c9a0bd609def9ddce77680e33bc2224b"
+    },
+    {
+      "name": "Test Meter Stable",
+      "address": "0x",
+      "symbol": "MTR",
+      "decimals": 18,
+      "chainId": 101,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTR/logo.png",
+      "native": true
     },
     {
       "name": "Meter Governance",
@@ -290,6 +371,7 @@
       "chainId": 101,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png",
       "coinId": "meter",
+      "native": false,
       "resourceId": "0x0000000000000000000000228ebBeE999c6a7ad74A6130E81b12f9Fe237Ba301"
     },
     {
@@ -300,6 +382,7 @@
       "chainId": 101,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDT/logo.png",
       "coinId": "tether",
+      "native": false,
       "resourceId": "0x0000000000000000000000dac17f958d2ee523a2206206994597c13d831ec701"
     },
     {
@@ -310,7 +393,17 @@
       "chainId": 101,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png",
       "coinId": "ethereum",
+      "native": false,
       "resourceId": "0x0000000000000000000000C02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc201"
+    },
+    {
+      "name": "DEV Token",
+      "address": "0x",
+      "symbol": "DEV",
+      "decimals": 18,
+      "chainId": 1287,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/DEV/logo.png",
+      "native": true
     },
     {
       "name": "Wrapped ETH",
@@ -320,6 +413,7 @@
       "chainId": 1287,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png",
       "coinId": "ethereum",
+      "native": false,
       "resourceId": "0x0000000000000000000000C02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc201"
     }
   ]

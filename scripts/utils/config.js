@@ -4,7 +4,7 @@ const DATA_PATH = path.join(__dirname, '..', '..', 'data');
 const OUT_PATH = path.join(__dirname, '..', '..', 'generated');
 const { name } = require('../../package.json');
 const HOST_URL = `https://raw.githubusercontent.com/meterio/${name}/master`;
-const { CHAIN_IDS, MAINNETS, TESTNETS, validateSchema } = require('./schema');
+const { getChainId, isTestnet, validateSchema, getChainConfig, getChainConfigs } = require('./schema');
 
 const validateConfig = (sym) => {
   const isDir = fs.lstatSync(path.join(DATA_PATH, sym)).isDirectory();
@@ -33,7 +33,7 @@ const validateConfig = (sym) => {
 
   // testResourceID must exist when testnet tokens is configured
   for (const t of config.tokens) {
-    if (TESTNETS.includes(t.network)) {
+    if (isTestnet(t.network)) {
       if (!('testResourceID' in config)) {
         return { errors: `${t.network} is a testnet, you should config 'testResourceID' as well`, valid: false };
       }
@@ -63,16 +63,7 @@ const getAddressImagePath = (network, address) => {
   return path.join(OUT_PATH, 'token-logos', network.toLowerCase(), `${address}.png`.toLowerCase());
 };
 
-const getChainId = (network) => {
-  if (network in CHAIN_IDS) {
-    return CHAIN_IDS[network];
-  }
-  return -1;
-};
-
 module.exports = {
-  MAINNETS,
-  TESTNETS,
   DATA_PATH,
   OUT_PATH,
   getChainId,
@@ -82,4 +73,8 @@ module.exports = {
   getImageUri,
   getResourceImagePath,
   getAddressImagePath,
+  getChainId,
+  isTestnet,
+  getChainConfig,
+  getChainConfigs,
 };

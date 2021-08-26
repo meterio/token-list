@@ -1,23 +1,53 @@
 const Ajv = require('ajv');
 const ajv = new Ajv();
-const CHAIN_IDS = {
-  Ethereum: 1,
-  Ropsten: 3,
-  BSC: 56,
-  BSCTest: 97,
-  Meter: 82,
-  MeterTest: 101,
-  Moonbase: 1287,
-};
 
-// supported networks
-const MAINNETS = ['Ethereum', 'Meter', 'BSC'];
-const TESTNETS = ['Ropsten', 'MeterTest', 'BSCTest', 'Moonbase'];
+// supported chains
+const CHAINS = [
+  {
+    enum: 'Ethereum',
+    chainId: 1,
+    nativeToken: { name: 'Ether', symbol: 'ETH', decimals: 18 },
+  },
+  {
+    enum: 'Ropsten',
+    chainId: 3,
+    testnet: true,
+    nativeToken: { name: 'Ropsten Ether', symbol: 'ETH', decimals: 18 },
+  },
+  {
+    enum: 'BSC',
+    chainId: 56,
+    nativeToken: { name: 'Binance Token', symbol: 'BNB', decimals: 18 },
+  },
+  {
+    enum: 'BSCTest',
+    chainId: 97,
+    testnet: true,
+    nativeToken: { name: 'Test Binance Token', symbol: 'BNB', decimals: 18 },
+  },
+  {
+    enum: 'Meter',
+    chainId: 82,
+    nativeToken: { name: 'Meter Stable', symbol: 'MTR', decimals: 18 },
+  },
+  {
+    enum: 'MeterTest',
+    chainId: 101,
+    testnet: true,
+    nativeToken: { name: 'Test Meter Stable', symbol: 'MTR', decimals: 18 },
+  },
+  {
+    enum: 'Moonbase',
+    chainId: 1287,
+    testnet: true,
+    nativeToken: { name: 'DEV Token', symbol: 'DEV', decimals: 18 },
+  },
+];
 
 const tokenSchema = {
   type: 'object',
   properties: {
-    network: { enum: [].concat(...MAINNETS, ...TESTNETS) }, // enum for supported network
+    network: { enum: CHAINS.map((c) => c.enum) }, // enum for supported network
     address: { type: 'string', pattern: '^0x[0-9a-zA-Z]{40}$' }, // string of 0x + 40 digit/letter
 
     // chain-specific configs, optional
@@ -51,4 +81,27 @@ const validateSchema = (jsonObj) => {
   return { errors: validate.errors, valid };
 };
 
-module.exports = { validateSchema, MAINNETS, TESTNETS, CHAIN_IDS };
+const getChainId = (network) => {
+  const c = getChainConfig(network);
+  return c ? c.chainId : -1;
+};
+
+const isTestnet = (network) => {
+  const c = getChainConfig(network);
+  return c ? !!c.testnet : true;
+};
+
+const getChainConfig = (network) => {
+  for (const c of CHAINS) {
+    if (c.enum === network.toString()) {
+      return c;
+    }
+  }
+  return undefined;
+};
+
+const getChainConfigs = () => {
+  return CHAINS;
+};
+
+module.exports = { validateSchema, getChainId, isTestnet, getChainConfig, getChainConfigs };
