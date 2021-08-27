@@ -1,10 +1,10 @@
 [
   {
-    "address": "0xFde9cad69E98b3Cc8C998a8F2094293cb0bD6911",
+    "address": "0xfbEf5F4BE5f87CDB4cCAB7000C572e701ce78898",
     "name": "Crowns",
     "symbol": "CWS",
     "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/CWS/logo.png",
-    "resourceId": "0x00000000000000000000003272e6086bdd382291b819fe2596c128e11ec32f03",
+    "resourceId": "0x0000000000000000000000aaeffc5b43ef3fb83c9f4888301ce7e9c6deddc403",
     "native": false
   },
   {
