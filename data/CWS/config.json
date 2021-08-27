@@ -1,7 +1,7 @@
 {
   
   "resourceID": "0x0000000000000000000000ac0104cca91d167873b8601d2e71eb3d4d8c33e001",
-  "testResourceID": "0x0000000000000000000000aaeffc5B43Ef3FB83c9F4888301CE7e9c6DEDDC403",
+  "testResourceID": "0x0000000000000000000000aaeffc5b43ef3fb83c9f4888301ce7e9c6deddc403",
   "name": "Crowns",
   "symbol": "CWS",
   "decimals": 18,

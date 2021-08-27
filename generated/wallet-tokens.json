@@ -1,6 +1,6 @@
 {
   "name": "Meter Wallet Default List",
-  "timestamp": "2021-08-26T18:27:17.784Z",
+  "timestamp": "2021-08-27T11:23:29.845Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -118,7 +118,7 @@
       "decimals": 18,
       "chainId": 3,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/CWS/logo.png",
-      "resourceId": "0x0000000000000000000000aaeffc5B43Ef3FB83c9F4888301CE7e9c6DEDDC403"
+      "resourceId": "0x0000000000000000000000aaeffc5b43ef3fb83c9f4888301ce7e9c6deddc403"
     },
     {
       "name": "Ether",
@@ -337,7 +337,7 @@
       "decimals": 18,
       "chainId": 1287,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/CWS/logo.png",
-      "resourceId": "0x0000000000000000000000aaeffc5B43Ef3FB83c9F4888301CE7e9c6DEDDC403"
+      "resourceId": "0x0000000000000000000000aaeffc5b43ef3fb83c9f4888301ce7e9c6deddc403"
     },
     {
       "name": "Wrapped ETH",
