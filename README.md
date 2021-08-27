@@ -136,7 +136,7 @@ Generic Handler:    0x83Fc24eB56121FA2A05e0b5170E7310738425839
 ```
 ETH Ropsten Contract Addresses
 ================================================================
-Bridge:             0x6fC272eD9B6B947a7858DF30D7DD2D8173306EA8
+Bridge:             0x7Be5166449EE607a8Cd2BE6AF4120880b163668d
 Erc20 Handler:      0xC56065ee94eD4d05360e130075Dd06DE55eE0916
 Generic Handler:    0xBAb8402E278F45d51BB342525716611fE1090027
 ```
@@ -146,7 +146,7 @@ Generic Handler:    0xBAb8402E278F45d51BB342525716611fE1090027
 ```
 Meter Warringstakes Contract Address:
 ================================================================
-Bridge:             0x4E68f5f704878e69AF9d58D5616168d69f1D03e4
+Bridge:             0x79F0aAc7F2234eae45cA4161470a65E89EC8C513
 Erc20 Handler:      0x73BBF74df1c58903132CD4aa0e268C79f10aB042
 Generic Handler:    0x56f03E0B73fa6Ff6704CA399CE88282EDcF9FeEA
 ```
@@ -156,7 +156,7 @@ Generic Handler:    0x56f03E0B73fa6Ff6704CA399CE88282EDcF9FeEA
 ```
 BSC Testnet Contract Addresses
 ================================================================
-Bridge:             0xcCeA086cbb7DA6bA5eb004fAd435F9b7712bA80e
+Bridge:             0x15cf8FD3d7Cd83fE9a17f15322F4e95D30b3C880
 Erc20 Handler:      0xEc239B20C6d93CE22316F807F898d0C9fA67E3D6
 Generic Handler:    0xb264Cf6be02f17BF638Cd59F63C68Ec3036b32b5
 ```
@@ -164,9 +164,9 @@ Generic Handler:    0xb264Cf6be02f17BF638Cd59F63C68Ec3036b32b5
 ### On Moonbase Alpha Testnet
 
 ```
-BSC Testnet Contract Addresses
+Moonbase Testnet Contract Addresses
 ================================================================
-Bridge:             0xFC72F77e2f4fCcd2E4DEd30cF9d9eb806142505f
+Bridge:             0x98eC243B9C8FFD4FaccAa4669e172b1266346b5c
 Erc20 Handler:      0xe4Fd0BC0601d1f4E042e93D28C6A429B26dF1457
 Generic Handler:    0x26c61e08d6fd620420079ED4B90Ec4a99c6bCEaa
 ```
