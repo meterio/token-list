@@ -178,7 +178,7 @@
       "name": "USDC Token",
       "address": "0xd86e243fc0007e6226b07c9a50c9d70d78299eb5",
       "symbol": "USDC.eth",
-      "decimals": 18,
+      "decimals": 6,
       "chainId": 82,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDC/logo.png"
     },
