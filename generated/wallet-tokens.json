@@ -252,7 +252,7 @@
     },
     {
       "name": "USDC Token",
-      "address": "0x39BFB931Cae5B1A3033237Db1244004a3dF5987b",
+      "address": "0xd86e243fc0007e6226b07c9a50c9d70d78299eb5",
       "symbol": "USDC.eth",
       "decimals": 18,
       "chainId": 82,
