@@ -118,7 +118,7 @@ const genSwapTokens = (symbols) => {
 
   const swapTokens = {
     name: 'Voltswap Default List',
-    timestamp: '', // new Date().toISOString(),
+    timestamp: new Date().toISOString(),
     version: {
       major: +parsed[0],
       minor: +parsed[1],
@@ -206,7 +206,7 @@ const genWalletTokens = (symbols, chainConfigs) => {
 
   const walletTokens = {
     name: 'Meter Wallet Default List',
-    timestamp: '', // new Date().toISOString(),
+    timestamp: new Date().toISOString(),
     version: {
       major: +parsed[0],
       minor: +parsed[1],
