@@ -1,6 +1,6 @@
 {
   "name": "Meter Wallet Default List",
-  "timestamp": "2021-08-27T13:23:26.493Z",
+  "timestamp": "2021-08-30T02:14:42.530Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -41,6 +41,7 @@
       "decimals": 18,
       "chainId": 1,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/CWS/logo.png",
+      "coinId": "crowns",
       "native": false,
       "resourceId": "0x0000000000000000000000ac0104cca91d167873b8601d2e71eb3d4d8c33e001"
     },
@@ -128,6 +129,7 @@
       "decimals": 18,
       "chainId": 3,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/CWS/logo.png",
+      "coinId": "crowns",
       "native": false,
       "resourceId": "0x0000000000000000000000aaeffc5b43ef3fb83c9f4888301ce7e9c6deddc403"
     },
@@ -409,6 +411,7 @@
       "decimals": 18,
       "chainId": 1287,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/CWS/logo.png",
+      "coinId": "crowns",
       "native": false,
       "resourceId": "0x0000000000000000000000aaeffc5b43ef3fb83c9f4888301ce7e9c6deddc403"
     },

@@ -8,5 +8,6 @@
   "WBTC": "wrapped-bitcoin",
   "USDC": "usd-coin",
   "MTR": "meter-stable",
-  "BNB": "binancecoin"
+  "BNB": "binancecoin",
+  "CWS": "crowns"
 }
