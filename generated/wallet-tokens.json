@@ -265,7 +265,7 @@
     },
     {
       "name": "USDT from Ethereum on Meter",
-      "address": "0xC3266026DB809f923bF7594d6C3c03363854746c",
+      "address": "0x5Fa41671c48e3C951AfC30816947126CCC8C162e",
       "symbol": "USDT.eth",
       "decimals": 6,
       "chainId": 82,
