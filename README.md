@@ -217,6 +217,15 @@ Erc20 Handler:      0xe4Fd0BC0601d1f4E042e93D28C6A429B26dF1457
 Generic Handler:    0x26c61e08d6fd620420079ED4B90Ec4a99c6bCEaa
 ```
 
+### On Theta Testnet
+
+```
+Theta Testnet Contract Addresses
+================================================================
+Bridge:             0x70302d7cFfCb2a56A39DAf66DC4410fFF2B0242d
+Erc20 Handler:      0x8f9EC10F71AFC10b123234e470D625713fC59514
+```
+
 ## Generate configs
 
 ```bash
