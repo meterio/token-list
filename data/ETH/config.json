@@ -39,6 +39,12 @@
       "address": "0x9037816b5D8f5Fe182DA2EC935AA945dc2f0a27D",
       "name": "Wrapped ETH",
       "symbol": "WETH"
+    },
+    {
+      "network": "ThetaTest",
+      "address": "0x07446A7e12C2d24d6b180d009e4255aE26fBF018",
+      "name": "Wrapped ETH",
+      "symbol": "WETH"
     }
   ]
 }

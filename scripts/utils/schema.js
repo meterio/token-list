@@ -42,6 +42,12 @@ const CHAINS = [
     testnet: true,
     nativeToken: { name: 'DEV Token', symbol: 'DEV', decimals: 18 },
   },
+  {
+    enum: 'ThetaTest',
+    chainId: 365,
+    testnet: true,
+    nativeToken: { name: 'Theta Fuel', symbol: 'TFUEL', decimals: 18 },
+  },
 ];
 
 const tokenSchema = {

@@ -405,6 +405,27 @@
       "resourceId": "0x0000000000000000000000C02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc201"
     },
     {
+      "name": "Theta Fuel",
+      "address": "0x",
+      "symbol": "TFUEL",
+      "decimals": 18,
+      "chainId": 365,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/TFUEL/logo.png",
+      "coinId": "meter-stable",
+      "native": true
+    },
+    {
+      "name": "Wrapped ETH",
+      "address": "0x07446A7e12C2d24d6b180d009e4255aE26fBF018",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 365,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png",
+      "coinId": "ethereum",
+      "native": false,
+      "resourceId": "0x0000000000000000000000C02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc201"
+    },
+    {
       "name": "Crowns",
       "address": "0xfbEf5F4BE5f87CDB4cCAB7000C572e701ce78898",
       "symbol": "CWS",

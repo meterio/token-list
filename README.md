@@ -10,6 +10,7 @@
 | Binance Smart Chain | BSCTest   | 0x61        | 97              |
 | Meter               | Meter     | 0x52        | 82              |
 | Meter Testnet       | MeterTest | 0x65        | 101             |
+| Theta Testnet       | ThetaTest | 0x16d       | 365             |
 | Moonbeam Testnet    | Moonbase  | 0x507       | 1287            |
 
 ## Integrating a new ERC20 token to Meter Passport
@@ -52,19 +53,64 @@ A sample resource ID for `USDT` on Ethereum network (token address: `0xdAC17F958
 Put your ERC20 information in `config.json`, for each network, create one entry in `tokens` list and set values. The fields that could be configured in `config.json` is defined with a ajv schema like this (as defined in [schema.js](./scripts/utils/schema.js)):
 
 ```js
-// supported networks
-const MAINNETS = ['Ethereum', 'Meter', 'BSC'];
-const TESTNETS = ['Ropsten', 'MeterTest', 'BSCTest', 'Moonbase'];
+// supported chains
+const CHAINS = [
+  {
+    enum: 'Ethereum',
+    chainId: 1,
+    nativeToken: { name: 'Ether', symbol: 'ETH', decimals: 18 },
+  },
+  {
+    enum: 'Ropsten',
+    chainId: 3,
+    testnet: true,
+    nativeToken: { name: 'Ropsten Ether', symbol: 'ETH', decimals: 18 },
+  },
+  {
+    enum: 'BSC',
+    chainId: 56,
+    nativeToken: { name: 'Binance Token', symbol: 'BNB', decimals: 18 },
+  },
+  {
+    enum: 'BSCTest',
+    chainId: 97,
+    testnet: true,
+    nativeToken: { name: 'Test Binance Token', symbol: 'BNB', decimals: 18 },
+  },
+  {
+    enum: 'Meter',
+    chainId: 82,
+    nativeToken: { name: 'Meter Stable', symbol: 'MTR', decimals: 18 },
+  },
+  {
+    enum: 'MeterTest',
+    chainId: 101,
+    testnet: true,
+    nativeToken: { name: 'Test Meter Stable', symbol: 'MTR', decimals: 18 },
+  },
+  {
+    enum: 'Moonbase',
+    chainId: 1287,
+    testnet: true,
+    nativeToken: { name: 'DEV Token', symbol: 'DEV', decimals: 18 },
+  },
+  {
+    enum: 'ThetaTest',
+    chainId: 365,
+    testnet: true,
+    nativeToken: { name: 'Theta Fuel', symbol: 'TFUEL', decimals: 18 },
+  },
+];
 
 const tokenSchema = {
   type: 'object',
   properties: {
-    network: { enum: [].concat(...MAINNETS, ...TESTNETS) }, // enum for supported network
+    network: { enum: CHAINS.map((c) => c.enum) }, // enum for supported network
     address: { type: 'string', pattern: '^0x[0-9a-zA-Z]{40}$' }, // string of 0x + 40 digit/letter
 
     // chain-specific configs, optional
     name: { type: 'string', pattern: '^[0-9a-zA-Z._ ]{1,100}$' }, // string of 1-100 digit/letter
-    symbol: { type: 'string', pattern: '^[0-9a-zA-Z]{1,9}$' }, // string of 1-9 digit/upper_letter
+    symbol: { type: 'string', pattern: '^[0-9a-zA-Z.]{1,9}$' }, // string of 1-9 digit/upper_letter
     decimals: { type: 'number', maximum: 20, minimum: 1 }, // number between 1-20
     native: { type: 'boolean' }, // true - native | false - ERC20
     tokenProxy: { type: 'string' }, // optional
@@ -78,7 +124,7 @@ const schema = {
     resourceID: { type: 'string', pattern: '^0x[0-9a-z]{64}$' }, // string of 0x + 64 digit/lower_letter
     testResourceID: { type: 'string', pattern: '^0x[0-9a-zA-Z]{64}$' }, // string of 0x + 64 digit/letter
     name: { type: 'string', pattern: '^[0-9a-zA-Z._ ]{1,100}$' }, // string of 1-100 digit/letter
-    symbol: { type: 'string', pattern: '^[0-9a-zA-Z]{1,9}$' }, // string of 1-9 digit/upper_letter
+    symbol: { type: 'string', pattern: '^[0-9a-zA-Z.]{1,9}$' }, // string of 1-9 digit/upper_letter
     decimals: { type: 'number', maximum: 20, minimum: 1 }, // number between 1-20
     enable: { type: 'boolean' }, // true - enable | false - disable
     tokens: { type: 'array', items: tokenSchema, minItems: 1 },
@@ -177,6 +223,7 @@ Generic Handler:    0x26c61e08d6fd620420079ED4B90Ec4a99c6bCEaa
 npm install
 npm start
 ```
+
 ## Generated Folder Structure
 
 ```
