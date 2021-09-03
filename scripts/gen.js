@@ -73,7 +73,7 @@ const genPassportTokens = (symbols) => {
         imageUri: getImageUri(sym),
         resourceId: isTestnet(token.network) ? config.testResourceID : config.resourceID,
         native: token.native || false,
-        nativeDecimals: token.native ? token.decimals : undefined,
+        decimals: token.decimals || config.decimals,
         tokenProxy: token.tokenProxy || undefined,
       };
       passportTokens[token.network].push(tokenConfig);

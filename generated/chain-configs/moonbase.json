@@ -5,7 +5,8 @@
     "symbol": "CWS",
     "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/CWS/logo.png",
     "resourceId": "0x0000000000000000000000aaeffc5b43ef3fb83c9f4888301ce7e9c6deddc403",
-    "native": false
+    "native": false,
+    "decimals": 18
   },
   {
     "address": "0x9037816b5D8f5Fe182DA2EC935AA945dc2f0a27D",
@@ -13,6 +14,7 @@
     "symbol": "WETH",
     "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png",
     "resourceId": "0x0000000000000000000000C02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc201",
-    "native": false
+    "native": false,
+    "decimals": 18
   }
 ]

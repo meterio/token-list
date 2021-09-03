@@ -5,7 +5,8 @@
     "symbol": "AMPL",
     "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/AMPL/logo.png",
     "resourceId": "0x1f3eb8ee12ce38ffa19fc4c635621ad2c9a0bd609def9ddce77680e33bc2224b",
-    "native": false
+    "native": false,
+    "decimals": 9
   },
   {
     "address": "0xe795347731Bc547F4E4643F7945738cE2BC18529",
@@ -13,7 +14,8 @@
     "symbol": "CLIQ",
     "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/CLIQ/logo.png",
     "resourceId": "0x00000000000000000000000def8d8adde14c9ef7c2a986df3ea4bd6582676701",
-    "native": false
+    "native": false,
+    "decimals": 18
   },
   {
     "address": "0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F",
@@ -21,7 +23,8 @@
     "symbol": "MTRG",
     "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png",
     "resourceId": "0x0000000000000000000000bd2949f67dcdc549c6ebe98696449fa79d988a9f01",
-    "native": false
+    "native": false,
+    "decimals": 18
   },
   {
     "address": "0xed4Bb33F20F32E989AF975196E86019773A7CFf0",
@@ -30,6 +33,7 @@
     "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/UTU/logo.png",
     "resourceId": "0x0000000000000000000000a58a4f5c4bb043d2cc1e170613b74e767c94189b01",
     "native": false,
+    "decimals": 18,
     "tokenProxy": "0xd4183192BfaA828fCcfb599948964C0BFFdE933c"
   }
 ]

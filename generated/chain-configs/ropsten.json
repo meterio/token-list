@@ -5,7 +5,8 @@
     "symbol": "AMPL",
     "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/AMPL/logo.png",
     "resourceId": "0x1f3eb8ee12ce38ffa19fc4c635621ad2c9a0bd609def9ddce77680e33bc2224b",
-    "native": false
+    "native": false,
+    "decimals": 9
   },
   {
     "address": "0xaaeffc5B43Ef3FB83c9F4888301CE7e9c6DEDDC4",
@@ -13,7 +14,8 @@
     "symbol": "CWS",
     "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/CWS/logo.png",
     "resourceId": "0x0000000000000000000000aaeffc5b43ef3fb83c9f4888301ce7e9c6deddc403",
-    "native": false
+    "native": false,
+    "decimals": 18
   },
   {
     "address": "0xc778417e063141139fce010982780140aa0cd5ab",
@@ -21,7 +23,8 @@
     "symbol": "ETH",
     "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png",
     "resourceId": "0x0000000000000000000000C02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc201",
-    "native": true
+    "native": true,
+    "decimals": 18
   },
   {
     "address": "0x48a6fd66512d45006fc0426576c264d03dfda304",
@@ -29,7 +32,8 @@
     "symbol": "MTRG",
     "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png",
     "resourceId": "0x0000000000000000000000228ebBeE999c6a7ad74A6130E81b12f9Fe237Ba301",
-    "native": false
+    "native": false,
+    "decimals": 18
   },
   {
     "address": "0x76F2c2C3380587252076a8de5C7147c6a185127d",
@@ -37,7 +41,8 @@
     "symbol": "USDT",
     "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDT/logo.png",
     "resourceId": "0x0000000000000000000000dac17f958d2ee523a2206206994597c13d831ec701",
-    "native": false
+    "native": false,
+    "decimals": 6
   },
   {
     "address": "0x6078222Bf12f973dD13BD70696aA4dBcE7659Ad0",
@@ -45,6 +50,7 @@
     "symbol": "UTU",
     "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/UTU/logo.png",
     "resourceId": "0x0000000000000000000000a58a4f5c4bb043d2cc1e170613b74e767c94189b01",
-    "native": false
+    "native": false,
+    "decimals": 18
   }
 ]

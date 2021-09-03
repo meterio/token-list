@@ -6,7 +6,8 @@
       "symbol": "AMPL",
       "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/AMPL/logo.png",
       "resourceId": "0x1f3eb8ee12ce38ffa19fc4c635621ad2c9a0bd609def9ddce77680e33bc2224b",
-      "native": false
+      "native": false,
+      "decimals": 9
     },
     {
       "address": "0x0Def8d8addE14c9eF7c2a986dF3eA4Bd65826767",
@@ -14,7 +15,8 @@
       "symbol": "CLIQ",
       "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/CLIQ/logo.png",
       "resourceId": "0x00000000000000000000000def8d8adde14c9ef7c2a986df3ea4bd6582676701",
-      "native": false
+      "native": false,
+      "decimals": 18
     },
     {
       "address": "0xac0104cca91d167873b8601d2e71eb3d4d8c33e0",
@@ -22,7 +24,8 @@
       "symbol": "CWS",
       "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/CWS/logo.png",
       "resourceId": "0x0000000000000000000000ac0104cca91d167873b8601d2e71eb3d4d8c33e001",
-      "native": false
+      "native": false,
+      "decimals": 18
     },
     {
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
@@ -30,7 +33,8 @@
       "symbol": "ETH",
       "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png",
       "resourceId": "0x0000000000000000000000c02aaa39b223fe8d0a0e5c4f27ead9083c756cc201",
-      "native": true
+      "native": true,
+      "decimals": 18
     },
     {
       "address": "0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F",
@@ -38,7 +42,8 @@
       "symbol": "eMTRG",
       "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png",
       "resourceId": "0x0000000000000000000000bd2949f67dcdc549c6ebe98696449fa79d988a9f01",
-      "native": false
+      "native": false,
+      "decimals": 18
     },
     {
       "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
@@ -46,7 +51,8 @@
       "symbol": "USDC",
       "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDC/logo.png",
       "resourceId": "0x0000000000000000000000a0b86991c6218b36c1d19d4a2e9eb0ce3606eb4801",
-      "native": false
+      "native": false,
+      "decimals": 6
     },
     {
       "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
@@ -54,7 +60,8 @@
       "symbol": "USDT",
       "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDT/logo.png",
       "resourceId": "0x0000000000000000000000dac17f958d2ee523a2206206994597c13d831ec701",
-      "native": false
+      "native": false,
+      "decimals": 6
     },
     {
       "address": "0xa58a4f5c4Bb043d2CC1E170613B74e767c94189B",
@@ -62,7 +69,8 @@
       "symbol": "UTU",
       "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/UTU/logo.png",
       "resourceId": "0x0000000000000000000000a58a4f5c4bb043d2cc1e170613b74e767c94189b01",
-      "native": false
+      "native": false,
+      "decimals": 18
     },
     {
       "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
@@ -70,7 +78,8 @@
       "symbol": "WBTC",
       "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/WBTC/logo.png",
       "resourceId": "0x00000000000000000000002260fac5e5542a773aa44fbcfedf7c193bc2c59901",
-      "native": false
+      "native": false,
+      "decimals": 18
     }
   ],
   "BSC": [
@@ -80,7 +89,8 @@
       "symbol": "AMPL",
       "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/AMPL/logo.png",
       "resourceId": "0x1f3eb8ee12ce38ffa19fc4c635621ad2c9a0bd609def9ddce77680e33bc2224b",
-      "native": false
+      "native": false,
+      "decimals": 9
     },
     {
       "address": "0xe795347731Bc547F4E4643F7945738cE2BC18529",
@@ -88,7 +98,8 @@
       "symbol": "CLIQ",
       "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/CLIQ/logo.png",
       "resourceId": "0x00000000000000000000000def8d8adde14c9ef7c2a986df3ea4bd6582676701",
-      "native": false
+      "native": false,
+      "decimals": 18
     },
     {
       "address": "0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F",
@@ -96,7 +107,8 @@
       "symbol": "MTRG",
       "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png",
       "resourceId": "0x0000000000000000000000bd2949f67dcdc549c6ebe98696449fa79d988a9f01",
-      "native": false
+      "native": false,
+      "decimals": 18
     },
     {
       "address": "0xed4Bb33F20F32E989AF975196E86019773A7CFf0",
@@ -105,6 +117,7 @@
       "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/UTU/logo.png",
       "resourceId": "0x0000000000000000000000a58a4f5c4bb043d2cc1e170613b74e767c94189b01",
       "native": false,
+      "decimals": 18,
       "tokenProxy": "0xd4183192BfaA828fCcfb599948964C0BFFdE933c"
     }
   ],
@@ -115,7 +128,8 @@
       "symbol": "AMPL",
       "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/AMPL/logo.png",
       "resourceId": "0x1f3eb8ee12ce38ffa19fc4c635621ad2c9a0bd609def9ddce77680e33bc2224b",
-      "native": false
+      "native": false,
+      "decimals": 9
     },
     {
       "address": "0xaaeffc5B43Ef3FB83c9F4888301CE7e9c6DEDDC4",
@@ -123,7 +137,8 @@
       "symbol": "CWS",
       "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/CWS/logo.png",
       "resourceId": "0x0000000000000000000000aaeffc5b43ef3fb83c9f4888301ce7e9c6deddc403",
-      "native": false
+      "native": false,
+      "decimals": 18
     },
     {
       "address": "0xc778417e063141139fce010982780140aa0cd5ab",
@@ -131,7 +146,8 @@
       "symbol": "ETH",
       "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png",
       "resourceId": "0x0000000000000000000000C02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc201",
-      "native": true
+      "native": true,
+      "decimals": 18
     },
     {
       "address": "0x48a6fd66512d45006fc0426576c264d03dfda304",
@@ -139,7 +155,8 @@
       "symbol": "MTRG",
       "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png",
       "resourceId": "0x0000000000000000000000228ebBeE999c6a7ad74A6130E81b12f9Fe237Ba301",
-      "native": false
+      "native": false,
+      "decimals": 18
     },
     {
       "address": "0x76F2c2C3380587252076a8de5C7147c6a185127d",
@@ -147,7 +164,8 @@
       "symbol": "USDT",
       "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDT/logo.png",
       "resourceId": "0x0000000000000000000000dac17f958d2ee523a2206206994597c13d831ec701",
-      "native": false
+      "native": false,
+      "decimals": 6
     },
     {
       "address": "0x6078222Bf12f973dD13BD70696aA4dBcE7659Ad0",
@@ -155,7 +173,8 @@
       "symbol": "UTU",
       "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/UTU/logo.png",
       "resourceId": "0x0000000000000000000000a58a4f5c4bb043d2cc1e170613b74e767c94189b01",
-      "native": false
+      "native": false,
+      "decimals": 18
     }
   ],
   "MeterTest": [
@@ -165,7 +184,8 @@
       "symbol": "AMPL",
       "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/AMPL/logo.png",
       "resourceId": "0x1f3eb8ee12ce38ffa19fc4c635621ad2c9a0bd609def9ddce77680e33bc2224b",
-      "native": false
+      "native": false,
+      "decimals": 9
     },
     {
       "address": "0xe7536A823165D83E43EA95079cc1bb70E6a874b5",
@@ -173,7 +193,8 @@
       "symbol": "WETH",
       "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png",
       "resourceId": "0x0000000000000000000000C02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc201",
-      "native": false
+      "native": false,
+      "decimals": 18
     },
     {
       "address": "0x8A419EF4941355476CF04933E90BF3BBF2F73814",
@@ -181,7 +202,8 @@
       "symbol": "MTRG",
       "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png",
       "resourceId": "0x0000000000000000000000228ebBeE999c6a7ad74A6130E81b12f9Fe237Ba301",
-      "native": false
+      "native": false,
+      "decimals": 18
     },
     {
       "address": "0x3e5a2A4812D319Ded22479A88ed708c6B55ca0b1",
@@ -189,7 +211,8 @@
       "symbol": "USDT",
       "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDT/logo.png",
       "resourceId": "0x0000000000000000000000dac17f958d2ee523a2206206994597c13d831ec701",
-      "native": false
+      "native": false,
+      "decimals": 6
     }
   ],
   "BSCTest": [
@@ -199,7 +222,8 @@
       "symbol": "AMPL",
       "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/AMPL/logo.png",
       "resourceId": "0x1f3eb8ee12ce38ffa19fc4c635621ad2c9a0bd609def9ddce77680e33bc2224b",
-      "native": false
+      "native": false,
+      "decimals": 9
     },
     {
       "address": "0x93b43BA0Fda0490dD0Ceb52dafB9463A844cC1c9",
@@ -207,7 +231,8 @@
       "symbol": "WETH",
       "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png",
       "resourceId": "0x0000000000000000000000C02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc201",
-      "native": false
+      "native": false,
+      "decimals": 18
     },
     {
       "address": "0x53ccb3D86B04b5FD7e647e11a39d1AAE746C2E98",
@@ -215,7 +240,8 @@
       "symbol": "MTRG",
       "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png",
       "resourceId": "0x0000000000000000000000228ebBeE999c6a7ad74A6130E81b12f9Fe237Ba301",
-      "native": false
+      "native": false,
+      "decimals": 18
     },
     {
       "address": "0x28387Fde25Df9E9a2314fC0C134218E6Fe199d8e",
@@ -224,6 +250,7 @@
       "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/UTU/logo.png",
       "resourceId": "0x0000000000000000000000a58a4f5c4bb043d2cc1e170613b74e767c94189b01",
       "native": false,
+      "decimals": 18,
       "tokenProxy": "0x468cddEeaAbb2b8F554b8a7D6FBEb5c3330c1bE3"
     }
   ],
@@ -234,7 +261,8 @@
       "symbol": "CWS",
       "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/CWS/logo.png",
       "resourceId": "0x0000000000000000000000aaeffc5b43ef3fb83c9f4888301ce7e9c6deddc403",
-      "native": false
+      "native": false,
+      "decimals": 18
     },
     {
       "address": "0x9037816b5D8f5Fe182DA2EC935AA945dc2f0a27D",
@@ -242,7 +270,8 @@
       "symbol": "WETH",
       "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png",
       "resourceId": "0x0000000000000000000000C02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc201",
-      "native": false
+      "native": false,
+      "decimals": 18
     }
   ],
   "Meter": [
@@ -252,7 +281,8 @@
       "symbol": "WETH.eth",
       "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png",
       "resourceId": "0x0000000000000000000000c02aaa39b223fe8d0a0e5c4f27ead9083c756cc201",
-      "native": false
+      "native": false,
+      "decimals": 18
     },
     {
       "address": "0x228ebBeE999c6a7ad74A6130E81b12f9Fe237Ba3",
@@ -260,7 +290,8 @@
       "symbol": "MTRG",
       "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png",
       "resourceId": "0x0000000000000000000000bd2949f67dcdc549c6ebe98696449fa79d988a9f01",
-      "native": false
+      "native": false,
+      "decimals": 18
     },
     {
       "address": "0xd86e243fc0007e6226b07c9a50c9d70d78299eb5",
@@ -268,7 +299,8 @@
       "symbol": "USDC.eth",
       "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDC/logo.png",
       "resourceId": "0x0000000000000000000000a0b86991c6218b36c1d19d4a2e9eb0ce3606eb4801",
-      "native": false
+      "native": false,
+      "decimals": 6
     },
     {
       "address": "0x5Fa41671c48e3C951AfC30816947126CCC8C162e",
@@ -276,7 +308,8 @@
       "symbol": "USDT.eth",
       "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDT/logo.png",
       "resourceId": "0x0000000000000000000000dac17f958d2ee523a2206206994597c13d831ec701",
-      "native": false
+      "native": false,
+      "decimals": 6
     },
     {
       "address": "0x093Dc064D9E7b7558241E014bAE631F02f684146",
@@ -284,7 +317,8 @@
       "symbol": "WBTC.eth",
       "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/WBTC/logo.png",
       "resourceId": "0x00000000000000000000002260fac5e5542a773aa44fbcfedf7c193bc2c59901",
-      "native": false
+      "native": false,
+      "decimals": 18
     }
   ],
   "ThetaTest": [
@@ -294,7 +328,8 @@
       "symbol": "WETH",
       "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png",
       "resourceId": "0x0000000000000000000000C02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc201",
-      "native": false
+      "native": false,
+      "decimals": 18
     }
   ]
 }
