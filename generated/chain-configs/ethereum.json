@@ -28,7 +28,7 @@
   },
   {
     "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
-    "name": "Wrapped Ether",
+    "name": "ETH",
     "symbol": "ETH",
     "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png",
     "resourceId": "0x0000000000000000000000c02aaa39b223fe8d0a0e5c4f27ead9083c756cc201",
@@ -46,7 +46,7 @@
   },
   {
     "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-    "name": "USDC from Ethereum on Meter",
+    "name": "USDC",
     "symbol": "USDC",
     "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDC/logo.png",
     "resourceId": "0x0000000000000000000000a0b86991c6218b36c1d19d4a2e9eb0ce3606eb4801",

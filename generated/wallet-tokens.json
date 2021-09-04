@@ -57,7 +57,7 @@
       "resourceId": "0x0000000000000000000000bd2949f67dcdc549c6ebe98696449fa79d988a9f01"
     },
     {
-      "name": "Wrapped Ether",
+      "name": "ETH",
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "symbol": "ETH",
       "decimals": 18,
@@ -68,7 +68,7 @@
       "resourceId": "0x0000000000000000000000c02aaa39b223fe8d0a0e5c4f27ead9083c756cc201"
     },
     {
-      "name": "USDC from Ethereum on Meter",
+      "name": "USDC",
       "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
       "symbol": "USDC",
       "decimals": 6,
@@ -189,14 +189,25 @@
       "resourceId": "0x1f3eb8ee12ce38ffa19fc4c635621ad2c9a0bd609def9ddce77680e33bc2224b"
     },
     {
-      "name": "Binance Token",
-      "address": "0x",
+      "name": "BNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
       "symbol": "BNB",
       "decimals": 18,
       "chainId": 56,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/BNB/logo.png",
       "coinId": "binancecoin",
-      "native": true
+      "native": true,
+      "resourceId": "0x0000000000000000000000bb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c01"
+    },
+    {
+      "name": "BUSD",
+      "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+      "symbol": "BUSD",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/BUSD/logo.png",
+      "native": false,
+      "resourceId": "0x0000000000000000000000e9e7cea3dedca5984780bafc599bd69add087d5601"
     },
     {
       "name": "Cliq Token",
@@ -232,6 +243,27 @@
       "resourceId": "0x0000000000000000000000a58a4f5c4bb043d2cc1e170613b74e767c94189b01"
     },
     {
+      "name": "BNB from BSC on Meter",
+      "address": "0xF8BBb44E6fD13632D36fe09eB61820f9A44f5D74",
+      "symbol": "BNB.bsc",
+      "decimals": 18,
+      "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/BNB/logo.png",
+      "coinId": "binancecoin",
+      "native": false,
+      "resourceId": "0x0000000000000000000000bb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c01"
+    },
+    {
+      "name": "BUSD from BSC on Meter",
+      "address": "0x24aA189DfAa76c671c279262F94434770F557c35",
+      "symbol": "BUSD.bsc",
+      "decimals": 18,
+      "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/BUSD/logo.png",
+      "native": false,
+      "resourceId": "0x0000000000000000000000e9e7cea3dedca5984780bafc599bd69add087d5601"
+    },
+    {
       "name": "Meter Stable",
       "address": "0x",
       "symbol": "MTR",
@@ -253,7 +285,7 @@
       "resourceId": "0x0000000000000000000000bd2949f67dcdc549c6ebe98696449fa79d988a9f01"
     },
     {
-      "name": "USDC Token",
+      "name": "USDC from Ethereum on Meter",
       "address": "0xd86e243fc0007e6226b07c9a50c9d70d78299eb5",
       "symbol": "USDC.eth",
       "decimals": 6,
