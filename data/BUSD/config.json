@@ -1,0 +1,19 @@
+{
+  "resourceID": "0x0000000000000000000000e9e7cea3dedca5984780bafc599bd69add087d5601",
+  "name": "Binance USD Coin",
+  "symbol": "BUSD",
+  "decimals": 18,
+  "tokens": [
+    {
+      "network": "BSC",
+      "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+      "name": "BUSD"
+    },
+    {
+      "network": "Meter",
+      "address": "0x24aA189DfAa76c671c279262F94434770F557c35",
+      "name": "BUSD from BSC on Meter",
+      "symbol": "BUSD.bsc"
+    }
+  ]
+}
