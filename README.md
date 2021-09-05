@@ -185,6 +185,7 @@ Moonriver Contract Addresses
 Bridge:             0xF41e7FC4eC990298d36f667B93951c9dba65224e
 Erc20 Handler:      0x48A6fd66512D45006FC0426576c264D03Dfda304
 Generic Handler:    0x29E9fDF5933824ad21Bc6dbb8BF156EFA3735e32
+```
 
 ### On Ethereum Ropsten
 
