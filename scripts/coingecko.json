@@ -9,5 +9,6 @@
   "USDC": "usd-coin",
   "MTR": "meter-stable",
   "BNB": "binancecoin",
-  "CWS": "crowns"
+  "CWS": "crowns",
+  "BUSD": "binance-usd"
 }
