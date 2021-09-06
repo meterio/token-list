@@ -17,6 +17,10 @@
     {
       "network": "Moonbase",
       "address": "0xfbEf5F4BE5f87CDB4cCAB7000C572e701ce78898"
+    },
+    {
+      "network": "Moonriver",
+      "address": "0x6fc9651f45B262AE6338a701D563Ab118B1eC0Ce"
     }
   ]
 }
