@@ -78,6 +78,6 @@
     "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/WBTC/logo.png",
     "resourceId": "0x00000000000000000000002260fac5e5542a773aa44fbcfedf7c193bc2c59901",
     "native": false,
-    "decimals": 18
+    "decimals": 8
   }
 ]

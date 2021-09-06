@@ -104,7 +104,7 @@
       "name": "Wrapped BTC",
       "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
       "symbol": "WBTC",
-      "decimals": 18,
+      "decimals": 8,
       "chainId": 1,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/WBTC/logo.png",
       "coinId": "wrapped-bitcoin",
