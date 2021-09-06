@@ -2,16 +2,15 @@
   "resourceID": "0x00000000000000000000002260fac5e5542a773aa44fbcfedf7c193bc2c59901",
   "name": "Wrapped BTC",
   "symbol": "WBTC",
-  "decimals": 18,
+  "decimals": 8,
   "tokens": [
     {
       "network": "Ethereum",
-      "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
-      "decimals": 8
+      "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599"
     },
     {
       "network": "Meter",
-      "address": "0x093Dc064D9E7b7558241E014bAE631F02f684146",
+      "address": "0xc1f6C86ABEe8e2e0B6fd5BD80F0b51fef783635C",
       "name": "WBTC from Ethereum on Meter",
       "symbol": "WBTC.eth"
     }

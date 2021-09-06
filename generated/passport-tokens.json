@@ -328,13 +328,13 @@
       "decimals": 6
     },
     {
-      "address": "0x093Dc064D9E7b7558241E014bAE631F02f684146",
+      "address": "0xc1f6C86ABEe8e2e0B6fd5BD80F0b51fef783635C",
       "name": "WBTC from Ethereum on Meter",
       "symbol": "WBTC.eth",
       "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/WBTC/logo.png",
       "resourceId": "0x00000000000000000000002260fac5e5542a773aa44fbcfedf7c193bc2c59901",
       "native": false,
-      "decimals": 18
+      "decimals": 8
     }
   ],
   "Moonbase": [
