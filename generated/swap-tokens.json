@@ -312,6 +312,14 @@
     },
     {
       "name": "Crowns",
+      "address": "0x6fc9651f45B262AE6338a701D563Ab118B1eC0Ce",
+      "symbol": "CWS",
+      "decimals": 18,
+      "chainId": 1285,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/CWS/logo.png"
+    },
+    {
+      "name": "Crowns",
       "address": "0xfbEf5F4BE5f87CDB4cCAB7000C572e701ce78898",
       "symbol": "CWS",
       "decimals": 18,

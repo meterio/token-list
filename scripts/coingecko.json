@@ -10,5 +10,7 @@
   "MTR": "meter-stable",
   "BNB": "binancecoin",
   "CWS": "crowns",
-  "BUSD": "binance-usd"
+  "BUSD": "binance-usd",
+  "MOVR": "moonriver",
+  "TFUEL": "theta-fuel"
 }

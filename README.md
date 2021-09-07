@@ -11,6 +11,7 @@
 | Meter               | Meter     | 0x52        | 82              |
 | Meter Testnet       | MeterTest | 0x65        | 101             |
 | Theta Testnet       | ThetaTest | 0x16d       | 365             |
+| Moonriver           | Moonriver | 0x505       | 1285            |
 | Moonbeam Testnet    | Moonbase  | 0x507       | 1287            |
 
 ## Integrating a new ERC20 token to Meter Passport

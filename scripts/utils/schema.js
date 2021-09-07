@@ -37,6 +37,11 @@ const CHAINS = [
     nativeToken: { name: 'Test Meter Stable', symbol: 'MTR', decimals: 18 },
   },
   {
+    enum: 'Moonriver',
+    chainId: 1285,
+    nativeToken: { name: 'Moonriver', symbol: 'MOVR', decimals: 18 },
+  },
+  {
     enum: 'Moonbase',
     chainId: 1287,
     testnet: true,

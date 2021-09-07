@@ -151,10 +151,11 @@ const genWalletTokens = (symbols, chainConfigs) => {
   const tokenList = [];
   let visited = {};
   for (const sym of symbols) {
-    let coinId;
-    if (coingecko.hasOwnProperty(sym)) {
-      coinId = coingecko[sym];
+    const coinId = coingecko[sym];
+    if (!coinId) {
+      console.log('[WARN] please configure coinId in coingecko.json for ', sym);
     }
+
     const config = getConfig(sym);
 
     for (const token of config.tokens) {
@@ -186,8 +187,9 @@ const genWalletTokens = (symbols, chainConfigs) => {
       continue;
     }
     const sym = c.nativeToken.symbol;
-    if (coingecko.hasOwnProperty(sym)) {
-      coinId = coingecko[sym];
+    const coinId = coingecko[sym];
+    if (!coinId) {
+      console.log('[WARN] please configure coinId in coingecko.json for ', sym);
     }
 
     visited[key] = true;
