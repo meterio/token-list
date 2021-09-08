@@ -57,7 +57,7 @@ const genPassportTokens = (symbols) => {
 
     // tokens must have more than 1 tokens to be effective on bridge
     if (config.tokens.length < 2) {
-      console.log(`config contains less than 2 tokens, not valid for bridge skip ${f}`);
+      console.log(`config contains less than 2 tokens, not valid for bridge skip ${sym}`);
       continue;
     }
 

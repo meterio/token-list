@@ -309,6 +309,16 @@
       "resourceId": "0x0000000000000000000000dac17f958d2ee523a2206206994597c13d831ec701"
     },
     {
+      "name": "Volt",
+      "address": "0x8Df95e66Cb0eF38F91D2776DA3c921768982fBa0",
+      "symbol": "VOLT",
+      "decimals": 18,
+      "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/VOLT/logo.png",
+      "native": false,
+      "resourceId": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+    {
       "name": "WBTC from Ethereum on Meter",
       "address": "0xc1f6C86ABEe8e2e0B6fd5BD80F0b51fef783635C",
       "symbol": "WBTC.eth",

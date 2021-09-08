@@ -1,0 +1,14 @@
+{
+  "resourceID": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+  "name": "Volt",
+  "symbol": "VOLT",
+  "decimals": 18,
+  "tokens": [
+    {
+      "network": "Meter",
+      "address": "0x8Df95e66Cb0eF38F91D2776DA3c921768982fBa0",
+      "name": "Volt",
+      "symbol": "VOLT"
+    }
+  ]
+}
