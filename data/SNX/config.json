@@ -1,0 +1,19 @@
+{
+  "resourceID": "0x0000000000000000000000c011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f01",
+  "name": "SNX",
+  "symbol": "SNX",
+  "decimals": 18,
+  "tokens": [
+    {
+      "network": "Ethereum",
+      "address": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
+      "name": "SNX"
+    },
+    {
+      "network": "Moonriver",
+      "address": "0x3385777A17c9ff2fED6173C1253aAE26f9a8612A",
+      "name": "SNX from Ethereum on Moonriver",
+      "symbol": "SNX.eth"
+    }
+  ]
+}

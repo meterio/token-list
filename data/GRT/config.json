@@ -1,0 +1,19 @@
+{
+  "resourceID": "0x0000000000000000000000c944e90c64b2c07662a292be6244bdf05cda44a701",
+  "name": "GRT",
+  "symbol": "GRT",
+  "decimals": 18,
+  "tokens": [
+    {
+      "network": "Ethereum",
+      "address": "0xc944e90c64b2c07662a292be6244bdf05cda44a7",
+      "name": "GRT"
+    },
+    {
+      "network": "Moonriver",
+      "address": "0x8dE43AAC40e09BE38741De78a2Eb459A4F22f585",
+      "name": "GRT from Ethereum on Moonriver",
+      "symbol": "GRT.eth"
+    }
+  ]
+}

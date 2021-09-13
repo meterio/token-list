@@ -1,0 +1,19 @@
+{
+  "resourceID": "0x000000000000000000000050d1c9771902476076ecfc8b2a83ad6b9355a4c901",
+  "name": "FTT",
+  "symbol": "FTT",
+  "decimals": 18,
+  "tokens": [
+    {
+      "network": "Ethereum",
+      "address": "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
+      "name": "FTT"
+    },
+    {
+      "network": "Moonriver",
+      "address": "0xd8DfB1c4057A400ACEda0Cbb92D844f8A146B916",
+      "name": "FTT from Ethereum on Moonriver",
+      "symbol": "FTT.eth"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "resourceID": "0x0000000000000000000000c00e94cb662c3520282e6f5717214004a7f2688801",
+  "name": "COMP",
+  "symbol": "COMP",
+  "decimals": 18,
+  "tokens": [
+    {
+      "network": "Ethereum",
+      "address": "0xc00e94cb662c3520282e6f5717214004a7f26888",
+      "name": "COMP"
+    },
+    {
+      "network": "Moonriver",
+      "address": "0xB94b5d77184f59716958e435Cd105f2DB50C734B",
+      "name": "COMP from Ethereum on Moonriver",
+      "symbol": "COMP.eth"
+    }
+  ]
+}

@@ -12,5 +12,20 @@
   "CWS": "crowns",
   "BUSD": "binance-usd",
   "MOVR": "moonriver",
-  "TFUEL": "theta-fuel"
+  "TFUEL": "theta-fuel",
+  "AAVE": "aave",
+  "Sushi": "sushi",
+  "COMP": "compound-coin",
+  "Link": "chainlink",
+  "DAI": "dai",
+  "UNI": "uniswap",
+  "YFI": "yearn-finance",
+  "BAT": "bat-finance",
+  "GRT": "the-graph",
+  "FTT": "ftx-token",
+  "MKR": "maker",
+  "1Inch": "1inch",
+  "CRV": "curve-dao-token",
+  "SNX": "havven",
+  "ZRX": "0x"
 }

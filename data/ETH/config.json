@@ -18,6 +18,12 @@
       "symbol": "WETH.eth"
     },
     {
+      "network": "Moonriver",
+      "address": "0x3Ca3fEFA944753b43c751336A5dF531bDD6598B6",
+      "name": "ETH from Ethereum on Moonriver",
+      "symbol": "WETH.eth"
+    },
+    {
       "network": "Ropsten",
       "address": "0xc778417e063141139fce010982780140aa0cd5ab",
       "native": true

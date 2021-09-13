@@ -1,0 +1,19 @@
+{
+  "resourceID": "0x0000000000000000000000514910771af9ca656af840dff83e8264ecf986ca01",
+  "name": "Link",
+  "symbol": "Link",
+  "decimals": 18,
+  "tokens": [
+    {
+      "network": "Ethereum",
+      "address": "0x514910771af9ca656af840dff83e8264ecf986ca",
+      "name": "Link"
+    },
+    {
+      "network": "Moonriver",
+      "address": "0x6b638F0E2AA14241e5bd686E66455565fB20853c",
+      "name": "Link from Ethereum on Moonriver",
+      "symbol": "Link.eth"
+    }
+  ]
+}

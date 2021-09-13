@@ -13,6 +13,12 @@
       "address": "0xc1f6C86ABEe8e2e0B6fd5BD80F0b51fef783635C",
       "name": "WBTC from Ethereum on Meter",
       "symbol": "WBTC.eth"
+    },
+    {
+      "network": "Moonriver",
+      "address": "0xE6a991Ffa8CfE62B0bf6BF72959A3d4f11B2E0f5",
+      "name": "WBTC from Ethereum on Moonriver",
+      "symbol": "WBTC.eth"
     }
   ]
 }

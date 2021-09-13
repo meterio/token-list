@@ -1,5 +1,5 @@
 {
-  "resourceID": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+  "resourceID": "0x00000000000000000000008df95e66cb0ef38f91d2776da3c921768982fba001",
   "name": "Volt",
   "symbol": "VOLT",
   "decimals": 18,
@@ -8,6 +8,12 @@
       "network": "Meter",
       "address": "0x8Df95e66Cb0eF38F91D2776DA3c921768982fBa0",
       "name": "Volt",
+      "symbol": "VOLT"
+    },
+    {
+      "network": "Moonriver",
+      "address": "0x8Df95e66Cb0eF38F91D2776DA3c921768982fBa0",
+      "name": "Meter Volt",
       "symbol": "VOLT"
     }
   ]

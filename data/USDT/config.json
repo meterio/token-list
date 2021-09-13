@@ -16,6 +16,12 @@
       "symbol": "USDT.eth"
     },
     {
+      "network": "Moonriver",
+      "address": "0x3674D64AaB971aB974B2035667a4B3d09B5ec2B3",
+      "name": "USDT from Ethereum on Moonriver",
+      "symbol": "USDT.eth"
+    },
+    {
       "network": "Ropsten",
       "address": "0x76F2c2C3380587252076a8de5C7147c6a185127d"
     },

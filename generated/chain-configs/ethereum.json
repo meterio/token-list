@@ -1,5 +1,23 @@
 [
   {
+    "address": "0x111111111117dc0aa78b770fa6a738034120c302",
+    "name": "1Inch",
+    "symbol": "1Inch",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/1Inch/logo.png",
+    "resourceId": "0x0000000000000000000000111111111117dc0aa78b770fa6a738034120c30201",
+    "native": false,
+    "decimals": 18
+  },
+  {
+    "address": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+    "name": "AAVE",
+    "symbol": "AAVE",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/AAVE/logo.png",
+    "resourceId": "0x00000000000000000000007fc66500c84a76ad7e9c93437bfc5ac33e2ddae901",
+    "native": false,
+    "decimals": 18
+  },
+  {
     "address": "0xD46bA6D942050d489DBd938a2C909A5d5039A161",
     "name": "AmpleForth",
     "symbol": "AMPL",
@@ -9,11 +27,38 @@
     "decimals": 9
   },
   {
+    "address": "0x0d8775f648430679a709e98d2b0cb6250d2887ef",
+    "name": "BAT",
+    "symbol": "BAT",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/BAT/logo.png",
+    "resourceId": "0x00000000000000000000000d8775f648430679a709e98d2b0cb6250d2887ef01",
+    "native": false,
+    "decimals": 18
+  },
+  {
     "address": "0x0Def8d8addE14c9eF7c2a986dF3eA4Bd65826767",
     "name": "Cliq Token",
     "symbol": "CLIQ",
     "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/CLIQ/logo.png",
     "resourceId": "0x00000000000000000000000def8d8adde14c9ef7c2a986df3ea4bd6582676701",
+    "native": false,
+    "decimals": 18
+  },
+  {
+    "address": "0xc00e94cb662c3520282e6f5717214004a7f26888",
+    "name": "COMP",
+    "symbol": "COMP",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/COMP/logo.png",
+    "resourceId": "0x0000000000000000000000c00e94cb662c3520282e6f5717214004a7f2688801",
+    "native": false,
+    "decimals": 18
+  },
+  {
+    "address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+    "name": "CRV",
+    "symbol": "CRV",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/CRV/logo.png",
+    "resourceId": "0x0000000000000000000000d533a949740bb3306d119cc777fa900ba034cd5201",
     "native": false,
     "decimals": 18
   },
@@ -27,6 +72,15 @@
     "decimals": 18
   },
   {
+    "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "name": "DAI",
+    "symbol": "DAI",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/DAI/logo.png",
+    "resourceId": "0x00000000000000000000006b175474e89094c44da98b954eedeac495271d0f01",
+    "native": false,
+    "decimals": 18
+  },
+  {
     "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
     "name": "ETH",
     "symbol": "ETH",
@@ -36,11 +90,74 @@
     "decimals": 18
   },
   {
+    "address": "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
+    "name": "FTT",
+    "symbol": "FTT",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/FTT/logo.png",
+    "resourceId": "0x000000000000000000000050d1c9771902476076ecfc8b2a83ad6b9355a4c901",
+    "native": false,
+    "decimals": 18
+  },
+  {
+    "address": "0xc944e90c64b2c07662a292be6244bdf05cda44a7",
+    "name": "GRT",
+    "symbol": "GRT",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/GRT/logo.png",
+    "resourceId": "0x0000000000000000000000c944e90c64b2c07662a292be6244bdf05cda44a701",
+    "native": false,
+    "decimals": 18
+  },
+  {
+    "address": "0x514910771af9ca656af840dff83e8264ecf986ca",
+    "name": "Link",
+    "symbol": "Link",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/Link/logo.png",
+    "resourceId": "0x0000000000000000000000514910771af9ca656af840dff83e8264ecf986ca01",
+    "native": false,
+    "decimals": 18
+  },
+  {
+    "address": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
+    "name": "MKR",
+    "symbol": "MKR",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/MKR/logo.png",
+    "resourceId": "0x00000000000000000000009f8f72aa9304c8b593d555f12ef6589cc3a579a201",
+    "native": false,
+    "decimals": 18
+  },
+  {
     "address": "0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F",
     "name": "Meter Governance mapped by Meter.io",
     "symbol": "eMTRG",
     "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png",
     "resourceId": "0x0000000000000000000000bd2949f67dcdc549c6ebe98696449fa79d988a9f01",
+    "native": false,
+    "decimals": 18
+  },
+  {
+    "address": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
+    "name": "SNX",
+    "symbol": "SNX",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/SNX/logo.png",
+    "resourceId": "0x0000000000000000000000c011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f01",
+    "native": false,
+    "decimals": 18
+  },
+  {
+    "address": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
+    "name": "Sushi",
+    "symbol": "Sushi",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/Sushi/logo.png",
+    "resourceId": "0x00000000000000000000006b3595068778dd592e39a122f4f5a5cf09c90fe201",
+    "native": false,
+    "decimals": 18
+  },
+  {
+    "address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+    "name": "UNI",
+    "symbol": "UNI",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/UNI/logo.png",
+    "resourceId": "0x00000000000000000000001f9840a85d5af5bf1d1762f925bdaddc4201f98401",
     "native": false,
     "decimals": 18
   },
@@ -79,5 +196,23 @@
     "resourceId": "0x00000000000000000000002260fac5e5542a773aa44fbcfedf7c193bc2c59901",
     "native": false,
     "decimals": 8
+  },
+  {
+    "address": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
+    "name": "YFI",
+    "symbol": "YFI",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/YFI/logo.png",
+    "resourceId": "0x00000000000000000000000bc529c00c6401aef6d220be8c6ea1667f6ad93e01",
+    "native": false,
+    "decimals": 18
+  },
+  {
+    "address": "0xe41d2489571d322189246dafa5ebde1f4699f498",
+    "name": "ZRX",
+    "symbol": "ZRX",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/ZRX/logo.png",
+    "resourceId": "0x0000000000000000000000e41d2489571d322189246dafa5ebde1f4699f49801",
+    "native": false,
+    "decimals": 18
   }
 ]

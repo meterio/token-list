@@ -1,0 +1,19 @@
+{
+  "resourceID": "0x0000000000000000000000e41d2489571d322189246dafa5ebde1f4699f49801",
+  "name": "ZRX",
+  "symbol": "ZRX",
+  "decimals": 18,
+  "tokens": [
+    {
+      "network": "Ethereum",
+      "address": "0xe41d2489571d322189246dafa5ebde1f4699f498",
+      "name": "ZRX"
+    },
+    {
+      "network": "Moonriver",
+      "address": "0x3385777A17c9ff2fED6173C1253aAE26f9a8612A",
+      "name": "ZRX from Ethereum on Moonriver",
+      "symbol": "ZRX.eth"
+    }
+  ]
+}

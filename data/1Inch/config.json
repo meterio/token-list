@@ -1,0 +1,19 @@
+{
+  "resourceID": "0x0000000000000000000000111111111117dc0aa78b770fa6a738034120c30201",
+  "name": "1Inch",
+  "symbol": "1Inch",
+  "decimals": 18,
+  "tokens": [
+    {
+      "network": "Ethereum",
+      "address": "0x111111111117dc0aa78b770fa6a738034120c302",
+      "name": "1Inch"
+    },
+    {
+      "network": "Moonriver",
+      "address": "0x7E2d29E4ccd3E58C01c50fF057B039D99F54b01D",
+      "name": "1Inch from Ethereum on Moonriver",
+      "symbol": "1Inch.eth"
+    }
+  ]
+}

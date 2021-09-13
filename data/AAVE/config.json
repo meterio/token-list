@@ -1,0 +1,19 @@
+{
+  "resourceID": "0x00000000000000000000007fc66500c84a76ad7e9c93437bfc5ac33e2ddae901",
+  "name": "AAVE",
+  "symbol": "AAVE",
+  "decimals": 18,
+  "tokens": [
+    {
+      "network": "Ethereum",
+      "address": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+      "name": "AAVE"
+    },
+    {
+      "network": "Moonriver",
+      "address": "0x607e02Aff1dc334a651172afd97ffB83C74662A1",
+      "name": "AAVE from Ethereum on Moonriver",
+      "symbol": "AAVE.eth"
+    }
+  ]
+}

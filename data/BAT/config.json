@@ -1,0 +1,19 @@
+{
+  "resourceID": "0x00000000000000000000000d8775f648430679a709e98d2b0cb6250d2887ef01",
+  "name": "BAT",
+  "symbol": "BAT",
+  "decimals": 18,
+  "tokens": [
+    {
+      "network": "Ethereum",
+      "address": "0x0d8775f648430679a709e98d2b0cb6250d2887ef",
+      "name": "BAT"
+    },
+    {
+      "network": "Moonriver",
+      "address": "0x7ddC30e4948ABf72391a678343dFFA385DA0d010",
+      "name": "BAT from Ethereum on Moonriver",
+      "symbol": "BAT.eth"
+    }
+  ]
+}

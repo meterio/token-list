@@ -1,0 +1,19 @@
+{
+  "resourceID": "0x00000000000000000000009f8f72aa9304c8b593d555f12ef6589cc3a579a201",
+  "name": "MKR",
+  "symbol": "MKR",
+  "decimals": 18,
+  "tokens": [
+    {
+      "network": "Ethereum",
+      "address": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
+      "name": "MKR"
+    },
+    {
+      "network": "Moonriver",
+      "address": "0x4b4E05CB973635D1A894D2e95699CDf83510Cc04",
+      "name": "MKR from Ethereum on Moonriver",
+      "symbol": "MKR.eth"
+    }
+  ]
+}
