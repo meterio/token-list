@@ -575,14 +575,6 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDT/logo.png"
     },
     {
-      "name": "Meter Volt",
-      "address": "0x8Df95e66Cb0eF38F91D2776DA3c921768982fBa0",
-      "symbol": "VOLT",
-      "decimals": 18,
-      "chainId": 1285,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/VOLT/logo.png"
-    },
-    {
       "name": "WBTC from Ethereum on Moonriver",
       "address": "0xE6a991Ffa8CfE62B0bf6BF72959A3d4f11B2E0f5",
       "symbol": "WBTC.eth",

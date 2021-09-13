@@ -162,15 +162,6 @@
     "decimals": 6
   },
   {
-    "address": "0x8Df95e66Cb0eF38F91D2776DA3c921768982fBa0",
-    "name": "Meter Volt",
-    "symbol": "VOLT",
-    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/VOLT/logo.png",
-    "resourceId": "0x00000000000000000000008df95e66cb0ef38f91d2776da3c921768982fba001",
-    "native": false,
-    "decimals": 18
-  },
-  {
     "address": "0xE6a991Ffa8CfE62B0bf6BF72959A3d4f11B2E0f5",
     "name": "WBTC from Ethereum on Moonriver",
     "symbol": "WBTC.eth",
