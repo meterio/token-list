@@ -9,6 +9,12 @@
       "address": "0x8Df95e66Cb0eF38F91D2776DA3c921768982fBa0",
       "name": "Volt",
       "symbol": "VOLT"
+    },
+    {
+      "network": "Moonriver",
+      "address": "0xff0bb979035Bc622f01062F37E2BaD4a05B31D83",
+      "name": "Volt from Meter on Moonriver",
+      "symbol": "VOLT"
     }
   ]
 }
