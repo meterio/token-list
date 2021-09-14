@@ -575,6 +575,14 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDT/logo.png"
     },
     {
+      "name": "Volt from Meter on Moonriver",
+      "address": "0xff0bb979035Bc622f01062F37E2BaD4a05B31D83",
+      "symbol": "VOLT",
+      "decimals": 18,
+      "chainId": 1285,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/VOLT/logo.png"
+    },
+    {
       "name": "WBTC from Ethereum on Moonriver",
       "address": "0xE6a991Ffa8CfE62B0bf6BF72959A3d4f11B2E0f5",
       "symbol": "WBTC.eth",
@@ -600,7 +608,7 @@
     },
     {
       "name": "ZRX from Ethereum on Moonriver",
-      "address": "0x3385777A17c9ff2fED6173C1253aAE26f9a8612A",
+      "address": "0x987bb5c0c25e5de95a9c1d20495F0F479EC7a8Fc",
       "symbol": "ZRX.eth",
       "decimals": 18,
       "chainId": 1285,

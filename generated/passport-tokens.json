@@ -381,6 +381,15 @@
       "decimals": 6
     },
     {
+      "address": "0xff0bb979035Bc622f01062F37E2BaD4a05B31D83",
+      "name": "Volt from Meter on Moonriver",
+      "symbol": "VOLT",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/VOLT/logo.png",
+      "resourceId": "0x00000000000000000000008df95e66cb0ef38f91d2776da3c921768982fba001",
+      "native": false,
+      "decimals": 18
+    },
+    {
       "address": "0xE6a991Ffa8CfE62B0bf6BF72959A3d4f11B2E0f5",
       "name": "WBTC from Ethereum on Moonriver",
       "symbol": "WBTC.eth",
@@ -399,7 +408,7 @@
       "decimals": 18
     },
     {
-      "address": "0x3385777A17c9ff2fED6173C1253aAE26f9a8612A",
+      "address": "0x987bb5c0c25e5de95a9c1d20495F0F479EC7a8Fc",
       "name": "ZRX from Ethereum on Moonriver",
       "symbol": "ZRX.eth",
       "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/ZRX/logo.png",
@@ -652,6 +661,15 @@
       "resourceId": "0x0000000000000000000000dac17f958d2ee523a2206206994597c13d831ec701",
       "native": false,
       "decimals": 6
+    },
+    {
+      "address": "0x8Df95e66Cb0eF38F91D2776DA3c921768982fBa0",
+      "name": "Volt",
+      "symbol": "VOLT",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/VOLT/logo.png",
+      "resourceId": "0x00000000000000000000008df95e66cb0ef38f91d2776da3c921768982fba001",
+      "native": false,
+      "decimals": 18
     },
     {
       "address": "0xc1f6C86ABEe8e2e0B6fd5BD80F0b51fef783635C",
