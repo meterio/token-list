@@ -1,0 +1,16 @@
+{
+  "resourceID": "0x0000000000000000000000d478161c952357f05f0292b56012cd8457f1cfbf01",
+  "name": "Polkamarkets",
+  "symbol": "POLK",
+  "decimals": 18,
+  "tokens": [
+    {
+      "network": "Ethereum",
+      "address": "0xd478161c952357f05f0292b56012cd8457f1cfbf"
+    },
+    {
+      "network": "Moonriver",
+      "address": "0x8b29344f368b5FA35595325903fE0eAab70C8E1F"
+    }
+  ]
+}
