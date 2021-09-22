@@ -135,6 +135,15 @@
     "decimals": 18
   },
   {
+    "address": "0xd478161c952357f05f0292b56012cd8457f1cfbf",
+    "name": "Polkamarkets",
+    "symbol": "POLK",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/POLK/logo.png",
+    "resourceId": "0x0000000000000000000000d478161c952357f05f0292b56012cd8457f1cfbf01",
+    "native": false,
+    "decimals": 18
+  },
+  {
     "address": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
     "name": "SNX",
     "symbol": "SNX",

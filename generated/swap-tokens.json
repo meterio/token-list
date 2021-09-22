@@ -135,6 +135,14 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MKR/logo.png"
     },
     {
+      "name": "Polkamarkets",
+      "address": "0xd478161c952357f05f0292b56012cd8457f1cfbf",
+      "symbol": "POLK",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/POLK/logo.png"
+    },
+    {
       "name": "SNX",
       "address": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
       "symbol": "SNX",
@@ -287,6 +295,14 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/CLIQ/logo.png"
     },
     {
+      "name": "MOVR from MoonRiver",
+      "address": "0x3674D64AaB971aB974B2035667a4B3d09B5ec2B3",
+      "symbol": "MOVR",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MOVR/logo.png"
+    },
+    {
       "name": "Meter Governance mapped by Meter.io",
       "address": "0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F",
       "symbol": "MTRG",
@@ -317,6 +333,14 @@
       "decimals": 18,
       "chainId": 82,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/BUSD/logo.png"
+    },
+    {
+      "name": "MOVR from MoonRiver on Meter",
+      "address": "0xb158870beB809Ad955Bf56065C5C10D7Fd957cC0",
+      "symbol": "MOVR",
+      "decimals": 18,
+      "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MOVR/logo.png"
     },
     {
       "name": "Meter Governance",
@@ -527,12 +551,28 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MKR/logo.png"
     },
     {
+      "name": "MOVR",
+      "address": "0xf50225a84382c74CbdeA10b0c176f71fc3DE0C4d",
+      "symbol": "MOVR",
+      "decimals": 18,
+      "chainId": 1285,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MOVR/logo.png"
+    },
+    {
       "name": "Meter Governance mapped by Meter.io",
       "address": "0x1e24EC84F66cd26Dad607d81796DbeB13Cb22692",
       "symbol": "MTRG",
       "decimals": 18,
       "chainId": 1285,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png"
+    },
+    {
+      "name": "Polkamarkets",
+      "address": "0x8b29344f368b5FA35595325903fE0eAab70C8E1F",
+      "symbol": "POLK",
+      "decimals": 18,
+      "chainId": 1285,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/POLK/logo.png"
     },
     {
       "name": "SNX from Ethereum on Moonriver",

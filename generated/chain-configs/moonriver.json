@@ -108,11 +108,29 @@
     "decimals": 18
   },
   {
+    "address": "0xf50225a84382c74CbdeA10b0c176f71fc3DE0C4d",
+    "name": "MOVR",
+    "symbol": "MOVR",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/MOVR/logo.png",
+    "resourceId": "0x0000000000000000000000f50225a84382c74cbdea10b0c176f71fc3de0c4d01",
+    "native": true,
+    "decimals": 18
+  },
+  {
     "address": "0x1e24EC84F66cd26Dad607d81796DbeB13Cb22692",
     "name": "Meter Governance mapped by Meter.io",
     "symbol": "MTRG",
     "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png",
     "resourceId": "0x0000000000000000000000bd2949f67dcdc549c6ebe98696449fa79d988a9f01",
+    "native": false,
+    "decimals": 18
+  },
+  {
+    "address": "0x8b29344f368b5FA35595325903fE0eAab70C8E1F",
+    "name": "Polkamarkets",
+    "symbol": "POLK",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/POLK/logo.png",
+    "resourceId": "0x0000000000000000000000d478161c952357f05f0292b56012cd8457f1cfbf01",
     "native": false,
     "decimals": 18
   },

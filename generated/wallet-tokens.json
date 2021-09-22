@@ -178,6 +178,16 @@
       "resourceId": "0x00000000000000000000009f8f72aa9304c8b593d555f12ef6589cc3a579a201"
     },
     {
+      "name": "Polkamarkets",
+      "address": "0xd478161c952357f05f0292b56012cd8457f1cfbf",
+      "symbol": "POLK",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/POLK/logo.png",
+      "native": false,
+      "resourceId": "0x0000000000000000000000d478161c952357f05f0292b56012cd8457f1cfbf01"
+    },
+    {
       "name": "SNX",
       "address": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
       "symbol": "SNX",
@@ -387,6 +397,17 @@
       "resourceId": "0x00000000000000000000000def8d8adde14c9ef7c2a986df3ea4bd6582676701"
     },
     {
+      "name": "MOVR from MoonRiver",
+      "address": "0x3674D64AaB971aB974B2035667a4B3d09B5ec2B3",
+      "symbol": "MOVR",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MOVR/logo.png",
+      "coinId": "moonriver",
+      "native": false,
+      "resourceId": "0x0000000000000000000000f50225a84382c74cbdea10b0c176f71fc3de0c4d01"
+    },
+    {
       "name": "Meter Governance mapped by Meter.io",
       "address": "0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F",
       "symbol": "MTRG",
@@ -429,6 +450,17 @@
       "coinId": "binance-usd",
       "native": false,
       "resourceId": "0x0000000000000000000000e9e7cea3dedca5984780bafc599bd69add087d5601"
+    },
+    {
+      "name": "MOVR from MoonRiver on Meter",
+      "address": "0xb158870beB809Ad955Bf56065C5C10D7Fd957cC0",
+      "symbol": "MOVR",
+      "decimals": 18,
+      "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MOVR/logo.png",
+      "coinId": "moonriver",
+      "native": false,
+      "resourceId": "0x0000000000000000000000f50225a84382c74cbdea10b0c176f71fc3de0c4d01"
     },
     {
       "name": "Meter Stable",
@@ -756,14 +788,15 @@
       "resourceId": "0x00000000000000000000009f8f72aa9304c8b593d555f12ef6589cc3a579a201"
     },
     {
-      "name": "Moonriver",
-      "address": "0x",
+      "name": "MOVR",
+      "address": "0xf50225a84382c74CbdeA10b0c176f71fc3DE0C4d",
       "symbol": "MOVR",
       "decimals": 18,
       "chainId": 1285,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MOVR/logo.png",
       "coinId": "moonriver",
-      "native": true
+      "native": true,
+      "resourceId": "0x0000000000000000000000f50225a84382c74cbdea10b0c176f71fc3de0c4d01"
     },
     {
       "name": "Meter Governance mapped by Meter.io",
@@ -775,6 +808,16 @@
       "coinId": "meter",
       "native": false,
       "resourceId": "0x0000000000000000000000bd2949f67dcdc549c6ebe98696449fa79d988a9f01"
+    },
+    {
+      "name": "Polkamarkets",
+      "address": "0x8b29344f368b5FA35595325903fE0eAab70C8E1F",
+      "symbol": "POLK",
+      "decimals": 18,
+      "chainId": 1285,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/POLK/logo.png",
+      "native": false,
+      "resourceId": "0x0000000000000000000000d478161c952357f05f0292b56012cd8457f1cfbf01"
     },
     {
       "name": "SNX from Ethereum on Moonriver",
