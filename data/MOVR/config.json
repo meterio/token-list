@@ -1,0 +1,26 @@
+{
+  "resourceID": "0x0000000000000000000000f50225a84382c74cbdea10b0c176f71fc3de0c4d01",
+  "name": "MoonRiver",
+  "symbol": "MOVR",
+  "decimals": 18,
+  "tokens": [
+    {
+      "network": "Meter",
+      "address": "0xb158870beB809Ad955Bf56065C5C10D7Fd957cC0",
+      "name": "MOVR from MoonRiver on Meter",
+      "symbol": "MOVR"
+    },
+    {
+      "network": "Moonriver",
+      "address": "0xf50225a84382c74CbdeA10b0c176f71fc3DE0C4d",
+      "name": "MOVR",
+      "symbol": "MOVR",
+      "native": true
+    },
+    {
+      "network": "BSC",
+      "address": "0x3674D64AaB971aB974B2035667a4B3d09B5ec2B3",
+      "name": "MOVR from MoonRiver",
+      "symbol": "MOVR"
+    }
+}
