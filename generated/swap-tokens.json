@@ -343,6 +343,14 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MOVR/logo.png"
     },
     {
+      "name": "Meter MetaStable",
+      "address": "0x687A6294D0D6d63e751A059bf1ca68E4AE7B13E2",
+      "symbol": "MTR",
+      "decimals": 18,
+      "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTR/logo.png"
+    },
+    {
       "name": "Meter Governance",
       "address": "0x228ebBeE999c6a7ad74A6130E81b12f9Fe237Ba3",
       "symbol": "MTRG",
