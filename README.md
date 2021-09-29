@@ -188,6 +188,16 @@ Erc20 Handler:      0x48A6fd66512D45006FC0426576c264D03Dfda304
 Generic Handler:    0x29E9fDF5933824ad21Bc6dbb8BF156EFA3735e32
 ```
 
+### On Avalanche Mainnet
+
+```
+Avalanche Contract Addresses
+================================================================
+Bridge:             0xF41e7FC4eC990298d36f667B93951c9dba65224e
+Erc20 Handler:      0x48A6fd66512D45006FC0426576c264D03Dfda304
+Generic Handler:    0x123455360bE78C9289B38bcb4DbA427D9a6cD440
+```
+
 ### On Ethereum Ropsten
 
 ```
@@ -233,8 +243,9 @@ Generic Handler:    0x26c61e08d6fd620420079ED4B90Ec4a99c6bCEaa
 ```
 Theta Testnet Contract Addresses
 ================================================================
-Bridge:             0x70302d7cFfCb2a56A39DAf66DC4410fFF2B0242d
-Erc20 Handler:      0x8f9EC10F71AFC10b123234e470D625713fC59514
+Bridge:             0xc37518bCa208BEb992804baa0ccAD935882A432c
+Erc20 Handler:      0x387791781A5A9cB1C491E30F19CFD4c7741e5216
+Generic Handler:    0x24bB4c53EeDb777fa1ba78d953941567170Cd3a1
 ```
 
 ## Generate configs
