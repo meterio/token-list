@@ -21,6 +21,10 @@
     {
       "network": "Moonriver",
       "address": "0x6fc9651f45B262AE6338a701D563Ab118B1eC0Ce"
+    },
+    {
+      "network": "BSC",
+      "address": "0xbcf39F0EDDa668C58371E519AF37CA705f2bFcbd"
     }
   ]
 }
