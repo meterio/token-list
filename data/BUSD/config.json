@@ -14,6 +14,12 @@
       "address": "0x24aA189DfAa76c671c279262F94434770F557c35",
       "name": "BUSD from BSC on Meter",
       "symbol": "BUSD.bsc"
+    },
+    {
+      "network": "Moonriver",
+      "address": "0xaBD347F625194D8e56F8e8b5E8562F34B6Df3469",
+      "name": "BUSD from BSC on Moonriver",
+      "symbol": "BUSD.bsc"
     }
   ]
 }

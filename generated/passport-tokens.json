@@ -255,6 +255,24 @@
       "decimals": 18
     },
     {
+      "address": "0x868892CCcEdbfF0B028F3b3595205Ea91b99376B",
+      "name": "BNB from BSC on Moonriver",
+      "symbol": "BNB.bsc",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/BNB/logo.png",
+      "resourceId": "0x0000000000000000000000bb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c01",
+      "native": false,
+      "decimals": 18
+    },
+    {
+      "address": "0xaBD347F625194D8e56F8e8b5E8562F34B6Df3469",
+      "name": "BUSD from BSC on Moonriver",
+      "symbol": "BUSD.bsc",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/BUSD/logo.png",
+      "resourceId": "0x0000000000000000000000e9e7cea3dedca5984780bafc599bd69add087d5601",
+      "native": false,
+      "decimals": 18
+    },
+    {
       "address": "0xB94b5d77184f59716958e435Cd105f2DB50C734B",
       "name": "COMP from Ethereum on Moonriver",
       "symbol": "COMP.eth",
