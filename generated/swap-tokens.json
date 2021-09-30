@@ -247,6 +247,14 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png"
     },
     {
+      "name": "TFUEL",
+      "address": "0xbaF626Dc137Dc15436447c9D624fBB5c845aBCeC",
+      "symbol": "TFUEL",
+      "decimals": 18,
+      "chainId": 3,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/TFUEL/logo.png"
+    },
+    {
       "name": "Tether USD",
       "address": "0x76F2c2C3380587252076a8de5C7147c6a185127d",
       "symbol": "USDT",
@@ -461,6 +469,14 @@
       "decimals": 18,
       "chainId": 101,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png"
+    },
+    {
+      "name": "Theta Fuel",
+      "address": "0xd9587fd562297db7cade281ecc46ba4f8972a389",
+      "symbol": "TFUEL",
+      "decimals": 18,
+      "chainId": 365,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/TFUEL/logo.png"
     },
     {
       "name": "Wrapped ETH",

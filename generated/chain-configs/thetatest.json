@@ -7,5 +7,14 @@
     "resourceId": "0x0000000000000000000000C02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc201",
     "native": false,
     "decimals": 18
+  },
+  {
+    "address": "0xd9587fd562297db7cade281ecc46ba4f8972a389",
+    "name": "Theta Fuel",
+    "symbol": "TFUEL",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/TFUEL/logo.png",
+    "resourceId": "0x0000000000000000000000d9587fd562297db7cade281ecc46ba4f8972a38901",
+    "native": true,
+    "decimals": 18
   }
 ]
