@@ -1007,6 +1007,26 @@
       "coinId": "ethereum",
       "native": false,
       "resourceId": "0x0000000000000000000000C02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc201"
+    },
+    {
+      "name": "AmpleForth",
+      "address": "0x027dbcA046ca156De9622cD1e2D907d375e53aa7",
+      "symbol": "AMPL",
+      "decimals": 9,
+      "chainId": 43114,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/AMPL/logo.png",
+      "coinId": "ampleforth",
+      "native": false,
+      "resourceId": "0x1f3eb8ee12ce38ffa19fc4c635621ad2c9a0bd609def9ddce77680e33bc2224b"
+    },
+    {
+      "name": "AVAX Token",
+      "address": "0x",
+      "symbol": "AVAX",
+      "decimals": 18,
+      "chainId": 43114,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/AVAX/logo.png",
+      "native": true
     }
   ]
 }

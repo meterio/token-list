@@ -14,6 +14,10 @@
       "address": "0xDB021b1B247fe2F1fa57e0A87C748Cc1E321F07F"
     },
     {
+      "network": "Avalanche",
+      "address": "0x027dbcA046ca156De9622cD1e2D907d375e53aa7"
+    },
+    {
       "network": "Ropsten",
       "address": "0xD0E9335817f7B7c2567b784FD55b203697177E2A"
     },

@@ -537,6 +537,17 @@
       "tokenProxy": "0xd4183192BfaA828fCcfb599948964C0BFFdE933c"
     }
   ],
+  "Avalanche": [
+    {
+      "address": "0x027dbcA046ca156De9622cD1e2D907d375e53aa7",
+      "name": "AmpleForth",
+      "symbol": "AMPL",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/AMPL/logo.png",
+      "resourceId": "0x1f3eb8ee12ce38ffa19fc4c635621ad2c9a0bd609def9ddce77680e33bc2224b",
+      "native": false,
+      "decimals": 9
+    }
+  ],
   "Ropsten": [
     {
       "address": "0xD0E9335817f7B7c2567b784FD55b203697177E2A",

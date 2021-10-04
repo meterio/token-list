@@ -709,6 +709,14 @@
       "decimals": 18,
       "chainId": 1287,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png"
+    },
+    {
+      "name": "AmpleForth",
+      "address": "0x027dbcA046ca156De9622cD1e2D907d375e53aa7",
+      "symbol": "AMPL",
+      "decimals": 9,
+      "chainId": 43114,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/AMPL/logo.png"
     }
   ]
 }
