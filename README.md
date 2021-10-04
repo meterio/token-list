@@ -13,6 +13,7 @@
 | Theta Testnet       | ThetaTest | 0x16d       | 365             |
 | Moonriver           | Moonriver | 0x505       | 1285            |
 | Moonbeam Testnet    | Moonbase  | 0x507       | 1287            |
+| Avalanche Network   | Avalanche | 0xa86a      | 43114           |
 
 ## Integrating a new ERC20 token to Meter Passport
 

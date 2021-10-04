@@ -53,6 +53,12 @@ const CHAINS = [
     testnet: true,
     nativeToken: { name: 'Theta Fuel', symbol: 'TFUEL', decimals: 18 },
   },
+  {
+    enum: 'Avalanche',
+    chainId: 43114,
+    testnet: false,
+    nativeToken: { name: 'AVAX Token', symbol: 'AVAX', decimals: 18 },
+  },
 ];
 
 const tokenSchema = {
