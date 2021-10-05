@@ -1026,6 +1026,7 @@
       "decimals": 18,
       "chainId": 43114,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/AVAX/logo.png",
+      "coinId": "avalanche-2",
       "native": true
     }
   ]
