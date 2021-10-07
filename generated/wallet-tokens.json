@@ -747,6 +747,17 @@
       "resourceId": "0x0000000000000000000000e9e7cea3dedca5984780bafc599bd69add087d5601"
     },
     {
+      "name": "Cliq Token",
+      "address": "0x2A0509760bF672E74899917D0D84cC10D7E34Ef6",
+      "symbol": "CLIQ",
+      "decimals": 18,
+      "chainId": 1285,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/CLIQ/logo.png",
+      "coinId": "deficliq",
+      "native": false,
+      "resourceId": "0x00000000000000000000000def8d8adde14c9ef7c2a986df3ea4bd6582676701"
+    },
+    {
       "name": "COMP from Ethereum on Moonriver",
       "address": "0xB94b5d77184f59716958e435Cd105f2DB50C734B",
       "symbol": "COMP.eth",
