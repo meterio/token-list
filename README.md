@@ -147,7 +147,7 @@ node scripts/validate.js [your-token-symbol]
 
 6. If your token has none standard ERC20 features like different decimals, rebasing features and etc, please inquire in our [discord channel](https://discordapp.com/invite/WPjTpMG).
 
-7. If you token is new, you need add its coinId in /scripts/coingecko.json file, you can get the id by the url [coingecko api](https://api.coingecko.com/api/v3/coins/list)
+7. If your token is new, you need add its coinId in /scripts/coingecko.json file, you can get the id by the url [coingecko api](https://api.coingecko.com/api/v3/coins/list)
 
 ## Deployed contracts on various networks
 
