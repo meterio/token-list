@@ -27,6 +27,15 @@
     "decimals": 18
   },
   {
+    "address": "0xCb4a593ce512D78162C58384f0b2Fd6e802c2c47",
+    "name": "BEPRO Network",
+    "symbol": "BEPRO",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/BEPRO/logo.png",
+    "resourceId": "0x0000000000000000000000cf3c8be2e2c42331da80ef210e9b1b307c03d36a01",
+    "native": false,
+    "decimals": 18
+  },
+  {
     "address": "0x868892CCcEdbfF0B028F3b3595205Ea91b99376B",
     "name": "BNB from BSC on Moonriver",
     "symbol": "BNB.bsc",

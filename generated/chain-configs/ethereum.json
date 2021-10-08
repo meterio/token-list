@@ -36,6 +36,15 @@
     "decimals": 18
   },
   {
+    "address": "0xcf3c8be2e2c42331da80ef210e9b1b307c03d36a",
+    "name": "BEPRO Network",
+    "symbol": "BEPRO",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/BEPRO/logo.png",
+    "resourceId": "0x0000000000000000000000cf3c8be2e2c42331da80ef210e9b1b307c03d36a01",
+    "native": false,
+    "decimals": 18
+  },
+  {
     "address": "0x0Def8d8addE14c9eF7c2a986dF3eA4Bd65826767",
     "name": "Cliq Token",
     "symbol": "CLIQ",

@@ -47,6 +47,14 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/BAT/logo.png"
     },
     {
+      "name": "BEPRO Network",
+      "address": "0xcf3c8be2e2c42331da80ef210e9b1b307c03d36a",
+      "symbol": "BEPRO",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/BEPRO/logo.png"
+    },
+    {
       "name": "Cliq Token",
       "address": "0x0Def8d8addE14c9eF7c2a986dF3eA4Bd65826767",
       "symbol": "CLIQ",
@@ -509,6 +517,14 @@
       "decimals": 18,
       "chainId": 1285,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/BAT/logo.png"
+    },
+    {
+      "name": "BEPRO Network",
+      "address": "0xCb4a593ce512D78162C58384f0b2Fd6e802c2c47",
+      "symbol": "BEPRO",
+      "decimals": 18,
+      "chainId": 1285,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/BEPRO/logo.png"
     },
     {
       "name": "BNB from BSC on Moonriver",
