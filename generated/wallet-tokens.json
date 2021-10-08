@@ -228,7 +228,7 @@
       "decimals": 18,
       "chainId": 1,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/UNI/logo.png",
-      "coinId": "uniswap",
+      "coinId": "unicorn-token",
       "native": false,
       "resourceId": "0x00000000000000000000001f9840a85d5af5bf1d1762f925bdaddc4201f98401"
     },
@@ -929,7 +929,7 @@
       "decimals": 18,
       "chainId": 1285,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/UNI/logo.png",
-      "coinId": "uniswap",
+      "coinId": "unicorn-token",
       "native": false,
       "resourceId": "0x00000000000000000000001f9840a85d5af5bf1d1762f925bdaddc4201f98401"
     },
