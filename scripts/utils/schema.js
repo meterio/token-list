@@ -59,6 +59,12 @@ const CHAINS = [
     testnet: false,
     nativeToken: { name: 'AVAX Token', symbol: 'AVAX', decimals: 18 },
   },
+  {
+    enum: 'VoltaTest',
+    chainId: 73799,
+    testnet: true,
+    nativeToken: { name: 'VT Token', symbol: 'VT', decimals: 18 },
+  },
 ];
 
 const tokenSchema = {

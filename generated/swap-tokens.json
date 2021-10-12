@@ -741,6 +741,14 @@
       "decimals": 9,
       "chainId": 43114,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/AMPL/logo.png"
+    },
+    {
+      "name": "Wrapped ETH",
+      "address": "0x07446A7e12C2d24d6b180d009e4255aE26fBF018",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 73799,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png"
     }
   ]
 }

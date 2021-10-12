@@ -839,5 +839,16 @@
       "native": true,
       "decimals": 18
     }
+  ],
+  "VoltaTest": [
+    {
+      "address": "0x07446A7e12C2d24d6b180d009e4255aE26fBF018",
+      "name": "Wrapped ETH",
+      "symbol": "WETH",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png",
+      "resourceId": "0x0000000000000000000000C02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc201",
+      "native": false,
+      "decimals": 18
+    }
   ]
 }
