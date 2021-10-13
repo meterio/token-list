@@ -1031,6 +1031,17 @@
       "native": true
     },
     {
+      "name": "Volta token",
+      "address": "0x6a9b0A19e30514512AE3B56Dc5A10a95FF983561",
+      "symbol": "VT",
+      "decimals": 18,
+      "chainId": 1287,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/VT/logo.png",
+      "coinId": "energy-web-token",
+      "native": false,
+      "resourceId": "0x0000000000000000000000db8b4264b1777e046267b4cc123f0c9e029ceb2c01"
+    },
+    {
       "name": "Wrapped ETH",
       "address": "0x9037816b5D8f5Fe182DA2EC935AA945dc2f0a27D",
       "symbol": "WETH",
@@ -1063,13 +1074,15 @@
       "native": true
     },
     {
-      "name": "VT Token",
-      "address": "0x",
+      "name": "Volta token",
+      "address": "0xDb8B4264b1777e046267b4Cc123f0C9E029cEB2c",
       "symbol": "VT",
       "decimals": 18,
       "chainId": 73799,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/VT/logo.png",
-      "native": true
+      "coinId": "energy-web-token",
+      "native": true,
+      "resourceId": "0x0000000000000000000000db8b4264b1777e046267b4cc123f0c9e029ceb2c01"
     },
     {
       "name": "Wrapped ETH",

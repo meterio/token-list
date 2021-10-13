@@ -818,6 +818,15 @@
       "resourceId": "0x0000000000000000000000C02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc201",
       "native": false,
       "decimals": 18
+    },
+    {
+      "address": "0x6a9b0A19e30514512AE3B56Dc5A10a95FF983561",
+      "name": "Volta token",
+      "symbol": "VT",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/VT/logo.png",
+      "resourceId": "0x0000000000000000000000db8b4264b1777e046267b4cc123f0c9e029ceb2c01",
+      "native": false,
+      "decimals": 18
     }
   ],
   "ThetaTest": [
@@ -848,6 +857,15 @@
       "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png",
       "resourceId": "0x0000000000000000000000C02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc201",
       "native": false,
+      "decimals": 18
+    },
+    {
+      "address": "0xDb8B4264b1777e046267b4Cc123f0C9E029cEB2c",
+      "name": "Volta token",
+      "symbol": "VT",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/VT/logo.png",
+      "resourceId": "0x0000000000000000000000db8b4264b1777e046267b4cc123f0c9e029ceb2c01",
+      "native": true,
       "decimals": 18
     }
   ]

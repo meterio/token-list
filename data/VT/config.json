@@ -1,0 +1,21 @@
+{
+  "resourceID": "0x0000000000000000000000db8b4264b1777e046267b4cc123f0c9e029ceb2c01",
+  "testResourceID": "0x0000000000000000000000db8b4264b1777e046267b4cc123f0c9e029ceb2c01",
+  "name": "Volta token",
+  "symbol": "VT",
+  "decimals": 18,
+  "tokens": [
+    {
+      "network": "VoltaTest",
+      "address": "0xDb8B4264b1777e046267b4Cc123f0C9E029cEB2c",
+      "name": "Volta token",
+      "native": true
+    },
+    {
+      "network": "Moonbase",
+      "address": "0x6a9b0A19e30514512AE3B56Dc5A10a95FF983561",
+      "name": "Volta token",
+      "symbol": "VT"
+    }
+  ]
+}

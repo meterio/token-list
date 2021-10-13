@@ -727,6 +727,14 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/CWS/logo.png"
     },
     {
+      "name": "Volta token",
+      "address": "0x6a9b0A19e30514512AE3B56Dc5A10a95FF983561",
+      "symbol": "VT",
+      "decimals": 18,
+      "chainId": 1287,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/VT/logo.png"
+    },
+    {
       "name": "Wrapped ETH",
       "address": "0x9037816b5D8f5Fe182DA2EC935AA945dc2f0a27D",
       "symbol": "WETH",
@@ -741,6 +749,14 @@
       "decimals": 9,
       "chainId": 43114,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/AMPL/logo.png"
+    },
+    {
+      "name": "Volta token",
+      "address": "0xDb8B4264b1777e046267b4Cc123f0C9E029cEB2c",
+      "symbol": "VT",
+      "decimals": 18,
+      "chainId": 73799,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/VT/logo.png"
     },
     {
       "name": "Wrapped ETH",
