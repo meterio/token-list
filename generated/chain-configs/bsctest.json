@@ -6,7 +6,8 @@
     "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/AMPL/logo.png",
     "resourceId": "0x1f3eb8ee12ce38ffa19fc4c635621ad2c9a0bd609def9ddce77680e33bc2224b",
     "native": false,
-    "decimals": 9
+    "decimals": 9,
+    "coinId": "ampleforth"
   },
   {
     "address": "0x93b43BA0Fda0490dD0Ceb52dafB9463A844cC1c9",
@@ -15,7 +16,8 @@
     "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png",
     "resourceId": "0x0000000000000000000000C02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc201",
     "native": false,
-    "decimals": 18
+    "decimals": 18,
+    "coinId": "ethereum"
   },
   {
     "address": "0x53ccb3D86B04b5FD7e647e11a39d1AAE746C2E98",
@@ -24,7 +26,8 @@
     "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png",
     "resourceId": "0x0000000000000000000000228ebBeE999c6a7ad74A6130E81b12f9Fe237Ba301",
     "native": false,
-    "decimals": 18
+    "decimals": 18,
+    "coinId": "meter"
   },
   {
     "address": "0x28387Fde25Df9E9a2314fC0C134218E6Fe199d8e",
@@ -34,6 +37,7 @@
     "resourceId": "0x0000000000000000000000a58a4f5c4bb043d2cc1e170613b74e767c94189b01",
     "native": false,
     "decimals": 18,
-    "tokenProxy": "0x468cddEeaAbb2b8F554b8a7D6FBEb5c3330c1bE3"
+    "tokenProxy": "0x468cddEeaAbb2b8F554b8a7D6FBEb5c3330c1bE3",
+    "coinId": "utu-coin"
   }
 ]

@@ -6,7 +6,8 @@
     "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/CWS/logo.png",
     "resourceId": "0x0000000000000000000000aaeffc5b43ef3fb83c9f4888301ce7e9c6deddc403",
     "native": false,
-    "decimals": 18
+    "decimals": 18,
+    "coinId": "crowns"
   },
   {
     "address": "0x9037816b5D8f5Fe182DA2EC935AA945dc2f0a27D",
@@ -15,7 +16,8 @@
     "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png",
     "resourceId": "0x0000000000000000000000C02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc201",
     "native": false,
-    "decimals": 18
+    "decimals": 18,
+    "coinId": "ethereum"
   },
   {
     "address": "0x6a9b0A19e30514512AE3B56Dc5A10a95FF983561",
@@ -24,6 +26,7 @@
     "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/VT/logo.png",
     "resourceId": "0x0000000000000000000000db8b4264b1777e046267b4cc123f0c9e029ceb2c01",
     "native": false,
-    "decimals": 18
+    "decimals": 18,
+    "coinId": "energy-web-token"
   }
 ]

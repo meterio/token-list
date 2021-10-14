@@ -53,6 +53,11 @@ const mkdirIfNeeded = (dir) => {
 const genPassportTokens = (symbols) => {
   const passportTokens = {};
   for (const sym of symbols) {
+    const coinId = coingecko[sym];
+    if (!coinId) {
+      console.log('[WARN] please configure coinId in coingecko.json for ', sym);
+    }
+
     const config = getConfig(sym);
 
     // tokens must have more than 1 tokens to be effective on bridge
@@ -75,6 +80,7 @@ const genPassportTokens = (symbols) => {
         native: token.native || false,
         decimals: token.decimals || config.decimals,
         tokenProxy: token.tokenProxy || undefined,
+        coinId,
       };
       passportTokens[token.network].push(tokenConfig);
     }

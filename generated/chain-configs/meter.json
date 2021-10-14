@@ -6,7 +6,8 @@
     "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/BNB/logo.png",
     "resourceId": "0x0000000000000000000000bb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c01",
     "native": false,
-    "decimals": 18
+    "decimals": 18,
+    "coinId": "binancecoin"
   },
   {
     "address": "0x24aA189DfAa76c671c279262F94434770F557c35",
@@ -15,7 +16,8 @@
     "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/BUSD/logo.png",
     "resourceId": "0x0000000000000000000000e9e7cea3dedca5984780bafc599bd69add087d5601",
     "native": false,
-    "decimals": 18
+    "decimals": 18,
+    "coinId": "binance-usd"
   },
   {
     "address": "0x79A61D3A28F8c8537A3DF63092927cFa1150Fb3C",
@@ -24,7 +26,8 @@
     "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png",
     "resourceId": "0x0000000000000000000000c02aaa39b223fe8d0a0e5c4f27ead9083c756cc201",
     "native": false,
-    "decimals": 18
+    "decimals": 18,
+    "coinId": "ethereum"
   },
   {
     "address": "0xb158870beB809Ad955Bf56065C5C10D7Fd957cC0",
@@ -33,7 +36,8 @@
     "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/MOVR/logo.png",
     "resourceId": "0x0000000000000000000000f50225a84382c74cbdea10b0c176f71fc3de0c4d01",
     "native": false,
-    "decimals": 18
+    "decimals": 18,
+    "coinId": "moonriver"
   },
   {
     "address": "0x228ebBeE999c6a7ad74A6130E81b12f9Fe237Ba3",
@@ -42,7 +46,8 @@
     "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png",
     "resourceId": "0x0000000000000000000000bd2949f67dcdc549c6ebe98696449fa79d988a9f01",
     "native": false,
-    "decimals": 18
+    "decimals": 18,
+    "coinId": "meter"
   },
   {
     "address": "0xd86e243fc0007e6226b07c9a50c9d70d78299eb5",
@@ -51,7 +56,8 @@
     "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDC/logo.png",
     "resourceId": "0x0000000000000000000000a0b86991c6218b36c1d19d4a2e9eb0ce3606eb4801",
     "native": false,
-    "decimals": 6
+    "decimals": 6,
+    "coinId": "usd-coin"
   },
   {
     "address": "0x5Fa41671c48e3C951AfC30816947126CCC8C162e",
@@ -60,7 +66,8 @@
     "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDT/logo.png",
     "resourceId": "0x0000000000000000000000dac17f958d2ee523a2206206994597c13d831ec701",
     "native": false,
-    "decimals": 6
+    "decimals": 6,
+    "coinId": "tether"
   },
   {
     "address": "0x8Df95e66Cb0eF38F91D2776DA3c921768982fBa0",
@@ -69,7 +76,8 @@
     "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/VOLT/logo.png",
     "resourceId": "0x00000000000000000000008df95e66cb0ef38f91d2776da3c921768982fba001",
     "native": false,
-    "decimals": 18
+    "decimals": 18,
+    "coinId": "volt"
   },
   {
     "address": "0xc1f6C86ABEe8e2e0B6fd5BD80F0b51fef783635C",
@@ -78,6 +86,7 @@
     "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/WBTC/logo.png",
     "resourceId": "0x00000000000000000000002260fac5e5542a773aa44fbcfedf7c193bc2c59901",
     "native": false,
-    "decimals": 8
+    "decimals": 8,
+    "coinId": "wrapped-bitcoin"
   }
 ]
