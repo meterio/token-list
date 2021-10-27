@@ -10,26 +10,6 @@
     "coinId": "ampleforth"
   },
   {
-    "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
-    "name": "BNB",
-    "symbol": "BNB",
-    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/BNB/logo.png",
-    "resourceId": "0x0000000000000000000000bb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c01",
-    "native": true,
-    "decimals": 18,
-    "coinId": "binancecoin"
-  },
-  {
-    "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
-    "name": "BUSD",
-    "symbol": "BUSD",
-    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/BUSD/logo.png",
-    "resourceId": "0x0000000000000000000000e9e7cea3dedca5984780bafc599bd69add087d5601",
-    "native": false,
-    "decimals": 18,
-    "coinId": "binance-usd"
-  },
-  {
     "address": "0xe795347731Bc547F4E4643F7945738cE2BC18529",
     "name": "Cliq Token",
     "symbol": "CLIQ",
@@ -58,16 +38,6 @@
     "native": false,
     "decimals": 18,
     "coinId": "moonriver"
-  },
-  {
-    "address": "0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F",
-    "name": "Meter Governance mapped by Meter.io",
-    "symbol": "MTRG",
-    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png",
-    "resourceId": "0x0000000000000000000000bd2949f67dcdc549c6ebe98696449fa79d988a9f01",
-    "native": false,
-    "decimals": 18,
-    "coinId": "meter"
   },
   {
     "address": "0xed4Bb33F20F32E989AF975196E86019773A7CFf0",

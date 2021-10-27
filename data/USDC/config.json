@@ -21,6 +21,12 @@
       "address": "0x7B37d0787A3424A0810E02b24743a45eBd5530B2",
       "name": "USDC from Ethereum on Moonriver",
       "symbol": "USDC.eth"
+    },
+    {
+      "network": "Theta",
+      "address": "0x3Ca3fEFA944753b43c751336A5dF531bDD6598B6",
+      "name": "USDC from Ethereum on Moonriver",
+      "symbol": "USDC"
     }
   ]
 }

@@ -27,6 +27,11 @@
       "name": "Meter Governance mapped by Meter.io"
     },
     {
+      "network": "Theta",
+      "address": "0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F",
+      "name": "Meter Governance mapped by Meter.io"
+    },
+    {
       "network": "Ropsten",
       "address": "0x48a6fd66512d45006fc0426576c264d03dfda304",
       "name": "eMTRG",

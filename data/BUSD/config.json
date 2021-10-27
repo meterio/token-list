@@ -20,6 +20,12 @@
       "address": "0xaBD347F625194D8e56F8e8b5E8562F34B6Df3469",
       "name": "BUSD from BSC on Moonriver",
       "symbol": "BUSD.bsc"
+    },
+    {
+      "network": "Theta",
+      "address": "0x7B37d0787A3424A0810E02b24743a45eBd5530B2",
+      "name": "BUSD from BSC on Moonriver",
+      "symbol": "BUSD.bsc"
     }
   ]
 }

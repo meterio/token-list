@@ -30,16 +30,6 @@
     "coinId": "ethereum"
   },
   {
-    "address": "0x48a6fd66512d45006fc0426576c264d03dfda304",
-    "name": "eMTRG",
-    "symbol": "MTRG",
-    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png",
-    "resourceId": "0x0000000000000000000000228ebBeE999c6a7ad74A6130E81b12f9Fe237Ba301",
-    "native": false,
-    "decimals": 18,
-    "coinId": "meter"
-  },
-  {
     "address": "0xbaF626Dc137Dc15436447c9D624fBB5c845aBCeC",
     "name": "TFUEL",
     "symbol": "TFUEL",
@@ -48,16 +38,6 @@
     "native": false,
     "decimals": 18,
     "coinId": "theta-fuel"
-  },
-  {
-    "address": "0x76F2c2C3380587252076a8de5C7147c6a185127d",
-    "name": "Tether USD",
-    "symbol": "USDT",
-    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDT/logo.png",
-    "resourceId": "0x0000000000000000000000dac17f958d2ee523a2206206994597c13d831ec701",
-    "native": false,
-    "decimals": 6,
-    "coinId": "tether"
   },
   {
     "address": "0x6078222Bf12f973dD13BD70696aA4dBcE7659Ad0",
