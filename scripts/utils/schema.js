@@ -54,6 +54,11 @@ const CHAINS = [
     nativeToken: { name: 'Theta Fuel', symbol: 'TFUEL', decimals: 18 },
   },
   {
+    enum: 'Theta',
+    chainId: 361,
+    nativeToken: { name: 'Theta Fuel', symbol: 'TFUEL', decimals: 18 },
+  },
+  {
     enum: 'Avalanche',
     chainId: 43114,
     testnet: false,

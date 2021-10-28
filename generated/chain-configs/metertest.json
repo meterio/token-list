@@ -18,5 +18,25 @@
     "native": false,
     "decimals": 18,
     "coinId": "ethereum"
+  },
+  {
+    "address": "0x8A419EF4941355476CF04933E90BF3BBF2F73814",
+    "name": "Meter Governance",
+    "symbol": "MTRG",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png",
+    "resourceId": "0x0000000000000000000000228ebBeE999c6a7ad74A6130E81b12f9Fe237Ba301",
+    "native": false,
+    "decimals": 18,
+    "coinId": "meter"
+  },
+  {
+    "address": "0x3e5a2A4812D319Ded22479A88ed708c6B55ca0b1",
+    "name": "Wrapped USDT",
+    "symbol": "USDT",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDT/logo.png",
+    "resourceId": "0x0000000000000000000000dac17f958d2ee523a2206206994597c13d831ec701",
+    "native": false,
+    "decimals": 6,
+    "coinId": "tether"
   }
 ]
