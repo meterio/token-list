@@ -605,6 +605,15 @@
       "coinId": "crowns"
     },
     {
+      "address": "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3",
+      "name": "DAI",
+      "symbol": "DAI.bsc",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/DAI.bsc/logo.png",
+      "resourceId": "0x00000000000000000000001af3f329e8be154074d8769d1ffa4ee058b1dbc301",
+      "native": false,
+      "decimals": 18
+    },
+    {
       "address": "0x3674D64AaB971aB974B2035667a4B3d09B5ec2B3",
       "name": "MOVR from MoonRiver",
       "symbol": "MOVR",
@@ -999,6 +1008,17 @@
       "native": false,
       "decimals": 18,
       "coinId": "energy-web-token"
+    }
+  ],
+  "Polis": [
+    {
+      "address": "0x247123e806a27Ea322bFd93e0273D04602dC942D",
+      "name": "Binance Pegged DAI from BSC on Polis",
+      "symbol": "DAI.bsc",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/DAI.bsc/logo.png",
+      "resourceId": "0x00000000000000000000001af3f329e8be154074d8769d1ffa4ee058b1dbc301",
+      "native": false,
+      "decimals": 18
     }
   ],
   "ThetaTest": [

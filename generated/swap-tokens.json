@@ -311,6 +311,14 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/CLIQ/logo.png"
     },
     {
+      "name": "DAI",
+      "address": "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3",
+      "symbol": "DAI.bsc",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/DAI.bsc/logo.png"
+    },
+    {
       "name": "MOVR from MoonRiver",
       "address": "0x3674D64AaB971aB974B2035667a4B3d09B5ec2B3",
       "symbol": "MOVR",
@@ -829,6 +837,14 @@
       "decimals": 18,
       "chainId": 73799,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png"
+    },
+    {
+      "name": "Binance Pegged DAI from BSC on Polis",
+      "address": "0x247123e806a27Ea322bFd93e0273D04602dC942D",
+      "symbol": "DAI.bsc",
+      "decimals": 18,
+      "chainId": 333999,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/DAI.bsc/logo.png"
     }
   ]
 }

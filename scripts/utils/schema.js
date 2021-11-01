@@ -70,6 +70,11 @@ const CHAINS = [
     testnet: true,
     nativeToken: { name: 'VT Token', symbol: 'VT', decimals: 18 },
   },
+  {
+    enum: 'Polis',
+    chainId: 333999,
+    nativeToken: { name: 'Polis Token', symbol: 'POLIS', decimals: 18 },
+  },
 ];
 
 const tokenSchema = {
