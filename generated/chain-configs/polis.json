@@ -6,6 +6,7 @@
     "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/DAI.bsc/logo.png",
     "resourceId": "0x00000000000000000000001af3f329e8be154074d8769d1ffa4ee058b1dbc301",
     "native": false,
-    "decimals": 18
+    "decimals": 18,
+    "coinId": "dai"
   }
 ]

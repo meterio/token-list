@@ -18,6 +18,7 @@
   "COMP": "compound-coin",
   "Link": "chainlink",
   "DAI": "dai",
+  "DAI.bsc": "dai",
   "UNI": "unicorn-token",
   "YFI": "yearn-finance",
   "BAT": "bat-finance",
