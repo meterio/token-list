@@ -1,0 +1,20 @@
+{
+  "resourceID": "0x00000000000000000000006b3bd0478df0ec4984b168db0e12a539cc0c83cd01",
+  "name": "EnergyWeb Token",
+  "symbol": "EWT",
+  "decimals": 18,
+  "tokens": [
+    {
+      "network": "EnergyWeb",
+      "address": "0x6b3bd0478DF0eC4984b168Db0E12A539Cc0c83cd",
+      "name": "EnergyWeb Token",
+      "native": true
+    },
+    {
+      "network": "Moonriver",
+      "address": "0x59A1B7B7469b968eb051f6c71512d2B61F27794d",
+      "name": "EnergyWeb Token",
+      "symbol": "EWT"
+    }
+  ]
+}
