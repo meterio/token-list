@@ -71,6 +71,11 @@ const CHAINS = [
     nativeToken: { name: 'VT Token', symbol: 'VT', decimals: 18 },
   },
   {
+    enum: 'EnergyWeb',
+    chainId: 246,
+    nativeToken: { name: 'EWT Token', symbol: 'EWT', decimals: 18 },
+  },
+  {
     enum: 'Polis',
     chainId: 333999,
     nativeToken: { name: 'Polis Token', symbol: 'POLIS', decimals: 18 },

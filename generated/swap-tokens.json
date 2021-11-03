@@ -487,6 +487,14 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png"
     },
     {
+      "name": "EnergyWeb Token",
+      "address": "0x6b3bd0478DF0eC4984b168Db0E12A539Cc0c83cd",
+      "symbol": "EWT",
+      "decimals": 18,
+      "chainId": 246,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/EWT/logo.png"
+    },
+    {
       "name": "BNB from BSC on Moonriver",
       "address": "0xdFf772186aCe9b5513FB46d7B05b36Efa0A4a20d",
       "symbol": "BNB.bsc",
@@ -645,6 +653,14 @@
       "decimals": 18,
       "chainId": 1285,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/DAI/logo.png"
+    },
+    {
+      "name": "EnergyWeb Token",
+      "address": "0x59A1B7B7469b968eb051f6c71512d2B61F27794d",
+      "symbol": "EWT",
+      "decimals": 18,
+      "chainId": 1285,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/EWT/logo.png"
     },
     {
       "name": "FTT from Ethereum on Moonriver",

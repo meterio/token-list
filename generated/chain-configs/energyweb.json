@@ -1,0 +1,12 @@
+[
+  {
+    "address": "0x6b3bd0478DF0eC4984b168Db0E12A539Cc0c83cd",
+    "name": "EnergyWeb Token",
+    "symbol": "EWT",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/EWT/logo.png",
+    "resourceId": "0x00000000000000000000006b3bd0478df0ec4984b168db0e12a539cc0c83cd01",
+    "native": true,
+    "decimals": 18,
+    "coinId": "energy-web-token"
+  }
+]

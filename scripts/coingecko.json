@@ -33,5 +33,6 @@
   "VOLT": "volt",
   "AVAX": "avalanche-2",
   "BEPRO": "bet-protocol",
-  "VT": "energy-web-token"
+  "VT": "energy-web-token",
+  "EWT": "energy-web-token"
 }

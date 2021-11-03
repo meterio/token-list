@@ -692,6 +692,17 @@
       "resourceId": "0x0000000000000000000000C02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc201"
     },
     {
+      "name": "EnergyWeb Token",
+      "address": "0x6b3bd0478DF0eC4984b168Db0E12A539Cc0c83cd",
+      "symbol": "EWT",
+      "decimals": 18,
+      "chainId": 246,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/EWT/logo.png",
+      "coinId": "energy-web-token",
+      "native": true,
+      "resourceId": "0x00000000000000000000006b3bd0478df0ec4984b168db0e12a539cc0c83cd01"
+    },
+    {
       "name": "BNB from BSC on Moonriver",
       "address": "0xdFf772186aCe9b5513FB46d7B05b36Efa0A4a20d",
       "symbol": "BNB.bsc",
@@ -920,6 +931,17 @@
       "coinId": "dai",
       "native": false,
       "resourceId": "0x00000000000000000000006b175474e89094c44da98b954eedeac495271d0f01"
+    },
+    {
+      "name": "EnergyWeb Token",
+      "address": "0x59A1B7B7469b968eb051f6c71512d2B61F27794d",
+      "symbol": "EWT",
+      "decimals": 18,
+      "chainId": 1285,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/EWT/logo.png",
+      "coinId": "energy-web-token",
+      "native": false,
+      "resourceId": "0x00000000000000000000006b3bd0478df0ec4984b168db0e12a539cc0c83cd01"
     },
     {
       "name": "FTT from Ethereum on Moonriver",

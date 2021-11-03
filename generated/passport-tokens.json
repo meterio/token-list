@@ -393,6 +393,16 @@
       "coinId": "ethereum"
     },
     {
+      "address": "0x59A1B7B7469b968eb051f6c71512d2B61F27794d",
+      "name": "EnergyWeb Token",
+      "symbol": "EWT",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/EWT/logo.png",
+      "resourceId": "0x00000000000000000000006b3bd0478df0ec4984b168db0e12a539cc0c83cd01",
+      "native": false,
+      "decimals": 18,
+      "coinId": "energy-web-token"
+    },
+    {
       "address": "0xd8DfB1c4057A400ACEda0Cbb92D844f8A146B916",
       "name": "FTT from Ethereum on Moonriver",
       "symbol": "FTT.eth",
@@ -1062,6 +1072,18 @@
       "symbol": "VT",
       "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/VT/logo.png",
       "resourceId": "0x0000000000000000000000db8b4264b1777e046267b4cc123f0c9e029ceb2c01",
+      "native": true,
+      "decimals": 18,
+      "coinId": "energy-web-token"
+    }
+  ],
+  "EnergyWeb": [
+    {
+      "address": "0x6b3bd0478DF0eC4984b168Db0E12A539Cc0c83cd",
+      "name": "EnergyWeb Token",
+      "symbol": "EWT",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/EWT/logo.png",
+      "resourceId": "0x00000000000000000000006b3bd0478df0ec4984b168db0e12a539cc0c83cd01",
       "native": true,
       "decimals": 18,
       "coinId": "energy-web-token"
