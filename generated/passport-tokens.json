@@ -1087,6 +1087,16 @@
       "native": true,
       "decimals": 18,
       "coinId": "energy-web-token"
+    },
+    {
+      "address": "0xaFb66752Ad6F4cCcD92049c36C90dd00c71fA99B",
+      "name": "MOVR from MoonRiver",
+      "symbol": "MOVR",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/MOVR/logo.png",
+      "resourceId": "0x0000000000000000000000f50225a84382c74cbdea10b0c176f71fc3de0c4d01",
+      "native": false,
+      "decimals": 18,
+      "coinId": "moonriver"
     }
   ]
 }

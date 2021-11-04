@@ -495,6 +495,14 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/EWT/logo.png"
     },
     {
+      "name": "MOVR from MoonRiver",
+      "address": "0xaFb66752Ad6F4cCcD92049c36C90dd00c71fA99B",
+      "symbol": "MOVR",
+      "decimals": 18,
+      "chainId": 246,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MOVR/logo.png"
+    },
+    {
       "name": "BNB from BSC on Moonriver",
       "address": "0xdFf772186aCe9b5513FB46d7B05b36Efa0A4a20d",
       "symbol": "BNB.bsc",
