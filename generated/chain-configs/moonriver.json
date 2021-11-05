@@ -271,7 +271,7 @@
   },
   {
     "address": "0xE6a991Ffa8CfE62B0bf6BF72959A3d4f11B2E0f5",
-    "name": "WBTC from Ethereum on Moonriver",
+    "name": "WBTC from Ethereum on Theta",
     "symbol": "WBTC.eth",
     "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/WBTC/logo.png",
     "resourceId": "0x00000000000000000000002260fac5e5542a773aa44fbcfedf7c193bc2c59901",

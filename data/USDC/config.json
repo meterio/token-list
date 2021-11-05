@@ -25,7 +25,7 @@
     {
       "network": "Theta",
       "address": "0x3Ca3fEFA944753b43c751336A5dF531bDD6598B6",
-      "name": "USDC from Ethereum on Moonriver",
+      "name": "USDC from Ethereum on Theta",
       "symbol": "USDC"
     }
   ]

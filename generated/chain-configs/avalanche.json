@@ -8,5 +8,15 @@
     "native": false,
     "decimals": 9,
     "coinId": "ampleforth"
+  },
+  {
+    "address": "0xDecD9903866e476325A0AEe574aaB766e0cf7e5a",
+    "name": "Cliq Token",
+    "symbol": "CLIQ",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/CLIQ/logo.png",
+    "resourceId": "0x00000000000000000000000def8d8adde14c9ef7c2a986df3ea4bd6582676701",
+    "native": false,
+    "decimals": 18,
+    "coinId": "deficliq"
   }
 ]

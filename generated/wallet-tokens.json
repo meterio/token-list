@@ -714,7 +714,7 @@
       "resourceId": "0x0000000000000000000000f50225a84382c74cbdea10b0c176f71fc3de0c4d01"
     },
     {
-      "name": "BNB from BSC on Moonriver",
+      "name": "BNB from BSC on Theta",
       "address": "0xdFf772186aCe9b5513FB46d7B05b36Efa0A4a20d",
       "symbol": "BNB.bsc",
       "decimals": 18,
@@ -725,7 +725,7 @@
       "resourceId": "0x0000000000000000000000bb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c01"
     },
     {
-      "name": "BUSD from BSC on Moonriver",
+      "name": "BUSD from BSC on Theta",
       "address": "0x7B37d0787A3424A0810E02b24743a45eBd5530B2",
       "symbol": "BUSD.bsc",
       "decimals": 18,
@@ -757,7 +757,7 @@
       "native": true
     },
     {
-      "name": "USDC from Ethereum on Moonriver",
+      "name": "USDC from Ethereum on Theta",
       "address": "0x3Ca3fEFA944753b43c751336A5dF531bDD6598B6",
       "symbol": "USDC",
       "decimals": 6,
@@ -768,7 +768,7 @@
       "resourceId": "0x0000000000000000000000a0b86991c6218b36c1d19d4a2e9eb0ce3606eb4801"
     },
     {
-      "name": "USDT from Ethereum on Moonriver",
+      "name": "USDT from Ethereum on Theta",
       "address": "0x3c751Feb00364CA9e2d0105c40F0b423abf1DEE3",
       "symbol": "USDT",
       "decimals": 6,
@@ -779,7 +779,7 @@
       "resourceId": "0x0000000000000000000000dac17f958d2ee523a2206206994597c13d831ec701"
     },
     {
-      "name": "Volt from Meter on Moonriver",
+      "name": "Volt from Meter on Theta",
       "address": "0xE6a991Ffa8CfE62B0bf6BF72959A3d4f11B2E0f5",
       "symbol": "VOLT",
       "decimals": 18,
@@ -1098,7 +1098,7 @@
       "resourceId": "0x00000000000000000000008df95e66cb0ef38f91d2776da3c921768982fba001"
     },
     {
-      "name": "WBTC from Ethereum on Moonriver",
+      "name": "WBTC from Ethereum on Theta",
       "address": "0xE6a991Ffa8CfE62B0bf6BF72959A3d4f11B2E0f5",
       "symbol": "WBTC.eth",
       "decimals": 8,
@@ -1214,6 +1214,17 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/AVAX/logo.png",
       "coinId": "avalanche-2",
       "native": true
+    },
+    {
+      "name": "Cliq Token",
+      "address": "0xDecD9903866e476325A0AEe574aaB766e0cf7e5a",
+      "symbol": "CLIQ",
+      "decimals": 18,
+      "chainId": 43114,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/CLIQ/logo.png",
+      "coinId": "deficliq",
+      "native": false,
+      "resourceId": "0x00000000000000000000000def8d8adde14c9ef7c2a986df3ea4bd6582676701"
     },
     {
       "name": "Volta token",

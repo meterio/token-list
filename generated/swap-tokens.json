@@ -503,7 +503,7 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MOVR/logo.png"
     },
     {
-      "name": "BNB from BSC on Moonriver",
+      "name": "BNB from BSC on Theta",
       "address": "0xdFf772186aCe9b5513FB46d7B05b36Efa0A4a20d",
       "symbol": "BNB.bsc",
       "decimals": 18,
@@ -511,7 +511,7 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/BNB/logo.png"
     },
     {
-      "name": "BUSD from BSC on Moonriver",
+      "name": "BUSD from BSC on Theta",
       "address": "0x7B37d0787A3424A0810E02b24743a45eBd5530B2",
       "symbol": "BUSD.bsc",
       "decimals": 18,
@@ -527,7 +527,7 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png"
     },
     {
-      "name": "USDC from Ethereum on Moonriver",
+      "name": "USDC from Ethereum on Theta",
       "address": "0x3Ca3fEFA944753b43c751336A5dF531bDD6598B6",
       "symbol": "USDC",
       "decimals": 6,
@@ -535,7 +535,7 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDC/logo.png"
     },
     {
-      "name": "USDT from Ethereum on Moonriver",
+      "name": "USDT from Ethereum on Theta",
       "address": "0x3c751Feb00364CA9e2d0105c40F0b423abf1DEE3",
       "symbol": "USDT",
       "decimals": 6,
@@ -543,7 +543,7 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDT/logo.png"
     },
     {
-      "name": "Volt from Meter on Moonriver",
+      "name": "Volt from Meter on Theta",
       "address": "0xE6a991Ffa8CfE62B0bf6BF72959A3d4f11B2E0f5",
       "symbol": "VOLT",
       "decimals": 18,
@@ -775,7 +775,7 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/VOLT/logo.png"
     },
     {
-      "name": "WBTC from Ethereum on Moonriver",
+      "name": "WBTC from Ethereum on Theta",
       "address": "0xE6a991Ffa8CfE62B0bf6BF72959A3d4f11B2E0f5",
       "symbol": "WBTC.eth",
       "decimals": 8,
@@ -845,6 +845,14 @@
       "decimals": 9,
       "chainId": 43114,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/AMPL/logo.png"
+    },
+    {
+      "name": "Cliq Token",
+      "address": "0xDecD9903866e476325A0AEe574aaB766e0cf7e5a",
+      "symbol": "CLIQ",
+      "decimals": 18,
+      "chainId": 43114,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/CLIQ/logo.png"
     },
     {
       "name": "Volta token",
