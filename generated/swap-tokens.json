@@ -551,12 +551,20 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/VOLT/logo.png"
     },
     {
-      "name": "WBTC from Ethereum on Moonriver",
+      "name": "WBTC from Ethereum on Theta",
       "address": "0xf64FA5155D8cc578D473A21FB67507DDCbB80D21",
       "symbol": "WBTC",
       "decimals": 8,
       "chainId": 361,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/WBTC/logo.png"
+    },
+    {
+      "name": "ETH from Ethereum on Theta",
+      "address": "0x3674D64AaB971aB974B2035667a4B3d09B5ec2B3",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 361,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png"
     },
     {
       "name": "Theta Fuel",
@@ -781,14 +789,6 @@
       "decimals": 8,
       "chainId": 1285,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/WBTC/logo.png"
-    },
-    {
-      "name": "ETH from Ethereum on Theta",
-      "address": "0x3674D64AaB971aB974B2035667a4B3d09B5ec2B3",
-      "symbol": "WETH",
-      "decimals": 18,
-      "chainId": 1285,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png"
     },
     {
       "name": "ETH from Ethereum on Moonriver",

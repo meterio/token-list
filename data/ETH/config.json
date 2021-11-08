@@ -24,7 +24,7 @@
       "symbol": "WETH.eth"
     },
     {
-      "network": "Moonriver",
+      "network": "Theta",
       "address": "0x3674D64AaB971aB974B2035667a4B3d09B5ec2B3",
       "name": "ETH from Ethereum on Theta",
       "symbol": "WETH"
