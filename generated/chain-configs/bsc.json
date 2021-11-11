@@ -20,6 +20,15 @@
     "coinId": "binancecoin"
   },
   {
+    "address": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+    "name": "BTCB",
+    "symbol": "BTC.bsc",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/BTC.bsc/logo.png",
+    "resourceId": "0x00000000000000000000007130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c01",
+    "native": false,
+    "decimals": 18
+  },
+  {
     "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
     "name": "BUSD",
     "symbol": "BUSD",
@@ -28,6 +37,15 @@
     "native": false,
     "decimals": 18,
     "coinId": "binance-usd"
+  },
+  {
+    "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+    "name": "CAKE",
+    "symbol": "CAKE",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/CAKE/logo.png",
+    "resourceId": "0x00000000000000000000000e09fabb73bd3ade0a17ecc321fd13a19e81ce8201",
+    "native": false,
+    "decimals": 18
   },
   {
     "address": "0xe795347731Bc547F4E4643F7945738cE2BC18529",
@@ -58,6 +76,15 @@
     "native": false,
     "decimals": 18,
     "coinId": "dai"
+  },
+  {
+    "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+    "name": "ETH",
+    "symbol": "ETH.bsc",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH.bsc/logo.png",
+    "resourceId": "0x00000000000000000000002170ed0880ac9a755fd29b2688956bd959f933f801",
+    "native": false,
+    "decimals": 18
   },
   {
     "address": "0x3674D64AaB971aB974B2035667a4B3d09B5ec2B3",

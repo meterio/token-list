@@ -295,12 +295,28 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/BNB/logo.png"
     },
     {
+      "name": "BTCB",
+      "address": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+      "symbol": "BTC.bsc",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/BTC.bsc/logo.png"
+    },
+    {
       "name": "BUSD",
       "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
       "symbol": "BUSD",
       "decimals": 18,
       "chainId": 56,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/BUSD/logo.png"
+    },
+    {
+      "name": "CAKE",
+      "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+      "symbol": "CAKE",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/CAKE/logo.png"
     },
     {
       "name": "Cliq Token",
@@ -317,6 +333,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/DAI.bsc/logo.png"
+    },
+    {
+      "name": "ETH",
+      "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+      "symbol": "ETH.bsc",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH.bsc/logo.png"
     },
     {
       "name": "MOVR from MoonRiver",
@@ -871,12 +895,36 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png"
     },
     {
+      "name": "Binance Pegged BTC from BSC on Polis",
+      "address": "0xc42f8e97DDE0e95Ad13D6fBe93A40AfC116881Ac",
+      "symbol": "BTC.bsc",
+      "decimals": 18,
+      "chainId": 333999,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/BTC.bsc/logo.png"
+    },
+    {
+      "name": "CAKE from BSC on Polis",
+      "address": "0x7c4af0042e2723E0bC1fe24EE303D6CcB2CD00f7",
+      "symbol": "CAKE",
+      "decimals": 18,
+      "chainId": 333999,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/CAKE/logo.png"
+    },
+    {
       "name": "Binance Pegged DAI from BSC on Polis",
       "address": "0x247123e806a27Ea322bFd93e0273D04602dC942D",
       "symbol": "DAI.bsc",
       "decimals": 18,
       "chainId": 333999,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/DAI.bsc/logo.png"
+    },
+    {
+      "name": "Binance Pegged ETH from BSC on Polis",
+      "address": "0xaFb66752Ad6F4cCcD92049c36C90dd00c71fA99B",
+      "symbol": "ETH.bsc",
+      "decimals": 18,
+      "chainId": 333999,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH.bsc/logo.png"
     }
   ]
 }
