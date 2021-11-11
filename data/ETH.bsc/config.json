@@ -1,0 +1,19 @@
+{
+  "resourceID": "0x00000000000000000000002170ed0880ac9a755fd29b2688956bd959f933f801",
+  "name": "ETH.bsc",
+  "symbol": "ETH.bsc",
+  "decimals": 18,
+  "tokens": [
+    {
+      "network": "BSC",
+      "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+      "name": "ETH"
+    },
+    {
+      "network": "Polis",
+      "address": "0xaFb66752Ad6F4cCcD92049c36C90dd00c71fA99B",
+      "name": "Binance Pegged ETH from BSC on Polis",
+      "symbol": "ETH.bsc"
+    }
+  ]
+}

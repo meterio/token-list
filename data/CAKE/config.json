@@ -1,0 +1,19 @@
+{
+  "resourceID": "0x00000000000000000000000e09fabb73bd3ade0a17ecc321fd13a19e81ce8201",
+  "name": "CAKE",
+  "symbol": "CAKE",
+  "decimals": 18,
+  "tokens": [
+    {
+      "network": "BSC",
+      "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+      "name": "CAKE"
+    },
+    {
+      "network": "Polis",
+      "address": "0x7c4af0042e2723E0bC1fe24EE303D6CcB2CD00f7",
+      "name": "CAKE from BSC on Polis",
+      "symbol": "CAKE"
+    }
+  ]
+}

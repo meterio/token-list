@@ -1,0 +1,19 @@
+{
+  "resourceID": "0x00000000000000000000007130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c01",
+  "name": "BTC.bsc",
+  "symbol": "BTC.bsc",
+  "decimals": 18,
+  "tokens": [
+    {
+      "network": "BSC",
+      "address": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+      "name": "BTCB"
+    },
+    {
+      "network": "Polis",
+      "address": "0xc42f8e97DDE0e95Ad13D6fBe93A40AfC116881Ac",
+      "name": "Binance Pegged BTC from BSC on Polis",
+      "symbol": "BTC.bsc"
+    }
+  ]
+}
