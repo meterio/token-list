@@ -1,5 +1,5 @@
 {
-  "resourceID": "0x0000000000000000000005c22ba65f65adffadfc0947382f2e7c286a0fe45505",
+  "resourceID": "0x000000000000000000000681f946225048505d7222c06cbdf850b1f0d9a6b505",
   "testResourceID": "0x000000000000000000000091add6fd66b689ba8ebe2a6d16cd30d9cc0543b604",
   "name": "Moonscape",
   "symbol": "MSCP",
@@ -7,7 +7,7 @@
   "tokens": [
     {
       "network": "Moonriver",
-      "address": "0x5c22ba65F65ADfFADFc0947382f2E7C286A0Fe45"
+      "address": "0x681F946225048505D7222c06CBDf850b1F0D9A6B"
     },
     {
       "network": "Rinkeby",
@@ -15,12 +15,11 @@
     },
     {
       "network": "Moonbase",
-      "address": "xF2C84Cb3d1e9Fac001F36c965260aA2a9c9D822D"
+      "address": "0xF2C84Cb3d1e9Fac001F36c965260aA2a9c9D822D"
     },
     {
       "network": "BSC",
-      "address": "0x5c22ba65f65adffadfc0947382f2e7c286a0fe45",
-      "symbol": "MSCP"
+      "address": "0x27d72484f1910F5d0226aFA4E03742c9cd2B297a",
     }
   ]
 }
