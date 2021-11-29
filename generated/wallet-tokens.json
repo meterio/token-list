@@ -492,6 +492,16 @@
       "resourceId": "0x0000000000000000000000f50225a84382c74cbdea10b0c176f71fc3de0c4d01"
     },
     {
+      "name": "Moonscape",
+      "address": "0x27d72484f1910F5d0226aFA4E03742c9cd2B297a",
+      "symbol": "MSCP",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MSCP/logo.png",
+      "native": false,
+      "resourceId": "0x0000000000000000000005c22ba65f65adffadfc0947382f2e7c286a0fe45505"
+    },
+    {
       "name": "Meter Governance mapped by Meter.io",
       "address": "0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F",
       "symbol": "MTRG",
@@ -1071,6 +1081,16 @@
       "resourceId": "0x0000000000000000000000f50225a84382c74cbdea10b0c176f71fc3de0c4d01"
     },
     {
+      "name": "Moonscape",
+      "address": "0x5c22ba65F65ADfFADFc0947382f2E7C286A0Fe45",
+      "symbol": "MSCP",
+      "decimals": 18,
+      "chainId": 1285,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MSCP/logo.png",
+      "native": false,
+      "resourceId": "0x0000000000000000000005c22ba65f65adffadfc0947382f2e7c286a0fe45505"
+    },
+    {
       "name": "Meter Governance mapped by Meter.io",
       "address": "0x1e24EC84F66cd26Dad607d81796DbeB13Cb22692",
       "symbol": "MTRG",
@@ -1221,6 +1241,16 @@
       "chainId": 1287,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/DEV/logo.png",
       "native": true
+    },
+    {
+      "name": "Moonscape",
+      "address": "0xF2C84Cb3d1e9Fac001F36c965260aA2a9c9D822D",
+      "symbol": "MSCP",
+      "decimals": 18,
+      "chainId": 1287,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MSCP/logo.png",
+      "native": false,
+      "resourceId": "0x000000000000000000000091add6fd66b689ba8ebe2a6d16cd30d9cc0543b604"
     },
     {
       "name": "Volta token",

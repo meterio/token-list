@@ -97,6 +97,15 @@
     "coinId": "moonriver"
   },
   {
+    "address": "0x27d72484f1910F5d0226aFA4E03742c9cd2B297a",
+    "name": "Moonscape",
+    "symbol": "MSCP",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/MSCP/logo.png",
+    "resourceId": "0x0000000000000000000005c22ba65f65adffadfc0947382f2e7c286a0fe45505",
+    "native": false,
+    "decimals": 18
+  },
+  {
     "address": "0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F",
     "name": "Meter Governance mapped by Meter.io",
     "symbol": "MTRG",

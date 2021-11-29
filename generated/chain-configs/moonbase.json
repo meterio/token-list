@@ -20,6 +20,15 @@
     "coinId": "ethereum"
   },
   {
+    "address": "0xF2C84Cb3d1e9Fac001F36c965260aA2a9c9D822D",
+    "name": "Moonscape",
+    "symbol": "MSCP",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/MSCP/logo.png",
+    "resourceId": "0x000000000000000000000091add6fd66b689ba8ebe2a6d16cd30d9cc0543b604",
+    "native": false,
+    "decimals": 18
+  },
+  {
     "address": "0x6a9b0A19e30514512AE3B56Dc5A10a95FF983561",
     "name": "Volta token",
     "symbol": "VT",
