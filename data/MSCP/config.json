@@ -10,17 +10,12 @@
       "address": "0x5c22ba65F65ADfFADFc0947382f2E7C286A0Fe45"
     },
     {
-      "network": "Rinkeby",
-      "address": "0x91aDd6Fd66b689ba8Ebe2a6D16cD30d9cC0543b6"
-    },
-    {
       "network": "Moonbase",
-      "address": "xF2C84Cb3d1e9Fac001F36c965260aA2a9c9D822D"
+      "address": "0xF2C84Cb3d1e9Fac001F36c965260aA2a9c9D822D"
     },
     {
       "network": "BSC",
-      "address": "0x5c22ba65f65adffadfc0947382f2e7c286a0fe45",
-      "symbol": "MSCP"
+      "address": "0x27d72484f1910F5d0226aFA4E03742c9cd2B297a"
     }
   ]
 }
