@@ -1,0 +1,20 @@
+{
+  "resourceID": "0x000000000000000000000abe580e7ee158da464b51ee1a83ac0289622e6be001",
+  "name": "Offshift",
+  "symbol": "XFT",
+  "decimals": 18,
+  "tokens": [
+    {
+      "network": "Ethereum",
+      "address": "0xabe580e7ee158da464b51ee1a83ac0289622e6be"
+    },
+    {
+      "network": "Moonriver",
+      "address": "0x6b35140fcc6e502a7e1edAC6E740513f41c4b5ec"
+    },
+    {
+      "network": "BSC",
+      "address": "0xe138c66982Fd5c890c60b94FDBa1747faF092c20",
+    }
+  ]
+}
