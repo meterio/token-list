@@ -241,6 +241,15 @@
       "coinId": "wrapped-bitcoin"
     },
     {
+      "address": "0xabe580e7ee158da464b51ee1a83ac0289622e6be",
+      "name": "Offshift",
+      "symbol": "XFT",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/XFT/logo.png",
+      "resourceId": "0x000000000000000000000abe580e7ee158da464b51ee1a83ac0289622e6be001",
+      "native": false,
+      "decimals": 18
+    },
+    {
       "address": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
       "name": "YFI",
       "symbol": "YFI",
@@ -542,6 +551,15 @@
       "coinId": "wrapped-bitcoin"
     },
     {
+      "address": "0x6b35140fcc6e502a7e1edAC6E740513f41c4b5ec",
+      "name": "Offshift",
+      "symbol": "XFT",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/XFT/logo.png",
+      "resourceId": "0x000000000000000000000abe580e7ee158da464b51ee1a83ac0289622e6be001",
+      "native": false,
+      "decimals": 18
+    },
+    {
       "address": "0x090916ac145B613C1481aAB198168c3a37bc5213",
       "name": "YFI from Ethereum on Moonriver",
       "symbol": "YFI.eth",
@@ -689,6 +707,15 @@
       "decimals": 18,
       "tokenProxy": "0xd4183192BfaA828fCcfb599948964C0BFFdE933c",
       "coinId": "utu-coin"
+    },
+    {
+      "address": "0xe138c66982Fd5c890c60b94FDBa1747faF092c20",
+      "name": "Offshift",
+      "symbol": "XFT",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/XFT/logo.png",
+      "resourceId": "0x000000000000000000000abe580e7ee158da464b51ee1a83ac0289622e6be001",
+      "native": false,
+      "decimals": 18
     }
   ],
   "Avalanche": [

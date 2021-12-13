@@ -125,5 +125,14 @@
     "decimals": 18,
     "tokenProxy": "0xd4183192BfaA828fCcfb599948964C0BFFdE933c",
     "coinId": "utu-coin"
+  },
+  {
+    "address": "0xe138c66982Fd5c890c60b94FDBa1747faF092c20",
+    "name": "Offshift",
+    "symbol": "XFT",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/XFT/logo.png",
+    "resourceId": "0x000000000000000000000abe580e7ee158da464b51ee1a83ac0289622e6be001",
+    "native": false,
+    "decimals": 18
   }
 ]

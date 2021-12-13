@@ -279,6 +279,15 @@
     "coinId": "wrapped-bitcoin"
   },
   {
+    "address": "0x6b35140fcc6e502a7e1edAC6E740513f41c4b5ec",
+    "name": "Offshift",
+    "symbol": "XFT",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/XFT/logo.png",
+    "resourceId": "0x000000000000000000000abe580e7ee158da464b51ee1a83ac0289622e6be001",
+    "native": false,
+    "decimals": 18
+  },
+  {
     "address": "0x090916ac145B613C1481aAB198168c3a37bc5213",
     "name": "YFI from Ethereum on Moonriver",
     "symbol": "YFI.eth",

@@ -207,6 +207,14 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/WBTC/logo.png"
     },
     {
+      "name": "Offshift",
+      "address": "0xabe580e7ee158da464b51ee1a83ac0289622e6be",
+      "symbol": "XFT",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/XFT/logo.png"
+    },
+    {
       "name": "YFI",
       "address": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
       "symbol": "YFI",
@@ -389,6 +397,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/UTU/logo.png"
+    },
+    {
+      "name": "Offshift",
+      "address": "0xe138c66982Fd5c890c60b94FDBa1747faF092c20",
+      "symbol": "XFT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/XFT/logo.png"
     },
     {
       "name": "BNB from BSC on Meter",
@@ -845,6 +861,14 @@
       "decimals": 18,
       "chainId": 1285,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png"
+    },
+    {
+      "name": "Offshift",
+      "address": "0x6b35140fcc6e502a7e1edAC6E740513f41c4b5ec",
+      "symbol": "XFT",
+      "decimals": 18,
+      "chainId": 1285,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/XFT/logo.png"
     },
     {
       "name": "YFI from Ethereum on Moonriver",
