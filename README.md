@@ -201,6 +201,26 @@ Erc20 Handler:      0x48A6fd66512D45006FC0426576c264D03Dfda304
 Generic Handler:    0x123455360bE78C9289B38bcb4DbA427D9a6cD440
 ```
 
+### On Theta Mainnet
+
+```
+Theta Contract Addresses
+================================================================
+Bridge:             0xF41e7FC4eC990298d36f667B93951c9dba65224e
+Erc20 Handler:      0x48A6fd66512D45006FC0426576c264D03Dfda304
+Generic Handler:    0x123455360bE78C9289B38bcb4DbA427D9a6cD440
+```
+
+### On Polis Mainnet
+
+```
+Polis Contract Addresses
+================================================================
+Bridge:             0xF41e7FC4eC990298d36f667B93951c9dba65224e
+Erc20 Handler:      0x911F32FD5d347b4EEB61fDb80d9F1063Be1E78E6
+Generic Handler:    0x123455360bE78C9289B38bcb4DbA427D9a6cD440
+```
+
 ### On Ethereum Ropsten
 
 ```
