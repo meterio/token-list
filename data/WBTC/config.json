@@ -25,6 +25,12 @@
       "address": "0xf64FA5155D8cc578D473A21FB67507DDCbB80D21",
       "name": "WBTC from Ethereum on Theta",
       "symbol": "WBTC"
+    },
+    {
+      "network": "Moonbeam",
+      "address": "0xf64FA5155D8cc578D473A21FB67507DDCbB80D21",
+      "name": "WBTC from Ethereum on Moonbeam",
+      "symbol": "WBTC"
     }
   ]
 }

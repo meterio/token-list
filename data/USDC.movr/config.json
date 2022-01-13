@@ -1,0 +1,20 @@
+{
+  "resourceID": "0x0000000000000000000000e3f5a90f9cb311505cd691a46596599aa1a0ad7d01",
+  "name": "USDC from MoonRiver Wrapped by Anyswap",
+  "symbol": "USDC",
+  "decimals": 6,
+  "tokens": [
+    {
+      "network": "Moonriver",
+      "address": "0xe3f5a90f9cb311505cd691a46596599aa1a0ad7d",
+      "name": "USDC from MoonRiver Wrapped by Anyswap",
+      "symbol": "USDC"
+    },
+    {
+      "network": "Moonbeam",
+      "address": "0x89C36bB2E30efCA78bDEB99101C1Ac1FfcB6a30e",
+      "name": "USDC from MoonRiver on Moonbeam",
+      "symbol": "USDC.movr"
+    }
+  ]
+}

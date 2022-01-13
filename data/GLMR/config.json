@@ -1,0 +1,21 @@
+{
+  "resourceID": "0x0000000000000000000000acc15dc74880c9944775448304b263d191c6077f01",
+  "name": "Moonbeam",
+  "symbol": "GLMR",
+  "decimals": 18,
+  "tokens": [
+    {
+      "network": "Moonbeam",
+      "address": "0xAcc15dC74880C9944775448304B263D191c6077F",
+      "name": "GLMR",
+      "symbol": "GLMR",
+      "native": true
+    },
+    {
+      "network": "Moonriver",
+      "address": "0xdf1380A3Ade5F398c9233f36aD6fD0d88AEa9e51",
+      "name": "GLMR from Moonbeam",
+      "symbol": "GLMR"
+    }
+  ]
+}

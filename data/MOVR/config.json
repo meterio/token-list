@@ -28,6 +28,12 @@
       "address": "0xaFb66752Ad6F4cCcD92049c36C90dd00c71fA99B",
       "name": "MOVR from MoonRiver",
       "symbol": "MOVR"
+    },
+    {
+      "network": "Moonbeam",
+      "address": "0x0B5B9806b1B202e22aA26Cfd527fDCafEF9eDAcf",
+      "name": "MOVR from MoonRiver",
+      "symbol": "MOVR"
     }
   ]
 }

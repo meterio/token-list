@@ -28,6 +28,12 @@
       "symbol": "USDT"
     },
     {
+      "network": "Moonbeam",
+      "address": "0x3c751Feb00364CA9e2d0105c40F0b423abf1DEE3",
+      "name": "USDT from Ethereum on Moonbeam",
+      "symbol": "USDT"
+    },
+    {
       "network": "Ropsten",
       "address": "0x76F2c2C3380587252076a8de5C7147c6a185127d"
     },

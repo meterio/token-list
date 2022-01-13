@@ -27,6 +27,12 @@
       "address": "0xdFf772186aCe9b5513FB46d7B05b36Efa0A4a20d",
       "name": "BNB from BSC on Theta",
       "symbol": "BNB.bsc"
+    },
+    {
+      "network": "Moonbeam",
+      "address": "0xdFf772186aCe9b5513FB46d7B05b36Efa0A4a20d",
+      "name": "BNB from BSC on Moonbeam",
+      "symbol": "BNB.bsc"
     }
   ]
 }
