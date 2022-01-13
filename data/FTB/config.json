@@ -8,7 +8,7 @@
       "network": "Polygon",
       "address": "0xf305012ea754252184f1071c86ae99fac5b40320",
       "name": "Factory Builders Token",
-      "native": true
+      "symbol": "FTB"
     },
     {
       "network": "Meter",
