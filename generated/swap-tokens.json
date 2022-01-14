@@ -647,6 +647,14 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/BNB/logo.png"
     },
     {
+      "name": "BUSD from BSC on Moonbeam",
+      "address": "0x7B37d0787A3424A0810E02b24743a45eBd5530B2",
+      "symbol": "BUSD.bsc",
+      "decimals": 18,
+      "chainId": 1284,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/BUSD/logo.png"
+    },
+    {
       "name": "GLMR",
       "address": "0xAcc15dC74880C9944775448304B263D191c6077F",
       "symbol": "GLMR",

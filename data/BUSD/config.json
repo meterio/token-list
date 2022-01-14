@@ -26,6 +26,12 @@
       "address": "0x7B37d0787A3424A0810E02b24743a45eBd5530B2",
       "name": "BUSD from BSC on Theta",
       "symbol": "BUSD.bsc"
+    },
+    {
+      "network": "Moonbeam",
+      "address": "0x7B37d0787A3424A0810E02b24743a45eBd5530B2",
+      "name": "BUSD from BSC on Moonbeam",
+      "symbol": "BUSD.bsc"
     }
   ]
 }

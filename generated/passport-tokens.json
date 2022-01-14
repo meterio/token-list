@@ -1110,6 +1110,16 @@
       "coinId": "binancecoin"
     },
     {
+      "address": "0x7B37d0787A3424A0810E02b24743a45eBd5530B2",
+      "name": "BUSD from BSC on Moonbeam",
+      "symbol": "BUSD.bsc",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/BUSD/logo.png",
+      "resourceId": "0x0000000000000000000000e9e7cea3dedca5984780bafc599bd69add087d5601",
+      "native": false,
+      "decimals": 18,
+      "coinId": "binance-usd"
+    },
+    {
       "address": "0x3674D64AaB971aB974B2035667a4B3d09B5ec2B3",
       "name": "ETH from Ethereum on Moonbeam",
       "symbol": "WETH",

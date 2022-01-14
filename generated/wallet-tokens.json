@@ -931,6 +931,17 @@
       "resourceId": "0x0000000000000000000000bb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c01"
     },
     {
+      "name": "BUSD from BSC on Moonbeam",
+      "address": "0x7B37d0787A3424A0810E02b24743a45eBd5530B2",
+      "symbol": "BUSD.bsc",
+      "decimals": 18,
+      "chainId": 1284,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/BUSD/logo.png",
+      "coinId": "binance-usd",
+      "native": false,
+      "resourceId": "0x0000000000000000000000e9e7cea3dedca5984780bafc599bd69add087d5601"
+    },
+    {
       "name": "GLMR",
       "address": "0xAcc15dC74880C9944775448304B263D191c6077F",
       "symbol": "GLMR",
