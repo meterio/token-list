@@ -1,6 +1,6 @@
 {
   "resourceID": "0x0000000000000000000005c22ba65f65adffadfc0947382f2e7c286a0fe45505",
-  "testResourceID": "0x000000000000000000000091add6fd66b689ba8ebe2a6d16cd30d9cc0543b604",
+  "testResourceID": "0x000000000000000000000f2c84cb3d1e9fac001f36c965260aa2a9c9d822d507",
   "name": "Moonscape",
   "symbol": "MSCP",
   "decimals": 18,
@@ -10,12 +10,16 @@
       "address": "0x5c22ba65F65ADfFADFc0947382f2E7C286A0Fe45"
     },
     {
-      "network": "Moonbase",
-      "address": "0xF2C84Cb3d1e9Fac001F36c965260aA2a9c9D822D"
+      "network": "Moonbeam",
+      "address": "0xB60590313975f0d98821B6Cab5Ea2a6d9641D7B6"
     },
     {
       "network": "BSC",
       "address": "0x27d72484f1910F5d0226aFA4E03742c9cd2B297a"
+    },
+    {
+      "network": "Moonbase",
+      "address": "0xF2C84Cb3d1e9Fac001F36c965260aA2a9c9D822D"
     }
   ]
 }
