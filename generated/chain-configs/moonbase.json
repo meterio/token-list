@@ -26,7 +26,8 @@
     "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/MSCP/logo.png",
     "resourceId": "0x000000000000000000000091add6fd66b689ba8ebe2a6d16cd30d9cc0543b604",
     "native": false,
-    "decimals": 18
+    "decimals": 18,
+    "coinId": "moonscape"
   },
   {
     "address": "0x6a9b0A19e30514512AE3B56Dc5A10a95FF983561",

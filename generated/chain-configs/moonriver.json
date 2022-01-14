@@ -140,6 +140,16 @@
     "coinId": "ftx-token"
   },
   {
+    "address": "0xdf1380A3Ade5F398c9233f36aD6fD0d88AEa9e51",
+    "name": "GLMR from Moonbeam",
+    "symbol": "GLMR",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/GLMR/logo.png",
+    "resourceId": "0x0000000000000000000000acc15dc74880c9944775448304b263d191c6077f01",
+    "native": false,
+    "decimals": 18,
+    "coinId": "moonbeam"
+  },
+  {
     "address": "0x8dE43AAC40e09BE38741De78a2Eb459A4F22f585",
     "name": "GRT from Ethereum on Moonriver",
     "symbol": "GRT.eth",
@@ -186,7 +196,8 @@
     "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/MSCP/logo.png",
     "resourceId": "0x0000000000000000000005c22ba65f65adffadfc0947382f2e7c286a0fe45505",
     "native": false,
-    "decimals": 18
+    "decimals": 18,
+    "coinId": "moonscape"
   },
   {
     "address": "0x1e24EC84F66cd26Dad607d81796DbeB13Cb22692",
@@ -249,6 +260,15 @@
     "coinId": "usd-coin"
   },
   {
+    "address": "0xe3f5a90f9cb311505cd691a46596599aa1a0ad7d",
+    "name": "USDC from MoonRiver Wrapped by Anyswap",
+    "symbol": "USDC",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDC.movr/logo.png",
+    "resourceId": "0x0000000000000000000000e3f5a90f9cb311505cd691a46596599aa1a0ad7d01",
+    "native": false,
+    "decimals": 6
+  },
+  {
     "address": "0x3674D64AaB971aB974B2035667a4B3d09B5ec2B3",
     "name": "USDT from Ethereum on Moonriver",
     "symbol": "USDT.eth",
@@ -285,7 +305,8 @@
     "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/XFT/logo.png",
     "resourceId": "0x000000000000000000000abe580e7ee158da464b51ee1a83ac0289622e6be001",
     "native": false,
-    "decimals": 18
+    "decimals": 18,
+    "coinId": "offshift"
   },
   {
     "address": "0x090916ac145B613C1481aAB198168c3a37bc5213",

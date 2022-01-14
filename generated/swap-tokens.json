@@ -639,6 +639,78 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png"
     },
     {
+      "name": "BNB from BSC on Moonbeam",
+      "address": "0xdFf772186aCe9b5513FB46d7B05b36Efa0A4a20d",
+      "symbol": "BNB.bsc",
+      "decimals": 18,
+      "chainId": 1284,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/BNB/logo.png"
+    },
+    {
+      "name": "GLMR",
+      "address": "0xAcc15dC74880C9944775448304B263D191c6077F",
+      "symbol": "GLMR",
+      "decimals": 18,
+      "chainId": 1284,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/GLMR/logo.png"
+    },
+    {
+      "name": "MOVR from MoonRiver",
+      "address": "0x0B5B9806b1B202e22aA26Cfd527fDCafEF9eDAcf",
+      "symbol": "MOVR",
+      "decimals": 18,
+      "chainId": 1284,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MOVR/logo.png"
+    },
+    {
+      "name": "Meter Governance mapped by Meter.io",
+      "address": "0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F",
+      "symbol": "MTRG",
+      "decimals": 18,
+      "chainId": 1284,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png"
+    },
+    {
+      "name": "USDC from MoonRiver on Moonbeam",
+      "address": "0x89C36bB2E30efCA78bDEB99101C1Ac1FfcB6a30e",
+      "symbol": "USDC.movr",
+      "decimals": 6,
+      "chainId": 1284,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDC.movr/logo.png"
+    },
+    {
+      "name": "USDT from Ethereum on Moonbeam",
+      "address": "0x3c751Feb00364CA9e2d0105c40F0b423abf1DEE3",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 1284,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDT/logo.png"
+    },
+    {
+      "name": "Volt from Meter on Moonbeam",
+      "address": "0xE6a991Ffa8CfE62B0bf6BF72959A3d4f11B2E0f5",
+      "symbol": "VOLT",
+      "decimals": 18,
+      "chainId": 1284,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/VOLT/logo.png"
+    },
+    {
+      "name": "WBTC from Ethereum on Moonbeam",
+      "address": "0xf64FA5155D8cc578D473A21FB67507DDCbB80D21",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "chainId": 1284,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/WBTC/logo.png"
+    },
+    {
+      "name": "ETH from Ethereum on Moonbeam",
+      "address": "0x3674D64AaB971aB974B2035667a4B3d09B5ec2B3",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 1284,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png"
+    },
+    {
       "name": "1Inch from Ethereum on Moonriver",
       "address": "0x7E2d29E4ccd3E58C01c50fF057B039D99F54b01D",
       "symbol": "1Inch.eth",
@@ -743,6 +815,14 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/FTT/logo.png"
     },
     {
+      "name": "GLMR from Moonbeam",
+      "address": "0xdf1380A3Ade5F398c9233f36aD6fD0d88AEa9e51",
+      "symbol": "GLMR",
+      "decimals": 18,
+      "chainId": 1285,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/GLMR/logo.png"
+    },
+    {
       "name": "GRT from Ethereum on Moonriver",
       "address": "0x8dE43AAC40e09BE38741De78a2Eb459A4F22f585",
       "symbol": "GRT.eth",
@@ -821,6 +901,14 @@
       "decimals": 18,
       "chainId": 1285,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/UNI/logo.png"
+    },
+    {
+      "name": "USDC from MoonRiver Wrapped by Anyswap",
+      "address": "0xe3f5a90f9cb311505cd691a46596599aa1a0ad7d",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 1285,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDC.movr/logo.png"
     },
     {
       "name": "USDC from Ethereum on Moonriver",

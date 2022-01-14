@@ -246,7 +246,8 @@
     "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/XFT/logo.png",
     "resourceId": "0x000000000000000000000abe580e7ee158da464b51ee1a83ac0289622e6be001",
     "native": false,
-    "decimals": 18
+    "decimals": 18,
+    "coinId": "offshift"
   },
   {
     "address": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",

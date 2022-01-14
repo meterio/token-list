@@ -1,7 +1,10 @@
 {
   "AMPL": "ampleforth",
+  "BTC": "bitcoin",
+  "BTC.bsc": "bitcoin",
   "CLIQ": "deficliq",
   "ETH": "ethereum",
+  "ETH.bsc": "ethereum",
   "MTRG": "meter",
   "USDT": "tether",
   "UTU": "utu-coin",
@@ -34,5 +37,9 @@
   "AVAX": "avalanche-2",
   "BEPRO": "bet-protocol",
   "VT": "energy-web-token",
-  "EWT": "energy-web-token"
+  "EWT": "energy-web-token",
+  "GLMR": "moonbeam",
+  "CAKE": "pancakeswap-token",
+  "MSCP": "moonscape",
+  "XFT": "offshift"
 }

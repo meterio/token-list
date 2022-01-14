@@ -26,7 +26,8 @@
     "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/BTC.bsc/logo.png",
     "resourceId": "0x00000000000000000000007130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c01",
     "native": false,
-    "decimals": 18
+    "decimals": 18,
+    "coinId": "bitcoin"
   },
   {
     "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
@@ -45,7 +46,8 @@
     "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/CAKE/logo.png",
     "resourceId": "0x00000000000000000000000e09fabb73bd3ade0a17ecc321fd13a19e81ce8201",
     "native": false,
-    "decimals": 18
+    "decimals": 18,
+    "coinId": "pancakeswap-token"
   },
   {
     "address": "0xe795347731Bc547F4E4643F7945738cE2BC18529",
@@ -84,7 +86,8 @@
     "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH.bsc/logo.png",
     "resourceId": "0x00000000000000000000002170ed0880ac9a755fd29b2688956bd959f933f801",
     "native": false,
-    "decimals": 18
+    "decimals": 18,
+    "coinId": "ethereum"
   },
   {
     "address": "0x3674D64AaB971aB974B2035667a4B3d09B5ec2B3",
@@ -103,7 +106,8 @@
     "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/MSCP/logo.png",
     "resourceId": "0x0000000000000000000005c22ba65f65adffadfc0947382f2e7c286a0fe45505",
     "native": false,
-    "decimals": 18
+    "decimals": 18,
+    "coinId": "moonscape"
   },
   {
     "address": "0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F",
@@ -133,6 +137,7 @@
     "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/XFT/logo.png",
     "resourceId": "0x000000000000000000000abe580e7ee158da464b51ee1a83ac0289622e6be001",
     "native": false,
-    "decimals": 18
+    "decimals": 18,
+    "coinId": "offshift"
   }
 ]

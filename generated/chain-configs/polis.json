@@ -6,7 +6,8 @@
     "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/BTC.bsc/logo.png",
     "resourceId": "0x00000000000000000000007130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c01",
     "native": false,
-    "decimals": 18
+    "decimals": 18,
+    "coinId": "bitcoin"
   },
   {
     "address": "0x7c4af0042e2723E0bC1fe24EE303D6CcB2CD00f7",
@@ -15,7 +16,8 @@
     "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/CAKE/logo.png",
     "resourceId": "0x00000000000000000000000e09fabb73bd3ade0a17ecc321fd13a19e81ce8201",
     "native": false,
-    "decimals": 18
+    "decimals": 18,
+    "coinId": "pancakeswap-token"
   },
   {
     "address": "0x247123e806a27Ea322bFd93e0273D04602dC942D",
@@ -34,6 +36,7 @@
     "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH.bsc/logo.png",
     "resourceId": "0x00000000000000000000002170ed0880ac9a755fd29b2688956bd959f933f801",
     "native": false,
-    "decimals": 18
+    "decimals": 18,
+    "coinId": "ethereum"
   }
 ]

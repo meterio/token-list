@@ -86,6 +86,11 @@ const CHAINS = [
     chainId: 333999,
     nativeToken: { name: 'Polis Token', symbol: 'POLIS', decimals: 18 },
   },
+  {
+    enum: 'Moonbeam',
+    chainId: 1284,
+    nativeToken: { name: 'GLMR token', symbol: 'GLMR', decimals: 18 },
+  },
 ];
 
 const tokenSchema = {
