@@ -66,7 +66,8 @@
     "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDC.movr/logo.png",
     "resourceId": "0x0000000000000000000000e3f5a90f9cb311505cd691a46596599aa1a0ad7d01",
     "native": false,
-    "decimals": 6
+    "decimals": 6,
+    "coinId": "usd-coin"
   },
   {
     "address": "0x3c751Feb00364CA9e2d0105c40F0b423abf1DEE3",

@@ -981,6 +981,7 @@
       "decimals": 6,
       "chainId": 1284,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDC.movr/logo.png",
+      "coinId": "usd-coin",
       "native": false,
       "resourceId": "0x0000000000000000000000e3f5a90f9cb311505cd691a46596599aa1a0ad7d01"
     },
@@ -1299,6 +1300,7 @@
       "decimals": 6,
       "chainId": 1285,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDC.movr/logo.png",
+      "coinId": "usd-coin",
       "native": false,
       "resourceId": "0x0000000000000000000000e3f5a90f9cb311505cd691a46596599aa1a0ad7d01"
     },
