@@ -23,11 +23,6 @@
       "address": "0x6fc9651f45B262AE6338a701D563Ab118B1eC0Ce"
     },
     {
-<<<<<<< HEAD
-      "network": "BSC",
-      "address": "0xbcf39F0EDDa668C58371E519AF37CA705f2bFcbd",
-      "symbol": "pCWS"
-=======
       "network": "Ropsten",
       "address": "0xaaeffc5B43Ef3FB83c9F4888301CE7e9c6DEDDC4"
     },
@@ -39,7 +34,6 @@
     {
       "network": "Moonbase",
       "address": "0xFde9cad69E98b3Cc8C998a8F2094293cb0bD6911"
->>>>>>> 64d087b8a5f3986ff5bc7cdbea13b9f8d8690767
     }
   ]
 }
