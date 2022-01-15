@@ -20,6 +20,16 @@
     "coinId": "binance-usd"
   },
   {
+    "address": "0x1aBB8FdE5e64be3419FceF80df335C68dD2956C7",
+    "name": "Crowns",
+    "symbol": "CWS",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/CWS/logo.png",
+    "resourceId": "0x0000000000000000000000ac0104cca91d167873b8601d2e71eb3d4d8c33e001",
+    "native": false,
+    "decimals": 18,
+    "coinId": "crowns"
+  },
+  {
     "address": "0x3674D64AaB971aB974B2035667a4B3d09B5ec2B3",
     "name": "ETH from Ethereum on Moonbeam",
     "symbol": "WETH",
@@ -48,6 +58,16 @@
     "native": false,
     "decimals": 18,
     "coinId": "moonriver"
+  },
+  {
+    "address": "0xB60590313975f0d98821B6Cab5Ea2a6d9641D7B6",
+    "name": "Moonscape",
+    "symbol": "MSCP",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/MSCP/logo.png",
+    "resourceId": "0x0000000000000000000005c22ba65f65adffadfc0947382f2e7c286a0fe45505",
+    "native": false,
+    "decimals": 18,
+    "coinId": "moonscape"
   },
   {
     "address": "0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F",

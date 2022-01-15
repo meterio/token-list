@@ -14,7 +14,7 @@
     "name": "Crowns",
     "symbol": "CWS",
     "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/CWS/logo.png",
-    "resourceId": "0x0000000000000000000000aaeffc5b43ef3fb83c9f4888301ce7e9c6deddc403",
+    "resourceId": "0x000000000000000000000fde9cad69e98b3cc8c998a8f2094293cb0bd6911507",
     "native": false,
     "decimals": 18,
     "coinId": "crowns"

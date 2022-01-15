@@ -1,10 +1,10 @@
 [
   {
-    "address": "0xfbEf5F4BE5f87CDB4cCAB7000C572e701ce78898",
+    "address": "0xFde9cad69E98b3Cc8C998a8F2094293cb0bD6911",
     "name": "Crowns",
     "symbol": "CWS",
     "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/CWS/logo.png",
-    "resourceId": "0x0000000000000000000000aaeffc5b43ef3fb83c9f4888301ce7e9c6deddc403",
+    "resourceId": "0x000000000000000000000fde9cad69e98b3cc8c998a8f2094293cb0bd6911507",
     "native": false,
     "decimals": 18,
     "coinId": "crowns"
@@ -24,7 +24,7 @@
     "name": "Moonscape",
     "symbol": "MSCP",
     "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/MSCP/logo.png",
-    "resourceId": "0x000000000000000000000091add6fd66b689ba8ebe2a6d16cd30d9cc0543b604",
+    "resourceId": "0x000000000000000000000f2c84cb3d1e9fac001f36c965260aa2a9c9d822d507",
     "native": false,
     "decimals": 18,
     "coinId": "moonscape"

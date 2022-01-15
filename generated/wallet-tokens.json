@@ -329,7 +329,7 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/CWS/logo.png",
       "coinId": "crowns",
       "native": false,
-      "resourceId": "0x0000000000000000000000aaeffc5b43ef3fb83c9f4888301ce7e9c6deddc403"
+      "resourceId": "0x000000000000000000000fde9cad69e98b3cc8c998a8f2094293cb0bd6911507"
     },
     {
       "name": "Ether",
@@ -702,6 +702,17 @@
       "resourceId": "0x0000000000000000000000228ebBeE999c6a7ad74A6130E81b12f9Fe237Ba301"
     },
     {
+      "name": "Crowns",
+      "address": "0x4Ca0ACab9f6B9C084d216F40963c070Eef95033B",
+      "symbol": "pCWS",
+      "decimals": 18,
+      "chainId": 97,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/CWS/logo.png",
+      "coinId": "crowns",
+      "native": false,
+      "resourceId": "0x000000000000000000000fde9cad69e98b3cc8c998a8f2094293cb0bd6911507"
+    },
+    {
       "name": "UTU Coin",
       "address": "0x28387Fde25Df9E9a2314fC0C134218E6Fe199d8e",
       "symbol": "UTU",
@@ -942,6 +953,17 @@
       "resourceId": "0x0000000000000000000000e9e7cea3dedca5984780bafc599bd69add087d5601"
     },
     {
+      "name": "Crowns",
+      "address": "0x1aBB8FdE5e64be3419FceF80df335C68dD2956C7",
+      "symbol": "CWS",
+      "decimals": 18,
+      "chainId": 1284,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/CWS/logo.png",
+      "coinId": "crowns",
+      "native": false,
+      "resourceId": "0x0000000000000000000000ac0104cca91d167873b8601d2e71eb3d4d8c33e001"
+    },
+    {
       "name": "GLMR",
       "address": "0xAcc15dC74880C9944775448304B263D191c6077F",
       "symbol": "GLMR",
@@ -962,6 +984,17 @@
       "coinId": "moonriver",
       "native": false,
       "resourceId": "0x0000000000000000000000f50225a84382c74cbdea10b0c176f71fc3de0c4d01"
+    },
+    {
+      "name": "Moonscape",
+      "address": "0xB60590313975f0d98821B6Cab5Ea2a6d9641D7B6",
+      "symbol": "MSCP",
+      "decimals": 18,
+      "chainId": 1284,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MSCP/logo.png",
+      "coinId": "moonscape",
+      "native": false,
+      "resourceId": "0x0000000000000000000005c22ba65f65adffadfc0947382f2e7c286a0fe45505"
     },
     {
       "name": "Meter Governance mapped by Meter.io",
@@ -1394,14 +1427,14 @@
     },
     {
       "name": "Crowns",
-      "address": "0xfbEf5F4BE5f87CDB4cCAB7000C572e701ce78898",
+      "address": "0xFde9cad69E98b3Cc8C998a8F2094293cb0bD6911",
       "symbol": "CWS",
       "decimals": 18,
       "chainId": 1287,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/CWS/logo.png",
       "coinId": "crowns",
       "native": false,
-      "resourceId": "0x0000000000000000000000aaeffc5b43ef3fb83c9f4888301ce7e9c6deddc403"
+      "resourceId": "0x000000000000000000000fde9cad69e98b3cc8c998a8f2094293cb0bd6911507"
     },
     {
       "name": "DEV Token",
@@ -1421,7 +1454,7 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MSCP/logo.png",
       "coinId": "moonscape",
       "native": false,
-      "resourceId": "0x000000000000000000000091add6fd66b689ba8ebe2a6d16cd30d9cc0543b604"
+      "resourceId": "0x000000000000000000000f2c84cb3d1e9fac001f36c965260aa2a9c9d822d507"
     },
     {
       "name": "Volta token",
