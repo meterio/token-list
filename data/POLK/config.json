@@ -11,6 +11,10 @@
     {
       "network": "Moonriver",
       "address": "0x8b29344f368b5FA35595325903fE0eAab70C8E1F"
+    },
+    {
+      "network": "Moonbeam",
+      "address": "0x8b29344f368b5FA35595325903fE0eAab70C8E1F"
     }
   ]
 }
