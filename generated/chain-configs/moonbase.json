@@ -30,6 +30,16 @@
     "coinId": "moonscape"
   },
   {
+    "address": "0xE29A4BD665e4782a4c002aA30D3d25f010E8A394",
+    "name": "RiverBoat",
+    "symbol": "RIB",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/RIB/logo.png",
+    "resourceId": "0x000000000000000000000e29a4bd665e4782a4c002aa30d3d25f010e8a394507",
+    "native": false,
+    "decimals": 18,
+    "coinId": "riverboat"
+  },
+  {
     "address": "0x6a9b0A19e30514512AE3B56Dc5A10a95FF983561",
     "name": "Volta token",
     "symbol": "VT",

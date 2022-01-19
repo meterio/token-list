@@ -703,6 +703,22 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png"
     },
     {
+      "name": "Polkamarkets",
+      "address": "0x8b29344f368b5FA35595325903fE0eAab70C8E1F",
+      "symbol": "POLK",
+      "decimals": 18,
+      "chainId": 1284,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/POLK/logo.png"
+    },
+    {
+      "name": "RiverBoat",
+      "address": "0x4bDE98731149093a12579D71338fd3741fe6E5Ce",
+      "symbol": "RIB",
+      "decimals": 18,
+      "chainId": 1284,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/RIB/logo.png"
+    },
+    {
       "name": "USDC from MoonRiver on Moonbeam",
       "address": "0x89C36bB2E30efCA78bDEB99101C1Ac1FfcB6a30e",
       "symbol": "USDC.movr",
@@ -911,6 +927,14 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/POLK/logo.png"
     },
     {
+      "name": "RiverBoat",
+      "address": "0xbD90A6125a84E5C512129D622a75CDDE176aDE5E",
+      "symbol": "RIB",
+      "decimals": 18,
+      "chainId": 1285,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/RIB/logo.png"
+    },
+    {
       "name": "SNX from Ethereum on Moonriver",
       "address": "0x3385777A17c9ff2fED6173C1253aAE26f9a8612A",
       "symbol": "SNX.eth",
@@ -1021,6 +1045,14 @@
       "decimals": 18,
       "chainId": 1287,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MSCP/logo.png"
+    },
+    {
+      "name": "RiverBoat",
+      "address": "0xE29A4BD665e4782a4c002aA30D3d25f010E8A394",
+      "symbol": "RIB",
+      "decimals": 18,
+      "chainId": 1287,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/RIB/logo.png"
     },
     {
       "name": "Volta token",
