@@ -1,0 +1,14 @@
+{
+  "resourceID": "0x00000000000000000000001336739b05c7ab8a526d40dcc0d04a826b5f8b0301",
+  "name": "Theta Drop",
+  "symbol": "TDROP",
+  "decimals": 18,
+  "tokens": [
+    {
+      "network": "Theta",
+      "address": "0x1336739b05c7ab8a526d40dcc0d04a826b5f8b03",
+      "name": "Theta Drop",
+      "symbol": "TDROP"
+    }
+  ]
+}
