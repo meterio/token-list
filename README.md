@@ -50,6 +50,9 @@ A sample resource ID for `USDT` on Ethereum network (token address: `0xdAC17F958
 <-----padding 0------>   <-----token address in lower case------>   <-suffix->
 ```
 
+*NOTICE*
+if you do need to add the token, but not having resourceID assigned yet. Please give it an special value of `0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff` to indicate this situation for generator.
+
 3. prepare `config.json`
 
 Put your ERC20 information in `config.json`, for each network, create one entry in `tokens` list and set values. The fields that could be configured in `config.json` is defined with a ajv schema like this (as defined in [schema.js](./scripts/utils/schema.js)):

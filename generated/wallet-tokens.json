@@ -852,7 +852,7 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/TDROP/logo.png",
       "coinId": "tdrop",
       "native": false,
-      "resourceId": "0x00000000000000000000001336739b05c7ab8a526d40dcc0d04a826b5f8b0301"
+      "resourceId": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
     },
     {
       "name": "Theta Fuel",
