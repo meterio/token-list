@@ -407,6 +407,14 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/XFT/logo.png"
     },
     {
+      "name": "AmpleForth",
+      "address": "0x1cf09D1B5Da9d9d24365D87B932A7c4bD018A419",
+      "symbol": "AMPL",
+      "decimals": 9,
+      "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/AMPL/logo.png"
+    },
+    {
       "name": "BNB from BSC on Meter",
       "address": "0xF8BBb44E6fD13632D36fe09eB61820f9A44f5D74",
       "symbol": "BNB.bsc",

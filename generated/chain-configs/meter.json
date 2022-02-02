@@ -1,5 +1,15 @@
 [
   {
+    "address": "0x1cf09D1B5Da9d9d24365D87B932A7c4bD018A419",
+    "name": "AmpleForth",
+    "symbol": "AMPL",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/AMPL/logo.png",
+    "resourceId": "0x1f3eb8ee12ce38ffa19fc4c635621ad2c9a0bd609def9ddce77680e33bc2224b",
+    "native": false,
+    "decimals": 9,
+    "coinId": "ampleforth"
+  },
+  {
     "address": "0xF8BBb44E6fD13632D36fe09eB61820f9A44f5D74",
     "name": "BNB from BSC on Meter",
     "symbol": "BNB.bsc",
