@@ -18,6 +18,10 @@
       "address": "0x027dbcA046ca156De9622cD1e2D907d375e53aa7"
     },
     {
+      "network": "Meter",
+      "address": "0x1cf09D1B5Da9d9d24365D87B932A7c4bD018A419"
+    },
+    {
       "network": "Ropsten",
       "address": "0xD0E9335817f7B7c2567b784FD55b203697177E2A"
     },
