@@ -591,6 +591,14 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png"
     },
     {
+      "name": "Theta Drop",
+      "address": "0x1336739b05c7ab8a526d40dcc0d04a826b5f8b03",
+      "symbol": "TDROP",
+      "decimals": 18,
+      "chainId": 361,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/TDROP/logo.png"
+    },
+    {
       "name": "USDC from Ethereum on Theta",
       "address": "0x3Ca3fEFA944753b43c751336A5dF531bDD6598B6",
       "symbol": "USDC",
