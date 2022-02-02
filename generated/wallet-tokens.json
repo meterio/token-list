@@ -861,7 +861,7 @@
       "decimals": 18,
       "chainId": 361,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/TDROP/logo.png",
-      "coinId": "tdrop",
+      "coinId": "thetadrop",
       "native": false,
       "resourceId": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
     },
