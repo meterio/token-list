@@ -11,6 +11,7 @@
 | Meter               | Meter     | 0x52        | 82              |
 | Meter Testnet       | MeterTest | 0x65        | 101             |
 | Theta Testnet       | ThetaTest | 0x16d       | 365             |
+| Moonbeam            | Moonbeam  | 0x504       | 1284            |
 | Moonriver           | Moonriver | 0x505       | 1285            |
 | Moonbeam Testnet    | Moonbase  | 0x507       | 1287            |
 | Avalanche Network   | Avalanche | 0xa86a      | 43114           |
@@ -253,6 +254,16 @@ BSC Testnet Contract Addresses
 Bridge:             0x15cf8FD3d7Cd83fE9a17f15322F4e95D30b3C880
 Erc20 Handler:      0xEc239B20C6d93CE22316F807F898d0C9fA67E3D6
 Generic Handler:    0xb264Cf6be02f17BF638Cd59F63C68Ec3036b32b5
+```
+
+### On Moonbeam
+
+```
+Moonbeam Contract Addresses
+================================================================
+Bridge:             0x123455360bE78C9289B38bcb4DbA427D9a6cD440
+Erc20 Handler:      0x911F32FD5d347b4EEB61fDb80d9F1063Be1E78E6
+Generic Handler:    0xB3a128242e23AA80C37D14dB2d577727a1Fd4608
 ```
 
 ### On Moonbase Alpha Testnet
