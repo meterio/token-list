@@ -161,7 +161,7 @@ node scripts/validate.js [your-token-symbol]
 ```
 ETH Contract Addresses
 ================================================================
-Bridge:             0xa2A22B46B8df38cd7C55E6bf32Ea5a32637Cf2b1
+Bridge:             0xad5bAC300E311169F8223484f242d43C627eCa30
 Erc20 Handler:      0xde4fC7C3C5E7bE3F16506FcC790a8D93f8Ca0b40
 Generic Handler:    0x517828d2549cEC09386f89a67E92825E26740240
 ```
@@ -181,7 +181,7 @@ Generic Handler:    0x89CA53Bf11d24D32A7aC3aDb7750868360c90590
 ```
 BSC Contract Addresses
 ================================================================
-Bridge:             0xFd55eBc7bBde603A048648C6eAb8775c997C1001
+Bridge:             0x533d4eD31C3f18B9c8125875bA1588D0f7d86Cb3
 Erc20 Handler:      0x5945241BBB68B4454bB67Bd2B069e74C09AC3D51
 Generic Handler:    0x83Fc24eB56121FA2A05e0b5170E7310738425839
 ```
@@ -191,7 +191,7 @@ Generic Handler:    0x83Fc24eB56121FA2A05e0b5170E7310738425839
 ```
 Moonriver Contract Addresses
 ================================================================
-Bridge:             0xF41e7FC4eC990298d36f667B93951c9dba65224e
+Bridge:             0x04177A22494d8865c3E5D09BEe0490882b737838
 Erc20 Handler:      0x48A6fd66512D45006FC0426576c264D03Dfda304
 Generic Handler:    0x29E9fDF5933824ad21Bc6dbb8BF156EFA3735e32
 ```
@@ -211,7 +211,7 @@ Generic Handler:    0x123455360bE78C9289B38bcb4DbA427D9a6cD440
 ```
 Theta Contract Addresses
 ================================================================
-Bridge:             0xF41e7FC4eC990298d36f667B93951c9dba65224e
+Bridge:             0x407ad164AB718CEdc863fB34EB64f9048A727c8C
 Erc20 Handler:      0x48A6fd66512D45006FC0426576c264D03Dfda304
 Generic Handler:    0x123455360bE78C9289B38bcb4DbA427D9a6cD440
 ```
@@ -261,7 +261,7 @@ Generic Handler:    0xb264Cf6be02f17BF638Cd59F63C68Ec3036b32b5
 ```
 Moonbeam Contract Addresses
 ================================================================
-Bridge:             0x123455360bE78C9289B38bcb4DbA427D9a6cD440
+Bridge:             0xa53cC329AD9555c51F02f37b3cC93a2be4a166Be
 Erc20 Handler:      0x911F32FD5d347b4EEB61fDb80d9F1063Be1E78E6
 Generic Handler:    0xB3a128242e23AA80C37D14dB2d577727a1Fd4608
 ```
