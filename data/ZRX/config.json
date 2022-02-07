@@ -3,6 +3,7 @@
   "name": "ZRX",
   "symbol": "ZRX",
   "decimals": 18,
+  "enable": false,
   "tokens": [
     {
       "network": "Ethereum",

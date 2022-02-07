@@ -4,6 +4,7 @@
   "name": "Volta token",
   "symbol": "VT",
   "decimals": 18,
+  "enable": false,
   "tokens": [
     {
       "network": "VoltaTest",

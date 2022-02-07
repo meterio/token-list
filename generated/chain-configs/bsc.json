@@ -10,16 +10,6 @@
     "coinId": "ampleforth"
   },
   {
-    "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
-    "name": "BNB",
-    "symbol": "BNB",
-    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/BNB/logo.png",
-    "resourceId": "0x0000000000000000000000bb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c01",
-    "native": true,
-    "decimals": 18,
-    "coinId": "binancecoin"
-  },
-  {
     "address": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
     "name": "BTCB",
     "symbol": "BTC.bsc",
@@ -78,16 +68,6 @@
     "native": false,
     "decimals": 18,
     "coinId": "dai"
-  },
-  {
-    "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
-    "name": "ETH",
-    "symbol": "ETH.bsc",
-    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH.bsc/logo.png",
-    "resourceId": "0x00000000000000000000002170ed0880ac9a755fd29b2688956bd959f933f801",
-    "native": false,
-    "decimals": 18,
-    "coinId": "ethereum"
   },
   {
     "address": "0x3674D64AaB971aB974B2035667a4B3d09B5ec2B3",

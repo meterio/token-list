@@ -3,6 +3,7 @@
   "name": "SNX",
   "symbol": "SNX",
   "decimals": 18,
+  "enable": false,
   "tokens": [
     {
       "network": "Ethereum",

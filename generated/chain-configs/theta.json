@@ -1,15 +1,5 @@
 [
   {
-    "address": "0xdFf772186aCe9b5513FB46d7B05b36Efa0A4a20d",
-    "name": "BNB from BSC on Theta",
-    "symbol": "BNB.bsc",
-    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/BNB/logo.png",
-    "resourceId": "0x0000000000000000000000bb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c01",
-    "native": false,
-    "decimals": 18,
-    "coinId": "binancecoin"
-  },
-  {
     "address": "0x7B37d0787A3424A0810E02b24743a45eBd5530B2",
     "name": "BUSD from BSC on Theta",
     "symbol": "BUSD.bsc",
@@ -18,16 +8,6 @@
     "native": false,
     "decimals": 18,
     "coinId": "binance-usd"
-  },
-  {
-    "address": "0x3674D64AaB971aB974B2035667a4B3d09B5ec2B3",
-    "name": "ETH from Ethereum on Theta",
-    "symbol": "WETH",
-    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png",
-    "resourceId": "0x0000000000000000000000c02aaa39b223fe8d0a0e5c4f27ead9083c756cc201",
-    "native": false,
-    "decimals": 18,
-    "coinId": "ethereum"
   },
   {
     "address": "0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F",

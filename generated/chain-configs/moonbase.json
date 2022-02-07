@@ -10,16 +10,6 @@
     "coinId": "crowns"
   },
   {
-    "address": "0x9037816b5D8f5Fe182DA2EC935AA945dc2f0a27D",
-    "name": "Wrapped ETH",
-    "symbol": "WETH",
-    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png",
-    "resourceId": "0x0000000000000000000000C02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc201",
-    "native": false,
-    "decimals": 18,
-    "coinId": "ethereum"
-  },
-  {
     "address": "0xF2C84Cb3d1e9Fac001F36c965260aA2a9c9D822D",
     "name": "Moonscape",
     "symbol": "MSCP",
@@ -28,25 +18,5 @@
     "native": false,
     "decimals": 18,
     "coinId": "moonscape"
-  },
-  {
-    "address": "0xE29A4BD665e4782a4c002aA30D3d25f010E8A394",
-    "name": "RiverBoat",
-    "symbol": "RIB",
-    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/RIB/logo.png",
-    "resourceId": "0x000000000000000000000e29a4bd665e4782a4c002aa30d3d25f010e8a394507",
-    "native": false,
-    "decimals": 18,
-    "coinId": "riverboat"
-  },
-  {
-    "address": "0x6a9b0A19e30514512AE3B56Dc5A10a95FF983561",
-    "name": "Volta token",
-    "symbol": "VT",
-    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/VT/logo.png",
-    "resourceId": "0x0000000000000000000000db8b4264b1777e046267b4cc123f0c9e029ceb2c01",
-    "native": false,
-    "decimals": 18,
-    "coinId": "energy-web-token"
   }
 ]

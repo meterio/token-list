@@ -3,6 +3,7 @@
   "name": "Sushi",
   "symbol": "Sushi",
   "decimals": 18,
+  "enable": false,
   "tokens": [
     {
       "network": "Ethereum",

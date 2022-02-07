@@ -3,6 +3,7 @@
   "name": "AAVE",
   "symbol": "AAVE",
   "decimals": 18,
+  "enable": false,
   "tokens": [
     {
       "network": "Ethereum",

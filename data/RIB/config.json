@@ -4,6 +4,7 @@
   "name": "RiverBoat",
   "symbol": "RIB",
   "decimals": 18,
+  "enable": false,
   "tokens": [
     {
       "network": "Moonriver",

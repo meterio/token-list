@@ -3,6 +3,7 @@
   "name": "BAT",
   "symbol": "BAT",
   "decimals": 18,
+  "enable": false,
   "tokens": [
     {
       "network": "Ethereum",

@@ -20,16 +20,6 @@
     "coinId": "crowns"
   },
   {
-    "address": "0x93b43BA0Fda0490dD0Ceb52dafB9463A844cC1c9",
-    "name": "Wrapped ETH",
-    "symbol": "WETH",
-    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png",
-    "resourceId": "0x0000000000000000000000C02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc201",
-    "native": false,
-    "decimals": 18,
-    "coinId": "ethereum"
-  },
-  {
     "address": "0x53ccb3D86B04b5FD7e647e11a39d1AAE746C2E98",
     "name": "Meter Governance mapped by Meter.io",
     "symbol": "MTRG",

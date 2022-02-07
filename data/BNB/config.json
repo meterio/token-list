@@ -3,6 +3,7 @@
   "name": "Wrapped BNB",
   "symbol": "BNB",
   "decimals": 18,
+  "enable": false,
   "tokens": [
     {
       "network": "BSC",

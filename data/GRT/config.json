@@ -3,6 +3,7 @@
   "name": "GRT",
   "symbol": "GRT",
   "decimals": 18,
+  "enable": false,
   "tokens": [
     {
       "network": "Ethereum",

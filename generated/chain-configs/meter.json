@@ -10,16 +10,6 @@
     "coinId": "ampleforth"
   },
   {
-    "address": "0xF8BBb44E6fD13632D36fe09eB61820f9A44f5D74",
-    "name": "BNB from BSC on Meter",
-    "symbol": "BNB.bsc",
-    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/BNB/logo.png",
-    "resourceId": "0x0000000000000000000000bb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c01",
-    "native": false,
-    "decimals": 18,
-    "coinId": "binancecoin"
-  },
-  {
     "address": "0x24aA189DfAa76c671c279262F94434770F557c35",
     "name": "BUSD from BSC on Meter",
     "symbol": "BUSD.bsc",
@@ -28,16 +18,6 @@
     "native": false,
     "decimals": 18,
     "coinId": "binance-usd"
-  },
-  {
-    "address": "0x79A61D3A28F8c8537A3DF63092927cFa1150Fb3C",
-    "name": "ETH from Ethereum on Meter",
-    "symbol": "WETH.eth",
-    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png",
-    "resourceId": "0x0000000000000000000000c02aaa39b223fe8d0a0e5c4f27ead9083c756cc201",
-    "native": false,
-    "decimals": 18,
-    "coinId": "ethereum"
   },
   {
     "address": "0xb158870beB809Ad955Bf56065C5C10D7Fd957cC0",

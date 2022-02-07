@@ -10,16 +10,6 @@
     "coinId": "ampleforth"
   },
   {
-    "address": "0xe7536A823165D83E43EA95079cc1bb70E6a874b5",
-    "name": "Wrapped ETH",
-    "symbol": "WETH",
-    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png",
-    "resourceId": "0x0000000000000000000000C02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc201",
-    "native": false,
-    "decimals": 18,
-    "coinId": "ethereum"
-  },
-  {
     "address": "0x8A419EF4941355476CF04933E90BF3BBF2F73814",
     "name": "Meter Governance",
     "symbol": "MTRG",

@@ -3,6 +3,7 @@
   "name": "FTT",
   "symbol": "FTT",
   "decimals": 18,
+  "enable": false,
   "tokens": [
     {
       "network": "Ethereum",

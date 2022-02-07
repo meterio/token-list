@@ -1,15 +1,5 @@
 [
   {
-    "address": "0x07446A7e12C2d24d6b180d009e4255aE26fBF018",
-    "name": "Wrapped ETH",
-    "symbol": "WETH",
-    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png",
-    "resourceId": "0x0000000000000000000000C02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc201",
-    "native": false,
-    "decimals": 18,
-    "coinId": "ethereum"
-  },
-  {
     "address": "0xd9587fd562297db7cade281ecc46ba4f8972a389",
     "name": "Theta Fuel",
     "symbol": "TFUEL",

@@ -3,6 +3,7 @@
   "name": "1Inch",
   "symbol": "1Inch",
   "decimals": 18,
+  "enable": false,
   "tokens": [
     {
       "network": "Ethereum",

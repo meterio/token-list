@@ -3,6 +3,7 @@
   "name": "CRV",
   "symbol": "CRV",
   "decimals": 18,
+  "enable": false,
   "tokens": [
     {
       "network": "Ethereum",

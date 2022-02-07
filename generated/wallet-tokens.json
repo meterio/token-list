@@ -13,28 +13,6 @@
   ],
   "tokens": [
     {
-      "name": "1Inch",
-      "address": "0x111111111117dc0aa78b770fa6a738034120c302",
-      "symbol": "1Inch",
-      "decimals": 18,
-      "chainId": 1,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/1Inch/logo.png",
-      "coinId": "1inch",
-      "native": false,
-      "resourceId": "0x0000000000000000000000111111111117dc0aa78b770fa6a738034120c30201"
-    },
-    {
-      "name": "AAVE",
-      "address": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
-      "symbol": "AAVE",
-      "decimals": 18,
-      "chainId": 1,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/AAVE/logo.png",
-      "coinId": "aave",
-      "native": false,
-      "resourceId": "0x00000000000000000000007fc66500c84a76ad7e9c93437bfc5ac33e2ddae901"
-    },
-    {
       "name": "AmpleForth",
       "address": "0xD46bA6D942050d489DBd938a2C909A5d5039A161",
       "symbol": "AMPL",
@@ -44,17 +22,6 @@
       "coinId": "ampleforth",
       "native": false,
       "resourceId": "0x1f3eb8ee12ce38ffa19fc4c635621ad2c9a0bd609def9ddce77680e33bc2224b"
-    },
-    {
-      "name": "BAT",
-      "address": "0x0d8775f648430679a709e98d2b0cb6250d2887ef",
-      "symbol": "BAT",
-      "decimals": 18,
-      "chainId": 1,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/BAT/logo.png",
-      "coinId": "bat-finance",
-      "native": false,
-      "resourceId": "0x00000000000000000000000d8775f648430679a709e98d2b0cb6250d2887ef01"
     },
     {
       "name": "BEPRO Network",
@@ -90,17 +57,6 @@
       "resourceId": "0x0000000000000000000000c00e94cb662c3520282e6f5717214004a7f2688801"
     },
     {
-      "name": "CRV",
-      "address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
-      "symbol": "CRV",
-      "decimals": 18,
-      "chainId": 1,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/CRV/logo.png",
-      "coinId": "curve-dao-token",
-      "native": false,
-      "resourceId": "0x0000000000000000000000d533a949740bb3306d119cc777fa900ba034cd5201"
-    },
-    {
       "name": "Crowns",
       "address": "0xac0104cca91d167873b8601d2e71eb3d4d8c33e0",
       "symbol": "CWS",
@@ -134,59 +90,14 @@
       "resourceId": "0x0000000000000000000000bd2949f67dcdc549c6ebe98696449fa79d988a9f01"
     },
     {
-      "name": "ETH",
-      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "name": "Ether",
+      "address": "0x",
       "symbol": "ETH",
       "decimals": 18,
       "chainId": 1,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png",
       "coinId": "ethereum",
-      "native": true,
-      "resourceId": "0x0000000000000000000000c02aaa39b223fe8d0a0e5c4f27ead9083c756cc201"
-    },
-    {
-      "name": "FTT",
-      "address": "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
-      "symbol": "FTT",
-      "decimals": 18,
-      "chainId": 1,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/FTT/logo.png",
-      "coinId": "ftx-token",
-      "native": false,
-      "resourceId": "0x000000000000000000000050d1c9771902476076ecfc8b2a83ad6b9355a4c901"
-    },
-    {
-      "name": "GRT",
-      "address": "0xc944e90c64b2c07662a292be6244bdf05cda44a7",
-      "symbol": "GRT",
-      "decimals": 18,
-      "chainId": 1,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/GRT/logo.png",
-      "coinId": "the-graph",
-      "native": false,
-      "resourceId": "0x0000000000000000000000c944e90c64b2c07662a292be6244bdf05cda44a701"
-    },
-    {
-      "name": "Link",
-      "address": "0x514910771af9ca656af840dff83e8264ecf986ca",
-      "symbol": "Link",
-      "decimals": 18,
-      "chainId": 1,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/Link/logo.png",
-      "coinId": "chainlink",
-      "native": false,
-      "resourceId": "0x0000000000000000000000514910771af9ca656af840dff83e8264ecf986ca01"
-    },
-    {
-      "name": "MKR",
-      "address": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
-      "symbol": "MKR",
-      "decimals": 18,
-      "chainId": 1,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MKR/logo.png",
-      "coinId": "maker",
-      "native": false,
-      "resourceId": "0x00000000000000000000009f8f72aa9304c8b593d555f12ef6589cc3a579a201"
+      "native": true
     },
     {
       "name": "Polkamarkets",
@@ -198,39 +109,6 @@
       "coinId": "polkamarkets",
       "native": false,
       "resourceId": "0x0000000000000000000000d478161c952357f05f0292b56012cd8457f1cfbf01"
-    },
-    {
-      "name": "SNX",
-      "address": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
-      "symbol": "SNX",
-      "decimals": 18,
-      "chainId": 1,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/SNX/logo.png",
-      "coinId": "havven",
-      "native": false,
-      "resourceId": "0x0000000000000000000000c011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f01"
-    },
-    {
-      "name": "Sushi",
-      "address": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
-      "symbol": "Sushi",
-      "decimals": 18,
-      "chainId": 1,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/Sushi/logo.png",
-      "coinId": "sushi",
-      "native": false,
-      "resourceId": "0x00000000000000000000006b3595068778dd592e39a122f4f5a5cf09c90fe201"
-    },
-    {
-      "name": "UNI",
-      "address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
-      "symbol": "UNI",
-      "decimals": 18,
-      "chainId": 1,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/UNI/logo.png",
-      "coinId": "unicorn-token",
-      "native": false,
-      "resourceId": "0x00000000000000000000001f9840a85d5af5bf1d1762f925bdaddc4201f98401"
     },
     {
       "name": "USDC",
@@ -288,28 +166,6 @@
       "resourceId": "0x000000000000000000000abe580e7ee158da464b51ee1a83ac0289622e6be001"
     },
     {
-      "name": "YFI",
-      "address": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
-      "symbol": "YFI",
-      "decimals": 18,
-      "chainId": 1,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/YFI/logo.png",
-      "coinId": "yearn-finance",
-      "native": false,
-      "resourceId": "0x00000000000000000000000bc529c00c6401aef6d220be8c6ea1667f6ad93e01"
-    },
-    {
-      "name": "ZRX",
-      "address": "0xe41d2489571d322189246dafa5ebde1f4699f498",
-      "symbol": "ZRX",
-      "decimals": 18,
-      "chainId": 1,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/ZRX/logo.png",
-      "coinId": "0x",
-      "native": false,
-      "resourceId": "0x0000000000000000000000e41d2489571d322189246dafa5ebde1f4699f49801"
-    },
-    {
       "name": "AmpleForth",
       "address": "0xD0E9335817f7B7c2567b784FD55b203697177E2A",
       "symbol": "AMPL",
@@ -332,15 +188,14 @@
       "resourceId": "0x000000000000000000000fde9cad69e98b3cc8c998a8f2094293cb0bd6911507"
     },
     {
-      "name": "Ether",
-      "address": "0xc778417e063141139fce010982780140aa0cd5ab",
+      "name": "Ropsten Ether",
+      "address": "0x",
       "symbol": "ETH",
       "decimals": 18,
       "chainId": 3,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png",
       "coinId": "ethereum",
-      "native": true,
-      "resourceId": "0x0000000000000000000000C02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc201"
+      "native": true
     },
     {
       "name": "eMTRG",
@@ -396,17 +251,6 @@
       "native": true
     },
     {
-      "name": "Wrapped ETH",
-      "address": "0xd252ec0c597F0B1B41f4eD32EAD6c0B9046142d7",
-      "symbol": "WETH",
-      "decimals": 18,
-      "chainId": 41,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png",
-      "coinId": "ethereum",
-      "native": false,
-      "resourceId": "0x0000000000000000000000C02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc201"
-    },
-    {
       "name": "AmpleForth",
       "address": "0xDB021b1B247fe2F1fa57e0A87C748Cc1E321F07F",
       "symbol": "AMPL",
@@ -418,15 +262,14 @@
       "resourceId": "0x1f3eb8ee12ce38ffa19fc4c635621ad2c9a0bd609def9ddce77680e33bc2224b"
     },
     {
-      "name": "BNB",
-      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "name": "Binance Token",
+      "address": "0x",
       "symbol": "BNB",
       "decimals": 18,
       "chainId": 56,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/BNB/logo.png",
       "coinId": "binancecoin",
-      "native": true,
-      "resourceId": "0x0000000000000000000000bb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c01"
+      "native": true
     },
     {
       "name": "BTCB",
@@ -482,17 +325,6 @@
       "coinId": "dai",
       "native": false,
       "resourceId": "0x00000000000000000000001af3f329e8be154074d8769d1ffa4ee058b1dbc301"
-    },
-    {
-      "name": "ETH",
-      "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
-      "symbol": "ETH.bsc",
-      "decimals": 18,
-      "chainId": 56,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH.bsc/logo.png",
-      "coinId": "ethereum",
-      "native": false,
-      "resourceId": "0x00000000000000000000002170ed0880ac9a755fd29b2688956bd959f933f801"
     },
     {
       "name": "MOVR from MoonRiver",
@@ -570,17 +402,6 @@
       "coinId": "ampleforth",
       "native": false,
       "resourceId": "0x1f3eb8ee12ce38ffa19fc4c635621ad2c9a0bd609def9ddce77680e33bc2224b"
-    },
-    {
-      "name": "BNB from BSC on Meter",
-      "address": "0xF8BBb44E6fD13632D36fe09eB61820f9A44f5D74",
-      "symbol": "BNB.bsc",
-      "decimals": 18,
-      "chainId": 82,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/BNB/logo.png",
-      "coinId": "binancecoin",
-      "native": false,
-      "resourceId": "0x0000000000000000000000bb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c01"
     },
     {
       "name": "BUSD from BSC on Meter",
@@ -670,17 +491,6 @@
       "resourceId": "0x00000000000000000000002260fac5e5542a773aa44fbcfedf7c193bc2c59901"
     },
     {
-      "name": "ETH from Ethereum on Meter",
-      "address": "0x79A61D3A28F8c8537A3DF63092927cFa1150Fb3C",
-      "symbol": "WETH.eth",
-      "decimals": 18,
-      "chainId": 82,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png",
-      "coinId": "ethereum",
-      "native": false,
-      "resourceId": "0x0000000000000000000000c02aaa39b223fe8d0a0e5c4f27ead9083c756cc201"
-    },
-    {
       "name": "AmpleForth",
       "address": "0x75c00CF8B6C932AaD2E20fa238a57D389aE3842d",
       "symbol": "AMPL",
@@ -735,17 +545,6 @@
       "resourceId": "0x0000000000000000000000a58a4f5c4bb043d2cc1e170613b74e767c94189b01"
     },
     {
-      "name": "Wrapped ETH",
-      "address": "0x93b43BA0Fda0490dD0Ceb52dafB9463A844cC1c9",
-      "symbol": "WETH",
-      "decimals": 18,
-      "chainId": 97,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png",
-      "coinId": "ethereum",
-      "native": false,
-      "resourceId": "0x0000000000000000000000C02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc201"
-    },
-    {
       "name": "AmpleForth",
       "address": "0xd259ED8E7ACa1f5eA16fD58a860c09Af335b8198",
       "symbol": "AMPL",
@@ -789,17 +588,6 @@
       "resourceId": "0x0000000000000000000000dac17f958d2ee523a2206206994597c13d831ec701"
     },
     {
-      "name": "Wrapped ETH",
-      "address": "0xe7536A823165D83E43EA95079cc1bb70E6a874b5",
-      "symbol": "WETH",
-      "decimals": 18,
-      "chainId": 101,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png",
-      "coinId": "ethereum",
-      "native": false,
-      "resourceId": "0x0000000000000000000000C02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc201"
-    },
-    {
       "name": "EnergyWeb Token",
       "address": "0x6b3bd0478DF0eC4984b168Db0E12A539Cc0c83cd",
       "symbol": "EWT",
@@ -820,17 +608,6 @@
       "coinId": "moonriver",
       "native": false,
       "resourceId": "0x0000000000000000000000f50225a84382c74cbdea10b0c176f71fc3de0c4d01"
-    },
-    {
-      "name": "BNB from BSC on Theta",
-      "address": "0xdFf772186aCe9b5513FB46d7B05b36Efa0A4a20d",
-      "symbol": "BNB.bsc",
-      "decimals": 18,
-      "chainId": 361,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/BNB/logo.png",
-      "coinId": "binancecoin",
-      "native": false,
-      "resourceId": "0x0000000000000000000000bb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c01"
     },
     {
       "name": "BUSD from BSC on Theta",
@@ -920,17 +697,6 @@
       "resourceId": "0x00000000000000000000002260fac5e5542a773aa44fbcfedf7c193bc2c59901"
     },
     {
-      "name": "ETH from Ethereum on Theta",
-      "address": "0x3674D64AaB971aB974B2035667a4B3d09B5ec2B3",
-      "symbol": "WETH",
-      "decimals": 18,
-      "chainId": 361,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png",
-      "coinId": "ethereum",
-      "native": false,
-      "resourceId": "0x0000000000000000000000c02aaa39b223fe8d0a0e5c4f27ead9083c756cc201"
-    },
-    {
       "name": "Theta Fuel",
       "address": "0xd9587fd562297db7cade281ecc46ba4f8972a389",
       "symbol": "TFUEL",
@@ -940,28 +706,6 @@
       "coinId": "theta-fuel",
       "native": true,
       "resourceId": "0x0000000000000000000000d9587fd562297db7cade281ecc46ba4f8972a38901"
-    },
-    {
-      "name": "Wrapped ETH",
-      "address": "0x07446A7e12C2d24d6b180d009e4255aE26fBF018",
-      "symbol": "WETH",
-      "decimals": 18,
-      "chainId": 365,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png",
-      "coinId": "ethereum",
-      "native": false,
-      "resourceId": "0x0000000000000000000000C02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc201"
-    },
-    {
-      "name": "BNB from BSC on Moonbeam",
-      "address": "0xdFf772186aCe9b5513FB46d7B05b36Efa0A4a20d",
-      "symbol": "BNB.bsc",
-      "decimals": 18,
-      "chainId": 1284,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/BNB/logo.png",
-      "coinId": "binancecoin",
-      "native": false,
-      "resourceId": "0x0000000000000000000000bb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c01"
     },
     {
       "name": "BUSD from BSC on Moonbeam",
@@ -986,15 +730,14 @@
       "resourceId": "0x0000000000000000000000ac0104cca91d167873b8601d2e71eb3d4d8c33e001"
     },
     {
-      "name": "GLMR",
-      "address": "0xAcc15dC74880C9944775448304B263D191c6077F",
+      "name": "GLMR token",
+      "address": "0x",
       "symbol": "GLMR",
       "decimals": 18,
       "chainId": 1284,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/GLMR/logo.png",
       "coinId": "moonbeam",
-      "native": true,
-      "resourceId": "0x0000000000000000000000acc15dc74880c9944775448304b263d191c6077f01"
+      "native": true
     },
     {
       "name": "MOVR from MoonRiver",
@@ -1041,17 +784,6 @@
       "resourceId": "0x0000000000000000000000d478161c952357f05f0292b56012cd8457f1cfbf01"
     },
     {
-      "name": "RiverBoat",
-      "address": "0x4bDE98731149093a12579D71338fd3741fe6E5Ce",
-      "symbol": "RIB",
-      "decimals": 18,
-      "chainId": 1284,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/RIB/logo.png",
-      "coinId": "riverboat",
-      "native": false,
-      "resourceId": "0x000000000000000000000bd90a6125a84e5c512129d622a75cdde176ade5e504"
-    },
-    {
       "name": "USDC from MoonRiver on Moonbeam",
       "address": "0x89C36bB2E30efCA78bDEB99101C1Ac1FfcB6a30e",
       "symbol": "USDC.movr",
@@ -1096,50 +828,6 @@
       "resourceId": "0x00000000000000000000002260fac5e5542a773aa44fbcfedf7c193bc2c59901"
     },
     {
-      "name": "ETH from Ethereum on Moonbeam",
-      "address": "0x3674D64AaB971aB974B2035667a4B3d09B5ec2B3",
-      "symbol": "WETH",
-      "decimals": 18,
-      "chainId": 1284,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png",
-      "coinId": "ethereum",
-      "native": false,
-      "resourceId": "0x0000000000000000000000c02aaa39b223fe8d0a0e5c4f27ead9083c756cc201"
-    },
-    {
-      "name": "1Inch from Ethereum on Moonriver",
-      "address": "0x7E2d29E4ccd3E58C01c50fF057B039D99F54b01D",
-      "symbol": "1Inch.eth",
-      "decimals": 18,
-      "chainId": 1285,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/1Inch/logo.png",
-      "coinId": "1inch",
-      "native": false,
-      "resourceId": "0x0000000000000000000000111111111117dc0aa78b770fa6a738034120c30201"
-    },
-    {
-      "name": "AAVE from Ethereum on Moonriver",
-      "address": "0x607e02Aff1dc334a651172afd97ffB83C74662A1",
-      "symbol": "AAVE.eth",
-      "decimals": 18,
-      "chainId": 1285,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/AAVE/logo.png",
-      "coinId": "aave",
-      "native": false,
-      "resourceId": "0x00000000000000000000007fc66500c84a76ad7e9c93437bfc5ac33e2ddae901"
-    },
-    {
-      "name": "BAT from Ethereum on Moonriver",
-      "address": "0x7ddC30e4948ABf72391a678343dFFA385DA0d010",
-      "symbol": "BAT.eth",
-      "decimals": 18,
-      "chainId": 1285,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/BAT/logo.png",
-      "coinId": "bat-finance",
-      "native": false,
-      "resourceId": "0x00000000000000000000000d8775f648430679a709e98d2b0cb6250d2887ef01"
-    },
-    {
       "name": "BEPRO Network",
       "address": "0xCb4a593ce512D78162C58384f0b2Fd6e802c2c47",
       "symbol": "BEPRO",
@@ -1149,17 +837,6 @@
       "coinId": "bet-protocol",
       "native": false,
       "resourceId": "0x0000000000000000000000cf3c8be2e2c42331da80ef210e9b1b307c03d36a01"
-    },
-    {
-      "name": "BNB from BSC on Moonriver",
-      "address": "0x868892CCcEdbfF0B028F3b3595205Ea91b99376B",
-      "symbol": "BNB.bsc",
-      "decimals": 18,
-      "chainId": 1285,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/BNB/logo.png",
-      "coinId": "binancecoin",
-      "native": false,
-      "resourceId": "0x0000000000000000000000bb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c01"
     },
     {
       "name": "BUSD from BSC on Moonriver",
@@ -1195,17 +872,6 @@
       "resourceId": "0x0000000000000000000000c00e94cb662c3520282e6f5717214004a7f2688801"
     },
     {
-      "name": "CRV from Ethereum on Moonriver",
-      "address": "0xcE9572A9D273B176B2164c6dcB11276A6713c8d4",
-      "symbol": "CRV.eth",
-      "decimals": 18,
-      "chainId": 1285,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/CRV/logo.png",
-      "coinId": "curve-dao-token",
-      "native": false,
-      "resourceId": "0x0000000000000000000000d533a949740bb3306d119cc777fa900ba034cd5201"
-    },
-    {
       "name": "Crowns",
       "address": "0x6fc9651f45B262AE6338a701D563Ab118B1eC0Ce",
       "symbol": "CWS",
@@ -1237,61 +903,6 @@
       "coinId": "energy-web-token",
       "native": false,
       "resourceId": "0x00000000000000000000006b3bd0478df0ec4984b168db0e12a539cc0c83cd01"
-    },
-    {
-      "name": "FTT from Ethereum on Moonriver",
-      "address": "0xd8DfB1c4057A400ACEda0Cbb92D844f8A146B916",
-      "symbol": "FTT.eth",
-      "decimals": 18,
-      "chainId": 1285,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/FTT/logo.png",
-      "coinId": "ftx-token",
-      "native": false,
-      "resourceId": "0x000000000000000000000050d1c9771902476076ecfc8b2a83ad6b9355a4c901"
-    },
-    {
-      "name": "GLMR from Moonbeam",
-      "address": "0xdf1380A3Ade5F398c9233f36aD6fD0d88AEa9e51",
-      "symbol": "GLMR",
-      "decimals": 18,
-      "chainId": 1285,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/GLMR/logo.png",
-      "coinId": "moonbeam",
-      "native": false,
-      "resourceId": "0x0000000000000000000000acc15dc74880c9944775448304b263d191c6077f01"
-    },
-    {
-      "name": "GRT from Ethereum on Moonriver",
-      "address": "0x8dE43AAC40e09BE38741De78a2Eb459A4F22f585",
-      "symbol": "GRT.eth",
-      "decimals": 18,
-      "chainId": 1285,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/GRT/logo.png",
-      "coinId": "the-graph",
-      "native": false,
-      "resourceId": "0x0000000000000000000000c944e90c64b2c07662a292be6244bdf05cda44a701"
-    },
-    {
-      "name": "Link from Ethereum on Moonriver",
-      "address": "0x6b638F0E2AA14241e5bd686E66455565fB20853c",
-      "symbol": "Link.eth",
-      "decimals": 18,
-      "chainId": 1285,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/Link/logo.png",
-      "coinId": "chainlink",
-      "native": false,
-      "resourceId": "0x0000000000000000000000514910771af9ca656af840dff83e8264ecf986ca01"
-    },
-    {
-      "name": "MKR from Ethereum on Moonriver",
-      "address": "0x4b4E05CB973635D1A894D2e95699CDf83510Cc04",
-      "symbol": "MKR.eth",
-      "decimals": 18,
-      "chainId": 1285,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MKR/logo.png",
-      "coinId": "maker",
-      "native": false,
-      "resourceId": "0x00000000000000000000009f8f72aa9304c8b593d555f12ef6589cc3a579a201"
     },
     {
       "name": "MOVR",
@@ -1336,50 +947,6 @@
       "coinId": "polkamarkets",
       "native": false,
       "resourceId": "0x0000000000000000000000d478161c952357f05f0292b56012cd8457f1cfbf01"
-    },
-    {
-      "name": "RiverBoat",
-      "address": "0xbD90A6125a84E5C512129D622a75CDDE176aDE5E",
-      "symbol": "RIB",
-      "decimals": 18,
-      "chainId": 1285,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/RIB/logo.png",
-      "coinId": "riverboat",
-      "native": false,
-      "resourceId": "0x000000000000000000000bd90a6125a84e5c512129d622a75cdde176ade5e504"
-    },
-    {
-      "name": "SNX from Ethereum on Moonriver",
-      "address": "0x3385777A17c9ff2fED6173C1253aAE26f9a8612A",
-      "symbol": "SNX.eth",
-      "decimals": 18,
-      "chainId": 1285,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/SNX/logo.png",
-      "coinId": "havven",
-      "native": false,
-      "resourceId": "0x0000000000000000000000c011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f01"
-    },
-    {
-      "name": "Sushi from Ethereum on Moonriver",
-      "address": "0xA93A5f77b2067B99932036Ef5a1D0A5Fdd2d036C",
-      "symbol": "Sushi.eth",
-      "decimals": 18,
-      "chainId": 1285,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/Sushi/logo.png",
-      "coinId": "sushi",
-      "native": false,
-      "resourceId": "0x00000000000000000000006b3595068778dd592e39a122f4f5a5cf09c90fe201"
-    },
-    {
-      "name": "UNI from Ethereum on Moonriver",
-      "address": "0xA9B46866B17c546e49A0857A7C7d9d7feca9A5E4",
-      "symbol": "UNI.eth",
-      "decimals": 18,
-      "chainId": 1285,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/UNI/logo.png",
-      "coinId": "unicorn-token",
-      "native": false,
-      "resourceId": "0x00000000000000000000001f9840a85d5af5bf1d1762f925bdaddc4201f98401"
     },
     {
       "name": "USDC from MoonRiver Wrapped by Anyswap",
@@ -1437,17 +1004,6 @@
       "resourceId": "0x00000000000000000000002260fac5e5542a773aa44fbcfedf7c193bc2c59901"
     },
     {
-      "name": "ETH from Ethereum on Moonriver",
-      "address": "0x3Ca3fEFA944753b43c751336A5dF531bDD6598B6",
-      "symbol": "WETH.eth",
-      "decimals": 18,
-      "chainId": 1285,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png",
-      "coinId": "ethereum",
-      "native": false,
-      "resourceId": "0x0000000000000000000000c02aaa39b223fe8d0a0e5c4f27ead9083c756cc201"
-    },
-    {
       "name": "Offshift",
       "address": "0x6b35140fcc6e502a7e1edAC6E740513f41c4b5ec",
       "symbol": "XFT",
@@ -1457,28 +1013,6 @@
       "coinId": "offshift",
       "native": false,
       "resourceId": "0x000000000000000000000abe580e7ee158da464b51ee1a83ac0289622e6be001"
-    },
-    {
-      "name": "YFI from Ethereum on Moonriver",
-      "address": "0x090916ac145B613C1481aAB198168c3a37bc5213",
-      "symbol": "YFI.eth",
-      "decimals": 18,
-      "chainId": 1285,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/YFI/logo.png",
-      "coinId": "yearn-finance",
-      "native": false,
-      "resourceId": "0x00000000000000000000000bc529c00c6401aef6d220be8c6ea1667f6ad93e01"
-    },
-    {
-      "name": "ZRX from Ethereum on Moonriver",
-      "address": "0x987bb5c0c25e5de95a9c1d20495F0F479EC7a8Fc",
-      "symbol": "ZRX.eth",
-      "decimals": 18,
-      "chainId": 1285,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/ZRX/logo.png",
-      "coinId": "0x",
-      "native": false,
-      "resourceId": "0x0000000000000000000000e41d2489571d322189246dafa5ebde1f4699f49801"
     },
     {
       "name": "Crowns",
@@ -1510,39 +1044,6 @@
       "coinId": "moonscape",
       "native": false,
       "resourceId": "0x000000000000000000000f2c84cb3d1e9fac001f36c965260aa2a9c9d822d507"
-    },
-    {
-      "name": "RiverBoat",
-      "address": "0xE29A4BD665e4782a4c002aA30D3d25f010E8A394",
-      "symbol": "RIB",
-      "decimals": 18,
-      "chainId": 1287,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/RIB/logo.png",
-      "coinId": "riverboat",
-      "native": false,
-      "resourceId": "0x000000000000000000000e29a4bd665e4782a4c002aa30d3d25f010e8a394507"
-    },
-    {
-      "name": "Volta token",
-      "address": "0x6a9b0A19e30514512AE3B56Dc5A10a95FF983561",
-      "symbol": "VT",
-      "decimals": 18,
-      "chainId": 1287,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/VT/logo.png",
-      "coinId": "energy-web-token",
-      "native": false,
-      "resourceId": "0x0000000000000000000000db8b4264b1777e046267b4cc123f0c9e029ceb2c01"
-    },
-    {
-      "name": "Wrapped ETH",
-      "address": "0x9037816b5D8f5Fe182DA2EC935AA945dc2f0a27D",
-      "symbol": "WETH",
-      "decimals": 18,
-      "chainId": 1287,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png",
-      "coinId": "ethereum",
-      "native": false,
-      "resourceId": "0x0000000000000000000000C02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc201"
     },
     {
       "name": "AmpleForth",
@@ -1577,26 +1078,14 @@
       "resourceId": "0x00000000000000000000000def8d8adde14c9ef7c2a986df3ea4bd6582676701"
     },
     {
-      "name": "Volta token",
-      "address": "0xDb8B4264b1777e046267b4Cc123f0C9E029cEB2c",
+      "name": "VT Token",
+      "address": "0x",
       "symbol": "VT",
       "decimals": 18,
       "chainId": 73799,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/VT/logo.png",
       "coinId": "energy-web-token",
-      "native": true,
-      "resourceId": "0x0000000000000000000000db8b4264b1777e046267b4cc123f0c9e029ceb2c01"
-    },
-    {
-      "name": "Wrapped ETH",
-      "address": "0x07446A7e12C2d24d6b180d009e4255aE26fBF018",
-      "symbol": "WETH",
-      "decimals": 18,
-      "chainId": 73799,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png",
-      "coinId": "ethereum",
-      "native": false,
-      "resourceId": "0x0000000000000000000000C02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc201"
+      "native": true
     },
     {
       "name": "Binance Pegged BTC from BSC on Polis",
@@ -1630,17 +1119,6 @@
       "coinId": "dai",
       "native": false,
       "resourceId": "0x00000000000000000000001af3f329e8be154074d8769d1ffa4ee058b1dbc301"
-    },
-    {
-      "name": "Binance Pegged ETH from BSC on Polis",
-      "address": "0xaFb66752Ad6F4cCcD92049c36C90dd00c71fA99B",
-      "symbol": "ETH.bsc",
-      "decimals": 18,
-      "chainId": 333999,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH.bsc/logo.png",
-      "coinId": "ethereum",
-      "native": false,
-      "resourceId": "0x00000000000000000000002170ed0880ac9a755fd29b2688956bd959f933f801"
     },
     {
       "name": "Polis Token",

@@ -20,16 +20,6 @@
     "coinId": "crowns"
   },
   {
-    "address": "0xc778417e063141139fce010982780140aa0cd5ab",
-    "name": "Ether",
-    "symbol": "ETH",
-    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png",
-    "resourceId": "0x0000000000000000000000C02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc201",
-    "native": true,
-    "decimals": 18,
-    "coinId": "ethereum"
-  },
-  {
     "address": "0x48a6fd66512d45006fc0426576c264d03dfda304",
     "name": "eMTRG",
     "symbol": "MTRG",
