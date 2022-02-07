@@ -784,6 +784,17 @@
       "resourceId": "0x0000000000000000000000d478161c952357f05f0292b56012cd8457f1cfbf01"
     },
     {
+      "name": "RiverBoat",
+      "address": "0x4bDE98731149093a12579D71338fd3741fe6E5Ce",
+      "symbol": "RIB",
+      "decimals": 18,
+      "chainId": 1284,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/RIB/logo.png",
+      "coinId": "riverboat",
+      "native": false,
+      "resourceId": "0x000000000000000000000bd90a6125a84e5c512129d622a75cdde176ade5e504"
+    },
+    {
       "name": "USDC from MoonRiver on Moonbeam",
       "address": "0x89C36bB2E30efCA78bDEB99101C1Ac1FfcB6a30e",
       "symbol": "USDC.movr",
@@ -949,6 +960,17 @@
       "resourceId": "0x0000000000000000000000d478161c952357f05f0292b56012cd8457f1cfbf01"
     },
     {
+      "name": "RiverBoat",
+      "address": "0xbD90A6125a84E5C512129D622a75CDDE176aDE5E",
+      "symbol": "RIB",
+      "decimals": 18,
+      "chainId": 1285,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/RIB/logo.png",
+      "coinId": "riverboat",
+      "native": false,
+      "resourceId": "0x000000000000000000000bd90a6125a84e5c512129d622a75cdde176ade5e504"
+    },
+    {
       "name": "USDC from MoonRiver Wrapped by Anyswap",
       "address": "0xe3f5a90f9cb311505cd691a46596599aa1a0ad7d",
       "symbol": "USDC",
@@ -1044,6 +1066,17 @@
       "coinId": "moonscape",
       "native": false,
       "resourceId": "0x000000000000000000000f2c84cb3d1e9fac001f36c965260aa2a9c9d822d507"
+    },
+    {
+      "name": "RiverBoat",
+      "address": "0xE29A4BD665e4782a4c002aA30D3d25f010E8A394",
+      "symbol": "RIB",
+      "decimals": 18,
+      "chainId": 1287,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/RIB/logo.png",
+      "coinId": "riverboat",
+      "native": false,
+      "resourceId": "0x000000000000000000000e29a4bd665e4782a4c002aa30d3d25f010e8a394507"
     },
     {
       "name": "AmpleForth",

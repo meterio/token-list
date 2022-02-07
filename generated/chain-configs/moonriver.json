@@ -110,6 +110,16 @@
     "coinId": "polkamarkets"
   },
   {
+    "address": "0xbD90A6125a84E5C512129D622a75CDDE176aDE5E",
+    "name": "RiverBoat",
+    "symbol": "RIB",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/RIB/logo.png",
+    "resourceId": "0x000000000000000000000bd90a6125a84e5c512129d622a75cdde176ade5e504",
+    "native": false,
+    "decimals": 18,
+    "coinId": "riverboat"
+  },
+  {
     "address": "0x7B37d0787A3424A0810E02b24743a45eBd5530B2",
     "name": "USDC from Ethereum on Moonriver",
     "symbol": "USDC.eth",

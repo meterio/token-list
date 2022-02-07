@@ -607,6 +607,16 @@
       "coinId": "polkamarkets"
     },
     {
+      "address": "0xbD90A6125a84E5C512129D622a75CDDE176aDE5E",
+      "name": "RiverBoat",
+      "symbol": "RIB",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/RIB/logo.png",
+      "resourceId": "0x000000000000000000000bd90a6125a84e5c512129d622a75cdde176ade5e504",
+      "native": false,
+      "decimals": 18,
+      "coinId": "riverboat"
+    },
+    {
       "address": "0x7B37d0787A3424A0810E02b24743a45eBd5530B2",
       "name": "USDC from Ethereum on Moonriver",
       "symbol": "USDC.eth",
@@ -823,6 +833,16 @@
       "coinId": "polkamarkets"
     },
     {
+      "address": "0x4bDE98731149093a12579D71338fd3741fe6E5Ce",
+      "name": "RiverBoat",
+      "symbol": "RIB",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/RIB/logo.png",
+      "resourceId": "0x000000000000000000000bd90a6125a84e5c512129d622a75cdde176ade5e504",
+      "native": false,
+      "decimals": 18,
+      "coinId": "riverboat"
+    },
+    {
       "address": "0x89C36bB2E30efCA78bDEB99101C1Ac1FfcB6a30e",
       "name": "USDC from MoonRiver on Moonbeam",
       "symbol": "USDC.movr",
@@ -883,6 +903,16 @@
       "native": false,
       "decimals": 18,
       "coinId": "moonscape"
+    },
+    {
+      "address": "0xE29A4BD665e4782a4c002aA30D3d25f010E8A394",
+      "name": "RiverBoat",
+      "symbol": "RIB",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/RIB/logo.png",
+      "resourceId": "0x000000000000000000000e29a4bd665e4782a4c002aa30d3d25f010e8a394507",
+      "native": false,
+      "decimals": 18,
+      "coinId": "riverboat"
     }
   ],
   "EnergyWeb": [
