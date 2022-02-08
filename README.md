@@ -181,7 +181,7 @@ Generic Handler:    0x123455360bE78C9289B38bcb4DbA427D9a6cD440
 ```
 Meter Contract Addresses   ID: 3
 ================================================================
-Bridge:             0x3f396Af107049232Bc2804C171ecad65DBCC0323
+Bridge:             0x48F755280FD5f1e0C4CD2fb09415c37f78F79f40
 Erc20 Handler:      0x60f1ABAa3ED8A573c91C65A5b82AeC4BF35b77b8
 Generic Handler:    0x89CA53Bf11d24D32A7aC3aDb7750868360c90590
 ```
