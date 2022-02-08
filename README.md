@@ -171,7 +171,7 @@ Generic Handler:    0x517828d2549cEC09386f89a67E92825E26740240
 ```
 Avalanche Contract Addresses  ID:2
 ================================================================
-Bridge:             0xF41e7FC4eC990298d36f667B93951c9dba65224e
+Bridge:             0xa2De4F2cC54dDFdFb7D27E81b9b9772bd45bf89d
 Erc20 Handler:      0x48A6fd66512D45006FC0426576c264D03Dfda304
 Generic Handler:    0x123455360bE78C9289B38bcb4DbA427D9a6cD440
 ```
