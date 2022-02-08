@@ -327,6 +327,17 @@
       "resourceId": "0x00000000000000000000001af3f329e8be154074d8769d1ffa4ee058b1dbc301"
     },
     {
+      "name": "ETH",
+      "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+      "symbol": "ETH.bsc",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH.bsc/logo.png",
+      "coinId": "ethereum",
+      "native": false,
+      "resourceId": "0x00000000000000000000002170ed0880ac9a755fd29b2688956bd959f933f801"
+    },
+    {
       "name": "MOVR from MoonRiver",
       "address": "0x3674D64AaB971aB974B2035667a4B3d09B5ec2B3",
       "symbol": "MOVR",
@@ -1152,6 +1163,17 @@
       "coinId": "dai",
       "native": false,
       "resourceId": "0x00000000000000000000001af3f329e8be154074d8769d1ffa4ee058b1dbc301"
+    },
+    {
+      "name": "Binance Pegged ETH from BSC on Polis",
+      "address": "0xaFb66752Ad6F4cCcD92049c36C90dd00c71fA99B",
+      "symbol": "ETH.bsc",
+      "decimals": 18,
+      "chainId": 333999,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH.bsc/logo.png",
+      "coinId": "ethereum",
+      "native": false,
+      "resourceId": "0x00000000000000000000002170ed0880ac9a755fd29b2688956bd959f933f801"
     },
     {
       "name": "Polis Token",

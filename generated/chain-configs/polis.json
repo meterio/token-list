@@ -28,5 +28,15 @@
     "native": false,
     "decimals": 18,
     "coinId": "dai"
+  },
+  {
+    "address": "0xaFb66752Ad6F4cCcD92049c36C90dd00c71fA99B",
+    "name": "Binance Pegged ETH from BSC on Polis",
+    "symbol": "ETH.bsc",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH.bsc/logo.png",
+    "resourceId": "0x00000000000000000000002170ed0880ac9a755fd29b2688956bd959f933f801",
+    "native": false,
+    "decimals": 18,
+    "coinId": "ethereum"
   }
 ]

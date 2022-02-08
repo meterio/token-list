@@ -3,7 +3,7 @@
   "name": "ETH.bsc",
   "symbol": "ETH.bsc",
   "decimals": 18,
-  "enable": false,
+  "enable": true,
   "tokens": [
     {
       "network": "BSC",
