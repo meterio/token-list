@@ -735,14 +735,6 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/AMPL/logo.png"
     },
     {
-      "name": "Cliq Token",
-      "address": "0xDecD9903866e476325A0AEe574aaB766e0cf7e5a",
-      "symbol": "CLIQ",
-      "decimals": 18,
-      "chainId": 43114,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/CLIQ/logo.png"
-    },
-    {
       "name": "Binance Pegged BTC from BSC on Polis",
       "address": "0xc42f8e97DDE0e95Ad13D6fBe93A40AfC116881Ac",
       "symbol": "BTC.bsc",

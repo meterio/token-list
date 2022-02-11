@@ -1111,17 +1111,6 @@
       "native": true
     },
     {
-      "name": "Cliq Token",
-      "address": "0xDecD9903866e476325A0AEe574aaB766e0cf7e5a",
-      "symbol": "CLIQ",
-      "decimals": 18,
-      "chainId": 43114,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/CLIQ/logo.png",
-      "coinId": "deficliq",
-      "native": false,
-      "resourceId": "0x00000000000000000000000def8d8adde14c9ef7c2a986df3ea4bd6582676701"
-    },
-    {
       "name": "VT Token",
       "address": "0x",
       "symbol": "VT",

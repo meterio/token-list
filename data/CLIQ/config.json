@@ -15,10 +15,6 @@
     {
       "network": "Moonriver",
       "address": "0x2A0509760bF672E74899917D0D84cC10D7E34Ef6"
-    },
-    {
-      "network": "Avalanche",
-      "address": "0xDecD9903866e476325A0AEe574aaB766e0cf7e5a"
     }
   ]
 }
