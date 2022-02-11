@@ -161,7 +161,7 @@ node scripts/validate.js [your-token-symbol]
 ```
 ETH Contract Addresses  ID:1
 ================================================================
-Bridge:             0xad5bAC300E311169F8223484f242d43C627eCa30
+Bridge:             0xb61B5aca15193ECB719433d0E5c066f9980E1e83
 Erc20 Handler:      0xde4fC7C3C5E7bE3F16506FcC790a8D93f8Ca0b40
 Generic Handler:    0x517828d2549cEC09386f89a67E92825E26740240
 ```
@@ -171,7 +171,7 @@ Generic Handler:    0x517828d2549cEC09386f89a67E92825E26740240
 ```
 Avalanche Contract Addresses  ID:2
 ================================================================
-Bridge:             0xa2De4F2cC54dDFdFb7D27E81b9b9772bd45bf89d
+Bridge:             0x6154a8611fb02f250eA3FA0C8C8a8CB56931eBf2
 Erc20 Handler:      0x48A6fd66512D45006FC0426576c264D03Dfda304
 Generic Handler:    0x123455360bE78C9289B38bcb4DbA427D9a6cD440
 ```
@@ -181,7 +181,7 @@ Generic Handler:    0x123455360bE78C9289B38bcb4DbA427D9a6cD440
 ```
 Meter Contract Addresses   ID: 3
 ================================================================
-Bridge:             0x48F755280FD5f1e0C4CD2fb09415c37f78F79f40
+Bridge:             0x411b6aef79d44CEa36979Ca1525831C8DE37Da90
 Erc20 Handler:      0x60f1ABAa3ED8A573c91C65A5b82AeC4BF35b77b8
 Generic Handler:    0x89CA53Bf11d24D32A7aC3aDb7750868360c90590
 ```
@@ -191,7 +191,7 @@ Generic Handler:    0x89CA53Bf11d24D32A7aC3aDb7750868360c90590
 ```
 BSC Contract Addresses  ID: 4
 ================================================================
-Bridge:             0x533d4eD31C3f18B9c8125875bA1588D0f7d86Cb3
+Bridge:             0x0316f3A2f01bf3934f10F24217a0F802Eac3FBD7
 Erc20 Handler:      0x5945241BBB68B4454bB67Bd2B069e74C09AC3D51
 Generic Handler:    0x83Fc24eB56121FA2A05e0b5170E7310738425839
 ```
@@ -201,7 +201,7 @@ Generic Handler:    0x83Fc24eB56121FA2A05e0b5170E7310738425839
 ```
 Moonriver Contract Addresses  ID: 5
 ================================================================
-Bridge:             0x04177A22494d8865c3E5D09BEe0490882b737838
+Bridge:             0xa53cC329AD9555c51F02f37b3cC93a2be4a166Be
 Erc20 Handler:      0x48A6fd66512D45006FC0426576c264D03Dfda304
 Generic Handler:    0x29E9fDF5933824ad21Bc6dbb8BF156EFA3735e32
 ```
@@ -211,7 +211,7 @@ Generic Handler:    0x29E9fDF5933824ad21Bc6dbb8BF156EFA3735e32
 ```
 Theta Contract Addresses  ID: 6
 ================================================================
-Bridge:             0x407ad164AB718CEdc863fB34EB64f9048A727c8C
+Bridge:             0xF6853fbEF2a90be8cB66364957fB8B7793c03656
 Erc20 Handler:      0x48A6fd66512D45006FC0426576c264D03Dfda304
 Generic Handler:    0x123455360bE78C9289B38bcb4DbA427D9a6cD440
 ```
@@ -221,7 +221,7 @@ Generic Handler:    0x123455360bE78C9289B38bcb4DbA427D9a6cD440
 ```
 Polis Contract Addresses ID: 7
 ================================================================
-Bridge:             0xF41e7FC4eC990298d36f667B93951c9dba65224e
+Bridge:             0x6154a8611fb02f250eA3FA0C8C8a8CB56931eBf2
 Erc20 Handler:      0x911F32FD5d347b4EEB61fDb80d9F1063Be1E78E6
 Generic Handler:    0x123455360bE78C9289B38bcb4DbA427D9a6cD440
 ```
@@ -230,7 +230,7 @@ Generic Handler:    0x123455360bE78C9289B38bcb4DbA427D9a6cD440
 ```
 Polis Contract Addresses ID: 8
 ================================================================
-Bridge:             0xe8Be16465839302aCeAdb99CfDB5c68C09CDeb08
+Bridge:             0xC112f793113b2dA428A4f4eD5CC90f5CD6552400
 Erc20 Handler:      0x48A6fd66512D45006FC0426576c264D03Dfda304
 Generic Handler:    0x123455360bE78C9289B38bcb4DbA427D9a6cD440
 ```
@@ -240,9 +240,19 @@ Generic Handler:    0x123455360bE78C9289B38bcb4DbA427D9a6cD440
 ```
 Moonbeam Contract Addresses  ID: 9
 ================================================================
-Bridge:             0xa53cC329AD9555c51F02f37b3cC93a2be4a166Be
+Bridge:             0x39e592999Df2fd3B6f9261b0cfDeC72992F5aEFC
 Erc20 Handler:      0x911F32FD5d347b4EEB61fDb80d9F1063Be1E78E6
 Generic Handler:    0xB3a128242e23AA80C37D14dB2d577727a1Fd4608
+```
+
+### On Polygon Matic
+
+```
+Polygon Contract Addresses  ID: 10
+================================================================
+Bridge:             0x92D144A99bD3aB1177B8Df600769Ad5422DE7819
+Erc20 Handler:      0x123455360bE78C9289B38bcb4DbA427D9a6cD440
+Generic Handler:    0x911F32FD5d347b4EEB61fDb80d9F1063Be1E78E6
 ```
 
 ### On Ethereum Ropsten
