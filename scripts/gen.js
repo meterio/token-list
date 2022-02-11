@@ -40,6 +40,33 @@ const loadSupportedSymbols = (basedir) => {
   return symbols;
 };
 
+const loadSupportedWalletSymbols = (basedir) => {
+  const files = fs.readdirSync(basedir);
+  let symbols = [];
+  for (const f of files) {
+    const result = validateConfig(f);
+    if (!result.valid) {
+      console.log(`validation failed for ${f}:`, result.errors);
+      continue;
+    }
+
+    const config = getConfig(f);
+
+    // make sure config is enabled
+    if ('enable' in config && !config.enable) {
+      if (config.symbol === 'ETH' || config.symbol === 'BNB') {
+        console.log(`config is not enabled, but it is ${f} no skip`);
+      } else {
+        console.log(`config is not enabled, skip ${f}`);
+        continue;
+      }
+    }
+
+    symbols.push(f);
+  }
+  return symbols;
+};
+
 const mkdirIfNeeded = (dir) => {
   if (!fs.existsSync(dir)) {
     fs.mkdirSync(dir, { recursive: true });
@@ -258,9 +285,11 @@ const placeImages = (symbols) => {
 const symbols = loadSupportedSymbols(DATA_PATH);
 console.log(symbols);
 
+const walletSymbols = loadSupportedWalletSymbols(DATA_PATH);
+
 const chainConfigs = getChainConfigs();
 genPassportTokens(symbols);
 genSwapTokens(symbols);
-genWalletTokens(symbols, chainConfigs);
+genWalletTokens(walletSymbols, chainConfigs);
 
 placeImages(symbols);

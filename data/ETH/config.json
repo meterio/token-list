@@ -16,25 +16,25 @@
       "network": "Meter",
       "address": "0x79A61D3A28F8c8537A3DF63092927cFa1150Fb3C",
       "name": "ETH from Ethereum on Meter",
-      "symbol": "WETH.eth"
+      "symbol": "ETH.SWAP"
     },
     {
       "network": "Moonriver",
       "address": "0x3Ca3fEFA944753b43c751336A5dF531bDD6598B6",
       "name": "ETH from Ethereum on Moonriver",
-      "symbol": "WETH.eth"
+      "symbol": "ETH.SWAP"
     },
     {
       "network": "Theta",
       "address": "0x3674D64AaB971aB974B2035667a4B3d09B5ec2B3",
       "name": "ETH from Ethereum on Theta",
-      "symbol": "WETH"
+      "symbol": "ETH.SWAP"
     },
     {
       "network": "Moonbeam",
       "address": "0x3674D64AaB971aB974B2035667a4B3d09B5ec2B3",
       "name": "ETH from Ethereum on Moonbeam",
-      "symbol": "WETH"
+      "symbol": "ETH.SWAP"
     },
     {
       "network": "Ropsten",
@@ -45,37 +45,37 @@
       "network": "MeterTest",
       "address": "0xe7536A823165D83E43EA95079cc1bb70E6a874b5",
       "name": "Wrapped ETH",
-      "symbol": "WETH"
+      "symbol": "ETH.SWAP"
     },
     {
       "network": "BSCTest",
       "address": "0x93b43BA0Fda0490dD0Ceb52dafB9463A844cC1c9",
       "name": "Wrapped ETH",
-      "symbol": "WETH"
+      "symbol": "ETH.SWAP"
     },
     {
       "network": "Moonbase",
       "address": "0x9037816b5D8f5Fe182DA2EC935AA945dc2f0a27D",
       "name": "Wrapped ETH",
-      "symbol": "WETH"
+      "symbol": "ETH.SWAP"
     },
     {
       "network": "ThetaTest",
       "address": "0x07446A7e12C2d24d6b180d009e4255aE26fBF018",
       "name": "Wrapped ETH",
-      "symbol": "WETH"
+      "symbol": "ETH.SWAP"
     },
     {
       "network": "VoltaTest",
       "address": "0x07446A7e12C2d24d6b180d009e4255aE26fBF018",
       "name": "Wrapped ETH",
-      "symbol": "WETH"
+      "symbol": "ETH.SWAP"
     },
     {
       "network": "TelosTest",
       "address": "0xd252ec0c597F0B1B41f4eD32EAD6c0B9046142d7",
       "name": "Wrapped ETH",
-      "symbol": "WETH"
+      "symbol": "ETH.SWAP"
     }
   ]
 }
