@@ -287,6 +287,14 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/BUSD/logo.png"
     },
     {
+      "name": "Factory Builders Token",
+      "address": "0x6CFe9AdaD5215195c1Aa9755DAed29360e6Ab986",
+      "symbol": "FTB",
+      "decimals": 18,
+      "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/FTB/logo.png"
+    },
+    {
       "name": "MOVR from MoonRiver on Meter",
       "address": "0xb158870beB809Ad955Bf56065C5C10D7Fd957cC0",
       "symbol": "MOVR",
@@ -389,6 +397,14 @@
       "decimals": 6,
       "chainId": 101,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDT/logo.png"
+    },
+    {
+      "name": "Factory Builders Token",
+      "address": "0xf305012ea754252184f1071c86ae99fac5b40320",
+      "symbol": "FTB",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/FTB/logo.png"
     },
     {
       "name": "EnergyWeb Token",

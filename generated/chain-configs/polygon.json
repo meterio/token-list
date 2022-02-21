@@ -1,0 +1,12 @@
+[
+  {
+    "address": "0xf305012ea754252184f1071c86ae99fac5b40320",
+    "name": "Factory Builders Token",
+    "symbol": "FTB",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/FTB/logo.png",
+    "resourceId": "0x0000000000000000000000f305012ea754252184f1071c86ae99fac5b4032001",
+    "native": false,
+    "decimals": 18,
+    "coinId": "fit-beat"
+  }
+]

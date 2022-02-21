@@ -462,6 +462,17 @@
       "resourceId": "0x0000000000000000000000c02aaa39b223fe8d0a0e5c4f27ead9083c756cc201"
     },
     {
+      "name": "Factory Builders Token",
+      "address": "0x6CFe9AdaD5215195c1Aa9755DAed29360e6Ab986",
+      "symbol": "FTB",
+      "decimals": 18,
+      "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/FTB/logo.png",
+      "coinId": "fit-beat",
+      "native": false,
+      "resourceId": "0x0000000000000000000000f305012ea754252184f1071c86ae99fac5b4032001"
+    },
+    {
       "name": "MOVR from MoonRiver on Meter",
       "address": "0xb158870beB809Ad955Bf56065C5C10D7Fd957cC0",
       "symbol": "MOVR",
@@ -655,6 +666,27 @@
       "coinId": "tether",
       "native": false,
       "resourceId": "0x0000000000000000000000dac17f958d2ee523a2206206994597c13d831ec701"
+    },
+    {
+      "name": "Factory Builders Token",
+      "address": "0xf305012ea754252184f1071c86ae99fac5b40320",
+      "symbol": "FTB",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/FTB/logo.png",
+      "coinId": "fit-beat",
+      "native": false,
+      "resourceId": "0x0000000000000000000000f305012ea754252184f1071c86ae99fac5b4032001"
+    },
+    {
+      "name": "MATIC Token",
+      "address": "0x",
+      "symbol": "MATIC",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MATIC/logo.png",
+      "coinId": "matic-network",
+      "native": true
     },
     {
       "name": "EnergyWeb Token",
@@ -1328,6 +1360,7 @@
       "decimals": 18,
       "chainId": 333999,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/POLIS/logo.png",
+      "coinId": "polis",
       "native": true
     }
   ]

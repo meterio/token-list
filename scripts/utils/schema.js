@@ -91,6 +91,11 @@ const CHAINS = [
     chainId: 1284,
     nativeToken: { name: 'GLMR token', symbol: 'GLMR', decimals: 18 },
   },
+  {
+    enum: 'Polygon',
+    chainId: 137,
+    nativeToken: { name: 'MATIC Token', symbol: 'MATIC', decimals: 18 },
+  }
 ];
 
 const tokenSchema = {
