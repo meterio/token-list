@@ -261,6 +261,7 @@
       "decimals": 18,
       "chainId": 41,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/TLOS/logo.png",
+      "coinId": "telos",
       "native": true
     },
     {
@@ -840,6 +841,17 @@
       "coinId": "theta-fuel",
       "native": true,
       "resourceId": "0x0000000000000000000000d9587fd562297db7cade281ecc46ba4f8972a38901"
+    },
+    {
+      "name": "BEPRO Network",
+      "address": "0x4EdF8E0778967012D46968ceadb75436d0426f88",
+      "symbol": "BEPRO",
+      "decimals": 18,
+      "chainId": 1284,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/BEPRO/logo.png",
+      "coinId": "bet-protocol",
+      "native": false,
+      "resourceId": "0x0000000000000000000000cf3c8be2e2c42331da80ef210e9b1b307c03d36a01"
     },
     {
       "name": "BNB from BSC on Moonbeam",

@@ -687,111 +687,17 @@
       "coinId": "offshift"
     }
   ],
-  "Polis": [
-    {
-      "address": "0xc42f8e97DDE0e95Ad13D6fBe93A40AfC116881Ac",
-      "name": "Binance Pegged BTC from BSC on Polis",
-      "symbol": "BTC.bsc",
-      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/BTC.bsc/logo.png",
-      "resourceId": "0x00000000000000000000007130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c01",
-      "native": false,
-      "decimals": 18,
-      "coinId": "bitcoin"
-    },
-    {
-      "address": "0x7c4af0042e2723E0bC1fe24EE303D6CcB2CD00f7",
-      "name": "CAKE from BSC on Polis",
-      "symbol": "CAKE",
-      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/CAKE/logo.png",
-      "resourceId": "0x00000000000000000000000e09fabb73bd3ade0a17ecc321fd13a19e81ce8201",
-      "native": false,
-      "decimals": 18,
-      "coinId": "pancakeswap-token"
-    },
-    {
-      "address": "0x247123e806a27Ea322bFd93e0273D04602dC942D",
-      "name": "Binance Pegged DAI from BSC on Polis",
-      "symbol": "DAI.bsc",
-      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/DAI.bsc/logo.png",
-      "resourceId": "0x00000000000000000000001af3f329e8be154074d8769d1ffa4ee058b1dbc301",
-      "native": false,
-      "decimals": 18,
-      "coinId": "dai"
-    },
-    {
-      "address": "0xaFb66752Ad6F4cCcD92049c36C90dd00c71fA99B",
-      "name": "Binance Pegged ETH from BSC on Polis",
-      "symbol": "ETH.bsc",
-      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH.bsc/logo.png",
-      "resourceId": "0x00000000000000000000002170ed0880ac9a755fd29b2688956bd959f933f801",
-      "native": false,
-      "decimals": 18,
-      "coinId": "ethereum"
-    }
-  ],
-  "Theta": [
-    {
-      "address": "0x7B37d0787A3424A0810E02b24743a45eBd5530B2",
-      "name": "BUSD from BSC on Theta",
-      "symbol": "BUSD.bsc",
-      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/BUSD/logo.png",
-      "resourceId": "0x0000000000000000000000e9e7cea3dedca5984780bafc599bd69add087d5601",
-      "native": false,
-      "decimals": 18,
-      "coinId": "binance-usd"
-    },
-    {
-      "address": "0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F",
-      "name": "Meter Governance mapped by Meter.io",
-      "symbol": "MTRG",
-      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png",
-      "resourceId": "0x0000000000000000000000bd2949f67dcdc549c6ebe98696449fa79d988a9f01",
-      "native": false,
-      "decimals": 18,
-      "coinId": "meter"
-    },
-    {
-      "address": "0x3Ca3fEFA944753b43c751336A5dF531bDD6598B6",
-      "name": "USDC from Ethereum on Theta",
-      "symbol": "USDC",
-      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDC/logo.png",
-      "resourceId": "0x0000000000000000000000a0b86991c6218b36c1d19d4a2e9eb0ce3606eb4801",
-      "native": false,
-      "decimals": 6,
-      "coinId": "usd-coin"
-    },
-    {
-      "address": "0x3c751Feb00364CA9e2d0105c40F0b423abf1DEE3",
-      "name": "USDT from Ethereum on Theta",
-      "symbol": "USDT",
-      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDT/logo.png",
-      "resourceId": "0x0000000000000000000000dac17f958d2ee523a2206206994597c13d831ec701",
-      "native": false,
-      "decimals": 6,
-      "coinId": "tether"
-    },
-    {
-      "address": "0xE6a991Ffa8CfE62B0bf6BF72959A3d4f11B2E0f5",
-      "name": "Volt from Meter on Theta",
-      "symbol": "VOLT",
-      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/VOLT/logo.png",
-      "resourceId": "0x00000000000000000000008df95e66cb0ef38f91d2776da3c921768982fba001",
-      "native": false,
-      "decimals": 18,
-      "coinId": "volt"
-    },
-    {
-      "address": "0xf64FA5155D8cc578D473A21FB67507DDCbB80D21",
-      "name": "WBTC from Ethereum on Theta",
-      "symbol": "WBTC",
-      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/WBTC/logo.png",
-      "resourceId": "0x00000000000000000000002260fac5e5542a773aa44fbcfedf7c193bc2c59901",
-      "native": false,
-      "decimals": 8,
-      "coinId": "wrapped-bitcoin"
-    }
-  ],
   "Moonbeam": [
+    {
+      "address": "0x4EdF8E0778967012D46968ceadb75436d0426f88",
+      "name": "BEPRO Network",
+      "symbol": "BEPRO",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/BEPRO/logo.png",
+      "resourceId": "0x0000000000000000000000cf3c8be2e2c42331da80ef210e9b1b307c03d36a01",
+      "native": false,
+      "decimals": 18,
+      "coinId": "bet-protocol"
+    },
     {
       "address": "0x7B37d0787A3424A0810E02b24743a45eBd5530B2",
       "name": "BUSD from BSC on Moonbeam",
@@ -895,6 +801,110 @@
     {
       "address": "0xf64FA5155D8cc578D473A21FB67507DDCbB80D21",
       "name": "WBTC from Ethereum on Moonbeam",
+      "symbol": "WBTC",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/WBTC/logo.png",
+      "resourceId": "0x00000000000000000000002260fac5e5542a773aa44fbcfedf7c193bc2c59901",
+      "native": false,
+      "decimals": 8,
+      "coinId": "wrapped-bitcoin"
+    }
+  ],
+  "Polis": [
+    {
+      "address": "0xc42f8e97DDE0e95Ad13D6fBe93A40AfC116881Ac",
+      "name": "Binance Pegged BTC from BSC on Polis",
+      "symbol": "BTC.bsc",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/BTC.bsc/logo.png",
+      "resourceId": "0x00000000000000000000007130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c01",
+      "native": false,
+      "decimals": 18,
+      "coinId": "bitcoin"
+    },
+    {
+      "address": "0x7c4af0042e2723E0bC1fe24EE303D6CcB2CD00f7",
+      "name": "CAKE from BSC on Polis",
+      "symbol": "CAKE",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/CAKE/logo.png",
+      "resourceId": "0x00000000000000000000000e09fabb73bd3ade0a17ecc321fd13a19e81ce8201",
+      "native": false,
+      "decimals": 18,
+      "coinId": "pancakeswap-token"
+    },
+    {
+      "address": "0x247123e806a27Ea322bFd93e0273D04602dC942D",
+      "name": "Binance Pegged DAI from BSC on Polis",
+      "symbol": "DAI.bsc",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/DAI.bsc/logo.png",
+      "resourceId": "0x00000000000000000000001af3f329e8be154074d8769d1ffa4ee058b1dbc301",
+      "native": false,
+      "decimals": 18,
+      "coinId": "dai"
+    },
+    {
+      "address": "0xaFb66752Ad6F4cCcD92049c36C90dd00c71fA99B",
+      "name": "Binance Pegged ETH from BSC on Polis",
+      "symbol": "ETH.bsc",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH.bsc/logo.png",
+      "resourceId": "0x00000000000000000000002170ed0880ac9a755fd29b2688956bd959f933f801",
+      "native": false,
+      "decimals": 18,
+      "coinId": "ethereum"
+    }
+  ],
+  "Theta": [
+    {
+      "address": "0x7B37d0787A3424A0810E02b24743a45eBd5530B2",
+      "name": "BUSD from BSC on Theta",
+      "symbol": "BUSD.bsc",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/BUSD/logo.png",
+      "resourceId": "0x0000000000000000000000e9e7cea3dedca5984780bafc599bd69add087d5601",
+      "native": false,
+      "decimals": 18,
+      "coinId": "binance-usd"
+    },
+    {
+      "address": "0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F",
+      "name": "Meter Governance mapped by Meter.io",
+      "symbol": "MTRG",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png",
+      "resourceId": "0x0000000000000000000000bd2949f67dcdc549c6ebe98696449fa79d988a9f01",
+      "native": false,
+      "decimals": 18,
+      "coinId": "meter"
+    },
+    {
+      "address": "0x3Ca3fEFA944753b43c751336A5dF531bDD6598B6",
+      "name": "USDC from Ethereum on Theta",
+      "symbol": "USDC",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDC/logo.png",
+      "resourceId": "0x0000000000000000000000a0b86991c6218b36c1d19d4a2e9eb0ce3606eb4801",
+      "native": false,
+      "decimals": 6,
+      "coinId": "usd-coin"
+    },
+    {
+      "address": "0x3c751Feb00364CA9e2d0105c40F0b423abf1DEE3",
+      "name": "USDT from Ethereum on Theta",
+      "symbol": "USDT",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDT/logo.png",
+      "resourceId": "0x0000000000000000000000dac17f958d2ee523a2206206994597c13d831ec701",
+      "native": false,
+      "decimals": 6,
+      "coinId": "tether"
+    },
+    {
+      "address": "0xE6a991Ffa8CfE62B0bf6BF72959A3d4f11B2E0f5",
+      "name": "Volt from Meter on Theta",
+      "symbol": "VOLT",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/VOLT/logo.png",
+      "resourceId": "0x00000000000000000000008df95e66cb0ef38f91d2776da3c921768982fba001",
+      "native": false,
+      "decimals": 18,
+      "coinId": "volt"
+    },
+    {
+      "address": "0xf64FA5155D8cc578D473A21FB67507DDCbB80D21",
+      "name": "WBTC from Ethereum on Theta",
       "symbol": "WBTC",
       "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/WBTC/logo.png",
       "resourceId": "0x00000000000000000000002260fac5e5542a773aa44fbcfedf7c193bc2c59901",

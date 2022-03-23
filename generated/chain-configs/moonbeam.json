@@ -1,5 +1,15 @@
 [
   {
+    "address": "0x4EdF8E0778967012D46968ceadb75436d0426f88",
+    "name": "BEPRO Network",
+    "symbol": "BEPRO",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/BEPRO/logo.png",
+    "resourceId": "0x0000000000000000000000cf3c8be2e2c42331da80ef210e9b1b307c03d36a01",
+    "native": false,
+    "decimals": 18,
+    "coinId": "bet-protocol"
+  },
+  {
     "address": "0x7B37d0787A3424A0810E02b24743a45eBd5530B2",
     "name": "BUSD from BSC on Moonbeam",
     "symbol": "BUSD.bsc",

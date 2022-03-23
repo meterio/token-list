@@ -487,6 +487,14 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/TFUEL/logo.png"
     },
     {
+      "name": "BEPRO Network",
+      "address": "0x4EdF8E0778967012D46968ceadb75436d0426f88",
+      "symbol": "BEPRO",
+      "decimals": 18,
+      "chainId": 1284,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/BEPRO/logo.png"
+    },
+    {
       "name": "BUSD from BSC on Moonbeam",
       "address": "0x7B37d0787A3424A0810E02b24743a45eBd5530B2",
       "symbol": "BUSD.bsc",
