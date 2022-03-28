@@ -17,6 +17,12 @@
       "address": "0xdf1380A3Ade5F398c9233f36aD6fD0d88AEa9e51",
       "name": "GLMR from Moonbeam",
       "symbol": "GLMR"
+    },
+    {
+      "network": "Polygon",
+      "address": "0x3Ca3fEFA944753b43c751336A5dF531bDD6598B6",
+      "name": "GLMR from Moonbeam",
+      "symbol": "GLMR"
     }
   ]
 }
