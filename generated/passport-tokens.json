@@ -577,6 +577,16 @@
       "coinId": "energy-web-token"
     },
     {
+      "address": "0xdf1380A3Ade5F398c9233f36aD6fD0d88AEa9e51",
+      "name": "GLMR from Moonbeam",
+      "symbol": "GLMR",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/GLMR/logo.png",
+      "resourceId": "0x0000000000000000000000acc15dc74880c9944775448304b263d191c6077f01",
+      "native": false,
+      "decimals": 18,
+      "coinId": "moonbeam"
+    },
+    {
       "address": "0xf50225a84382c74CbdeA10b0c176f71fc3DE0C4d",
       "name": "MOVR",
       "symbol": "MOVR",
@@ -717,6 +727,16 @@
       "native": false,
       "decimals": 18,
       "coinId": "crowns"
+    },
+    {
+      "address": "0xAcc15dC74880C9944775448304B263D191c6077F",
+      "name": "GLMR",
+      "symbol": "GLMR",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/GLMR/logo.png",
+      "resourceId": "0x0000000000000000000000acc15dc74880c9944775448304b263d191c6077f01",
+      "native": true,
+      "decimals": 18,
+      "coinId": "moonbeam"
     },
     {
       "address": "0x0B5B9806b1B202e22aA26Cfd527fDCafEF9eDAcf",
@@ -977,6 +997,16 @@
       "native": false,
       "decimals": 18,
       "coinId": "fit-beat"
+    },
+    {
+      "address": "0x3Ca3fEFA944753b43c751336A5dF531bDD6598B6",
+      "name": "GLMR from Moonbeam",
+      "symbol": "GLMR",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/GLMR/logo.png",
+      "resourceId": "0x0000000000000000000000acc15dc74880c9944775448304b263d191c6077f01",
+      "native": false,
+      "decimals": 18,
+      "coinId": "moonbeam"
     },
     {
       "address": "0x3674D64AaB971aB974B2035667a4B3d09B5ec2B3",

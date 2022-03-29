@@ -10,6 +10,16 @@
     "coinId": "fit-beat"
   },
   {
+    "address": "0x3Ca3fEFA944753b43c751336A5dF531bDD6598B6",
+    "name": "GLMR from Moonbeam",
+    "symbol": "GLMR",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/GLMR/logo.png",
+    "resourceId": "0x0000000000000000000000acc15dc74880c9944775448304b263d191c6077f01",
+    "native": false,
+    "decimals": 18,
+    "coinId": "moonbeam"
+  },
+  {
     "address": "0x3674D64AaB971aB974B2035667a4B3d09B5ec2B3",
     "name": "MOVR from MoonRiver",
     "symbol": "MOVR",

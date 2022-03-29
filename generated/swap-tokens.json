@@ -407,6 +407,14 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/FTB/logo.png"
     },
     {
+      "name": "GLMR from Moonbeam",
+      "address": "0x3Ca3fEFA944753b43c751336A5dF531bDD6598B6",
+      "symbol": "GLMR",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/GLMR/logo.png"
+    },
+    {
       "name": "MOVR from MoonRiver",
       "address": "0x3674D64AaB971aB974B2035667a4B3d09B5ec2B3",
       "symbol": "MOVR",
@@ -517,6 +525,14 @@
       "decimals": 18,
       "chainId": 1284,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/CWS/logo.png"
+    },
+    {
+      "name": "GLMR",
+      "address": "0xAcc15dC74880C9944775448304B263D191c6077F",
+      "symbol": "GLMR",
+      "decimals": 18,
+      "chainId": 1284,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/GLMR/logo.png"
     },
     {
       "name": "MOVR from MoonRiver",
@@ -645,6 +661,14 @@
       "decimals": 18,
       "chainId": 1285,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/EWT/logo.png"
+    },
+    {
+      "name": "GLMR from Moonbeam",
+      "address": "0xdf1380A3Ade5F398c9233f36aD6fD0d88AEa9e51",
+      "symbol": "GLMR",
+      "decimals": 18,
+      "chainId": 1285,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/GLMR/logo.png"
     },
     {
       "name": "MOVR",

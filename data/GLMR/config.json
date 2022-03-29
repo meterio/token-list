@@ -3,7 +3,7 @@
   "name": "Moonbeam",
   "symbol": "GLMR",
   "decimals": 18,
-  "enable": false,
+  "enable": true,
   "tokens": [
     {
       "network": "Moonbeam",
