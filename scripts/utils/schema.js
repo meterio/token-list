@@ -32,7 +32,7 @@ const CHAINS = [
   },
   {
     enum: 'MeterTest',
-    chainId: 101,
+    chainId: 83,
     testnet: true,
     nativeToken: { name: 'Test Meter Stable', symbol: 'MTR', decimals: 18 },
   },

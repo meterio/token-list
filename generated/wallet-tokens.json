@@ -551,6 +551,60 @@
     },
     {
       "name": "AmpleForth",
+      "address": "0xd259ED8E7ACa1f5eA16fD58a860c09Af335b8198",
+      "symbol": "AMPL",
+      "decimals": 9,
+      "chainId": 83,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/AMPL/logo.png",
+      "coinId": "ampleforth",
+      "native": false,
+      "resourceId": "0x1f3eb8ee12ce38ffa19fc4c635621ad2c9a0bd609def9ddce77680e33bc2224b"
+    },
+    {
+      "name": "Wrapped ETH",
+      "address": "0xe7536A823165D83E43EA95079cc1bb70E6a874b5",
+      "symbol": "ETH.SWAP",
+      "decimals": 18,
+      "chainId": 83,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png",
+      "coinId": "ethereum",
+      "native": false,
+      "resourceId": "0x0000000000000000000000C02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc201"
+    },
+    {
+      "name": "Test Meter Stable",
+      "address": "0x",
+      "symbol": "MTR",
+      "decimals": 18,
+      "chainId": 83,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTR/logo.png",
+      "coinId": "meter-stable",
+      "native": true
+    },
+    {
+      "name": "Meter Governance",
+      "address": "0x8A419EF4941355476CF04933E90BF3BBF2F73814",
+      "symbol": "MTRG",
+      "decimals": 18,
+      "chainId": 83,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png",
+      "coinId": "meter",
+      "native": false,
+      "resourceId": "0x0000000000000000000000228ebBeE999c6a7ad74A6130E81b12f9Fe237Ba301"
+    },
+    {
+      "name": "Wrapped USDT",
+      "address": "0x3e5a2A4812D319Ded22479A88ed708c6B55ca0b1",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 83,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDT/logo.png",
+      "coinId": "tether",
+      "native": false,
+      "resourceId": "0x0000000000000000000000dac17f958d2ee523a2206206994597c13d831ec701"
+    },
+    {
+      "name": "AmpleForth",
       "address": "0x75c00CF8B6C932AaD2E20fa238a57D389aE3842d",
       "symbol": "AMPL",
       "decimals": 9,
@@ -613,60 +667,6 @@
       "coinId": "utu-coin",
       "native": false,
       "resourceId": "0x0000000000000000000000a58a4f5c4bb043d2cc1e170613b74e767c94189b01"
-    },
-    {
-      "name": "AmpleForth",
-      "address": "0xd259ED8E7ACa1f5eA16fD58a860c09Af335b8198",
-      "symbol": "AMPL",
-      "decimals": 9,
-      "chainId": 101,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/AMPL/logo.png",
-      "coinId": "ampleforth",
-      "native": false,
-      "resourceId": "0x1f3eb8ee12ce38ffa19fc4c635621ad2c9a0bd609def9ddce77680e33bc2224b"
-    },
-    {
-      "name": "Wrapped ETH",
-      "address": "0xe7536A823165D83E43EA95079cc1bb70E6a874b5",
-      "symbol": "ETH.SWAP",
-      "decimals": 18,
-      "chainId": 101,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png",
-      "coinId": "ethereum",
-      "native": false,
-      "resourceId": "0x0000000000000000000000C02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc201"
-    },
-    {
-      "name": "Test Meter Stable",
-      "address": "0x",
-      "symbol": "MTR",
-      "decimals": 18,
-      "chainId": 101,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTR/logo.png",
-      "coinId": "meter-stable",
-      "native": true
-    },
-    {
-      "name": "Meter Governance",
-      "address": "0x8A419EF4941355476CF04933E90BF3BBF2F73814",
-      "symbol": "MTRG",
-      "decimals": 18,
-      "chainId": 101,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png",
-      "coinId": "meter",
-      "native": false,
-      "resourceId": "0x0000000000000000000000228ebBeE999c6a7ad74A6130E81b12f9Fe237Ba301"
-    },
-    {
-      "name": "Wrapped USDT",
-      "address": "0x3e5a2A4812D319Ded22479A88ed708c6B55ca0b1",
-      "symbol": "USDT",
-      "decimals": 6,
-      "chainId": 101,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDT/logo.png",
-      "coinId": "tether",
-      "native": false,
-      "resourceId": "0x0000000000000000000000dac17f958d2ee523a2206206994597c13d831ec701"
     },
     {
       "name": "Factory Builders Token",

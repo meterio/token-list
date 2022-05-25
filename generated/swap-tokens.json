@@ -344,6 +344,30 @@
     },
     {
       "name": "AmpleForth",
+      "address": "0xd259ED8E7ACa1f5eA16fD58a860c09Af335b8198",
+      "symbol": "AMPL",
+      "decimals": 9,
+      "chainId": 83,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/AMPL/logo.png"
+    },
+    {
+      "name": "Meter Governance",
+      "address": "0x8A419EF4941355476CF04933E90BF3BBF2F73814",
+      "symbol": "MTRG",
+      "decimals": 18,
+      "chainId": 83,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png"
+    },
+    {
+      "name": "Wrapped USDT",
+      "address": "0x3e5a2A4812D319Ded22479A88ed708c6B55ca0b1",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 83,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDT/logo.png"
+    },
+    {
+      "name": "AmpleForth",
       "address": "0x75c00CF8B6C932AaD2E20fa238a57D389aE3842d",
       "symbol": "AMPL",
       "decimals": 9,
@@ -373,30 +397,6 @@
       "decimals": 18,
       "chainId": 97,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/UTU/logo.png"
-    },
-    {
-      "name": "AmpleForth",
-      "address": "0xd259ED8E7ACa1f5eA16fD58a860c09Af335b8198",
-      "symbol": "AMPL",
-      "decimals": 9,
-      "chainId": 101,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/AMPL/logo.png"
-    },
-    {
-      "name": "Meter Governance",
-      "address": "0x8A419EF4941355476CF04933E90BF3BBF2F73814",
-      "symbol": "MTRG",
-      "decimals": 18,
-      "chainId": 101,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png"
-    },
-    {
-      "name": "Wrapped USDT",
-      "address": "0x3e5a2A4812D319Ded22479A88ed708c6B55ca0b1",
-      "symbol": "USDT",
-      "decimals": 6,
-      "chainId": 101,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDT/logo.png"
     },
     {
       "name": "Factory Builders Token",
