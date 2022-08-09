@@ -1,0 +1,15 @@
+{
+  "resourceID": "0x000000000000000000000037d982d96ac985a4fa9522383de5010109f0627c01",
+  "testResourceID": "0x000000000000000000000037d982d96ac985a4fa9522383de5010109f0627c01",
+  "name": "Sumer USDC",
+  "symbol": "suUSD",
+  "decimals": 18,
+  "tokens": [
+    {
+      "network": "MeterTest",
+      "address": "0x37d982d96ac985a4fa9522383de5010109f0627c",
+      "name": "Sumer USDC",
+      "symbol": "suUSD"
+    }
+  ]
+}

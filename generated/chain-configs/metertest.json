@@ -28,5 +28,15 @@
     "native": false,
     "decimals": 6,
     "coinId": "tether"
+  },
+  {
+    "address": "0x2A4923e0F87aE81174f83CbC23f1d4Ef4eF59b01",
+    "name": "Volt",
+    "symbol": "VOLT",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/VOLT/logo.png",
+    "resourceId": "0x00000000000000000000008df95e66cb0ef38f91d2776da3c921768982fba001",
+    "native": false,
+    "decimals": 18,
+    "coinId": "volt"
   }
 ]

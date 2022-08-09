@@ -175,6 +175,64 @@ const genSwapTokens = (symbols) => {
   console.log(`write swap tokens config to ${outPath}`);
 };
 
+const genSolidlyTokens = (symbols) => {
+  const parsed = version.split('.');
+  const tokenList = [
+    {
+      address: 'ETH',
+      name: 'Meter Stable',
+      symbol: 'MTR',
+      decimals: 18,
+      chainId: 82,
+      logoURI: getImageUri('MTR')
+    },
+    {
+      address: 'ETH',
+      name: 'Meter Stable',
+      symbol: 'MTR',
+      decimals: 18,
+      chainId: 83,
+      logoURI: getImageUri('MTR')
+    }
+  ];
+  for (const sym of symbols) {
+    const config = getConfig(sym);
+
+    for (const token of config.tokens) {
+      const chainId = getChainId(token.network);
+      if (![82, 83].includes(chainId)) {
+        continue
+      }
+      tokenList.push({
+        name: token.name || config.name,
+        address: token.address,
+        symbol: token.symbol || config.symbol,
+        decimals: token.decimals || config.decimals,
+        chainId,
+        logoURI: getImageUri(sym),
+      });
+    }
+  }
+
+  const swapTokens = {
+    name: 'Voltswap Default List',
+    timestamp: '', //new Date().toISOString(),
+    version: {
+      major: +parsed[0],
+      minor: +parsed[1],
+      patch: +parsed[2],
+    },
+    tags: {},
+    logoURI: '', //FIXME: ipfs logo?
+    keywords: ['voltswap', 'default', 'meter'],
+    tokens: tokenList
+  };
+
+  const outPath = path.join(OUT_PATH, `solidly-tokens.json`);
+  fs.writeFileSync(outPath, JSON.stringify(swapTokens, null, 2));
+  console.log(`write swap tokens config to ${outPath}`);
+}
+
 /**
  * generate token list for meter online wallet with given symbol array
  * @param {Array} symbols
@@ -291,5 +349,6 @@ const chainConfigs = getChainConfigs();
 genPassportTokens(symbols);
 genSwapTokens(symbols);
 genWalletTokens(walletSymbols, chainConfigs);
+genSolidlyTokens(symbols)
 
 placeImages(symbols);

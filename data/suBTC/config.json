@@ -1,0 +1,15 @@
+{
+  "resourceID": "0x00000000000000000000000477763b021e0f30680b7266a264d1044fe77a4d01",
+  "testResourceID": "0x00000000000000000000000477763b021e0f30680b7266a264d1044fe77a4d01",
+  "name": "Sumer Bitcoin",
+  "symbol": "suBTC",
+  "decimals": 18,
+  "tokens": [
+    {
+      "network": "MeterTest",
+      "address": "0x0477763b021e0f30680b7266a264d1044fe77a4d",
+      "name": "Sumer Bitcoin",
+      "symbol": "suBTC"
+    }
+  ]
+}

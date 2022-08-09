@@ -1,0 +1,15 @@
+{
+  "resourceID": "0x00000000000000000000004b0d849e5bf7f62bcbb0b7c364ddda552c2c3a8a01",
+  "testResourceID": "0x00000000000000000000004b0d849e5bf7f62bcbb0b7c364ddda552c2c3a8a01",
+  "name": "Sumer Ethereum",
+  "symbol": "suETH",
+  "decimals": 18,
+  "tokens": [
+    {
+      "network": "MeterTest",
+      "address": "0x4b0d849e5bf7f62bcbb0b7c364ddda552c2c3a8a",
+      "name": "Sumer Ethereum",
+      "symbol": "suETH"
+    }
+  ]
+}
