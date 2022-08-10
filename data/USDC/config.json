@@ -17,6 +17,12 @@
       "symbol": "USDC.eth"
     },
     {
+      "network": "Metertest",
+      "address": "0x8ae4c669f147737085a23d578c1da94d3e39879f",
+      "name": "USDC from Ethereum on Meter",
+      "symbol": "USDC.eth"
+    },
+    {
       "network": "Moonriver",
       "address": "0x7B37d0787A3424A0810E02b24743a45eBd5530B2",
       "name": "USDC from Ethereum on Moonriver",

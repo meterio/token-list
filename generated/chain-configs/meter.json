@@ -50,16 +50,6 @@
     "coinId": "meter"
   },
   {
-    "address": "0xd86e243fc0007e6226b07c9a50c9d70d78299eb5",
-    "name": "USDC from Ethereum on Meter",
-    "symbol": "USDC.eth",
-    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDC/logo.png",
-    "resourceId": "0x0000000000000000000000a0b86991c6218b36c1d19d4a2e9eb0ce3606eb4801",
-    "native": false,
-    "decimals": 6,
-    "coinId": "usd-coin"
-  },
-  {
     "address": "0x5Fa41671c48e3C951AfC30816947126CCC8C162e",
     "name": "USDT from Ethereum on Meter",
     "symbol": "USDT.eth",
@@ -78,15 +68,5 @@
     "native": false,
     "decimals": 18,
     "coinId": "volt"
-  },
-  {
-    "address": "0xc1f6C86ABEe8e2e0B6fd5BD80F0b51fef783635C",
-    "name": "WBTC from Ethereum on Meter",
-    "symbol": "WBTC.eth",
-    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/WBTC/logo.png",
-    "resourceId": "0x00000000000000000000002260fac5e5542a773aa44fbcfedf7c193bc2c59901",
-    "native": false,
-    "decimals": 8,
-    "coinId": "wrapped-bitcoin"
   }
 ]

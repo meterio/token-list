@@ -118,15 +118,5 @@
     "native": false,
     "decimals": 18,
     "coinId": "volt"
-  },
-  {
-    "address": "0xf64FA5155D8cc578D473A21FB67507DDCbB80D21",
-    "name": "WBTC from Ethereum on Moonbeam",
-    "symbol": "WBTC",
-    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/WBTC/logo.png",
-    "resourceId": "0x00000000000000000000002260fac5e5542a773aa44fbcfedf7c193bc2c59901",
-    "native": false,
-    "decimals": 8,
-    "coinId": "wrapped-bitcoin"
   }
 ]

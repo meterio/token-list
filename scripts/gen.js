@@ -193,6 +193,14 @@ const genSolidlyTokens = (symbols) => {
       decimals: 18,
       chainId: 83,
       logoURI: getImageUri('MTR')
+    },
+    {
+      address: '0xe8876830e7cc85dae8ce31b0802313caf856886f',
+      name: 'Wrapper Ethereum',
+      symbols: 'WETH',
+      decimals: 18,
+      chainId: 83,
+      logoURI: getImageUri('ETH')
     }
   ];
   for (const sym of symbols) {

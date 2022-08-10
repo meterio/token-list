@@ -15,6 +15,12 @@
       "symbol": "WBTC.eth"
     },
     {
+      "network": "Metertest",
+      "address": "0x90cd3092f2104bb09ddb777805a34a3dbd951178",
+      "name": "WBTC from Ethereum on Meter",
+      "symbol": "WBTC.eth"
+    },
+    {
       "network": "Moonriver",
       "address": "0xE6a991Ffa8CfE62B0bf6BF72959A3d4f11B2E0f5",
       "name": "WBTC from Ethereum on Theta",
