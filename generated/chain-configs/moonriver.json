@@ -130,6 +130,16 @@
     "coinId": "riverboat"
   },
   {
+    "address": "0x7B37d0787A3424A0810E02b24743a45eBd5530B2",
+    "name": "USDC from Ethereum on Moonriver",
+    "symbol": "USDC.eth",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDC/logo.png",
+    "resourceId": "0x0000000000000000000000a0b86991c6218b36c1d19d4a2e9eb0ce3606eb4801",
+    "native": false,
+    "decimals": 6,
+    "coinId": "usd-coin"
+  },
+  {
     "address": "0xe3f5a90f9cb311505cd691a46596599aa1a0ad7d",
     "name": "USDC from MoonRiver Wrapped by Anyswap",
     "symbol": "USDC",
@@ -158,6 +168,16 @@
     "native": false,
     "decimals": 18,
     "coinId": "volt"
+  },
+  {
+    "address": "0xE6a991Ffa8CfE62B0bf6BF72959A3d4f11B2E0f5",
+    "name": "WBTC from Ethereum on Theta",
+    "symbol": "WBTC.eth",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/WBTC/logo.png",
+    "resourceId": "0x00000000000000000000002260fac5e5542a773aa44fbcfedf7c193bc2c59901",
+    "native": false,
+    "decimals": 8,
+    "coinId": "wrapped-bitcoin"
   },
   {
     "address": "0x6b35140fcc6e502a7e1edAC6E740513f41c4b5ec",

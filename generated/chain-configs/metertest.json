@@ -20,7 +20,7 @@
     "coinId": "meter"
   },
   {
-    "address": "0xda5f90e416a22f6f65ed586a859c8666ce6ce1d1",
+    "address": "0x3e5a2A4812D319Ded22479A88ed708c6B55ca0b1",
     "name": "Wrapped USDT",
     "symbol": "USDT",
     "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDT/logo.png",

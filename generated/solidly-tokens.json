@@ -33,10 +33,34 @@
     {
       "address": "0xe8876830e7cc85dae8ce31b0802313caf856886f",
       "name": "Wrapper Ethereum",
-      "symbols": "WETH",
+      "symbol": "WETH",
       "decimals": 18,
       "chainId": 83,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png"
+    },
+    {
+      "address": "0xda5f90e416a22f6f65ed586a859c8666ce6ce1d1",
+      "name": "USDT",
+      "symbol": "USDT",
+      "decimals": 18,
+      "chainId": 83,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDT/logo.png"
+    },
+    {
+      "address": "0x8ae4c669f147737085a23d578c1da94d3e39879f",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 18,
+      "chainId": 83,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDC/logo.png"
+    },
+    {
+      "address": "0x90cd3092f2104bb09ddb777805a34a3dbd951178",
+      "name": "WBTC",
+      "symbol": "WBTC",
+      "decimals": 18,
+      "chainId": 83,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/WBTC/logo.png"
     },
     {
       "name": "AmpleForth",
@@ -117,22 +141,6 @@
       "decimals": 18,
       "chainId": 83,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/suUSD/logo.png"
-    },
-    {
-      "name": "USDT from Ethereum on Meter",
-      "address": "0x5Fa41671c48e3C951AfC30816947126CCC8C162e",
-      "symbol": "USDT.eth",
-      "decimals": 6,
-      "chainId": 82,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDT/logo.png"
-    },
-    {
-      "name": "Wrapped USDT",
-      "address": "0xda5f90e416a22f6f65ed586a859c8666ce6ce1d1",
-      "symbol": "USDT",
-      "decimals": 6,
-      "chainId": 83,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDT/logo.png"
     },
     {
       "name": "Volt",

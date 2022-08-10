@@ -112,6 +112,17 @@
       "resourceId": "0x0000000000000000000000d478161c952357f05f0292b56012cd8457f1cfbf01"
     },
     {
+      "name": "USDC",
+      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDC/logo.png",
+      "coinId": "usd-coin",
+      "native": false,
+      "resourceId": "0x0000000000000000000000a0b86991c6218b36c1d19d4a2e9eb0ce3606eb4801"
+    },
+    {
       "name": "Tether USD",
       "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
       "symbol": "USDT",
@@ -132,6 +143,17 @@
       "coinId": "utu-coin",
       "native": false,
       "resourceId": "0x0000000000000000000000a58a4f5c4bb043d2cc1e170613b74e767c94189b01"
+    },
+    {
+      "name": "Wrapped BTC",
+      "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/WBTC/logo.png",
+      "coinId": "wrapped-bitcoin",
+      "native": false,
+      "resourceId": "0x00000000000000000000002260fac5e5542a773aa44fbcfedf7c193bc2c59901"
     },
     {
       "name": "Offshift",
@@ -484,6 +506,17 @@
       "resourceId": "0x0000000000000000000000bd2949f67dcdc549c6ebe98696449fa79d988a9f01"
     },
     {
+      "name": "USDC from Ethereum on Meter",
+      "address": "0xd86e243fc0007e6226b07c9a50c9d70d78299eb5",
+      "symbol": "USDC.eth",
+      "decimals": 6,
+      "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDC/logo.png",
+      "coinId": "usd-coin",
+      "native": false,
+      "resourceId": "0x0000000000000000000000a0b86991c6218b36c1d19d4a2e9eb0ce3606eb4801"
+    },
+    {
       "name": "USDT from Ethereum on Meter",
       "address": "0x5Fa41671c48e3C951AfC30816947126CCC8C162e",
       "symbol": "USDT.eth",
@@ -504,6 +537,17 @@
       "coinId": "volt",
       "native": false,
       "resourceId": "0x00000000000000000000008df95e66cb0ef38f91d2776da3c921768982fba001"
+    },
+    {
+      "name": "WBTC from Ethereum on Meter",
+      "address": "0xc1f6C86ABEe8e2e0B6fd5BD80F0b51fef783635C",
+      "symbol": "WBTC.eth",
+      "decimals": 8,
+      "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/WBTC/logo.png",
+      "coinId": "wrapped-bitcoin",
+      "native": false,
+      "resourceId": "0x00000000000000000000002260fac5e5542a773aa44fbcfedf7c193bc2c59901"
     },
     {
       "name": "AmpleForth",
@@ -580,7 +624,7 @@
     },
     {
       "name": "Wrapped USDT",
-      "address": "0xda5f90e416a22f6f65ed586a859c8666ce6ce1d1",
+      "address": "0x3e5a2A4812D319Ded22479A88ed708c6B55ca0b1",
       "symbol": "USDT",
       "decimals": 6,
       "chainId": 83,
@@ -796,6 +840,17 @@
       "native": true
     },
     {
+      "name": "USDC from Ethereum on Theta",
+      "address": "0x3Ca3fEFA944753b43c751336A5dF531bDD6598B6",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 361,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDC/logo.png",
+      "coinId": "usd-coin",
+      "native": false,
+      "resourceId": "0x0000000000000000000000a0b86991c6218b36c1d19d4a2e9eb0ce3606eb4801"
+    },
+    {
       "name": "USDT from Ethereum on Theta",
       "address": "0x3c751Feb00364CA9e2d0105c40F0b423abf1DEE3",
       "symbol": "USDT",
@@ -816,6 +871,17 @@
       "coinId": "volt",
       "native": false,
       "resourceId": "0x00000000000000000000008df95e66cb0ef38f91d2776da3c921768982fba001"
+    },
+    {
+      "name": "WBTC from Ethereum on Theta",
+      "address": "0xf64FA5155D8cc578D473A21FB67507DDCbB80D21",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "chainId": 361,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/WBTC/logo.png",
+      "coinId": "wrapped-bitcoin",
+      "native": false,
+      "resourceId": "0x00000000000000000000002260fac5e5542a773aa44fbcfedf7c193bc2c59901"
     },
     {
       "name": "Wrapped ETH",
@@ -994,6 +1060,17 @@
       "resourceId": "0x00000000000000000000008df95e66cb0ef38f91d2776da3c921768982fba001"
     },
     {
+      "name": "WBTC from Ethereum on Moonbeam",
+      "address": "0xf64FA5155D8cc578D473A21FB67507DDCbB80D21",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "chainId": 1284,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/WBTC/logo.png",
+      "coinId": "wrapped-bitcoin",
+      "native": false,
+      "resourceId": "0x00000000000000000000002260fac5e5542a773aa44fbcfedf7c193bc2c59901"
+    },
+    {
       "name": "BEPRO Network",
       "address": "0xCb4a593ce512D78162C58384f0b2Fd6e802c2c47",
       "symbol": "BEPRO",
@@ -1170,6 +1247,17 @@
       "resourceId": "0x0000000000000000000000e3f5a90f9cb311505cd691a46596599aa1a0ad7d01"
     },
     {
+      "name": "USDC from Ethereum on Moonriver",
+      "address": "0x7B37d0787A3424A0810E02b24743a45eBd5530B2",
+      "symbol": "USDC.eth",
+      "decimals": 6,
+      "chainId": 1285,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDC/logo.png",
+      "coinId": "usd-coin",
+      "native": false,
+      "resourceId": "0x0000000000000000000000a0b86991c6218b36c1d19d4a2e9eb0ce3606eb4801"
+    },
+    {
       "name": "USDT from Ethereum on Moonriver",
       "address": "0x3674D64AaB971aB974B2035667a4B3d09B5ec2B3",
       "symbol": "USDT.eth",
@@ -1190,6 +1278,17 @@
       "coinId": "volt",
       "native": false,
       "resourceId": "0x00000000000000000000008df95e66cb0ef38f91d2776da3c921768982fba001"
+    },
+    {
+      "name": "WBTC from Ethereum on Theta",
+      "address": "0xE6a991Ffa8CfE62B0bf6BF72959A3d4f11B2E0f5",
+      "symbol": "WBTC.eth",
+      "decimals": 8,
+      "chainId": 1285,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/WBTC/logo.png",
+      "coinId": "wrapped-bitcoin",
+      "native": false,
+      "resourceId": "0x00000000000000000000002260fac5e5542a773aa44fbcfedf7c193bc2c59901"
     },
     {
       "name": "Offshift",
