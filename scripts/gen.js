@@ -179,22 +179,6 @@ const genSolidlyTokens = (symbols) => {
   const parsed = version.split('.');
   const tokenList = [
     {
-      address: 'ETH',
-      name: 'Meter Stable',
-      symbol: 'MTR',
-      decimals: 18,
-      chainId: 82,
-      logoURI: getImageUri('MTR')
-    },
-    {
-      address: 'ETH',
-      name: 'Meter Stable',
-      symbol: 'MTR',
-      decimals: 18,
-      chainId: 83,
-      logoURI: getImageUri('MTR')
-    },
-    {
       address: '0xe8876830e7cc85dae8ce31b0802313caf856886f',
       name: 'Wrapper Ethereum',
       symbol: 'WETH',
@@ -218,17 +202,9 @@ const genSolidlyTokens = (symbols) => {
       chainId: 83,
       logoURI: getImageUri('USDC')
     },
-    {
-      address: '0x90cd3092f2104bb09ddb777805a34a3dbd951178',
-      name: 'WBTC',
-      symbol: 'WBTC',
-      decimals: 18,
-      chainId: 83,
-      logoURI: getImageUri('WBTC')
-    }
   ];
   for (const sym of symbols) {
-    if (['USDT', 'USDC', 'WBTC'].includes(sym)) {
+    if (['USDT', 'USDC'].includes(sym)) {
       continue
     }
     const config = getConfig(sym);

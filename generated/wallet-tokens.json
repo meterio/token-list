@@ -645,6 +645,17 @@
       "resourceId": "0x00000000000000000000008df95e66cb0ef38f91d2776da3c921768982fba001"
     },
     {
+      "name": "BTC on Meter",
+      "address": "0xcfd9102a2675e0d898982f1fd1dd0264aaa901da",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "chainId": 83,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/WBTC/logo.png",
+      "coinId": "wrapped-bitcoin",
+      "native": false,
+      "resourceId": "0x00000000000000000000002260fac5e5542a773aa44fbcfedf7c193bc2c59901"
+    },
+    {
       "name": "AmpleForth",
       "address": "0x75c00CF8B6C932AaD2E20fa238a57D389aE3842d",
       "symbol": "AMPL",

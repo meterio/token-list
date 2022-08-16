@@ -15,22 +15,6 @@
   ],
   "tokens": [
     {
-      "address": "ETH",
-      "name": "Meter Stable",
-      "symbol": "MTR",
-      "decimals": 18,
-      "chainId": 82,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTR/logo.png"
-    },
-    {
-      "address": "ETH",
-      "name": "Meter Stable",
-      "symbol": "MTR",
-      "decimals": 18,
-      "chainId": 83,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTR/logo.png"
-    },
-    {
       "address": "0xe8876830e7cc85dae8ce31b0802313caf856886f",
       "name": "Wrapper Ethereum",
       "symbol": "WETH",
@@ -53,14 +37,6 @@
       "decimals": 18,
       "chainId": 83,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDC/logo.png"
-    },
-    {
-      "address": "0x90cd3092f2104bb09ddb777805a34a3dbd951178",
-      "name": "WBTC",
-      "symbol": "WBTC",
-      "decimals": 18,
-      "chainId": 83,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/WBTC/logo.png"
     },
     {
       "name": "AmpleForth",
@@ -157,6 +133,22 @@
       "decimals": 18,
       "chainId": 83,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/VOLT/logo.png"
+    },
+    {
+      "name": "WBTC from Ethereum on Meter",
+      "address": "0xc1f6C86ABEe8e2e0B6fd5BD80F0b51fef783635C",
+      "symbol": "WBTC.eth",
+      "decimals": 8,
+      "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/WBTC/logo.png"
+    },
+    {
+      "name": "BTC on Meter",
+      "address": "0xcfd9102a2675e0d898982f1fd1dd0264aaa901da",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "chainId": 83,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/WBTC/logo.png"
     }
   ]
 }

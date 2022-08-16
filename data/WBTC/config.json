@@ -1,5 +1,6 @@
 {
   "resourceID": "0x00000000000000000000002260fac5e5542a773aa44fbcfedf7c193bc2c59901",
+  "testResourceID": "0x00000000000000000000002260fac5e5542a773aa44fbcfedf7c193bc2c59901",
   "name": "Wrapped BTC",
   "symbol": "WBTC",
   "decimals": 8,
@@ -13,6 +14,12 @@
       "address": "0xc1f6C86ABEe8e2e0B6fd5BD80F0b51fef783635C",
       "name": "WBTC from Ethereum on Meter",
       "symbol": "WBTC.eth"
+    },
+    {
+      "network": "MeterTest",
+      "address": "0xcfd9102a2675e0d898982f1fd1dd0264aaa901da",
+      "name": "BTC on Meter",
+      "symbol": "WBTC"
     },
     {
       "network": "Moonriver",
