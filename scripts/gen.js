@@ -178,35 +178,36 @@ const genSwapTokens = (symbols) => {
 const genSolidlyTokens = (symbols) => {
   const parsed = version.split('.');
   const tokenList = [
-    {
-      address: '0xe8876830e7cc85dae8ce31b0802313caf856886f',
-      name: 'Wrapper Ethereum',
-      symbol: 'WETH',
-      decimals: 18,
-      chainId: 83,
-      logoURI: getImageUri('ETH')
-    },
-    {
-      address: '0xda5f90e416a22f6f65ed586a859c8666ce6ce1d1',
-      name: 'USDT',
-      symbol: 'USDT',
-      decimals: 18,
-      chainId: 83,
-      logoURI: getImageUri('USDT')
-    },
-    {
-      address: '0x8ae4c669f147737085a23d578c1da94d3e39879f',
-      name: 'USDC',
-      symbol: 'USDC',
-      decimals: 18,
-      chainId: 83,
-      logoURI: getImageUri('USDC')
-    },
+    // {
+    //   address: '0xe8876830e7cc85dae8ce31b0802313caf856886f',
+    //   name: 'Wrapper Ethereum',
+    //   symbol: 'WETH',
+    //   decimals: 18,
+    //   chainId: 83,
+    //   logoURI: getImageUri('ETH')
+    // },
+    // {
+    //   address: '0xda5f90e416a22f6f65ed586a859c8666ce6ce1d1',
+    //   name: 'USDT',
+    //   symbol: 'USDT',
+    //   decimals: 18,
+    //   chainId: 83,
+    //   logoURI: getImageUri('USDT')
+    // },
+    // {
+    //   address: '0x8ae4c669f147737085a23d578c1da94d3e39879f',
+    //   name: 'USDC',
+    //   symbol: 'USDC',
+    //   decimals: 18,
+    //   chainId: 83,
+    //   logoURI: getImageUri('USDC')
+    // },
   ];
   for (const sym of symbols) {
-    if (['USDT', 'USDC'].includes(sym)) {
-      continue
-    }
+    // if (['USDT', 'USDC'].includes(sym)) {
+    //   continue
+    // }
+
     const config = getConfig(sym);
 
     for (const token of config.tokens) {
