@@ -227,7 +227,7 @@ const genSolidlyTokens = (symbols) => {
   }
 
   const swapTokens = {
-    name: 'Voltswap Default List',
+    name: 'Voltswapv2 Default List',
     timestamp: '', //new Date().toISOString(),
     version: {
       major: +parsed[0],
@@ -240,7 +240,7 @@ const genSolidlyTokens = (symbols) => {
     tokens: tokenList
   };
 
-  const outPath = path.join(OUT_PATH, `solidly-tokens.json`);
+  const outPath = path.join(OUT_PATH, `voltswapv2-tokens.json`);
   fs.writeFileSync(outPath, JSON.stringify(swapTokens, null, 2));
   console.log(`write swap tokens config to ${outPath}`);
 }
