@@ -1,5 +1,5 @@
 {
-  "resourceID": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+  "resourceID": "0x00000000000000000000001336739b05c7ab8a526d40dcc0d04a826b5f8b0301",
   "name": "Theta Drop",
   "symbol": "TDROP",
   "decimals": 18,
@@ -7,6 +7,12 @@
     {
       "network": "Theta",
       "address": "0x1336739b05c7ab8a526d40dcc0d04a826b5f8b03",
+      "name": "Theta Drop",
+      "symbol": "TDROP"
+    },
+    {
+      "network": "Meter",
+      "address": "0xd5e615BB3c761AB4cD9251dEEd78Dac58BE9CcBF",
       "name": "Theta Drop",
       "symbol": "TDROP"
     }
