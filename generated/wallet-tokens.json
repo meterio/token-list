@@ -506,6 +506,28 @@
       "resourceId": "0x0000000000000000000000bd2949f67dcdc549c6ebe98696449fa79d988a9f01"
     },
     {
+      "name": "Theta Drop",
+      "address": "0xd5e615BB3c761AB4cD9251dEEd78Dac58BE9CcBF",
+      "symbol": "TDROP",
+      "decimals": 18,
+      "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/TDROP/logo.png",
+      "coinId": "thetadrop",
+      "native": false,
+      "resourceId": "0x00000000000000000000001336739b05c7ab8a526d40dcc0d04a826b5f8b0301"
+    },
+    {
+      "name": "Theta Fuel",
+      "address": "0x75Fd6F7EDCc5E7A8100eAd3D29CCD844153ef0F3",
+      "symbol": "TFUEL",
+      "decimals": 18,
+      "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/TFUEL/logo.png",
+      "coinId": "theta-fuel",
+      "native": false,
+      "resourceId": "0x00000000000000000000004dc08b15ea0e10b96c41aec22fab934ba15c983e01"
+    },
+    {
       "name": "USDC from Ethereum on Meter",
       "address": "0xd86e243fc0007e6226b07c9a50c9d70d78299eb5",
       "symbol": "USDC.eth",
@@ -838,17 +860,18 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/TDROP/logo.png",
       "coinId": "thetadrop",
       "native": false,
-      "resourceId": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+      "resourceId": "0x00000000000000000000001336739b05c7ab8a526d40dcc0d04a826b5f8b0301"
     },
     {
       "name": "Theta Fuel",
-      "address": "0x",
+      "address": "0x4dc08b15ea0e10b96c41aec22fab934ba15c983e",
       "symbol": "TFUEL",
       "decimals": 18,
       "chainId": 361,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/TFUEL/logo.png",
       "coinId": "theta-fuel",
-      "native": true
+      "native": true,
+      "resourceId": "0x00000000000000000000004dc08b15ea0e10b96c41aec22fab934ba15c983e01"
     },
     {
       "name": "USDC from Ethereum on Theta",

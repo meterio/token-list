@@ -71,28 +71,20 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png"
     },
     {
-      "name": "Sumer Bitcoin",
-      "address": "0x0477763b021e0f30680b7266a264d1044fe77a4d",
-      "symbol": "suBTC",
+      "name": "Theta Drop",
+      "address": "0xd5e615BB3c761AB4cD9251dEEd78Dac58BE9CcBF",
+      "symbol": "TDROP",
       "decimals": 18,
-      "chainId": 83,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/suBTC/logo.png"
+      "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/TDROP/logo.png"
     },
     {
-      "name": "Sumer Ethereum",
-      "address": "0x4b0d849e5bf7f62bcbb0b7c364ddda552c2c3a8a",
-      "symbol": "suETH",
+      "name": "Theta Fuel",
+      "address": "0x75Fd6F7EDCc5E7A8100eAd3D29CCD844153ef0F3",
+      "symbol": "TFUEL",
       "decimals": 18,
-      "chainId": 83,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/suETH/logo.png"
-    },
-    {
-      "name": "Sumer USDC",
-      "address": "0x37d982d96ac985a4fa9522383de5010109f0627c",
-      "symbol": "suUSD",
-      "decimals": 18,
-      "chainId": 83,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/suUSD/logo.png"
+      "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/TFUEL/logo.png"
     },
     {
       "name": "USDC from Ethereum on Meter",
@@ -149,6 +141,30 @@
       "decimals": 8,
       "chainId": 83,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/WBTC/logo.png"
+    },
+    {
+      "name": "Sumer Bitcoin",
+      "address": "0x0477763b021e0f30680b7266a264d1044fe77a4d",
+      "symbol": "suBTC",
+      "decimals": 18,
+      "chainId": 83,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/suBTC/logo.png"
+    },
+    {
+      "name": "Sumer Ethereum",
+      "address": "0x4b0d849e5bf7f62bcbb0b7c364ddda552c2c3a8a",
+      "symbol": "suETH",
+      "decimals": 18,
+      "chainId": 83,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/suETH/logo.png"
+    },
+    {
+      "name": "Sumer USDC",
+      "address": "0x37d982d96ac985a4fa9522383de5010109f0627c",
+      "symbol": "suUSD",
+      "decimals": 18,
+      "chainId": 83,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/suUSD/logo.png"
     }
   ]
 }
