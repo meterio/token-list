@@ -1,5 +1,5 @@
 {
-  "resourceID": "0x0000000000000000000000f50225a84382c74cbdea10b0c176f71fc3de0c4d01",
+  "resourceID": "0x0000000000000000000000000000000000000000000000000000000000000501",
   "name": "MoonRiver",
   "symbol": "MOVR",
   "decimals": 18,
@@ -12,34 +12,10 @@
     },
     {
       "network": "Moonriver",
-      "address": "0xf50225a84382c74CbdeA10b0c176f71fc3DE0C4d",
+      "address": "0x0000000000000000000000000000000000000005",
       "name": "MOVR",
       "symbol": "MOVR",
       "native": true
-    },
-    {
-      "network": "BSC",
-      "address": "0x3674D64AaB971aB974B2035667a4B3d09B5ec2B3",
-      "name": "MOVR from MoonRiver",
-      "symbol": "MOVR"
-    },
-    {
-      "network": "EnergyWeb",
-      "address": "0xaFb66752Ad6F4cCcD92049c36C90dd00c71fA99B",
-      "name": "MOVR from MoonRiver",
-      "symbol": "MOVR"
-    },
-    {
-      "network": "Moonbeam",
-      "address": "0x0B5B9806b1B202e22aA26Cfd527fDCafEF9eDAcf",
-      "name": "MOVR from MoonRiver",
-      "symbol": "MOVR"
-    },
-    {
-      "network": "Polygon",
-      "address": "0x3674D64AaB971aB974B2035667a4B3d09B5ec2B3",
-      "name": "MOVR from MoonRiver",
-      "symbol": "MOVR"
     }
   ]
 }

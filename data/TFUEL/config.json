@@ -1,13 +1,12 @@
 {
-  "resourceID":     "0x00000000000000000000004dc08b15ea0e10b96c41aec22fab934ba15c983e01",
-  "testResourceID": "0x0000000000000000000000d9587fd562297db7cade281ecc46ba4f8972a38901",
+  "resourceID":     "0x0000000000000000000000000000000000000000000000000000000000000601",
   "name": "Theta Fuel",
   "symbol": "TFUEL",
   "decimals": 18,
   "tokens": [
     {
       "network": "Theta",
-      "address": "0x4dc08b15ea0e10b96c41aec22fab934ba15c983e",
+      "address": "0x0000000000000000000000000000000000000006",
       "name": "Theta Fuel",
       "native": true
     },
@@ -15,18 +14,6 @@
       "network": "Meter",
       "address": "0x75Fd6F7EDCc5E7A8100eAd3D29CCD844153ef0F3",
       "name": "Theta Fuel"
-    },
-    {
-      "network": "ThetaTest",
-      "address": "0xd9587fd562297db7cade281ecc46ba4f8972a389",
-      "name": "Theta Fuel",
-      "native": true
-    },
-    {
-      "network": "Ropsten",
-      "address": "0xbaF626Dc137Dc15436447c9D624fBB5c845aBCeC",
-      "name": "TFUEL",
-      "symbol": "TFUEL"
     }
   ]
 }

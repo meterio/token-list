@@ -1,5 +1,5 @@
 {
-  "resourceID": "0x0000000000000000000000bb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c01",
+  "resourceID": "0x0000000000000000000000000000000000000000000000000000000000000401",
   "name": "Wrapped BNB",
   "symbol": "BNB",
   "decimals": 18,
@@ -7,33 +7,15 @@
   "tokens": [
     {
       "network": "BSC",
-      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "address": "0x0000000000000000000000000000000000000004",
       "name": "BNB",
       "native": true
     },
     {
       "network": "Meter",
-      "address": "0xF8BBb44E6fD13632D36fe09eB61820f9A44f5D74",
+      "address": "0xF0E86246519Be0810C9FAfc8430C49799985aAA8",
       "name": "BNB from BSC on Meter",
-      "symbol": "BNB.SWAP"
-    },
-    {
-      "network": "Moonriver",
-      "address": "0x868892CCcEdbfF0B028F3b3595205Ea91b99376B",
-      "name": "BNB from BSC on Moonriver",
-      "symbol": "BNB.SWAP"
-    },
-    {
-      "network": "Theta",
-      "address": "0xdFf772186aCe9b5513FB46d7B05b36Efa0A4a20d",
-      "name": "BNB from BSC on Theta",
-      "symbol": "BNB.SWAP"
-    },
-    {
-      "network": "Moonbeam",
-      "address": "0xdFf772186aCe9b5513FB46d7B05b36Efa0A4a20d",
-      "name": "BNB from BSC on Moonbeam",
-      "symbol": "BNB.SWAP"
+      "symbol": "BNB"
     }
   ]
 }

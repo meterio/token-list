@@ -1,5 +1,5 @@
 {
-  "resourceID": "0x0000000000000000000000c02aaa39b223fe8d0a0e5c4f27ead9083c756cc201",
+  "resourceID": "0x0000000000000000000000000000000000000000000000000000000000000101",
   "testResourceID": "0x0000000000000000000000C02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc201",
   "name": "Ether",
   "symbol": "ETH",
@@ -8,74 +8,15 @@
   "tokens": [
     {
       "network": "Ethereum",
-      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "address": "0x0000000000000000000000000000000000000001",
       "name": "ETH",
       "native": true
     },
     {
       "network": "Meter",
-      "address": "0x79A61D3A28F8c8537A3DF63092927cFa1150Fb3C",
+      "address": "0x983147FB73A45FC7F8B4DFA1cd61Bdc7b111e5b6",
       "name": "ETH from Ethereum on Meter",
-      "symbol": "ETH.SWAP"
-    },
-    {
-      "network": "Moonriver",
-      "address": "0x3Ca3fEFA944753b43c751336A5dF531bDD6598B6",
-      "name": "ETH from Ethereum on Moonriver",
-      "symbol": "ETH.SWAP"
-    },
-    {
-      "network": "Theta",
-      "address": "0x3674D64AaB971aB974B2035667a4B3d09B5ec2B3",
-      "name": "ETH from Ethereum on Theta",
-      "symbol": "ETH.SWAP"
-    },
-    {
-      "network": "Moonbeam",
-      "address": "0x3674D64AaB971aB974B2035667a4B3d09B5ec2B3",
-      "name": "ETH from Ethereum on Moonbeam",
-      "symbol": "ETH.SWAP"
-    },
-    {
-      "network": "Ropsten",
-      "address": "0xc778417e063141139fce010982780140aa0cd5ab",
-      "native": true
-    },
-    {
-      "network": "MeterTest",
-      "address": "0xe7536A823165D83E43EA95079cc1bb70E6a874b5",
-      "name": "Wrapped ETH",
-      "symbol": "ETH.SWAP"
-    },
-    {
-      "network": "BSCTest",
-      "address": "0x93b43BA0Fda0490dD0Ceb52dafB9463A844cC1c9",
-      "name": "Wrapped ETH",
-      "symbol": "ETH.SWAP"
-    },
-    {
-      "network": "Moonbase",
-      "address": "0x9037816b5D8f5Fe182DA2EC935AA945dc2f0a27D",
-      "name": "Wrapped ETH",
-      "symbol": "ETH.SWAP"
-    },
-    {
-      "network": "ThetaTest",
-      "address": "0x07446A7e12C2d24d6b180d009e4255aE26fBF018",
-      "name": "Wrapped ETH",
-      "symbol": "ETH.SWAP"
-    },
-    {
-      "network": "VoltaTest",
-      "address": "0x07446A7e12C2d24d6b180d009e4255aE26fBF018",
-      "name": "Wrapped ETH",
-      "symbol": "ETH.SWAP"
-    },
-    {
-      "network": "TelosTest",
-      "address": "0xd252ec0c597F0B1B41f4eD32EAD6c0B9046142d7",
-      "name": "Wrapped ETH",
-      "symbol": "ETH.SWAP"
+      "symbol": "ETH"
     }
   ]
 }
