@@ -18,15 +18,5 @@
     "native": false,
     "decimals": 18,
     "coinId": "moonbeam"
-  },
-  {
-    "address": "0x3674D64AaB971aB974B2035667a4B3d09B5ec2B3",
-    "name": "MOVR from MoonRiver",
-    "symbol": "MOVR",
-    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/MOVR/logo.png",
-    "resourceId": "0x0000000000000000000000f50225a84382c74cbdea10b0c176f71fc3de0c4d01",
-    "native": false,
-    "decimals": 18,
-    "coinId": "moonriver"
   }
 ]

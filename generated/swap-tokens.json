@@ -143,14 +143,6 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png"
     },
     {
-      "name": "TFUEL",
-      "address": "0xbaF626Dc137Dc15436447c9D624fBB5c845aBCeC",
-      "symbol": "TFUEL",
-      "decimals": 18,
-      "chainId": 3,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/TFUEL/logo.png"
-    },
-    {
       "name": "Tether USD",
       "address": "0x76F2c2C3380587252076a8de5C7147c6a185127d",
       "symbol": "USDT",
@@ -221,14 +213,6 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH.bsc/logo.png"
-    },
-    {
-      "name": "MOVR from MoonRiver",
-      "address": "0x3674D64AaB971aB974B2035667a4B3d09B5ec2B3",
-      "symbol": "MOVR",
-      "decimals": 18,
-      "chainId": 56,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MOVR/logo.png"
     },
     {
       "name": "Moonscape",
@@ -471,28 +455,12 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/GLMR/logo.png"
     },
     {
-      "name": "MOVR from MoonRiver",
-      "address": "0x3674D64AaB971aB974B2035667a4B3d09B5ec2B3",
-      "symbol": "MOVR",
-      "decimals": 18,
-      "chainId": 137,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MOVR/logo.png"
-    },
-    {
       "name": "EnergyWeb Token",
       "address": "0x6b3bd0478DF0eC4984b168Db0E12A539Cc0c83cd",
       "symbol": "EWT",
       "decimals": 18,
       "chainId": 246,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/EWT/logo.png"
-    },
-    {
-      "name": "MOVR from MoonRiver",
-      "address": "0xaFb66752Ad6F4cCcD92049c36C90dd00c71fA99B",
-      "symbol": "MOVR",
-      "decimals": 18,
-      "chainId": 246,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MOVR/logo.png"
     },
     {
       "name": "BUSD from BSC on Theta",
@@ -520,7 +488,7 @@
     },
     {
       "name": "Theta Fuel",
-      "address": "0x4dc08b15ea0e10b96c41aec22fab934ba15c983e",
+      "address": "0x0000000000000000000000000000000000000006",
       "symbol": "TFUEL",
       "decimals": 18,
       "chainId": 361,
@@ -559,14 +527,6 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/WBTC/logo.png"
     },
     {
-      "name": "Theta Fuel",
-      "address": "0xd9587fd562297db7cade281ecc46ba4f8972a389",
-      "symbol": "TFUEL",
-      "decimals": 18,
-      "chainId": 365,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/TFUEL/logo.png"
-    },
-    {
       "name": "BEPRO Network",
       "address": "0x4EdF8E0778967012D46968ceadb75436d0426f88",
       "symbol": "BEPRO",
@@ -597,14 +557,6 @@
       "decimals": 18,
       "chainId": 1284,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/GLMR/logo.png"
-    },
-    {
-      "name": "MOVR from MoonRiver",
-      "address": "0x0B5B9806b1B202e22aA26Cfd527fDCafEF9eDAcf",
-      "symbol": "MOVR",
-      "decimals": 18,
-      "chainId": 1284,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MOVR/logo.png"
     },
     {
       "name": "Moonscape",
@@ -736,7 +688,7 @@
     },
     {
       "name": "MOVR",
-      "address": "0xf50225a84382c74CbdeA10b0c176f71fc3DE0C4d",
+      "address": "0x0000000000000000000000000000000000000005",
       "symbol": "MOVR",
       "decimals": 18,
       "chainId": 1285,

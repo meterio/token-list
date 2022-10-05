@@ -40,16 +40,6 @@
     "coinId": "moonbeam"
   },
   {
-    "address": "0x0B5B9806b1B202e22aA26Cfd527fDCafEF9eDAcf",
-    "name": "MOVR from MoonRiver",
-    "symbol": "MOVR",
-    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/MOVR/logo.png",
-    "resourceId": "0x0000000000000000000000f50225a84382c74cbdea10b0c176f71fc3de0c4d01",
-    "native": false,
-    "decimals": 18,
-    "coinId": "moonriver"
-  },
-  {
     "address": "0xB60590313975f0d98821B6Cab5Ea2a6d9641D7B6",
     "name": "Moonscape",
     "symbol": "MSCP",

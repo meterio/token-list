@@ -213,16 +213,6 @@
       "coinId": "ethereum"
     },
     {
-      "address": "0x3674D64AaB971aB974B2035667a4B3d09B5ec2B3",
-      "name": "MOVR from MoonRiver",
-      "symbol": "MOVR",
-      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/MOVR/logo.png",
-      "resourceId": "0x0000000000000000000000f50225a84382c74cbdea10b0c176f71fc3de0c4d01",
-      "native": false,
-      "decimals": 18,
-      "coinId": "moonriver"
-    },
-    {
       "address": "0x27d72484f1910F5d0226aFA4E03742c9cd2B297a",
       "name": "Moonscape",
       "symbol": "MSCP",
@@ -312,7 +302,7 @@
       "name": "MOVR from MoonRiver on Meter",
       "symbol": "MOVR",
       "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/MOVR/logo.png",
-      "resourceId": "0x0000000000000000000000f50225a84382c74cbdea10b0c176f71fc3de0c4d01",
+      "resourceId": "0x0000000000000000000000000000000000000000000000000000000000000501",
       "native": false,
       "decimals": 18,
       "coinId": "moonriver"
@@ -342,7 +332,7 @@
       "name": "Theta Fuel",
       "symbol": "TFUEL",
       "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/TFUEL/logo.png",
-      "resourceId": "0x00000000000000000000004dc08b15ea0e10b96c41aec22fab934ba15c983e01",
+      "resourceId": "0x0000000000000000000000000000000000000000000000000000000000000601",
       "native": false,
       "decimals": 18,
       "coinId": "theta-fuel"
@@ -418,16 +408,6 @@
       "native": false,
       "decimals": 18,
       "coinId": "meter"
-    },
-    {
-      "address": "0xbaF626Dc137Dc15436447c9D624fBB5c845aBCeC",
-      "name": "TFUEL",
-      "symbol": "TFUEL",
-      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/TFUEL/logo.png",
-      "resourceId": "0x0000000000000000000000d9587fd562297db7cade281ecc46ba4f8972a38901",
-      "native": false,
-      "decimals": 18,
-      "coinId": "theta-fuel"
     },
     {
       "address": "0x76F2c2C3380587252076a8de5C7147c6a185127d",
@@ -627,11 +607,11 @@
       "coinId": "moonbeam"
     },
     {
-      "address": "0xf50225a84382c74CbdeA10b0c176f71fc3DE0C4d",
+      "address": "0x0000000000000000000000000000000000000005",
       "name": "MOVR",
       "symbol": "MOVR",
       "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/MOVR/logo.png",
-      "resourceId": "0x0000000000000000000000f50225a84382c74cbdea10b0c176f71fc3de0c4d01",
+      "resourceId": "0x0000000000000000000000000000000000000000000000000000000000000501",
       "native": true,
       "decimals": 18,
       "coinId": "moonriver"
@@ -777,16 +757,6 @@
       "native": true,
       "decimals": 18,
       "coinId": "moonbeam"
-    },
-    {
-      "address": "0x0B5B9806b1B202e22aA26Cfd527fDCafEF9eDAcf",
-      "name": "MOVR from MoonRiver",
-      "symbol": "MOVR",
-      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/MOVR/logo.png",
-      "resourceId": "0x0000000000000000000000f50225a84382c74cbdea10b0c176f71fc3de0c4d01",
-      "native": false,
-      "decimals": 18,
-      "coinId": "moonriver"
     },
     {
       "address": "0xB60590313975f0d98821B6Cab5Ea2a6d9641D7B6",
@@ -943,11 +913,11 @@
       "coinId": "thetadrop"
     },
     {
-      "address": "0x4dc08b15ea0e10b96c41aec22fab934ba15c983e",
+      "address": "0x0000000000000000000000000000000000000006",
       "name": "Theta Fuel",
       "symbol": "TFUEL",
       "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/TFUEL/logo.png",
-      "resourceId": "0x00000000000000000000004dc08b15ea0e10b96c41aec22fab934ba15c983e01",
+      "resourceId": "0x0000000000000000000000000000000000000000000000000000000000000601",
       "native": true,
       "decimals": 18,
       "coinId": "theta-fuel"
@@ -1035,16 +1005,6 @@
       "native": true,
       "decimals": 18,
       "coinId": "energy-web-token"
-    },
-    {
-      "address": "0xaFb66752Ad6F4cCcD92049c36C90dd00c71fA99B",
-      "name": "MOVR from MoonRiver",
-      "symbol": "MOVR",
-      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/MOVR/logo.png",
-      "resourceId": "0x0000000000000000000000f50225a84382c74cbdea10b0c176f71fc3de0c4d01",
-      "native": false,
-      "decimals": 18,
-      "coinId": "moonriver"
     }
   ],
   "Polygon": [
@@ -1067,28 +1027,6 @@
       "native": false,
       "decimals": 18,
       "coinId": "moonbeam"
-    },
-    {
-      "address": "0x3674D64AaB971aB974B2035667a4B3d09B5ec2B3",
-      "name": "MOVR from MoonRiver",
-      "symbol": "MOVR",
-      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/MOVR/logo.png",
-      "resourceId": "0x0000000000000000000000f50225a84382c74cbdea10b0c176f71fc3de0c4d01",
-      "native": false,
-      "decimals": 18,
-      "coinId": "moonriver"
-    }
-  ],
-  "ThetaTest": [
-    {
-      "address": "0xd9587fd562297db7cade281ecc46ba4f8972a389",
-      "name": "Theta Fuel",
-      "symbol": "TFUEL",
-      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/TFUEL/logo.png",
-      "resourceId": "0x0000000000000000000000d9587fd562297db7cade281ecc46ba4f8972a38901",
-      "native": true,
-      "decimals": 18,
-      "coinId": "theta-fuel"
     }
   ]
 }

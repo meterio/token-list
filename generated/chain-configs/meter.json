@@ -34,7 +34,7 @@
     "name": "MOVR from MoonRiver on Meter",
     "symbol": "MOVR",
     "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/MOVR/logo.png",
-    "resourceId": "0x0000000000000000000000f50225a84382c74cbdea10b0c176f71fc3de0c4d01",
+    "resourceId": "0x0000000000000000000000000000000000000000000000000000000000000501",
     "native": false,
     "decimals": 18,
     "coinId": "moonriver"
@@ -64,7 +64,7 @@
     "name": "Theta Fuel",
     "symbol": "TFUEL",
     "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/TFUEL/logo.png",
-    "resourceId": "0x00000000000000000000004dc08b15ea0e10b96c41aec22fab934ba15c983e01",
+    "resourceId": "0x0000000000000000000000000000000000000000000000000000000000000601",
     "native": false,
     "decimals": 18,
     "coinId": "theta-fuel"

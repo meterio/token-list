@@ -80,11 +80,11 @@
     "coinId": "moonbeam"
   },
   {
-    "address": "0xf50225a84382c74CbdeA10b0c176f71fc3DE0C4d",
+    "address": "0x0000000000000000000000000000000000000005",
     "name": "MOVR",
     "symbol": "MOVR",
     "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/MOVR/logo.png",
-    "resourceId": "0x0000000000000000000000f50225a84382c74cbdea10b0c176f71fc3de0c4d01",
+    "resourceId": "0x0000000000000000000000000000000000000000000000000000000000000501",
     "native": true,
     "decimals": 18,
     "coinId": "moonriver"
