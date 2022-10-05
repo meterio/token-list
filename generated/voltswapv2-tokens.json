@@ -31,12 +31,28 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/AMPL/logo.png"
     },
     {
+      "name": "BNB from BSC on Meter",
+      "address": "0xF0E86246519Be0810C9FAfc8430C49799985aAA8",
+      "symbol": "BNB",
+      "decimals": 18,
+      "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/BNB/logo.png"
+    },
+    {
       "name": "BUSD from BSC on Meter",
       "address": "0x24aA189DfAa76c671c279262F94434770F557c35",
       "symbol": "BUSD.bsc",
       "decimals": 18,
       "chainId": 82,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/BUSD/logo.png"
+    },
+    {
+      "name": "ETH from Ethereum on Meter",
+      "address": "0x983147FB73A45FC7F8B4DFA1cd61Bdc7b111e5b6",
+      "symbol": "ETH",
+      "decimals": 18,
+      "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png"
     },
     {
       "name": "Factory Builders Token",

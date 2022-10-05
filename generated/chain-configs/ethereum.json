@@ -60,6 +60,16 @@
     "coinId": "dai"
   },
   {
+    "address": "0x0000000000000000000000000000000000000001",
+    "name": "ETH",
+    "symbol": "ETH",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png",
+    "resourceId": "0x0000000000000000000000000000000000000000000000000000000000000101",
+    "native": true,
+    "decimals": 18,
+    "coinId": "ethereum"
+  },
+  {
     "address": "0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F",
     "name": "Meter Governance mapped by Meter.io",
     "symbol": "eMTRG",
