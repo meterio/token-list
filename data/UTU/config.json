@@ -4,6 +4,7 @@
   "name": "UTU Coin",
   "symbol": "UTU",
   "decimals": 18,
+  "enable": false,
   "tokens": [
     {
       "network": "Ethereum",

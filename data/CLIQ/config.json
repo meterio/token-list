@@ -3,6 +3,7 @@
   "name": "Cliq Token",
   "symbol": "CLIQ",
   "decimals": 18,
+  "enable": false,
   "tokens": [
     {
       "network": "Ethereum",
