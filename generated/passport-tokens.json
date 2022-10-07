@@ -21,26 +21,6 @@
       "coinId": "bet-protocol"
     },
     {
-      "address": "0x0Def8d8addE14c9eF7c2a986dF3eA4Bd65826767",
-      "name": "Cliq Token",
-      "symbol": "CLIQ",
-      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/CLIQ/logo.png",
-      "resourceId": "0x00000000000000000000000def8d8adde14c9ef7c2a986df3ea4bd6582676701",
-      "native": false,
-      "decimals": 18,
-      "coinId": "deficliq"
-    },
-    {
-      "address": "0xc00e94cb662c3520282e6f5717214004a7f26888",
-      "name": "COMP",
-      "symbol": "COMP",
-      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/COMP/logo.png",
-      "resourceId": "0x0000000000000000000000c00e94cb662c3520282e6f5717214004a7f2688801",
-      "native": false,
-      "decimals": 18,
-      "coinId": "compound-coin"
-    },
-    {
       "address": "0xac0104cca91d167873b8601d2e71eb3d4d8c33e0",
       "name": "Crowns",
       "symbol": "CWS",
@@ -109,16 +89,6 @@
       "native": false,
       "decimals": 6,
       "coinId": "tether"
-    },
-    {
-      "address": "0xa58a4f5c4Bb043d2CC1E170613B74e767c94189B",
-      "name": "UTU Coin",
-      "symbol": "UTU",
-      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/UTU/logo.png",
-      "resourceId": "0x0000000000000000000000a58a4f5c4bb043d2cc1e170613b74e767c94189b01",
-      "native": false,
-      "decimals": 18,
-      "coinId": "utu-coin"
     },
     {
       "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
@@ -193,16 +163,6 @@
       "coinId": "pancakeswap-token"
     },
     {
-      "address": "0xe795347731Bc547F4E4643F7945738cE2BC18529",
-      "name": "Cliq Token",
-      "symbol": "CLIQ",
-      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/CLIQ/logo.png",
-      "resourceId": "0x00000000000000000000000def8d8adde14c9ef7c2a986df3ea4bd6582676701",
-      "native": false,
-      "decimals": 18,
-      "coinId": "deficliq"
-    },
-    {
       "address": "0xbcf39F0EDDa668C58371E519AF37CA705f2bFcbd",
       "name": "Crowns",
       "symbol": "pCWS",
@@ -251,17 +211,6 @@
       "native": false,
       "decimals": 18,
       "coinId": "meter"
-    },
-    {
-      "address": "0xed4Bb33F20F32E989AF975196E86019773A7CFf0",
-      "name": "UTU Coin",
-      "symbol": "UTU",
-      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/UTU/logo.png",
-      "resourceId": "0x0000000000000000000000a58a4f5c4bb043d2cc1e170613b74e767c94189b01",
-      "native": false,
-      "decimals": 18,
-      "tokenProxy": "0xd4183192BfaA828fCcfb599948964C0BFFdE933c",
-      "coinId": "utu-coin"
     },
     {
       "address": "0xe138c66982Fd5c890c60b94FDBa1747faF092c20",
@@ -458,16 +407,6 @@
       "native": false,
       "decimals": 6,
       "coinId": "tether"
-    },
-    {
-      "address": "0x6078222Bf12f973dD13BD70696aA4dBcE7659Ad0",
-      "name": "UTU Coin",
-      "symbol": "UTU",
-      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/UTU/logo.png",
-      "resourceId": "0x0000000000000000000000a58a4f5c4bb043d2cc1e170613b74e767c94189b01",
-      "native": false,
-      "decimals": 18,
-      "coinId": "utu-coin"
     }
   ],
   "MeterTest": [
@@ -552,17 +491,6 @@
       "native": false,
       "decimals": 18,
       "coinId": "meter"
-    },
-    {
-      "address": "0x28387Fde25Df9E9a2314fC0C134218E6Fe199d8e",
-      "name": "UTU Coin",
-      "symbol": "UTU",
-      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/UTU/logo.png",
-      "resourceId": "0x0000000000000000000000a58a4f5c4bb043d2cc1e170613b74e767c94189b01",
-      "native": false,
-      "decimals": 18,
-      "tokenProxy": "0x468cddEeaAbb2b8F554b8a7D6FBEb5c3330c1bE3",
-      "coinId": "utu-coin"
     }
   ],
   "Moonriver": [
@@ -585,26 +513,6 @@
       "native": false,
       "decimals": 18,
       "coinId": "binance-usd"
-    },
-    {
-      "address": "0x2A0509760bF672E74899917D0D84cC10D7E34Ef6",
-      "name": "Cliq Token",
-      "symbol": "CLIQ",
-      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/CLIQ/logo.png",
-      "resourceId": "0x00000000000000000000000def8d8adde14c9ef7c2a986df3ea4bd6582676701",
-      "native": false,
-      "decimals": 18,
-      "coinId": "deficliq"
-    },
-    {
-      "address": "0xB94b5d77184f59716958e435Cd105f2DB50C734B",
-      "name": "COMP from Ethereum on Moonriver",
-      "symbol": "COMP.eth",
-      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/COMP/logo.png",
-      "resourceId": "0x0000000000000000000000c00e94cb662c3520282e6f5717214004a7f2688801",
-      "native": false,
-      "decimals": 18,
-      "coinId": "compound-coin"
     },
     {
       "address": "0x6fc9651f45B262AE6338a701D563Ab118B1eC0Ce",
@@ -981,16 +889,6 @@
       "native": false,
       "decimals": 6,
       "coinId": "tether"
-    },
-    {
-      "address": "0xE6a991Ffa8CfE62B0bf6BF72959A3d4f11B2E0f5",
-      "name": "Volt from Meter on Theta",
-      "symbol": "VOLT",
-      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/VOLT/logo.png",
-      "resourceId": "0x00000000000000000000008df95e66cb0ef38f91d2776da3c921768982fba001",
-      "native": false,
-      "decimals": 18,
-      "coinId": "volt"
     },
     {
       "address": "0xf64FA5155D8cc578D473A21FB67507DDCbB80D21",

@@ -28,16 +28,5 @@
     "native": false,
     "decimals": 18,
     "coinId": "meter"
-  },
-  {
-    "address": "0x28387Fde25Df9E9a2314fC0C134218E6Fe199d8e",
-    "name": "UTU Coin",
-    "symbol": "UTU",
-    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/UTU/logo.png",
-    "resourceId": "0x0000000000000000000000a58a4f5c4bb043d2cc1e170613b74e767c94189b01",
-    "native": false,
-    "decimals": 18,
-    "tokenProxy": "0x468cddEeaAbb2b8F554b8a7D6FBEb5c3330c1bE3",
-    "coinId": "utu-coin"
   }
 ]

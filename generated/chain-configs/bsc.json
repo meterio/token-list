@@ -50,16 +50,6 @@
     "coinId": "pancakeswap-token"
   },
   {
-    "address": "0xe795347731Bc547F4E4643F7945738cE2BC18529",
-    "name": "Cliq Token",
-    "symbol": "CLIQ",
-    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/CLIQ/logo.png",
-    "resourceId": "0x00000000000000000000000def8d8adde14c9ef7c2a986df3ea4bd6582676701",
-    "native": false,
-    "decimals": 18,
-    "coinId": "deficliq"
-  },
-  {
     "address": "0xbcf39F0EDDa668C58371E519AF37CA705f2bFcbd",
     "name": "Crowns",
     "symbol": "pCWS",
@@ -108,17 +98,6 @@
     "native": false,
     "decimals": 18,
     "coinId": "meter"
-  },
-  {
-    "address": "0xed4Bb33F20F32E989AF975196E86019773A7CFf0",
-    "name": "UTU Coin",
-    "symbol": "UTU",
-    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/UTU/logo.png",
-    "resourceId": "0x0000000000000000000000a58a4f5c4bb043d2cc1e170613b74e767c94189b01",
-    "native": false,
-    "decimals": 18,
-    "tokenProxy": "0xd4183192BfaA828fCcfb599948964C0BFFdE933c",
-    "coinId": "utu-coin"
   },
   {
     "address": "0xe138c66982Fd5c890c60b94FDBa1747faF092c20",

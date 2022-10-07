@@ -38,15 +38,5 @@
     "native": false,
     "decimals": 6,
     "coinId": "tether"
-  },
-  {
-    "address": "0x6078222Bf12f973dD13BD70696aA4dBcE7659Ad0",
-    "name": "UTU Coin",
-    "symbol": "UTU",
-    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/UTU/logo.png",
-    "resourceId": "0x0000000000000000000000a58a4f5c4bb043d2cc1e170613b74e767c94189b01",
-    "native": false,
-    "decimals": 18,
-    "coinId": "utu-coin"
   }
 ]

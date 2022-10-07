@@ -20,26 +20,6 @@
     "coinId": "binance-usd"
   },
   {
-    "address": "0x2A0509760bF672E74899917D0D84cC10D7E34Ef6",
-    "name": "Cliq Token",
-    "symbol": "CLIQ",
-    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/CLIQ/logo.png",
-    "resourceId": "0x00000000000000000000000def8d8adde14c9ef7c2a986df3ea4bd6582676701",
-    "native": false,
-    "decimals": 18,
-    "coinId": "deficliq"
-  },
-  {
-    "address": "0xB94b5d77184f59716958e435Cd105f2DB50C734B",
-    "name": "COMP from Ethereum on Moonriver",
-    "symbol": "COMP.eth",
-    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/COMP/logo.png",
-    "resourceId": "0x0000000000000000000000c00e94cb662c3520282e6f5717214004a7f2688801",
-    "native": false,
-    "decimals": 18,
-    "coinId": "compound-coin"
-  },
-  {
     "address": "0x6fc9651f45B262AE6338a701D563Ab118B1eC0Ce",
     "name": "Crowns",
     "symbol": "CWS",

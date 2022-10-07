@@ -31,22 +31,6 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/BEPRO/logo.png"
     },
     {
-      "name": "Cliq Token",
-      "address": "0x0Def8d8addE14c9eF7c2a986dF3eA4Bd65826767",
-      "symbol": "CLIQ",
-      "decimals": 18,
-      "chainId": 1,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/CLIQ/logo.png"
-    },
-    {
-      "name": "COMP",
-      "address": "0xc00e94cb662c3520282e6f5717214004a7f26888",
-      "symbol": "COMP",
-      "decimals": 18,
-      "chainId": 1,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/COMP/logo.png"
-    },
-    {
       "name": "Crowns",
       "address": "0xac0104cca91d167873b8601d2e71eb3d4d8c33e0",
       "symbol": "CWS",
@@ -103,14 +87,6 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDT/logo.png"
     },
     {
-      "name": "UTU Coin",
-      "address": "0xa58a4f5c4Bb043d2CC1E170613B74e767c94189B",
-      "symbol": "UTU",
-      "decimals": 18,
-      "chainId": 1,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/UTU/logo.png"
-    },
-    {
       "name": "Wrapped BTC",
       "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
       "symbol": "WBTC",
@@ -159,14 +135,6 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDT/logo.png"
     },
     {
-      "name": "UTU Coin",
-      "address": "0x6078222Bf12f973dD13BD70696aA4dBcE7659Ad0",
-      "symbol": "UTU",
-      "decimals": 18,
-      "chainId": 3,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/UTU/logo.png"
-    },
-    {
       "name": "AmpleForth",
       "address": "0xDB021b1B247fe2F1fa57e0A87C748Cc1E321F07F",
       "symbol": "AMPL",
@@ -207,14 +175,6 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/CAKE/logo.png"
     },
     {
-      "name": "Cliq Token",
-      "address": "0xe795347731Bc547F4E4643F7945738cE2BC18529",
-      "symbol": "CLIQ",
-      "decimals": 18,
-      "chainId": 56,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/CLIQ/logo.png"
-    },
-    {
       "name": "DAI",
       "address": "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3",
       "symbol": "DAI.bsc",
@@ -253,14 +213,6 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/CWS/logo.png"
-    },
-    {
-      "name": "UTU Coin",
-      "address": "0xed4Bb33F20F32E989AF975196E86019773A7CFf0",
-      "symbol": "UTU",
-      "decimals": 18,
-      "chainId": 56,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/UTU/logo.png"
     },
     {
       "name": "Offshift",
@@ -463,14 +415,6 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/CWS/logo.png"
     },
     {
-      "name": "UTU Coin",
-      "address": "0x28387Fde25Df9E9a2314fC0C134218E6Fe199d8e",
-      "symbol": "UTU",
-      "decimals": 18,
-      "chainId": 97,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/UTU/logo.png"
-    },
-    {
       "name": "Factory Builders Token",
       "address": "0xf305012ea754252184f1071c86ae99fac5b40320",
       "symbol": "FTB",
@@ -541,14 +485,6 @@
       "decimals": 6,
       "chainId": 361,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDT/logo.png"
-    },
-    {
-      "name": "Volt from Meter on Theta",
-      "address": "0xE6a991Ffa8CfE62B0bf6BF72959A3d4f11B2E0f5",
-      "symbol": "VOLT",
-      "decimals": 18,
-      "chainId": 361,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/VOLT/logo.png"
     },
     {
       "name": "WBTC from Ethereum on Theta",
@@ -669,22 +605,6 @@
       "decimals": 18,
       "chainId": 1285,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/BUSD/logo.png"
-    },
-    {
-      "name": "Cliq Token",
-      "address": "0x2A0509760bF672E74899917D0D84cC10D7E34Ef6",
-      "symbol": "CLIQ",
-      "decimals": 18,
-      "chainId": 1285,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/CLIQ/logo.png"
-    },
-    {
-      "name": "COMP from Ethereum on Moonriver",
-      "address": "0xB94b5d77184f59716958e435Cd105f2DB50C734B",
-      "symbol": "COMP.eth",
-      "decimals": 18,
-      "chainId": 1285,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/COMP/logo.png"
     },
     {
       "name": "Crowns",
