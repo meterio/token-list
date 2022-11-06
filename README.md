@@ -161,9 +161,12 @@ node scripts/validate.js [your-token-symbol]
 ```
 ETH Contract Addresses  ID:1
 ================================================================
-Bridge:             0xb61B5aca15193ECB719433d0E5c066f9980E1e83
-Erc20 Handler:      0xde4fC7C3C5E7bE3F16506FcC790a8D93f8Ca0b40
-Generic Handler:    0x517828d2549cEC09386f89a67E92825E26740240
+bridge Impl: 0xBd6bCac46246a7CC2308E0aE87F7794F96e33aaf
+bridge Proxy: 0xa7E2cE557980618253D9dafdEDb27ecCe2F82167
+erc20Handler Impl: 0x3De3826f4D28cF8bbC854C34a16753E9150422A8
+erc20Handler Proxy: 0xEa31ca828F53A41bA2864FA194bb8A2d3f11C0C0
+genericHandler Impl: 0xdcF3CA046171efFDC7b3dC64345F5F4258c24565
+genericHandler Proxy: 0x5945432d6c0A4b30c1178888F776a4d430d5BC94
 ```
 
 ### On Avalanche Mainnet
@@ -171,9 +174,12 @@ Generic Handler:    0x517828d2549cEC09386f89a67E92825E26740240
 ```
 Avalanche Contract Addresses  ID:2
 ================================================================
-Bridge:             0x6154a8611fb02f250eA3FA0C8C8a8CB56931eBf2
-Erc20 Handler:      0x48A6fd66512D45006FC0426576c264D03Dfda304
-Generic Handler:    0x123455360bE78C9289B38bcb4DbA427D9a6cD440
+bridge Impl: 0x362eF7dC240758d60bA6C51B120B24144CE00256
+bridge Proxy: 0xB447acD21831F6615e208c9EEa7E6049dB3391Cd
+erc20Handler Impl: 0x3f5D4B34fBB394835457a271102e70e96f8d688E
+erc20Handler Proxy: 0xeB06fa7e1d400caa3D369776Da45EbB5EbDF9b5B
+genericHandler Impl: 0x4c36F9Dcd27b5fF3Fb5B687941F1AC9101f0bf22
+genericHandler Proxy: 0x0B9709FE3aa76068f07d054fd4417445D5c7DA9A
 ```
 
 ### On Meter Mainnet    
@@ -181,9 +187,12 @@ Generic Handler:    0x123455360bE78C9289B38bcb4DbA427D9a6cD440
 ```
 Meter Contract Addresses   ID: 3
 ================================================================
-Bridge:             0x411b6aef79d44CEa36979Ca1525831C8DE37Da90
-Erc20 Handler:      0x60f1ABAa3ED8A573c91C65A5b82AeC4BF35b77b8
-Generic Handler:    0x89CA53Bf11d24D32A7aC3aDb7750868360c90590
+bridge Impl: 0x2AAFcFCfD30c64870f95341d24f7d6CC5fb249CE
+bridge Proxy: 0x23894d2937A2a4A479f0407909DA5B028049568E
+erc20Handler Impl: 0xcD774447B43b867AE18E28F0f52a1b47fD19eD48
+erc20Handler Proxy: 0x139d9B458AcDA76457DD99DB3A6a36ca9Cb3bbf1
+genericHandler Impl: 0xde9f813D51d25797A89BdE8AdB32977A795A25F6
+genericHandler Proxy: 0x701627e8638c452732eceCC7d0238746654fb365
 ```
 
 ### On BSC Mainnet
@@ -191,9 +200,12 @@ Generic Handler:    0x89CA53Bf11d24D32A7aC3aDb7750868360c90590
 ```
 BSC Contract Addresses  ID: 4
 ================================================================
-Bridge:             0x0316f3A2f01bf3934f10F24217a0F802Eac3FBD7
-Erc20 Handler:      0x5945241BBB68B4454bB67Bd2B069e74C09AC3D51
-Generic Handler:    0x83Fc24eB56121FA2A05e0b5170E7310738425839
+bridge Impl: 0x251bA644FF3ffdE20F51F3A490b38D859395320c
+bridge Proxy: 0x8209815136b35F21B8C0f5AA2E2f915a73530dF9
+erc20Handler Impl: 0x92b57fDb0510D823c339a4Da8ADbeb30AAc5a585
+erc20Handler Proxy: 0x83354D47379881e167F7160A80dAC8269Fe946Fa
+genericHandler Impl: 0xC13851900912b4E03398549727f2Ab8103DB1DcA
+genericHandler Proxy: 0x431a7Bb43b6242225Ceb97Bde140219b4d043116
 ```
 
 ### On Moonriver Mainnet
@@ -201,9 +213,12 @@ Generic Handler:    0x83Fc24eB56121FA2A05e0b5170E7310738425839
 ```
 Moonriver Contract Addresses  ID: 5
 ================================================================
-Bridge:             0xa53cC329AD9555c51F02f37b3cC93a2be4a166Be
-Erc20 Handler:      0x48A6fd66512D45006FC0426576c264D03Dfda304
-Generic Handler:    0x29E9fDF5933824ad21Bc6dbb8BF156EFA3735e32
+bridge Impl: 0xb0Fee53454da3b177ead11B72aCd5fB5bAF04a65
+bridge Proxy: 0x44F0f7F2bA1C077d27D83b22147744E04874B3a7
+erc20Handler Impl: 0xfbb865Ae1B38Cc70f4FFe615A8BBF854D63EaEeA
+erc20Handler Proxy: 0xB1eFA941D6081afdE172e29D870f1Bbb91BfABf7
+genericHandler Impl: 0xcb5a16Dd66D6b25Be8C0BFeA3C3626BB85E6cb7a
+genericHandler Proxy: 0x407ad164AB718CEdc863fB34EB64f9048A727c8C
 ```
 
 ### On Theta Mainnet
@@ -211,28 +226,12 @@ Generic Handler:    0x29E9fDF5933824ad21Bc6dbb8BF156EFA3735e32
 ```
 Theta Contract Addresses  ID: 6
 ================================================================
-Bridge:             0xF6853fbEF2a90be8cB66364957fB8B7793c03656
-Erc20 Handler:      0x48A6fd66512D45006FC0426576c264D03Dfda304
-Generic Handler:    0x123455360bE78C9289B38bcb4DbA427D9a6cD440
-```
-
-### On Polis Mainnet
-
-```
-Polis Contract Addresses ID: 7
-================================================================
-Bridge:             0x6154a8611fb02f250eA3FA0C8C8a8CB56931eBf2
-Erc20 Handler:      0x911F32FD5d347b4EEB61fDb80d9F1063Be1E78E6
-Generic Handler:    0x123455360bE78C9289B38bcb4DbA427D9a6cD440
-```
-
-### On EnergyWeb Mainnet
-```
-Polis Contract Addresses ID: 8
-================================================================
-Bridge:             0xC112f793113b2dA428A4f4eD5CC90f5CD6552400
-Erc20 Handler:      0x48A6fd66512D45006FC0426576c264D03Dfda304
-Generic Handler:    0x123455360bE78C9289B38bcb4DbA427D9a6cD440
+bridge Impl: 0x27cb6903663c5b9E3667dA8f3815ad6A19499D55
+bridge Proxy: 0x1a073fDCc6D9b7eAEc218FE47566Faa85326967D
+erc20Handler Impl: 0x780E38B2ec924e134913063C740fad80FD21534F
+erc20Handler Proxy: 0xe1c892A6cE33cB31c100369aA6fC302d7B96254a
+genericHandler Impl: 0x4c0644a273B81dfCa56ca298712bB0f1b88b27c3
+genericHandler Proxy: 0xAb2d0C8122BD0f455EF781BdB91849B7F5A02d57
 ```
 
 ### On Moonbeam
@@ -240,9 +239,12 @@ Generic Handler:    0x123455360bE78C9289B38bcb4DbA427D9a6cD440
 ```
 Moonbeam Contract Addresses  ID: 9
 ================================================================
-Bridge:             0x39e592999Df2fd3B6f9261b0cfDeC72992F5aEFC
-Erc20 Handler:      0x911F32FD5d347b4EEB61fDb80d9F1063Be1E78E6
-Generic Handler:    0xB3a128242e23AA80C37D14dB2d577727a1Fd4608
+bridge Impl: 0x2E8fC3D4399C9c775746469412B344716471E940
+bridge Proxy: 0xc9796B65555B18Fe06a071B9F1ff26b76A4823eC
+erc20Handler Impl: 0x9C3DeFbf878649e1b2b4EfF49d14c4a91E26a35a
+erc20Handler Proxy: 0x766E33b910Cd6329a0cBD5F72e48Ec162E38A25D
+genericHandler Impl: 0x59c14158Be9146AbAbB4757E188A43d01f1Ec01a
+genericHandler Proxy: 0xeDBd736c3614a5E9DaCeC92dA0340F1381b954a1
 ```
 
 ### On Polygon Matic
@@ -250,61 +252,14 @@ Generic Handler:    0xB3a128242e23AA80C37D14dB2d577727a1Fd4608
 ```
 Polygon Contract Addresses  ID: 10
 ================================================================
-Bridge:             0x92D144A99bD3aB1177B8Df600769Ad5422DE7819
-Erc20 Handler:      0x123455360bE78C9289B38bcb4DbA427D9a6cD440
-Generic Handler:    0x911F32FD5d347b4EEB61fDb80d9F1063Be1E78E6
+bridge Impl: 0x362eF7dC240758d60bA6C51B120B24144CE00256
+bridge Proxy: 0xB447acD21831F6615e208c9EEa7E6049dB3391Cd
+erc20Handler Impl: 0x3f5D4B34fBB394835457a271102e70e96f8d688E
+erc20Handler Proxy: 0xeB06fa7e1d400caa3D369776Da45EbB5EbDF9b5B
+genericHandler Impl: 0x4c36F9Dcd27b5fF3Fb5B687941F1AC9101f0bf22
+genericHandler Proxy: 0x0B9709FE3aa76068f07d054fd4417445D5c7DA9A
 ```
 
-### On Ethereum Ropsten
-
-```
-ETH Ropsten Contract Addresses
-================================================================
-Bridge:             0x7Be5166449EE607a8Cd2BE6AF4120880b163668d
-Erc20 Handler:      0xC56065ee94eD4d05360e130075Dd06DE55eE0916
-Generic Handler:    0xBAb8402E278F45d51BB342525716611fE1090027
-```
-
-### On Meter Warringstakes Testnet
-
-```
-Meter Warringstakes Contract Address:
-================================================================
-Bridge:             0x79F0aAc7F2234eae45cA4161470a65E89EC8C513
-Erc20 Handler:      0x73BBF74df1c58903132CD4aa0e268C79f10aB042
-Generic Handler:    0x56f03E0B73fa6Ff6704CA399CE88282EDcF9FeEA
-```
-
-### On BSC Testnet
-
-```
-BSC Testnet Contract Addresses
-================================================================
-Bridge:             0x15cf8FD3d7Cd83fE9a17f15322F4e95D30b3C880
-Erc20 Handler:      0xEc239B20C6d93CE22316F807F898d0C9fA67E3D6
-Generic Handler:    0xb264Cf6be02f17BF638Cd59F63C68Ec3036b32b5
-```
-
-
-### On Moonbase Alpha Testnet
-
-```
-Moonbase Testnet Contract Addresses
-================================================================
-Bridge:             0x98eC243B9C8FFD4FaccAa4669e172b1266346b5c
-Erc20 Handler:      0xe4Fd0BC0601d1f4E042e93D28C6A429B26dF1457
-Generic Handler:    0x26c61e08d6fd620420079ED4B90Ec4a99c6bCEaa
-```
-
-### On Theta Testnet
-
-```
-Theta Testnet Contract Addresses
-================================================================
-Bridge:             0xc37518bCa208BEb992804baa0ccAD935882A432c
-Erc20 Handler:      0x387791781A5A9cB1C491E30F19CFD4c7741e5216
-Generic Handler:    0x24bB4c53EeDb777fa1ba78d953941567170Cd3a1
-```
 
 ## Generate configs
 
