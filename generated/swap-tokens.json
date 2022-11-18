@@ -487,6 +487,14 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDT/logo.png"
     },
     {
+      "name": "Volt from Meter on Theta",
+      "address": "0xE6a991Ffa8CfE62B0bf6BF72959A3d4f11B2E0f5",
+      "symbol": "VOLT",
+      "decimals": 18,
+      "chainId": 361,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/VOLT/logo.png"
+    },
+    {
       "name": "WBTC from Ethereum on Theta",
       "address": "0xf64FA5155D8cc578D473A21FB67507DDCbB80D21",
       "symbol": "WBTC",
