@@ -47,6 +47,14 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/BUSD/logo.png"
     },
     {
+      "name": "BUSD from BSC on Theta",
+      "address": "0x7B37d0787A3424A0810E02b24743a45eBd5530B2",
+      "symbol": "BUSD.bsc",
+      "decimals": 18,
+      "chainId": 361,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/BUSD/logo.png"
+    },
+    {
       "name": "ETH from Ethereum on Meter",
       "address": "0x983147FB73A45FC7F8B4DFA1cd61Bdc7b111e5b6",
       "symbol": "ETH",
@@ -76,6 +84,14 @@
       "symbol": "MTRG",
       "decimals": 18,
       "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png"
+    },
+    {
+      "name": "Meter Governance mapped by Meter.io",
+      "address": "0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F",
+      "symbol": "MTRG",
+      "decimals": 18,
+      "chainId": 361,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png"
     },
     {
@@ -112,11 +128,27 @@
     },
     {
       "name": "Theta Drop",
+      "address": "0x1336739b05c7ab8a526d40dcc0d04a826b5f8b03",
+      "symbol": "TDROP",
+      "decimals": 18,
+      "chainId": 361,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/TDROP/logo.png"
+    },
+    {
+      "name": "Theta Drop",
       "address": "0xd5e615BB3c761AB4cD9251dEEd78Dac58BE9CcBF",
       "symbol": "TDROP",
       "decimals": 18,
       "chainId": 82,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/TDROP/logo.png"
+    },
+    {
+      "name": "Theta Fuel",
+      "address": "0x0000000000000000000000000000000000000006",
+      "symbol": "TFUEL",
+      "decimals": 18,
+      "chainId": 361,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/TFUEL/logo.png"
     },
     {
       "name": "Theta Fuel",
@@ -135,11 +167,27 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDC/logo.png"
     },
     {
+      "name": "USDC from Ethereum on Theta",
+      "address": "0x3Ca3fEFA944753b43c751336A5dF531bDD6598B6",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 361,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDC/logo.png"
+    },
+    {
       "name": "USDT from Ethereum on Meter",
       "address": "0x5Fa41671c48e3C951AfC30816947126CCC8C162e",
       "symbol": "USDT.eth",
       "decimals": 6,
       "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDT/logo.png"
+    },
+    {
+      "name": "USDT from Ethereum on Theta",
+      "address": "0x3c751Feb00364CA9e2d0105c40F0b423abf1DEE3",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 361,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDT/logo.png"
     },
     {
@@ -167,6 +215,14 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/VOLT/logo.png"
     },
     {
+      "name": "Volt from Meter on Theta",
+      "address": "0xE6a991Ffa8CfE62B0bf6BF72959A3d4f11B2E0f5",
+      "symbol": "VOLT",
+      "decimals": 18,
+      "chainId": 361,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/VOLT/logo.png"
+    },
+    {
       "name": "WBTC from Ethereum on Meter",
       "address": "0xc1f6C86ABEe8e2e0B6fd5BD80F0b51fef783635C",
       "symbol": "WBTC.eth",
@@ -180,6 +236,14 @@
       "symbol": "WBTC",
       "decimals": 8,
       "chainId": 83,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/WBTC/logo.png"
+    },
+    {
+      "name": "WBTC from Ethereum on Theta",
+      "address": "0xf64FA5155D8cc578D473A21FB67507DDCbB80D21",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "chainId": 361,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/WBTC/logo.png"
     }
   ]
