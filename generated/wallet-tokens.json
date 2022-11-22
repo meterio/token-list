@@ -697,6 +697,17 @@
       "resourceId": "0x0000000000000000000000000000000000000000000000000000000000000601"
     },
     {
+      "name": "Theta TVOLT",
+      "address": "0xae6f0539e33f624ac685cce9ba57cc1d948d909d",
+      "symbol": "TVOLT",
+      "decimals": 18,
+      "chainId": 361,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/VOLT/logo.png",
+      "coinId": "volt",
+      "native": false,
+      "resourceId": "0x00000000000000000000008df95e66cb0ef38f91d2776da3c921768982fba001"
+    },
+    {
       "name": "USDC from Ethereum on Theta",
       "address": "0x3Ca3fEFA944753b43c751336A5dF531bDD6598B6",
       "symbol": "USDC",

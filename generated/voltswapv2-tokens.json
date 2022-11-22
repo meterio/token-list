@@ -223,6 +223,14 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/VOLT/logo.png"
     },
     {
+      "name": "Theta TVOLT",
+      "address": "0xae6f0539e33f624ac685cce9ba57cc1d948d909d",
+      "symbol": "TVOLT",
+      "decimals": 18,
+      "chainId": 361,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/VOLT/logo.png"
+    },
+    {
       "name": "WBTC from Ethereum on Meter",
       "address": "0xc1f6C86ABEe8e2e0B6fd5BD80F0b51fef783635C",
       "symbol": "WBTC.eth",
