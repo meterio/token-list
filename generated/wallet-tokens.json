@@ -752,6 +752,16 @@
       "resourceId": "0x00000000000000000000002260fac5e5542a773aa44fbcfedf7c193bc2c59901"
     },
     {
+      "name": "WTheta",
+      "address": "0xaf537fb7e4c77c97403de94ce141b7edb9f7fcf0",
+      "symbol": "WTHETA",
+      "decimals": 18,
+      "chainId": 361,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/WTHETA/logo.png",
+      "native": false,
+      "resourceId": "0x0000000000000000000000af537fb7e4c77c97403de94ce141b7edb9f7fcf001"
+    },
+    {
       "name": "Theta Fuel",
       "address": "0x",
       "symbol": "TFUEL",

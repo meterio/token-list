@@ -1,0 +1,14 @@
+{
+  "resourceID": "0x0000000000000000000000af537fb7e4c77c97403de94ce141b7edb9f7fcf001",
+  "name": "WTheta",
+  "symbol": "WTHETA",
+  "decimals": 18,
+  "tokens": [
+    {
+      "network": "Theta",
+      "address": "0xaf537fb7e4c77c97403de94ce141b7edb9f7fcf0",
+      "name": "WTheta",
+      "symbol": "WTHETA"
+    }
+  ]
+}
