@@ -406,6 +406,16 @@
       "resourceId": "0x0000000000000000000000bd2949f67dcdc549c6ebe98696449fa79d988a9f01"
     },
     {
+      "name": "PASS",
+      "address": "0xb8c2eb8702e129c8fecfbfd6e55bb6b3330f30f1",
+      "symbol": "PASS",
+      "decimals": 18,
+      "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/PASS/logo.png",
+      "native": false,
+      "resourceId": "0x0000000000000000000000b8c2eb8702e129c8fecfbfd6e55bb6b3330f30f101"
+    },
+    {
       "name": "Theta Drop",
       "address": "0xd5e615BB3c761AB4cD9251dEEd78Dac58BE9CcBF",
       "symbol": "TDROP",

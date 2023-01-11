@@ -103,6 +103,14 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png"
     },
     {
+      "name": "PASS",
+      "address": "0xb8c2eb8702e129c8fecfbfd6e55bb6b3330f30f1",
+      "symbol": "PASS",
+      "decimals": 18,
+      "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/PASS/logo.png"
+    },
+    {
       "name": "Sumer Bitcoin",
       "address": "0x0477763b021e0f30680b7266a264d1044fe77a4d",
       "symbol": "suBTC",
