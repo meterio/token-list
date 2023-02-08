@@ -175,6 +175,55 @@ const genSwapTokens = (symbols) => {
   console.log(`write swap tokens config to ${outPath}`);
 };
 
+/**
+ * generate token list for voltswap with given symbol array
+ * @param {Array} symbols
+ */
+const genSwapTokensOnMeter = (symbols) => {
+  const parsed = version.split('.');
+  const tokenList = [{
+    chainId: 82,
+    name: "Wrapped MTR",
+    address: "0x160361ce13ec33C993b5cCA8f62B6864943eb083",
+    symbol: "WMTR",
+    decimals: 18
+  }];
+  for (const sym of symbols) {
+    const config = getConfig(sym);
+
+    for (const token of config.tokens) {
+      if (token.network === 'Meter') {
+        const chainId = getChainId(token.network);
+        tokenList.push({
+          chainId,
+          name: token.name || config.name,
+          address: token.address,
+          symbol: token.symbol || config.symbol,
+          decimals: token.decimals || config.decimals,
+        });
+      }
+    }
+  }
+
+  const swapTokens = {
+    name: 'Voltswap Default List',
+    timestamp: '', //new Date().toISOString(),
+    version: {
+      major: +parsed[0],
+      minor: +parsed[1],
+      patch: +parsed[2],
+    },
+    tags: {},
+    logoURI: '', //FIXME: ipfs logo?
+    keywords: ['voltswap', 'default', 'meter'],
+    tokens: tokenList
+  };
+
+  const outPath = path.join(OUT_PATH, `meter-tokens.json`);
+  fs.writeFileSync(outPath, JSON.stringify(swapTokens, null, 2));
+  console.log(`write meter tokens formated with uniswap to ${outPath}`);
+};
+
 const genSolidlyTokens = (symbols) => {
   const parsed = version.split('.');
   const tokenList = [
@@ -362,5 +411,6 @@ genPassportTokens(symbols);
 genSwapTokens(symbols);
 genWalletTokens(walletSymbols, chainConfigs);
 genSolidlyTokens(symbols)
+genSwapTokensOnMeter(symbols)
 
 placeImages(symbols);

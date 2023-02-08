@@ -1,0 +1,123 @@
+{
+  "name": "Voltswap Default List",
+  "timestamp": "",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "",
+  "keywords": [
+    "voltswap",
+    "default",
+    "meter"
+  ],
+  "tokens": [
+    {
+      "chainId": 82,
+      "name": "Wrapped MTR",
+      "address": "0x160361ce13ec33C993b5cCA8f62B6864943eb083",
+      "symbol": "WMTR",
+      "decimals": 18
+    },
+    {
+      "chainId": 82,
+      "name": "AmpleForth",
+      "address": "0x1cf09D1B5Da9d9d24365D87B932A7c4bD018A419",
+      "symbol": "AMPL",
+      "decimals": 9
+    },
+    {
+      "chainId": 82,
+      "name": "BNB from BSC on Meter",
+      "address": "0xF0E86246519Be0810C9FAfc8430C49799985aAA8",
+      "symbol": "BNB",
+      "decimals": 18
+    },
+    {
+      "chainId": 82,
+      "name": "BUSD from BSC on Meter",
+      "address": "0x24aA189DfAa76c671c279262F94434770F557c35",
+      "symbol": "BUSD.bsc",
+      "decimals": 18
+    },
+    {
+      "chainId": 82,
+      "name": "ETH from Ethereum on Meter",
+      "address": "0x983147FB73A45FC7F8B4DFA1cd61Bdc7b111e5b6",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    {
+      "chainId": 82,
+      "name": "Factory Builders Token",
+      "address": "0x6CFe9AdaD5215195c1Aa9755DAed29360e6Ab986",
+      "symbol": "FTB",
+      "decimals": 18
+    },
+    {
+      "chainId": 82,
+      "name": "MOVR from MoonRiver on Meter",
+      "address": "0xb158870beB809Ad955Bf56065C5C10D7Fd957cC0",
+      "symbol": "MOVR",
+      "decimals": 18
+    },
+    {
+      "chainId": 82,
+      "name": "Meter Governance",
+      "address": "0x228ebBeE999c6a7ad74A6130E81b12f9Fe237Ba3",
+      "symbol": "MTRG",
+      "decimals": 18
+    },
+    {
+      "chainId": 82,
+      "name": "PASS",
+      "address": "0xb8c2eb8702e129c8fecfbfd6e55bb6b3330f30f1",
+      "symbol": "PASS",
+      "decimals": 18
+    },
+    {
+      "chainId": 82,
+      "name": "Theta Drop",
+      "address": "0xd5e615BB3c761AB4cD9251dEEd78Dac58BE9CcBF",
+      "symbol": "TDROP",
+      "decimals": 18
+    },
+    {
+      "chainId": 82,
+      "name": "Theta Fuel",
+      "address": "0x75Fd6F7EDCc5E7A8100eAd3D29CCD844153ef0F3",
+      "symbol": "TFUEL",
+      "decimals": 18
+    },
+    {
+      "chainId": 82,
+      "name": "USDC from Ethereum on Meter",
+      "address": "0xd86e243fc0007e6226b07c9a50c9d70d78299eb5",
+      "symbol": "USDC.eth",
+      "decimals": 6
+    },
+    {
+      "chainId": 82,
+      "name": "USDT from Ethereum on Meter",
+      "address": "0x5Fa41671c48e3C951AfC30816947126CCC8C162e",
+      "symbol": "USDT.eth",
+      "decimals": 6
+    },
+    {
+      "chainId": 82,
+      "name": "Volt",
+      "address": "0x8Df95e66Cb0eF38F91D2776DA3c921768982fBa0",
+      "symbol": "VOLT",
+      "decimals": 18
+    },
+    {
+      "chainId": 82,
+      "name": "WBTC from Ethereum on Meter",
+      "address": "0xc1f6C86ABEe8e2e0B6fd5BD80F0b51fef783635C",
+      "symbol": "WBTC.eth",
+      "decimals": 8
+    }
+  ]
+}
