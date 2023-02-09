@@ -416,6 +416,17 @@
       "resourceId": "0x0000000000000000000000b8c2eb8702e129c8fecfbfd6e55bb6b3330f30f101"
     },
     {
+      "name": "SKILL by cryptoblades.io",
+      "address": "0x45a7ca9511a49508B01d37F09f9F142bEa85Ce14",
+      "symbol": "SKILL",
+      "decimals": 18,
+      "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/SKILL/logo.png",
+      "coinId": "cryptoblades",
+      "native": false,
+      "resourceId": "0x0000000000000000000000154a9f9cbd3449ad22fdae23044319d6ef2a1fab01"
+    },
+    {
       "name": "Theta Drop",
       "address": "0xd5e615BB3c761AB4cD9251dEEd78Dac58BE9CcBF",
       "symbol": "TDROP",
