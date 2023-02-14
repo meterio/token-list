@@ -1,0 +1,13 @@
+{
+  "resourceID": "0x000000000000000000000014e4c61d6aa9accda3850b201077cebf464dcb3101",
+  "name": "Theta Vibes",
+  "symbol": "TVIBE",
+  "decimals": 18,
+  "tokens": [
+    {
+      "network": "Theta",
+      "address": "0x14e4c61d6aa9accda3850b201077cebf464dcb31",
+      "name": "TVIBE"
+    }
+  ]
+}
