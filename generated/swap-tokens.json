@@ -487,6 +487,14 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/TFUEL/logo.png"
     },
     {
+      "name": "TVIBE",
+      "address": "0x14e4c61d6aa9accda3850b201077cebf464dcb31",
+      "symbol": "TVIBE",
+      "decimals": 18,
+      "chainId": 361,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/TVIBE/logo.png"
+    },
+    {
       "name": "Theta TVOLT",
       "address": "0xae6f0539e33f624ac685cce9ba57cc1d948d909d",
       "symbol": "TVOLT",
