@@ -49,5 +49,7 @@
   "POLIS": "polis",
   "MATIC": "matic-network",
   "SKILL": "cryptoblades",
-  "TLOS": "telos"
+  "TLOS": "telos",
+  "iZi": "izumi-finance",
+  "iUSD": "izumi-bond-usd"
 }
