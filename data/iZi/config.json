@@ -15,6 +15,12 @@
       "address": "0x9ad37205d608B8b219e6a2573f922094CEc5c200",
       "name": "izumi Token",
       "symbol": "iZi"
+    },
+    {
+      "network": "Meter",
+      "address": "0x55137322647150d4ff0de22967589690c57a24d3",
+      "name": "izumi Token",
+      "symbol": "iZi"
     }
   ]
 }

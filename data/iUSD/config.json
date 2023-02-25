@@ -15,6 +15,12 @@
       "address": "0x0A3BB08b3a15A19b4De82F8AcFc862606FB69A2D",
       "name": "iZUMi Bond USD",
       "symbol": "iUSD"
+    },
+    {
+      "network": "Meter",
+      "address": "0x46b40202da16761633e757674661683fd733b845",
+      "name": "iZUMi Bond USD",
+      "symbol": "iUSD"
     }
   ]
 }
