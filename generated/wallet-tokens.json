@@ -79,6 +79,28 @@
       "resourceId": "0x0000000000000000000000000000000000000000000000000000000000000101"
     },
     {
+      "name": "iZUMi Bond USD",
+      "address": "0x0A3BB08b3a15A19b4De82F8AcFc862606FB69A2D",
+      "symbol": "iUSD",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/iUSD/logo.png",
+      "coinId": "izumi-bond-usd",
+      "native": false,
+      "resourceId": "0x00000000000000000000000a3bb08b3a15a19b4de82f8acfc862606fb69a2d01"
+    },
+    {
+      "name": "izumi Token",
+      "address": "0x9ad37205d608B8b219e6a2573f922094CEc5c200",
+      "symbol": "iZi",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/iZi/logo.png",
+      "coinId": "izumi-finance",
+      "native": false,
+      "resourceId": "0x000000000000000000000060d01ec2d5e98ac51c8b4cf84dfcce98d527c74701"
+    },
+    {
       "name": "Polkamarkets",
       "address": "0xd478161c952357f05f0292b56012cd8457f1cfbf",
       "symbol": "POLK",
@@ -275,6 +297,28 @@
       "resourceId": "0x00000000000000000000002170ed0880ac9a755fd29b2688956bd959f933f801"
     },
     {
+      "name": "iZUMi Bond USD",
+      "address": "0x0A3BB08b3a15A19b4De82F8AcFc862606FB69A2D",
+      "symbol": "iUSD",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/iUSD/logo.png",
+      "coinId": "izumi-bond-usd",
+      "native": false,
+      "resourceId": "0x00000000000000000000000a3bb08b3a15a19b4de82f8acfc862606fb69a2d01"
+    },
+    {
+      "name": "izumi Token",
+      "address": "0x60D01EC2D5E98Ac51C8B4cF84DfCCE98D527c747",
+      "symbol": "iZi",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/iZi/logo.png",
+      "coinId": "izumi-finance",
+      "native": false,
+      "resourceId": "0x000000000000000000000060d01ec2d5e98ac51c8b4cf84dfcce98d527c74701"
+    },
+    {
       "name": "Moonscape",
       "address": "0x27d72484f1910F5d0226aFA4E03742c9cd2B297a",
       "symbol": "MSCP",
@@ -372,6 +416,28 @@
       "coinId": "fit-beat",
       "native": false,
       "resourceId": "0x0000000000000000000000f305012ea754252184f1071c86ae99fac5b4032001"
+    },
+    {
+      "name": "iZUMi Bond USD",
+      "address": "0x46b40202da16761633e757674661683fd733b845",
+      "symbol": "iUSD",
+      "decimals": 18,
+      "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/iUSD/logo.png",
+      "coinId": "izumi-bond-usd",
+      "native": false,
+      "resourceId": "0x00000000000000000000000a3bb08b3a15a19b4de82f8acfc862606fb69a2d01"
+    },
+    {
+      "name": "izumi Token",
+      "address": "0x55137322647150d4ff0de22967589690c57a24d3",
+      "symbol": "iZi",
+      "decimals": 18,
+      "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/iZi/logo.png",
+      "coinId": "izumi-finance",
+      "native": false,
+      "resourceId": "0x000000000000000000000060d01ec2d5e98ac51c8b4cf84dfcce98d527c74701"
     },
     {
       "name": "MOVR from MoonRiver on Meter",
