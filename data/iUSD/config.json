@@ -1,0 +1,26 @@
+{
+  "resourceID": "0x00000000000000000000000a3bb08b3a15a19b4de82f8acfc862606fb69a2d01",
+  "name": "iZUMi Bond USD",
+  "symbol": "iUSD",
+  "decimals": 18,
+  "tokens": [
+    {
+      "network": "BSC",
+      "address": "0x0A3BB08b3a15A19b4De82F8AcFc862606FB69A2D",
+      "name": "iZUMi Bond USD",
+      "symbol": "iUSD"
+    },
+    {
+      "network": "Ethereum",
+      "address": "0x0A3BB08b3a15A19b4De82F8AcFc862606FB69A2D",
+      "name": "iZUMi Bond USD",
+      "symbol": "iUSD"
+    },
+    {
+      "network": "Meter",
+      "address": "0x46b40202da16761633e757674661683fd733b845",
+      "name": "iZUMi Bond USD",
+      "symbol": "iUSD"
+    }
+  ]
+}
