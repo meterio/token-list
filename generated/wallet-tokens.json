@@ -35,6 +35,16 @@
       "resourceId": "0x0000000000000000000000cf3c8be2e2c42331da80ef210e9b1b307c03d36a01"
     },
     {
+      "name": "CIV",
+      "address": "0x37fe0f067fa808ffbdd12891c0858532cfe7361d",
+      "symbol": "CIV",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/CIV/logo.png",
+      "native": false,
+      "resourceId": "0x000000000000000000000037fe0f067fa808ffbdd12891c0858532cfe7361d01"
+    },
+    {
       "name": "Crowns",
       "address": "0xac0104cca91d167873b8601d2e71eb3d4d8c33e0",
       "symbol": "CWS",
@@ -394,6 +404,16 @@
       "coinId": "binance-usd",
       "native": false,
       "resourceId": "0x0000000000000000000000e9e7cea3dedca5984780bafc599bd69add087d5601"
+    },
+    {
+      "name": "Civilization from Ethereum on Meter",
+      "address": "0xdf3ff78702fac3885acac3b42a99fb37dfce912e",
+      "symbol": "CIV",
+      "decimals": 18,
+      "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/CIV/logo.png",
+      "native": false,
+      "resourceId": "0x000000000000000000000037fe0f067fa808ffbdd12891c0858532cfe7361d01"
     },
     {
       "name": "ETH from Ethereum on Meter",

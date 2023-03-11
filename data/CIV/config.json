@@ -1,0 +1,19 @@
+{
+  "resourceID": "0x000000000000000000000037fe0f067fa808ffbdd12891c0858532cfe7361d01",
+  "name": "Civilization",
+  "symbol": "CIV",
+  "decimals": 18,
+  "tokens": [
+    {
+      "network": "Ethereum",
+      "address": "0x37fe0f067fa808ffbdd12891c0858532cfe7361d",
+      "name": "CIV"
+    },
+    {
+      "network": "Meter",
+      "address": "0xdf3ff78702fac3885acac3b42a99fb37dfce912e",
+      "name": "Civilization from Ethereum on Meter",
+      "symbol": "CIV"
+    }
+  ]
+}

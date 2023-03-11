@@ -31,6 +31,14 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/BEPRO/logo.png"
     },
     {
+      "name": "CIV",
+      "address": "0x37fe0f067fa808ffbdd12891c0858532cfe7361d",
+      "symbol": "CIV",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/CIV/logo.png"
+    },
+    {
       "name": "Crowns",
       "address": "0xac0104cca91d167873b8601d2e71eb3d4d8c33e0",
       "symbol": "CWS",
@@ -277,6 +285,14 @@
       "decimals": 18,
       "chainId": 82,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/BUSD/logo.png"
+    },
+    {
+      "name": "Civilization from Ethereum on Meter",
+      "address": "0xdf3ff78702fac3885acac3b42a99fb37dfce912e",
+      "symbol": "CIV",
+      "decimals": 18,
+      "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/CIV/logo.png"
     },
     {
       "name": "ETH from Ethereum on Meter",

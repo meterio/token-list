@@ -21,6 +21,15 @@
       "coinId": "bet-protocol"
     },
     {
+      "address": "0x37fe0f067fa808ffbdd12891c0858532cfe7361d",
+      "name": "CIV",
+      "symbol": "CIV",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/CIV/logo.png",
+      "resourceId": "0x000000000000000000000037fe0f067fa808ffbdd12891c0858532cfe7361d01",
+      "native": false,
+      "decimals": 18
+    },
+    {
       "address": "0xac0104cca91d167873b8601d2e71eb3d4d8c33e0",
       "name": "Crowns",
       "symbol": "CWS",
@@ -305,6 +314,15 @@
       "native": false,
       "decimals": 18,
       "coinId": "binance-usd"
+    },
+    {
+      "address": "0xdf3ff78702fac3885acac3b42a99fb37dfce912e",
+      "name": "Civilization from Ethereum on Meter",
+      "symbol": "CIV",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/CIV/logo.png",
+      "resourceId": "0x000000000000000000000037fe0f067fa808ffbdd12891c0858532cfe7361d01",
+      "native": false,
+      "decimals": 18
     },
     {
       "address": "0x983147FB73A45FC7F8B4DFA1cd61Bdc7b111e5b6",
