@@ -371,7 +371,8 @@
       "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/MEN/logo.png",
       "resourceId": "0x000000000000000000000001d18666a27cf91f32549f181f53e517ba6dc47301",
       "native": false,
-      "decimals": 18
+      "decimals": 18,
+      "coinId": "meter-xen"
     },
     {
       "address": "0xb158870beB809Ad955Bf56065C5C10D7Fd957cC0",
@@ -514,7 +515,8 @@
       "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/MEN/logo.png",
       "resourceId": "0x00000000000000000000008eb76752dd045f8d135bccf966e252fed2a90fd301",
       "native": false,
-      "decimals": 18
+      "decimals": 18,
+      "coinId": "meter-xen"
     },
     {
       "address": "0x8A419EF4941355476CF04933E90BF3BBF2F73814",

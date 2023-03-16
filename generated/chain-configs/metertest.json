@@ -16,7 +16,8 @@
     "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/MEN/logo.png",
     "resourceId": "0x00000000000000000000008eb76752dd045f8d135bccf966e252fed2a90fd301",
     "native": false,
-    "decimals": 18
+    "decimals": 18,
+    "coinId": "meter-xen"
   },
   {
     "address": "0x8A419EF4941355476CF04933E90BF3BBF2F73814",
