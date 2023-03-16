@@ -433,7 +433,7 @@
       "decimals": 18,
       "chainId": 82,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/FTB/logo.png",
-      "coinId": "fit-beat",
+      "coinId": "FTB",
       "native": false,
       "resourceId": "0x0000000000000000000000f305012ea754252184f1071c86ae99fac5b4032001"
     },
@@ -466,7 +466,7 @@
       "decimals": 18,
       "chainId": 82,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MEN/logo.png",
-      "coinId": "meter-xen",
+      "coinId": "MEN",
       "native": false,
       "resourceId": "0x000000000000000000000001d18666a27cf91f32549f181f53e517ba6dc47301"
     },
@@ -607,7 +607,7 @@
       "decimals": 18,
       "chainId": 83,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MEN/logo.png",
-      "coinId": "meter-xen",
+      "coinId": "MEN",
       "native": false,
       "resourceId": "0x00000000000000000000008eb76752dd045f8d135bccf966e252fed2a90fd301"
     },
@@ -745,7 +745,7 @@
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/FTB/logo.png",
-      "coinId": "fit-beat",
+      "coinId": "FTB",
       "native": false,
       "resourceId": "0x0000000000000000000000f305012ea754252184f1071c86ae99fac5b4032001"
     },

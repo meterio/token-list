@@ -45,12 +45,12 @@
   "XFT": "offshift",
   "RIB": "riverboat",
   "TDROP": "thetadrop",
-  "FTB": "fit-beat",
+  "FTB": "FTB",
   "POLIS": "polis",
   "MATIC": "matic-network",
   "SKILL": "cryptoblades",
   "TLOS": "telos",
   "iZi": "izumi-finance",
   "iUSD": "izumi-bond-usd",
-  "MEN": "meter-xen"
+  "MEN": "MEN"
 }
