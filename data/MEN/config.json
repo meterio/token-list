@@ -1,0 +1,17 @@
+{
+  "resourceID": "0x000000000000000000000001d18666a27cf91f32549f181f53e517ba6dc47301",
+  "testResourceID": "0x00000000000000000000008eb76752dd045f8d135bccf966e252fed2a90fd301",
+  "name": "Meter MEN",
+  "symbol": "MEN",
+  "decimals": 18,
+  "tokens": [
+    {
+      "network": "Meter",
+      "address": "0x01d18666A27Cf91F32549f181F53e517BA6dc473"
+    },
+    {
+      "network": "MeterTest",
+      "address": "0x8eb76752dd045f8d135bccf966e252fed2a90fd3"
+    }
+  ]
+}

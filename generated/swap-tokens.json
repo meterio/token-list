@@ -311,6 +311,14 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/iZi/logo.png"
     },
     {
+      "name": "Meter MEN",
+      "address": "0x01d18666A27Cf91F32549f181F53e517BA6dc473",
+      "symbol": "MEN",
+      "decimals": 18,
+      "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MEN/logo.png"
+    },
+    {
       "name": "MOVR from MoonRiver on Meter",
       "address": "0xb158870beB809Ad955Bf56065C5C10D7Fd957cC0",
       "symbol": "MOVR",
@@ -397,6 +405,14 @@
       "decimals": 9,
       "chainId": 83,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/AMPL/logo.png"
+    },
+    {
+      "name": "Meter MEN",
+      "address": "0x8eb76752dd045f8d135bccf966e252fed2a90fd3",
+      "symbol": "MEN",
+      "decimals": 18,
+      "chainId": 83,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MEN/logo.png"
     },
     {
       "name": "Meter Governance",

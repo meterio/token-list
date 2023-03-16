@@ -50,6 +50,35 @@
     "coinId": "fit-beat"
   },
   {
+    "address": "0x46b40202da16761633e757674661683fd733b845",
+    "name": "iZUMi Bond USD",
+    "symbol": "iUSD",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/iUSD/logo.png",
+    "resourceId": "0x00000000000000000000000a3bb08b3a15a19b4de82f8acfc862606fb69a2d01",
+    "native": false,
+    "decimals": 18,
+    "coinId": "izumi-bond-usd"
+  },
+  {
+    "address": "0x55137322647150d4ff0de22967589690c57a24d3",
+    "name": "izumi Token",
+    "symbol": "iZi",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/iZi/logo.png",
+    "resourceId": "0x000000000000000000000060d01ec2d5e98ac51c8b4cf84dfcce98d527c74701",
+    "native": false,
+    "decimals": 18,
+    "coinId": "izumi-finance"
+  },
+  {
+    "address": "0x01d18666A27Cf91F32549f181F53e517BA6dc473",
+    "name": "Meter MEN",
+    "symbol": "MEN",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/MEN/logo.png",
+    "resourceId": "0x000000000000000000000001d18666a27cf91f32549f181f53e517ba6dc47301",
+    "native": false,
+    "decimals": 18
+  },
+  {
     "address": "0xb158870beB809Ad955Bf56065C5C10D7Fd957cC0",
     "name": "MOVR from MoonRiver on Meter",
     "symbol": "MOVR",
@@ -128,25 +157,5 @@
     "native": false,
     "decimals": 8,
     "coinId": "wrapped-bitcoin"
-  },
-  {
-    "address": "0x46b40202da16761633e757674661683fd733b845",
-    "name": "iZUMi Bond USD",
-    "symbol": "iUSD",
-    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/iUSD/logo.png",
-    "resourceId": "0x00000000000000000000000a3bb08b3a15a19b4de82f8acfc862606fb69a2d01",
-    "native": false,
-    "decimals": 18,
-    "coinId": "izumi-bond-usd"
-  },
-  {
-    "address": "0x55137322647150d4ff0de22967589690c57a24d3",
-    "name": "izumi Token",
-    "symbol": "iZi",
-    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/iZi/logo.png",
-    "resourceId": "0x000000000000000000000060d01ec2d5e98ac51c8b4cf84dfcce98d527c74701",
-    "native": false,
-    "decimals": 18,
-    "coinId": "izumi-finance"
   }
 ]

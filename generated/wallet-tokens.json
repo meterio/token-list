@@ -440,6 +440,16 @@
       "resourceId": "0x000000000000000000000060d01ec2d5e98ac51c8b4cf84dfcce98d527c74701"
     },
     {
+      "name": "Meter MEN",
+      "address": "0x01d18666A27Cf91F32549f181F53e517BA6dc473",
+      "symbol": "MEN",
+      "decimals": 18,
+      "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MEN/logo.png",
+      "native": false,
+      "resourceId": "0x000000000000000000000001d18666a27cf91f32549f181f53e517ba6dc47301"
+    },
+    {
       "name": "MOVR from MoonRiver on Meter",
       "address": "0xb158870beB809Ad955Bf56065C5C10D7Fd957cC0",
       "symbol": "MOVR",
@@ -568,6 +578,16 @@
       "coinId": "ampleforth",
       "native": false,
       "resourceId": "0x1f3eb8ee12ce38ffa19fc4c635621ad2c9a0bd609def9ddce77680e33bc2224b"
+    },
+    {
+      "name": "Meter MEN",
+      "address": "0x8eb76752dd045f8d135bccf966e252fed2a90fd3",
+      "symbol": "MEN",
+      "decimals": 18,
+      "chainId": 83,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MEN/logo.png",
+      "native": false,
+      "resourceId": "0x00000000000000000000008eb76752dd045f8d135bccf966e252fed2a90fd301"
     },
     {
       "name": "Test Meter Stable",
