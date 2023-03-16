@@ -20,6 +20,15 @@
     "coinId": "bet-protocol"
   },
   {
+    "address": "0x37fe0f067fa808ffbdd12891c0858532cfe7361d",
+    "name": "CIV",
+    "symbol": "CIV",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/CIV/logo.png",
+    "resourceId": "0x000000000000000000000037fe0f067fa808ffbdd12891c0858532cfe7361d01",
+    "native": false,
+    "decimals": 18
+  },
+  {
     "address": "0xac0104cca91d167873b8601d2e71eb3d4d8c33e0",
     "name": "Crowns",
     "symbol": "CWS",

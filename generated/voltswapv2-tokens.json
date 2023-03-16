@@ -55,6 +55,14 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/BUSD/logo.png"
     },
     {
+      "name": "Civilization from Ethereum on Meter",
+      "address": "0xdf3ff78702fac3885acac3b42a99fb37dfce912e",
+      "symbol": "CIV",
+      "decimals": 18,
+      "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/CIV/logo.png"
+    },
+    {
       "name": "ETH from Ethereum on Meter",
       "address": "0x983147FB73A45FC7F8B4DFA1cd61Bdc7b111e5b6",
       "symbol": "ETH",
