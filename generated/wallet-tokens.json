@@ -416,6 +416,16 @@
       "resourceId": "0x000000000000000000000037fe0f067fa808ffbdd12891c0858532cfe7361d01"
     },
     {
+      "name": "DragonMaster Token",
+      "address": "0x8c0b5d2b6f128944695c03a53ed899e6035f6d75",
+      "symbol": "DMT",
+      "decimals": 18,
+      "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/DMT/logo.png",
+      "native": false,
+      "resourceId": "0x000000000000000000000004f177fcacf6fb4d2f95d41d7d3fee8e565ca1d001"
+    },
+    {
       "name": "ETH from Ethereum on Meter",
       "address": "0x983147FB73A45FC7F8B4DFA1cd61Bdc7b111e5b6",
       "symbol": "ETH",
@@ -544,6 +554,16 @@
       "coinId": "theta-fuel",
       "native": false,
       "resourceId": "0x0000000000000000000000000000000000000000000000000000000000000601"
+    },
+    {
+      "name": "DragonMaster Totem",
+      "address": "0x1adcef5c780d8895ac77e6ee9239b4b3ecb76da2",
+      "symbol": "TOTEM",
+      "decimals": 18,
+      "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/TOTEM/logo.png",
+      "native": false,
+      "resourceId": "0x00000000000000000000001adcef5c780d8895ac77e6ee9239b4b3ecb76da201"
     },
     {
       "name": "USDC from Ethereum on Meter",
@@ -737,6 +757,16 @@
       "coinId": "crowns",
       "native": false,
       "resourceId": "0x000000000000000000000fde9cad69e98b3cc8c998a8f2094293cb0bd6911507"
+    },
+    {
+      "name": "DragonMaster Token",
+      "address": "0x04f177fcacf6fb4d2f95d41d7d3fee8e565ca1d0",
+      "symbol": "DMT",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/DMT/logo.png",
+      "native": false,
+      "resourceId": "0x000000000000000000000004f177fcacf6fb4d2f95d41d7d3fee8e565ca1d001"
     },
     {
       "name": "Factory Builders Token",

@@ -1,0 +1,20 @@
+{
+  "resourceID": "0x000000000000000000000004f177fcacf6fb4d2f95d41d7d3fee8e565ca1d001",
+  "name": "DragonMaster Token",
+  "symbol": "DMT",
+  "decimals": 18,
+  "tokens": [
+    {
+      "network": "Polygon",
+      "address": "0x04f177fcacf6fb4d2f95d41d7d3fee8e565ca1d0",
+      "name": "DragonMaster Token",
+      "symbol": "DMT"
+    },
+    {
+      "network": "Meter",
+      "address": "0x8c0b5d2b6f128944695c03a53ed899e6035f6d75",
+      "name": "DragonMaster Token",
+      "symbol": "DMT"
+    }
+  ]
+}

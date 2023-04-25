@@ -39,6 +39,15 @@
     "decimals": 18
   },
   {
+    "address": "0x8c0b5d2b6f128944695c03a53ed899e6035f6d75",
+    "name": "DragonMaster Token",
+    "symbol": "DMT",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/DMT/logo.png",
+    "resourceId": "0x000000000000000000000004f177fcacf6fb4d2f95d41d7d3fee8e565ca1d001",
+    "native": false,
+    "decimals": 18
+  },
+  {
     "address": "0x983147FB73A45FC7F8B4DFA1cd61Bdc7b111e5b6",
     "name": "ETH from Ethereum on Meter",
     "symbol": "ETH",
@@ -57,26 +66,6 @@
     "native": false,
     "decimals": 18,
     "coinId": "FTB"
-  },
-  {
-    "address": "0x46b40202da16761633e757674661683fd733b845",
-    "name": "iZUMi Bond USD",
-    "symbol": "iUSD",
-    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/iUSD/logo.png",
-    "resourceId": "0x00000000000000000000000a3bb08b3a15a19b4de82f8acfc862606fb69a2d01",
-    "native": false,
-    "decimals": 18,
-    "coinId": "izumi-bond-usd"
-  },
-  {
-    "address": "0x55137322647150d4ff0de22967589690c57a24d3",
-    "name": "izumi Token",
-    "symbol": "iZi",
-    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/iZi/logo.png",
-    "resourceId": "0x000000000000000000000060d01ec2d5e98ac51c8b4cf84dfcce98d527c74701",
-    "native": false,
-    "decimals": 18,
-    "coinId": "izumi-finance"
   },
   {
     "address": "0x01d18666A27Cf91F32549f181F53e517BA6dc473",
@@ -167,5 +156,25 @@
     "native": false,
     "decimals": 8,
     "coinId": "wrapped-bitcoin"
+  },
+  {
+    "address": "0x46b40202da16761633e757674661683fd733b845",
+    "name": "iZUMi Bond USD",
+    "symbol": "iUSD",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/iUSD/logo.png",
+    "resourceId": "0x00000000000000000000000a3bb08b3a15a19b4de82f8acfc862606fb69a2d01",
+    "native": false,
+    "decimals": 18,
+    "coinId": "izumi-bond-usd"
+  },
+  {
+    "address": "0x55137322647150d4ff0de22967589690c57a24d3",
+    "name": "izumi Token",
+    "symbol": "iZi",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/iZi/logo.png",
+    "resourceId": "0x000000000000000000000060d01ec2d5e98ac51c8b4cf84dfcce98d527c74701",
+    "native": false,
+    "decimals": 18,
+    "coinId": "izumi-finance"
   }
 ]

@@ -1,5 +1,14 @@
 [
   {
+    "address": "0x04f177fcacf6fb4d2f95d41d7d3fee8e565ca1d0",
+    "name": "DragonMaster Token",
+    "symbol": "DMT",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/DMT/logo.png",
+    "resourceId": "0x000000000000000000000004f177fcacf6fb4d2f95d41d7d3fee8e565ca1d001",
+    "native": false,
+    "decimals": 18
+  },
+  {
     "address": "0xf305012ea754252184f1071c86ae99fac5b40320",
     "name": "Factory Builders Token",
     "symbol": "FTB",

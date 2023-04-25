@@ -295,6 +295,14 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/CIV/logo.png"
     },
     {
+      "name": "DragonMaster Token",
+      "address": "0x8c0b5d2b6f128944695c03a53ed899e6035f6d75",
+      "symbol": "DMT",
+      "decimals": 18,
+      "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/DMT/logo.png"
+    },
+    {
       "name": "ETH from Ethereum on Meter",
       "address": "0x983147FB73A45FC7F8B4DFA1cd61Bdc7b111e5b6",
       "symbol": "ETH",
@@ -381,6 +389,14 @@
       "decimals": 18,
       "chainId": 82,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/TFUEL/logo.png"
+    },
+    {
+      "name": "DragonMaster Totem",
+      "address": "0x1adcef5c780d8895ac77e6ee9239b4b3ecb76da2",
+      "symbol": "TOTEM",
+      "decimals": 18,
+      "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/TOTEM/logo.png"
     },
     {
       "name": "USDC from Ethereum on Meter",
@@ -509,6 +525,14 @@
       "decimals": 18,
       "chainId": 97,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/CWS/logo.png"
+    },
+    {
+      "name": "DragonMaster Token",
+      "address": "0x04f177fcacf6fb4d2f95d41d7d3fee8e565ca1d0",
+      "symbol": "DMT",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/DMT/logo.png"
     },
     {
       "name": "Factory Builders Token",

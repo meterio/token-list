@@ -1,0 +1,14 @@
+{
+  "resourceID": "0x00000000000000000000001adcef5c780d8895ac77e6ee9239b4b3ecb76da201",
+  "name": "DragonMaster Totem",
+  "symbol": "DMT",
+  "decimals": 18,
+  "tokens": [
+    {
+      "network": "Meter",
+      "address": "0x1adcef5c780d8895ac77e6ee9239b4b3ecb76da2",
+      "name": "DragonMaster Totem",
+      "symbol": "TOTEM"
+    }
+  ]
+}

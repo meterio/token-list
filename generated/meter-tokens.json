@@ -51,6 +51,13 @@
     },
     {
       "chainId": 82,
+      "name": "DragonMaster Token",
+      "address": "0x8c0b5d2b6f128944695c03a53ed899e6035f6d75",
+      "symbol": "DMT",
+      "decimals": 18
+    },
+    {
+      "chainId": 82,
       "name": "ETH from Ethereum on Meter",
       "address": "0x983147FB73A45FC7F8B4DFA1cd61Bdc7b111e5b6",
       "symbol": "ETH",
@@ -61,20 +68,6 @@
       "name": "Factory Builders Token",
       "address": "0x6CFe9AdaD5215195c1Aa9755DAed29360e6Ab986",
       "symbol": "FTB",
-      "decimals": 18
-    },
-    {
-      "chainId": 82,
-      "name": "iZUMi Bond USD",
-      "address": "0x46b40202da16761633e757674661683fd733b845",
-      "symbol": "iUSD",
-      "decimals": 18
-    },
-    {
-      "chainId": 82,
-      "name": "izumi Token",
-      "address": "0x55137322647150d4ff0de22967589690c57a24d3",
-      "symbol": "iZi",
       "decimals": 18
     },
     {
@@ -128,6 +121,13 @@
     },
     {
       "chainId": 82,
+      "name": "DragonMaster Totem",
+      "address": "0x1adcef5c780d8895ac77e6ee9239b4b3ecb76da2",
+      "symbol": "TOTEM",
+      "decimals": 18
+    },
+    {
+      "chainId": 82,
       "name": "USDC from Ethereum on Meter",
       "address": "0xd86e243fc0007e6226b07c9a50c9d70d78299eb5",
       "symbol": "USDC.eth",
@@ -153,6 +153,20 @@
       "address": "0xc1f6C86ABEe8e2e0B6fd5BD80F0b51fef783635C",
       "symbol": "WBTC.eth",
       "decimals": 8
+    },
+    {
+      "chainId": 82,
+      "name": "iZUMi Bond USD",
+      "address": "0x46b40202da16761633e757674661683fd733b845",
+      "symbol": "iUSD",
+      "decimals": 18
+    },
+    {
+      "chainId": 82,
+      "name": "izumi Token",
+      "address": "0x55137322647150d4ff0de22967589690c57a24d3",
+      "symbol": "iZi",
+      "decimals": 18
     }
   ]
 }
