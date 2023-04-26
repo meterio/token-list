@@ -5,6 +5,12 @@
   "decimals": 18,
   "tokens": [
     {
+      "network": "Polygon",
+      "address": "0x1adcef5c780d8895ac77e6ee9239b4b3ecb76da2",
+      "name": "DragonMaster Totem",
+      "symbol": "TOTEM"
+    },
+    {
       "network": "Meter",
       "address": "0x1adcef5c780d8895ac77e6ee9239b4b3ecb76da2",
       "name": "DragonMaster Totem",

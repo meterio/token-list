@@ -801,6 +801,16 @@
       "native": true
     },
     {
+      "name": "DragonMaster Totem",
+      "address": "0x1adcef5c780d8895ac77e6ee9239b4b3ecb76da2",
+      "symbol": "TOTEM",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/TOTEM/logo.png",
+      "native": false,
+      "resourceId": "0x00000000000000000000001adcef5c780d8895ac77e6ee9239b4b3ecb76da201"
+    },
+    {
       "name": "EnergyWeb Token",
       "address": "0x6b3bd0478DF0eC4984b168Db0E12A539Cc0c83cd",
       "symbol": "EWT",

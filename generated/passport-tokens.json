@@ -404,6 +404,15 @@
       "coinId": "theta-fuel"
     },
     {
+      "address": "0x1adcef5c780d8895ac77e6ee9239b4b3ecb76da2",
+      "name": "DragonMaster Totem",
+      "symbol": "TOTEM",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/TOTEM/logo.png",
+      "resourceId": "0x00000000000000000000001adcef5c780d8895ac77e6ee9239b4b3ecb76da201",
+      "native": false,
+      "decimals": 18
+    },
+    {
       "address": "0xd86e243fc0007e6226b07c9a50c9d70d78299eb5",
       "name": "USDC from Ethereum on Meter",
       "symbol": "USDC.eth",
@@ -1089,6 +1098,15 @@
       "native": false,
       "decimals": 18,
       "coinId": "moonbeam"
+    },
+    {
+      "address": "0x1adcef5c780d8895ac77e6ee9239b4b3ecb76da2",
+      "name": "DragonMaster Totem",
+      "symbol": "TOTEM",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/TOTEM/logo.png",
+      "resourceId": "0x00000000000000000000001adcef5c780d8895ac77e6ee9239b4b3ecb76da201",
+      "native": false,
+      "decimals": 18
     }
   ],
   "EnergyWeb": [
