@@ -72,6 +72,20 @@
     },
     {
       "chainId": 82,
+      "name": "iZUMi Bond USD",
+      "address": "0x46b40202da16761633e757674661683fd733b845",
+      "symbol": "iUSD",
+      "decimals": 18
+    },
+    {
+      "chainId": 82,
+      "name": "izumi Token",
+      "address": "0x55137322647150d4ff0de22967589690c57a24d3",
+      "symbol": "iZi",
+      "decimals": 18
+    },
+    {
+      "chainId": 82,
       "name": "Meter MEN",
       "address": "0x01d18666A27Cf91F32549f181F53e517BA6dc473",
       "symbol": "MEN",
@@ -153,20 +167,6 @@
       "address": "0xc1f6C86ABEe8e2e0B6fd5BD80F0b51fef783635C",
       "symbol": "WBTC.eth",
       "decimals": 8
-    },
-    {
-      "chainId": 82,
-      "name": "iZUMi Bond USD",
-      "address": "0x46b40202da16761633e757674661683fd733b845",
-      "symbol": "iUSD",
-      "decimals": 18
-    },
-    {
-      "chainId": 82,
-      "name": "izumi Token",
-      "address": "0x55137322647150d4ff0de22967589690c57a24d3",
-      "symbol": "iZi",
-      "decimals": 18
     }
   ]
 }
