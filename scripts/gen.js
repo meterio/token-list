@@ -386,18 +386,22 @@ const genWalletTokens = (symbols, chainConfigs) => {
  * place images in `resource-logos` and `token-logos`
  */
 const placeImages = (symbols) => {
-  for (const sym of symbols) {
-    const config = getConfig(sym);
-    const imagePath = getImagePath(sym);
-    const resourceImagePath = getResourceImagePath(config.resourceID);
-    mkdirIfNeeded(path.dirname(resourceImagePath));
-    fs.copyFileSync(imagePath, resourceImagePath);
-
-    for (const token of config.tokens) {
-      const addressImagePath = getAddressImagePath(token.network, token.address);
-      mkdirIfNeeded(path.dirname(addressImagePath));
-      fs.copyFileSync(imagePath, addressImagePath);
+  try {
+    for (const sym of symbols) {
+      const config = getConfig(sym);
+      const imagePath = getImagePath(sym);
+      const resourceImagePath = getResourceImagePath(config.resourceID);
+      mkdirIfNeeded(path.dirname(resourceImagePath));
+      fs.copyFileSync(imagePath, resourceImagePath);
+  
+      for (const token of config.tokens) {
+        const addressImagePath = getAddressImagePath(token.network, token.address);
+        mkdirIfNeeded(path.dirname(addressImagePath));
+        fs.copyFileSync(imagePath, addressImagePath);
+      }
     }
+  } catch(e) {
+    console.error(`[ERROR] placeImages: ${e.message}`)
   }
 };
 
