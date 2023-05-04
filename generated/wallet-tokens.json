@@ -833,6 +833,16 @@
       "resourceId": "0x0000000000000000000000e9e7cea3dedca5984780bafc599bd69add087d5601"
     },
     {
+      "name": "Lavita",
+      "address": "0x46fbf4487fa1b9c70d35bd761c51c360df9459ed",
+      "symbol": "LAVITA",
+      "decimals": 18,
+      "chainId": 361,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/LAVITA/logo.png",
+      "native": false,
+      "resourceId": "0x000000000000000000000046fbf4487fa1b9c70d35bd761c51c360df9459ed01"
+    },
+    {
       "name": "Meter Governance mapped by Meter.io",
       "address": "0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F",
       "symbol": "MTRG",

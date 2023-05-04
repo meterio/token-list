@@ -1,0 +1,13 @@
+{
+  "resourceID": "0x000000000000000000000046fbf4487fa1b9c70d35bd761c51c360df9459ed01",
+  "name": "Lavita",
+  "symbol": "LAVITA",
+  "decimals": 18,
+  "tokens": [
+    {
+      "network": "Theta",
+      "address": "0x46fbf4487fa1b9c70d35bd761c51c360df9459ed",
+      "name": "Lavita"
+    }
+  ]
+}

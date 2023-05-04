@@ -103,6 +103,14 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/iZi/logo.png"
     },
     {
+      "name": "Lavita",
+      "address": "0x46fbf4487fa1b9c70d35bd761c51c360df9459ed",
+      "symbol": "LAVITA",
+      "decimals": 18,
+      "chainId": 361,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/LAVITA/logo.png"
+    },
+    {
       "name": "Meter MEN",
       "address": "0x01d18666A27Cf91F32549f181F53e517BA6dc473",
       "symbol": "MEN",
