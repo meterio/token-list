@@ -6,7 +6,8 @@
     "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/DMT/logo.png",
     "resourceId": "0x000000000000000000000004f177fcacf6fb4d2f95d41d7d3fee8e565ca1d001",
     "native": false,
-    "decimals": 18
+    "decimals": 18,
+    "coinId": "dragonmaster-token"
   },
   {
     "address": "0xf305012ea754252184f1071c86ae99fac5b40320",
@@ -35,6 +36,7 @@
     "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/TOTEM/logo.png",
     "resourceId": "0x00000000000000000000001adcef5c780d8895ac77e6ee9239b4b3ecb76da201",
     "native": false,
-    "decimals": 6
+    "decimals": 6,
+    "coinId": "dragonmaster-totem"
   }
 ]
