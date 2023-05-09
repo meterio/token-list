@@ -1,7 +1,7 @@
 {
   "resourceID": "0x0000000000000000000000514910771af9ca656af840dff83e8264ecf986ca01",
   "name": "Link",
-  "symbol": "Link",
+  "symbol": "LINK",
   "decimals": 18,
   "enable": false,
   "tokens": [
