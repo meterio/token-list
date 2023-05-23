@@ -575,6 +575,14 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/BUSD/logo.png"
     },
     {
+      "name": "GOT",
+      "address": "0xe943b24169c5261e727a0f5146feb4fb63eb4c14",
+      "symbol": "GOT",
+      "decimals": 18,
+      "chainId": 361,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/GOT/logo.png"
+    },
+    {
       "name": "Lavita",
       "address": "0x46fbf4487fa1b9c70d35bd761c51c360df9459ed",
       "symbol": "LAVITA",
