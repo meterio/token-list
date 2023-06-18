@@ -1,0 +1,14 @@
+{
+    "resourceID": "0x00000000000000000000007ccc3b2ffc90aeb6870950e79cd09592b92ac88801",
+    "name": "GeekyPunks",
+    "symbol": "GP",
+    "decimals": 18,
+    "tokens": [
+      {
+        "network": "Ethereum",
+        "address": "0x7ccc3b2ffc90aeb6870950e79cd09592b92ac888",
+        "name": "GeekyPunks"
+      }
+    ]
+  }
+  
