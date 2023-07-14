@@ -13,6 +13,18 @@
     },
     {
       "network": "Meter",
+      "address": "0x215d603293357ca222bE92A1bf75eEc38DeF0aad",
+      "name": "stMTRG",
+      "symbol": "stMTRG"
+    },
+    {
+      "network": "Meter",
+      "address": "0x61B76CBD8fc3030a7A873f103e17Da1E00260e0e",
+      "name": "wstMTRG",
+      "symbol": "wstMTRG"
+    },
+    {
+      "network": "Meter",
       "address": "0x228ebBeE999c6a7ad74A6130E81b12f9Fe237Ba3",
       "native": false
     },

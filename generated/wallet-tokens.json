@@ -535,6 +535,17 @@
       "resourceId": "0x0000000000000000000000154a9f9cbd3449ad22fdae23044319d6ef2a1fab01"
     },
     {
+      "name": "stMTRG",
+      "address": "0x215d603293357ca222bE92A1bf75eEc38DeF0aad",
+      "symbol": "stMTRG",
+      "decimals": 18,
+      "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png",
+      "coinId": "meter",
+      "native": false,
+      "resourceId": "0x0000000000000000000000bd2949f67dcdc549c6ebe98696449fa79d988a9f01"
+    },
+    {
       "name": "Theta Drop",
       "address": "0xd5e615BB3c761AB4cD9251dEEd78Dac58BE9CcBF",
       "symbol": "TDROP",
@@ -610,6 +621,17 @@
       "coinId": "wrapped-bitcoin",
       "native": false,
       "resourceId": "0x00000000000000000000002260fac5e5542a773aa44fbcfedf7c193bc2c59901"
+    },
+    {
+      "name": "wstMTRG",
+      "address": "0x61B76CBD8fc3030a7A873f103e17Da1E00260e0e",
+      "symbol": "wstMTRG",
+      "decimals": 18,
+      "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png",
+      "coinId": "meter",
+      "native": false,
+      "resourceId": "0x0000000000000000000000bd2949f67dcdc549c6ebe98696449fa79d988a9f01"
     },
     {
       "name": "AmpleForth",
