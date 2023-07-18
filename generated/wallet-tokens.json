@@ -607,7 +607,7 @@
       "decimals": 18,
       "chainId": 82,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/VOLT/logo.png",
-      "coinId": "volt",
+      "coinId": "voltswap",
       "native": false,
       "resourceId": "0x00000000000000000000008df95e66cb0ef38f91d2776da3c921768982fba001"
     },
@@ -724,7 +724,7 @@
       "decimals": 18,
       "chainId": 83,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/VOLT/logo.png",
-      "coinId": "volt",
+      "coinId": "voltswap",
       "native": false,
       "resourceId": "0x00000000000000000000008df95e66cb0ef38f91d2776da3c921768982fba001"
     },
@@ -928,7 +928,7 @@
       "decimals": 18,
       "chainId": 361,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/VOLT/logo.png",
-      "coinId": "volt",
+      "coinId": "voltswap",
       "native": false,
       "resourceId": "0x00000000000000000000008df95e66cb0ef38f91d2776da3c921768982fba001"
     },
@@ -961,7 +961,7 @@
       "decimals": 18,
       "chainId": 361,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/VOLT/logo.png",
-      "coinId": "volt",
+      "coinId": "voltswap",
       "native": false,
       "resourceId": "0x00000000000000000000008df95e66cb0ef38f91d2776da3c921768982fba001"
     },
@@ -1113,7 +1113,7 @@
       "decimals": 18,
       "chainId": 1284,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/VOLT/logo.png",
-      "coinId": "volt",
+      "coinId": "voltswap",
       "native": false,
       "resourceId": "0x00000000000000000000008df95e66cb0ef38f91d2776da3c921768982fba001"
     },
@@ -1289,7 +1289,7 @@
       "decimals": 18,
       "chainId": 1285,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/VOLT/logo.png",
-      "coinId": "volt",
+      "coinId": "voltswap",
       "native": false,
       "resourceId": "0x00000000000000000000008df95e66cb0ef38f91d2776da3c921768982fba001"
     },
