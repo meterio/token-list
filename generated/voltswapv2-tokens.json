@@ -31,6 +31,14 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/AMPL/logo.png"
     },
     {
+      "name": "Axelar Wrapped USDC",
+      "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+      "symbol": "axlUSDC",
+      "decimals": 6,
+      "chainId": 8453,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/axlUSDC/logo.png"
+    },
+    {
       "name": "BNB from BSC on Meter",
       "address": "0xF0E86246519Be0810C9FAfc8430C49799985aAA8",
       "symbol": "BNB",
@@ -95,6 +103,22 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/GOT/logo.png"
     },
     {
+      "name": "iZUMi Bond USD",
+      "address": "0x46b40202da16761633e757674661683fd733b845",
+      "symbol": "iUSD",
+      "decimals": 18,
+      "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/iUSD/logo.png"
+    },
+    {
+      "name": "izumi Token",
+      "address": "0x55137322647150d4ff0de22967589690c57a24d3",
+      "symbol": "iZi",
+      "decimals": 18,
+      "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/iZi/logo.png"
+    },
+    {
       "name": "Lavita",
       "address": "0x46fbf4487fa1b9c70d35bd761c51c360df9459ed",
       "symbol": "LAVITA",
@@ -125,22 +149,6 @@
       "decimals": 18,
       "chainId": 82,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MOVR/logo.png"
-    },
-    {
-      "name": "stMTRG",
-      "address": "0x215d603293357ca222bE92A1bf75eEc38DeF0aad",
-      "symbol": "stMTRG",
-      "decimals": 18,
-      "chainId": 82,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png"
-    },
-    {
-      "name": "wstMTRG",
-      "address": "0xE2dE616fBD8cb9180B26FcFB1B761A232FE56717",
-      "symbol": "wstMTRG",
-      "decimals": 18,
-      "chainId": 82,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png"
     },
     {
       "name": "Meter Governance",
@@ -175,14 +183,6 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png"
     },
     {
-      "name": "Meter Governance mapped by Meter.io",
-      "address": "0xa023E6f6B4862EA38cbe45e377abD908abAb2f82",
-      "symbol": "MTRG",
-      "decimals": 18,
-      "chainId": 8453,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png"
-    },
-    {
       "name": "PASS",
       "address": "0xb8c2eb8702e129c8fecfbfd6e55bb6b3330f30f1",
       "symbol": "PASS",
@@ -197,6 +197,38 @@
       "decimals": 18,
       "chainId": 82,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/SKILL/logo.png"
+    },
+    {
+      "name": "Staked MTRG",
+      "address": "0x215d603293357ca222bE92A1bf75eEc38DeF0aad",
+      "symbol": "stMTRG",
+      "decimals": 18,
+      "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/stMTRG/logo.png"
+    },
+    {
+      "name": "Sumer Bitcoin",
+      "address": "0x0477763b021e0f30680b7266a264d1044fe77a4d",
+      "symbol": "suBTC",
+      "decimals": 18,
+      "chainId": 83,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/suBTC/logo.png"
+    },
+    {
+      "name": "Sumer Ethereum",
+      "address": "0x4b0d849e5bf7f62bcbb0b7c364ddda552c2c3a8a",
+      "symbol": "suETH",
+      "decimals": 18,
+      "chainId": 83,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/suETH/logo.png"
+    },
+    {
+      "name": "Sumer USDC",
+      "address": "0x37d982d96ac985a4fa9522383de5010109f0627c",
+      "symbol": "suUSD",
+      "decimals": 18,
+      "chainId": 83,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/suUSD/logo.png"
     },
     {
       "name": "Theta Drop",
@@ -260,14 +292,6 @@
       "symbol": "USDC",
       "decimals": 6,
       "chainId": 361,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDC/logo.png"
-    },
-    {
-      "name": "Axelar Wrapped USDC",
-      "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
-      "symbol": "USDC",
-      "decimals": 6,
-      "chainId": 8453,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDC/logo.png"
     },
     {
@@ -359,52 +383,20 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/WBTC/logo.png"
     },
     {
+      "name": "Wrapped Staked MTRG for DeFi",
+      "address": "0xE2dE616fBD8cb9180B26FcFB1B761A232FE56717",
+      "symbol": "wstMTRG",
+      "decimals": 18,
+      "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/wstMTRG/logo.png"
+    },
+    {
       "name": "WTheta",
       "address": "0xaf537fb7e4c77c97403de94ce141b7edb9f7fcf0",
       "symbol": "WTHETA",
       "decimals": 18,
       "chainId": 361,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/WTHETA/logo.png"
-    },
-    {
-      "name": "iZUMi Bond USD",
-      "address": "0x46b40202da16761633e757674661683fd733b845",
-      "symbol": "iUSD",
-      "decimals": 18,
-      "chainId": 82,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/iUSD/logo.png"
-    },
-    {
-      "name": "izumi Token",
-      "address": "0x55137322647150d4ff0de22967589690c57a24d3",
-      "symbol": "iZi",
-      "decimals": 18,
-      "chainId": 82,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/iZi/logo.png"
-    },
-    {
-      "name": "Sumer Bitcoin",
-      "address": "0x0477763b021e0f30680b7266a264d1044fe77a4d",
-      "symbol": "suBTC",
-      "decimals": 18,
-      "chainId": 83,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/suBTC/logo.png"
-    },
-    {
-      "name": "Sumer Ethereum",
-      "address": "0x4b0d849e5bf7f62bcbb0b7c364ddda552c2c3a8a",
-      "symbol": "suETH",
-      "decimals": 18,
-      "chainId": 83,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/suETH/logo.png"
-    },
-    {
-      "name": "Sumer USDC",
-      "address": "0x37d982d96ac985a4fa9522383de5010109f0627c",
-      "symbol": "suUSD",
-      "decimals": 18,
-      "chainId": 83,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/suUSD/logo.png"
     }
   ]
 }

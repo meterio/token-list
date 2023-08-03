@@ -13,18 +13,6 @@
     },
     {
       "network": "Meter",
-      "address": "0x215d603293357ca222bE92A1bf75eEc38DeF0aad",
-      "name": "stMTRG",
-      "symbol": "stMTRG"
-    },
-    {
-      "network": "Meter",
-      "address": "0xE2dE616fBD8cb9180B26FcFB1B761A232FE56717",
-      "name": "wstMTRG",
-      "symbol": "wstMTRG"
-    },
-    {
-      "network": "Meter",
       "address": "0x228ebBeE999c6a7ad74A6130E81b12f9Fe237Ba3",
       "native": false
     },
@@ -66,11 +54,6 @@
     {
       "network": "BSCTest",
       "address": "0x53ccb3D86B04b5FD7e647e11a39d1AAE746C2E98",
-      "name": "Meter Governance mapped by Meter.io"
-    },
-    {
-      "network": "Base",
-      "address": "0xa023E6f6B4862EA38cbe45e377abD908abAb2f82",
       "name": "Meter Governance mapped by Meter.io"
     }
   ]

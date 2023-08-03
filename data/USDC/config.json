@@ -27,12 +27,6 @@
       "address": "0x3Ca3fEFA944753b43c751336A5dF531bDD6598B6",
       "name": "USDC from Ethereum on Theta",
       "symbol": "USDC"
-    },
-    {
-      "network": "Base",
-      "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
-      "name": "Axelar Wrapped USDC",
-      "symbol": "USDC"
     }
   ]
 }

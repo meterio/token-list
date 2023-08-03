@@ -1,0 +1,13 @@
+{
+  "resourceID": "0x0000000000000000000000e2de616fbd8cb9180b26fcfb1b761a232fe5671701",
+  "testResourceID": "0x0000000000000000000000e2de616fbd8cb9180b26fcfb1b761a232fe5671701",
+  "name": "Wrapped Staked MTRG for DeFi",
+  "symbol": "wstMTRG",
+  "decimals": 18,
+  "tokens": [
+    {
+      "network": "Meter",
+      "address": "0xE2dE616fBD8cb9180B26FcFB1B761A232FE56717"
+    }
+  ]
+}

@@ -72,6 +72,20 @@
     },
     {
       "chainId": 82,
+      "name": "iZUMi Bond USD",
+      "address": "0x46b40202da16761633e757674661683fd733b845",
+      "symbol": "iUSD",
+      "decimals": 18
+    },
+    {
+      "chainId": 82,
+      "name": "izumi Token",
+      "address": "0x55137322647150d4ff0de22967589690c57a24d3",
+      "symbol": "iZi",
+      "decimals": 18
+    },
+    {
+      "chainId": 82,
       "name": "Meter MEN",
       "address": "0x01d18666A27Cf91F32549f181F53e517BA6dc473",
       "symbol": "MEN",
@@ -82,20 +96,6 @@
       "name": "MOVR from MoonRiver on Meter",
       "address": "0xb158870beB809Ad955Bf56065C5C10D7Fd957cC0",
       "symbol": "MOVR",
-      "decimals": 18
-    },
-    {
-      "chainId": 82,
-      "name": "stMTRG",
-      "address": "0x215d603293357ca222bE92A1bf75eEc38DeF0aad",
-      "symbol": "stMTRG",
-      "decimals": 18
-    },
-    {
-      "chainId": 82,
-      "name": "wstMTRG",
-      "address": "0xE2dE616fBD8cb9180B26FcFB1B761A232FE56717",
-      "symbol": "wstMTRG",
       "decimals": 18
     },
     {
@@ -117,6 +117,13 @@
       "name": "SKILL by cryptoblades.io",
       "address": "0x45a7ca9511a49508B01d37F09f9F142bEa85Ce14",
       "symbol": "SKILL",
+      "decimals": 18
+    },
+    {
+      "chainId": 82,
+      "name": "Staked MTRG",
+      "address": "0x215d603293357ca222bE92A1bf75eEc38DeF0aad",
+      "symbol": "stMTRG",
       "decimals": 18
     },
     {
@@ -170,16 +177,9 @@
     },
     {
       "chainId": 82,
-      "name": "iZUMi Bond USD",
-      "address": "0x46b40202da16761633e757674661683fd733b845",
-      "symbol": "iUSD",
-      "decimals": 18
-    },
-    {
-      "chainId": 82,
-      "name": "izumi Token",
-      "address": "0x55137322647150d4ff0de22967589690c57a24d3",
-      "symbol": "iZi",
+      "name": "Wrapped Staked MTRG for DeFi",
+      "address": "0xE2dE616fBD8cb9180B26FcFB1B761A232FE56717",
+      "symbol": "wstMTRG",
       "decimals": 18
     }
   ]

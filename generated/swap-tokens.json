@@ -375,12 +375,12 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/SKILL/logo.png"
     },
     {
-      "name": "stMTRG",
+      "name": "Staked MTRG",
       "address": "0x215d603293357ca222bE92A1bf75eEc38DeF0aad",
       "symbol": "stMTRG",
       "decimals": 18,
       "chainId": 82,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/stMTRG/logo.png"
     },
     {
       "name": "Theta Drop",
@@ -439,12 +439,12 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/WBTC/logo.png"
     },
     {
-      "name": "wstMTRG",
+      "name": "Wrapped Staked MTRG for DeFi",
       "address": "0xE2dE616fBD8cb9180B26FcFB1B761A232FE56717",
       "symbol": "wstMTRG",
       "decimals": 18,
       "chainId": 82,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/wstMTRG/logo.png"
     },
     {
       "name": "AmpleForth",
@@ -943,6 +943,14 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/RIB/logo.png"
     },
     {
+      "name": "Axelar Wrapped USDC",
+      "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+      "symbol": "axlUSDC",
+      "decimals": 6,
+      "chainId": 8453,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/axlUSDC/logo.png"
+    },
+    {
       "name": "Bolt from Meter on Base",
       "address": "0x863656e346d8A42EC7caAAd606611b6fD8916f32",
       "symbol": "BOLT",
@@ -957,22 +965,6 @@
       "decimals": 18,
       "chainId": 8453,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png"
-    },
-    {
-      "name": "Meter Governance mapped by Meter.io",
-      "address": "0xa023E6f6B4862EA38cbe45e377abD908abAb2f82",
-      "symbol": "MTRG",
-      "decimals": 18,
-      "chainId": 8453,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png"
-    },
-    {
-      "name": "Axelar Wrapped USDC",
-      "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
-      "symbol": "USDC",
-      "decimals": 6,
-      "chainId": 8453,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDC/logo.png"
     },
     {
       "name": "AmpleForth",

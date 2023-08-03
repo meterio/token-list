@@ -6,6 +6,8 @@
   "ETH": "ethereum",
   "ETH.bsc": "ethereum",
   "MTRG": "meter",
+  "stMTRG": "meter",
+  "wstMTRG": "meter",
   "USDT": "tether",
   "UTU": "utu-coin",
   "WBTC": "wrapped-bitcoin",

@@ -1,0 +1,13 @@
+{
+  "resourceID": "0x0000000000000000000000215d603293357ca222be92a1bf75eec38def0aad01",
+  "testResourceID": "0x0000000000000000000000215d603293357ca222be92a1bf75eec38def0aad01",
+  "name": "Staked MTRG",
+  "symbol": "stMTRG",
+  "decimals": 18,
+  "tokens": [
+    {
+      "network": "Meter",
+      "address": "0x215d603293357ca222bE92A1bf75eEc38DeF0aad"
+    }
+  ]
+}
