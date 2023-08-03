@@ -95,6 +95,11 @@ const CHAINS = [
     enum: 'Polygon',
     chainId: 137,
     nativeToken: { name: 'MATIC Token', symbol: 'MATIC', decimals: 18 },
+  },
+  {
+    enum: 'Base',
+    chainId: 8453,
+    nativeToken: { name: 'Ether', symbol: 'ETH', decimals: 18 },
   }
 ];
 

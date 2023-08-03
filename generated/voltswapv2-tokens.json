@@ -183,6 +183,14 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png"
     },
     {
+      "name": "Meter Governance mapped by Meter.io",
+      "address": "0xa023E6f6B4862EA38cbe45e377abD908abAb2f82",
+      "symbol": "MTRG",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png"
+    },
+    {
       "name": "PASS",
       "address": "0xb8c2eb8702e129c8fecfbfd6e55bb6b3330f30f1",
       "symbol": "PASS",
@@ -287,6 +295,14 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDC/logo.png"
     },
     {
+      "name": "Axelar Wrapped USDC",
+      "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 8453,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDC/logo.png"
+    },
+    {
       "name": "USDT from Ethereum on Meter",
       "address": "0x5Fa41671c48e3C951AfC30816947126CCC8C162e",
       "symbol": "USDT.eth",
@@ -340,6 +356,14 @@
       "symbol": "TVOLT",
       "decimals": 18,
       "chainId": 361,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/VOLT/logo.png"
+    },
+    {
+      "name": "Bolt from Meter on Base",
+      "address": "0x863656e346d8A42EC7caAAd606611b6fD8916f32",
+      "symbol": "BOLT",
+      "decimals": 18,
+      "chainId": 8453,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/VOLT/logo.png"
     },
     {

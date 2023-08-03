@@ -62,6 +62,11 @@
       "network": "BSCTest",
       "address": "0x53ccb3D86B04b5FD7e647e11a39d1AAE746C2E98",
       "name": "Meter Governance mapped by Meter.io"
+    },
+    {
+      "network": "Base",
+      "address": "0xa023E6f6B4862EA38cbe45e377abD908abAb2f82",
+      "name": "Meter Governance mapped by Meter.io"
     }
   ]
 }

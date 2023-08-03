@@ -1,0 +1,32 @@
+[
+  {
+    "address": "0xa023E6f6B4862EA38cbe45e377abD908abAb2f82",
+    "name": "Meter Governance mapped by Meter.io",
+    "symbol": "MTRG",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png",
+    "resourceId": "0x0000000000000000000000bd2949f67dcdc549c6ebe98696449fa79d988a9f01",
+    "native": false,
+    "decimals": 18,
+    "coinId": "meter"
+  },
+  {
+    "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+    "name": "Axelar Wrapped USDC",
+    "symbol": "USDC",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDC/logo.png",
+    "resourceId": "0x0000000000000000000000a0b86991c6218b36c1d19d4a2e9eb0ce3606eb4801",
+    "native": false,
+    "decimals": 6,
+    "coinId": "usd-coin"
+  },
+  {
+    "address": "0x863656e346d8A42EC7caAAd606611b6fD8916f32",
+    "name": "Bolt from Meter on Base",
+    "symbol": "BOLT",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/VOLT/logo.png",
+    "resourceId": "0x00000000000000000000008df95e66cb0ef38f91d2776da3c921768982fba001",
+    "native": false,
+    "decimals": 18,
+    "coinId": "voltswap"
+  }
+]

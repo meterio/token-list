@@ -1358,6 +1358,49 @@
       "resourceId": "0x000000000000000000000e29a4bd665e4782a4c002aa30d3d25f010e8a394507"
     },
     {
+      "name": "Bolt from Meter on Base",
+      "address": "0x863656e346d8A42EC7caAAd606611b6fD8916f32",
+      "symbol": "BOLT",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/VOLT/logo.png",
+      "coinId": "voltswap",
+      "native": false,
+      "resourceId": "0x00000000000000000000008df95e66cb0ef38f91d2776da3c921768982fba001"
+    },
+    {
+      "name": "Ether",
+      "address": "0x",
+      "symbol": "ETH",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png",
+      "coinId": "ethereum",
+      "native": true
+    },
+    {
+      "name": "Meter Governance mapped by Meter.io",
+      "address": "0xa023E6f6B4862EA38cbe45e377abD908abAb2f82",
+      "symbol": "MTRG",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png",
+      "coinId": "meter",
+      "native": false,
+      "resourceId": "0x0000000000000000000000bd2949f67dcdc549c6ebe98696449fa79d988a9f01"
+    },
+    {
+      "name": "Axelar Wrapped USDC",
+      "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 8453,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDC/logo.png",
+      "coinId": "usd-coin",
+      "native": false,
+      "resourceId": "0x0000000000000000000000a0b86991c6218b36c1d19d4a2e9eb0ce3606eb4801"
+    },
+    {
       "name": "AmpleForth",
       "address": "0x027dbcA046ca156De9622cD1e2D907d375e53aa7",
       "symbol": "AMPL",

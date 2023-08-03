@@ -261,7 +261,7 @@ const genSolidlyTokens = (symbols) => {
 
     for (const token of config.tokens) {
       const chainId = getChainId(token.network);
-      if (![82, 83, 361].includes(chainId)) {
+      if (![82, 83, 361, 8453].includes(chainId)) {
         continue
       }
       tokenList.push({
