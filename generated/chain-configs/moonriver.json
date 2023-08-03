@@ -81,7 +81,7 @@
   },
   {
     "address": "0x1e24EC84F66cd26Dad607d81796DbeB13Cb22692",
-    "name": "Meter Governance mapped by Meter.io",
+    "name": "Wrapped MTRG Meter Governance by Meter.io",
     "symbol": "MTRG",
     "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png",
     "resourceId": "0x0000000000000000000000bd2949f67dcdc549c6ebe98696449fa79d988a9f01",

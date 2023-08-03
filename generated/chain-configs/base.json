@@ -1,6 +1,16 @@
 [
   {
     "address": "0xa023E6f6B4862EA38cbe45e377abD908abAb2f82",
+    "name": "Wrapped MTRG Meter Governance by Meter.io",
+    "symbol": "MTRG",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png",
+    "resourceId": "0x0000000000000000000000bd2949f67dcdc549c6ebe98696449fa79d988a9f01",
+    "native": false,
+    "decimals": 18,
+    "coinId": "meter"
+  },
+  {
+    "address": "0xa023E6f6B4862EA38cbe45e377abD908abAb2f82",
     "name": "Meter Governance mapped by Meter.io",
     "symbol": "MTRG",
     "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png",

@@ -67,7 +67,7 @@
       "resourceId": "0x00000000000000000000006b175474e89094c44da98b954eedeac495271d0f01"
     },
     {
-      "name": "Meter Governance mapped by Meter.io",
+      "name": "Wrapped MTRG Meter Governance by Meter.io",
       "address": "0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F",
       "symbol": "eMTRG",
       "decimals": 18,
@@ -340,7 +340,7 @@
       "resourceId": "0x0000000000000000000005c22ba65f65adffadfc0947382f2e7c286a0fe45505"
     },
     {
-      "name": "Meter Governance mapped by Meter.io",
+      "name": "Wrapped MTRG Meter Governance by Meter.io",
       "address": "0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F",
       "symbol": "MTRG",
       "decimals": 18,
@@ -879,7 +879,7 @@
       "resourceId": "0x000000000000000000000046fbf4487fa1b9c70d35bd761c51c360df9459ed01"
     },
     {
-      "name": "Meter Governance mapped by Meter.io",
+      "name": "Wrapped MTRG Meter Governance by Meter.io",
       "address": "0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F",
       "symbol": "MTRG",
       "decimals": 18,
@@ -1052,7 +1052,7 @@
       "resourceId": "0x0000000000000000000005c22ba65f65adffadfc0947382f2e7c286a0fe45505"
     },
     {
-      "name": "Meter Governance mapped by Meter.io",
+      "name": "Wrapped MTRG Meter Governance by Meter.io",
       "address": "0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F",
       "symbol": "MTRG",
       "decimals": 18,
@@ -1217,7 +1217,7 @@
       "resourceId": "0x0000000000000000000005c22ba65f65adffadfc0947382f2e7c286a0fe45505"
     },
     {
-      "name": "Meter Governance mapped by Meter.io",
+      "name": "Wrapped MTRG Meter Governance by Meter.io",
       "address": "0x1e24EC84F66cd26Dad607d81796DbeB13Cb22692",
       "symbol": "MTRG",
       "decimals": 18,
@@ -1379,7 +1379,7 @@
       "native": true
     },
     {
-      "name": "Meter Governance mapped by Meter.io",
+      "name": "Wrapped MTRG Meter Governance by Meter.io",
       "address": "0xa023E6f6B4862EA38cbe45e377abD908abAb2f82",
       "symbol": "MTRG",
       "decimals": 18,

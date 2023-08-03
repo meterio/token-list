@@ -8,7 +8,7 @@
     {
       "network": "Ethereum",
       "address": "0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F",
-      "name": "Meter Governance mapped by Meter.io",
+      "name": "Wrapped MTRG Meter Governance by Meter.io",
       "symbol": "eMTRG"
     },
     {
@@ -31,22 +31,27 @@
     {
       "network": "BSC",
       "address": "0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F",
-      "name": "Meter Governance mapped by Meter.io"
+      "name": "Wrapped MTRG Meter Governance by Meter.io"
     },
     {
       "network": "Moonriver",
       "address": "0x1e24EC84F66cd26Dad607d81796DbeB13Cb22692",
-      "name": "Meter Governance mapped by Meter.io"
+      "name": "Wrapped MTRG Meter Governance by Meter.io"
     },
     {
       "network": "Theta",
       "address": "0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F",
-      "name": "Meter Governance mapped by Meter.io"
+      "name": "Wrapped MTRG Meter Governance by Meter.io"
     },
     {
       "network": "Moonbeam",
       "address": "0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F",
-      "name": "Meter Governance mapped by Meter.io"
+      "name": "Wrapped MTRG Meter Governance by Meter.io"
+    },
+    {
+      "network": "Base",
+      "address": "0xa023E6f6B4862EA38cbe45e377abD908abAb2f82",
+      "name": "Wrapped MTRG Meter Governance by Meter.io"
     },
     {
       "network": "Ropsten",

@@ -55,7 +55,7 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/DAI/logo.png"
     },
     {
-      "name": "Meter Governance mapped by Meter.io",
+      "name": "Wrapped MTRG Meter Governance by Meter.io",
       "address": "0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F",
       "symbol": "eMTRG",
       "decimals": 18,
@@ -239,7 +239,7 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MSCP/logo.png"
     },
     {
-      "name": "Meter Governance mapped by Meter.io",
+      "name": "Wrapped MTRG Meter Governance by Meter.io",
       "address": "0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F",
       "symbol": "MTRG",
       "decimals": 18,
@@ -607,7 +607,7 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/LAVITA/logo.png"
     },
     {
-      "name": "Meter Governance mapped by Meter.io",
+      "name": "Wrapped MTRG Meter Governance by Meter.io",
       "address": "0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F",
       "symbol": "MTRG",
       "decimals": 18,
@@ -727,7 +727,7 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MSCP/logo.png"
     },
     {
-      "name": "Meter Governance mapped by Meter.io",
+      "name": "Wrapped MTRG Meter Governance by Meter.io",
       "address": "0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F",
       "symbol": "MTRG",
       "decimals": 18,
@@ -847,7 +847,7 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MSCP/logo.png"
     },
     {
-      "name": "Meter Governance mapped by Meter.io",
+      "name": "Wrapped MTRG Meter Governance by Meter.io",
       "address": "0x1e24EC84F66cd26Dad607d81796DbeB13Cb22692",
       "symbol": "MTRG",
       "decimals": 18,
@@ -949,6 +949,14 @@
       "decimals": 18,
       "chainId": 8453,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/VOLT/logo.png"
+    },
+    {
+      "name": "Wrapped MTRG Meter Governance by Meter.io",
+      "address": "0xa023E6f6B4862EA38cbe45e377abD908abAb2f82",
+      "symbol": "MTRG",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png"
     },
     {
       "name": "Meter Governance mapped by Meter.io",
