@@ -39,7 +39,8 @@
     {
       "network": "Base",
       "address": "0xa023E6f6B4862EA38cbe45e377abD908abAb2f82",
-      "name": "Wrapped MTRG Meter Governance by Meter.io"
+      "name": "Wrapped MTRG Meter Governance by Meter.io",
+      "symbol": "eMTRG"
     },
     {
       "network": "Ropsten",

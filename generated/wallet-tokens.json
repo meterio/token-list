@@ -1379,6 +1379,17 @@
       "resourceId": "0x00000000000000000000008df95e66cb0ef38f91d2776da3c921768982fba001"
     },
     {
+      "name": "Wrapped MTRG Meter Governance by Meter.io",
+      "address": "0xa023E6f6B4862EA38cbe45e377abD908abAb2f82",
+      "symbol": "eMTRG",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png",
+      "coinId": "meter",
+      "native": false,
+      "resourceId": "0x0000000000000000000000bd2949f67dcdc549c6ebe98696449fa79d988a9f01"
+    },
+    {
       "name": "Ether",
       "address": "0x",
       "symbol": "ETH",
@@ -1387,17 +1398,6 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png",
       "coinId": "ethereum",
       "native": true
-    },
-    {
-      "name": "Wrapped MTRG Meter Governance by Meter.io",
-      "address": "0xa023E6f6B4862EA38cbe45e377abD908abAb2f82",
-      "symbol": "MTRG",
-      "decimals": 18,
-      "chainId": 8453,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png",
-      "coinId": "meter",
-      "native": false,
-      "resourceId": "0x0000000000000000000000bd2949f67dcdc549c6ebe98696449fa79d988a9f01"
     },
     {
       "name": "AmpleForth",
