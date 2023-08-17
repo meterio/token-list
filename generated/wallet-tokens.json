@@ -1358,16 +1358,6 @@
       "resourceId": "0x000000000000000000000e29a4bd665e4782a4c002aa30d3d25f010e8a394507"
     },
     {
-      "name": "Axelar Wrapped USDC",
-      "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
-      "symbol": "axlUSDC",
-      "decimals": 6,
-      "chainId": 8453,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/axlUSDC/logo.png",
-      "native": false,
-      "resourceId": "0x0000000000000000000000eb466342c4d449bc9f53a865d5cb90586f40521501"
-    },
-    {
       "name": "Bolt from Meter on Base",
       "address": "0x863656e346d8A42EC7caAAd606611b6fD8916f32",
       "symbol": "BOLT",

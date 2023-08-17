@@ -943,14 +943,6 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/RIB/logo.png"
     },
     {
-      "name": "Axelar Wrapped USDC",
-      "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
-      "symbol": "axlUSDC",
-      "decimals": 6,
-      "chainId": 8453,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/axlUSDC/logo.png"
-    },
-    {
       "name": "Bolt from Meter on Base",
       "address": "0x863656e346d8A42EC7caAAd606611b6fD8916f32",
       "symbol": "BOLT",
