@@ -13,9 +13,6 @@ jobs:
           fingerprints:
             - '9e:66:67:05:ce:8b:5b:db:79:56:48:57:ef:5f:2f:0c'
       - checkout
-      - run:
-          name: download & unzip awscli v2
-          command: curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip" && unzip awscliv2.zip
       - restore_cache:
           key: tokenlist-deps-{{ checksum "package.json" }}
       - run:
