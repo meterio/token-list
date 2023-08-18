@@ -1,0 +1,67 @@
+const fs = require('fs');
+const path = require('path');
+const { isTestnet, OUT_PATH, getConfig, getImageUri } = require('../utils/config');
+const { mkdirIfNeeded } = require('./common');
+
+const coingecko = require('../coingecko.json');
+
+/**
+ * generate token list for meter passport with given symbol array
+ * @param {Array} symbols
+ */
+const genConfigForPassport = (symbols) => {
+  console.log('-'.repeat(40));
+  console.log('* Start: Generate config for Passport');
+  const passportTokens = {};
+  for (const sym of symbols) {
+    const coinId = coingecko[sym];
+    // if (!coinId) {
+    //   console.log('[WARN] please configure coinId in coingecko.json for ', sym);
+    // }
+
+    const config = getConfig(sym);
+
+    // tokens must have more than 1 tokens to be effective on bridge
+    if (config.tokens.length < 2) {
+      // console.log(`config contains less than 2 tokens, not valid for bridge skip ${sym}`);
+      continue;
+    }
+
+    for (const token of config.tokens) {
+      if (!(token.network in passportTokens)) {
+        passportTokens[token.network] = [];
+      }
+
+      let tokenConfig = {
+        address: token.address,
+        name: token.name || config.name,
+        symbol: token.symbol || config.symbol,
+        imageUri: getImageUri(sym),
+        resourceId: isTestnet(token.network) ? config.testResourceID : config.resourceID,
+        native: token.native || false,
+        decimals: token.decimals || config.decimals,
+        tokenProxy: token.tokenProxy || undefined,
+        coinId,
+      };
+      passportTokens[token.network].push(tokenConfig);
+    }
+  }
+
+  const chainConfigDir = path.join(OUT_PATH, 'chain-configs');
+  mkdirIfNeeded(chainConfigDir);
+  for (const chain in passportTokens) {
+    const filepath = path.join(chainConfigDir, `${chain}.json`.toLowerCase());
+    fs.writeFileSync(filepath, JSON.stringify(passportTokens[chain], null, 2));
+    console.log(`write chain config to ${filepath}`);
+  }
+
+  const outPath = path.join(OUT_PATH, `passport-tokens.json`);
+  fs.writeFileSync(outPath, JSON.stringify(passportTokens, null, 2));
+  console.log(`write passport tokens config to ${outPath}`);
+  console.log('* END: Generate config for Passport');
+  console.log('-'.repeat(40));
+};
+
+module.exports = {
+  genConfigForPassport,
+};

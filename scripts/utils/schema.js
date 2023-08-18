@@ -100,7 +100,7 @@ const CHAINS = [
     enum: 'Base',
     chainId: 8453,
     nativeToken: { name: 'Ether', symbol: 'ETH', decimals: 18 },
-  }
+  },
 ];
 
 const tokenSchema = {
@@ -163,4 +163,13 @@ const getChainConfigs = () => {
   return CHAINS;
 };
 
-module.exports = { validateSchema, getChainId, isTestnet, getChainConfig, getChainConfigs };
+const getChainConfigById = (id) => {
+  for (const chain of CHAINS) {
+    if (chain.chainId === id) {
+      return chain;
+    }
+  }
+  return undefined;
+};
+
+module.exports = { validateSchema, getChainId, isTestnet, getChainConfig, getChainConfigs, getChainConfigById };
