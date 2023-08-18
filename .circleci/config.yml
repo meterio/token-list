@@ -1,0 +1,52 @@
+version: 2.1
+
+orbs:
+  node: circleci/node@4.6.0
+  slack: circleci/slack@4.4.4
+jobs:
+  build_and_deploy_mainnet:
+    resource_class: large
+    docker:
+      - image: 'cimg/node:16.7'
+    steps:
+      - add_ssh_keys:
+          fingerprints:
+            - '9e:66:67:05:ce:8b:5b:db:79:56:48:57:ef:5f:2f:0c'
+      - checkout
+      - run:
+          name: download & unzip awscli v2
+          command: curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip" && unzip awscliv2.zip
+      - restore_cache:
+          key: tokenlist-deps-{{ checksum "package.json" }}
+      - run:
+          name: install npm dependencies
+          command: npm install
+      - save_cache:
+          key: tokenlist-deps-{{ checksum "package.json" }}
+          paths:
+            - node_modules
+      - run:
+          name: production build
+          command: npm start
+      - run: |
+          git config user.email 'zhanghan.simon@gmail.com'
+          git config user.name 'Simon.Z'
+          git add .
+          git commit -m '[skip ci] auto generate'
+          git push origin master
+      - slack/notify:
+          event: fail
+          template: basic_fail_1
+      - slack/notify:
+          event: pass
+          template: basic_success_1
+
+workflows:
+  fresh_deploy:
+    jobs:
+      - build_and_deploy_mainnet:
+          context:
+            - slack-secrets
+          filters:
+            branches:
+              only: master
