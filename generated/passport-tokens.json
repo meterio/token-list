@@ -60,26 +60,6 @@
       "coinId": "ethereum"
     },
     {
-      "address": "0x0A3BB08b3a15A19b4De82F8AcFc862606FB69A2D",
-      "name": "iZUMi Bond USD",
-      "symbol": "iUSD",
-      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/iUSD/logo.png",
-      "resourceId": "0x00000000000000000000000a3bb08b3a15a19b4de82f8acfc862606fb69a2d01",
-      "native": false,
-      "decimals": 18,
-      "coinId": "izumi-bond-usd"
-    },
-    {
-      "address": "0x9ad37205d608B8b219e6a2573f922094CEc5c200",
-      "name": "izumi Token",
-      "symbol": "iZi",
-      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/iZi/logo.png",
-      "resourceId": "0x000000000000000000000060d01ec2d5e98ac51c8b4cf84dfcce98d527c74701",
-      "native": false,
-      "decimals": 18,
-      "coinId": "izumi-finance"
-    },
-    {
       "address": "0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F",
       "name": "Wrapped MTRG Meter Governance by Meter.io",
       "symbol": "eMTRG",
@@ -138,6 +118,26 @@
       "native": false,
       "decimals": 18,
       "coinId": "offshift"
+    },
+    {
+      "address": "0x0A3BB08b3a15A19b4De82F8AcFc862606FB69A2D",
+      "name": "iZUMi Bond USD",
+      "symbol": "iUSD",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/iUSD/logo.png",
+      "resourceId": "0x00000000000000000000000a3bb08b3a15a19b4de82f8acfc862606fb69a2d01",
+      "native": false,
+      "decimals": 18,
+      "coinId": "izumi-bond-usd"
+    },
+    {
+      "address": "0x9ad37205d608B8b219e6a2573f922094CEc5c200",
+      "name": "izumi Token",
+      "symbol": "iZi",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/iZi/logo.png",
+      "resourceId": "0x000000000000000000000060d01ec2d5e98ac51c8b4cf84dfcce98d527c74701",
+      "native": false,
+      "decimals": 18,
+      "coinId": "izumi-finance"
     }
   ],
   "BSC": [
@@ -222,26 +222,6 @@
       "coinId": "ethereum"
     },
     {
-      "address": "0x0A3BB08b3a15A19b4De82F8AcFc862606FB69A2D",
-      "name": "iZUMi Bond USD",
-      "symbol": "iUSD",
-      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/iUSD/logo.png",
-      "resourceId": "0x00000000000000000000000a3bb08b3a15a19b4de82f8acfc862606fb69a2d01",
-      "native": false,
-      "decimals": 18,
-      "coinId": "izumi-bond-usd"
-    },
-    {
-      "address": "0x60D01EC2D5E98Ac51C8B4cF84DfCCE98D527c747",
-      "name": "izumi Token",
-      "symbol": "iZi",
-      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/iZi/logo.png",
-      "resourceId": "0x000000000000000000000060d01ec2d5e98ac51c8b4cf84dfcce98d527c74701",
-      "native": false,
-      "decimals": 18,
-      "coinId": "izumi-finance"
-    },
-    {
       "address": "0x27d72484f1910F5d0226aFA4E03742c9cd2B297a",
       "name": "Moonscape",
       "symbol": "MSCP",
@@ -270,6 +250,26 @@
       "native": false,
       "decimals": 18,
       "coinId": "offshift"
+    },
+    {
+      "address": "0x0A3BB08b3a15A19b4De82F8AcFc862606FB69A2D",
+      "name": "iZUMi Bond USD",
+      "symbol": "iUSD",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/iUSD/logo.png",
+      "resourceId": "0x00000000000000000000000a3bb08b3a15a19b4de82f8acfc862606fb69a2d01",
+      "native": false,
+      "decimals": 18,
+      "coinId": "izumi-bond-usd"
+    },
+    {
+      "address": "0x60D01EC2D5E98Ac51C8B4cF84DfCCE98D527c747",
+      "name": "izumi Token",
+      "symbol": "iZi",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/iZi/logo.png",
+      "resourceId": "0x000000000000000000000060d01ec2d5e98ac51c8b4cf84dfcce98d527c74701",
+      "native": false,
+      "decimals": 18,
+      "coinId": "izumi-finance"
     }
   ],
   "Avalanche": [
@@ -353,26 +353,6 @@
       "native": false,
       "decimals": 18,
       "coinId": "FTB"
-    },
-    {
-      "address": "0x46b40202da16761633e757674661683fd733b845",
-      "name": "iZUMi Bond USD",
-      "symbol": "iUSD",
-      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/iUSD/logo.png",
-      "resourceId": "0x00000000000000000000000a3bb08b3a15a19b4de82f8acfc862606fb69a2d01",
-      "native": false,
-      "decimals": 18,
-      "coinId": "izumi-bond-usd"
-    },
-    {
-      "address": "0x55137322647150d4ff0de22967589690c57a24d3",
-      "name": "izumi Token",
-      "symbol": "iZi",
-      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/iZi/logo.png",
-      "resourceId": "0x000000000000000000000060d01ec2d5e98ac51c8b4cf84dfcce98d527c74701",
-      "native": false,
-      "decimals": 18,
-      "coinId": "izumi-finance"
     },
     {
       "address": "0x01d18666A27Cf91F32549f181F53e517BA6dc473",
@@ -473,6 +453,26 @@
       "native": false,
       "decimals": 8,
       "coinId": "wrapped-bitcoin"
+    },
+    {
+      "address": "0x46b40202da16761633e757674661683fd733b845",
+      "name": "iZUMi Bond USD",
+      "symbol": "iUSD",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/iUSD/logo.png",
+      "resourceId": "0x00000000000000000000000a3bb08b3a15a19b4de82f8acfc862606fb69a2d01",
+      "native": false,
+      "decimals": 18,
+      "coinId": "izumi-bond-usd"
+    },
+    {
+      "address": "0x55137322647150d4ff0de22967589690c57a24d3",
+      "name": "izumi Token",
+      "symbol": "iZi",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/iZi/logo.png",
+      "resourceId": "0x000000000000000000000060d01ec2d5e98ac51c8b4cf84dfcce98d527c74701",
+      "native": false,
+      "decimals": 18,
+      "coinId": "izumi-finance"
     }
   ],
   "Ropsten": [
