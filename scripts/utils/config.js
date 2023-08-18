@@ -2,6 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const DATA_PATH = path.join(__dirname, '..', '..', 'data');
 const OUT_PATH = path.join(__dirname, '..', '..', 'generated');
+const OUT_PATH_FOR_VOLTSWAP = path.join(__dirname, '..', '..', 'voltswap-tokens')
 const { name } = require('../../package.json');
 const HOST_URL = `https://raw.githubusercontent.com/meterio/${name}/master`;
 const { getChainId, isTestnet, validateSchema, getChainConfig, getChainConfigs } = require('./schema');
@@ -62,6 +63,9 @@ const getResourceImagePath = (resourceId) => {
 const getAddressImagePath = (network, address) => {
   return path.join(OUT_PATH, 'token-logos', network.toLowerCase(), `${address}.png`.toLowerCase());
 };
+const getVoltswapAddressImagePath = (network, address) => {
+  return path.join(OUT_PATH_FOR_VOLTSWAP, 'logos', network.toLowerCase(), `${address}.png`.toLowerCase());
+}
 
 module.exports = {
   DATA_PATH,
@@ -73,6 +77,7 @@ module.exports = {
   getImageUri,
   getResourceImagePath,
   getAddressImagePath,
+  getVoltswapAddressImagePath,
   getChainId,
   isTestnet,
   getChainConfig,

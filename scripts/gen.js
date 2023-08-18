@@ -10,6 +10,7 @@ const {
   getImagePath,
   getImageUri,
   getAddressImagePath,
+  getVoltswapAddressImagePath,
   getResourceImagePath,
   getChainId,
   getChainConfigs,
@@ -393,9 +394,15 @@ const placeImages = (symbols) => {
       const resourceImagePath = getResourceImagePath(config.resourceID);
       mkdirIfNeeded(path.dirname(resourceImagePath));
       fs.copyFileSync(imagePath, resourceImagePath);
-  
+      
       for (const token of config.tokens) {
         const addressImagePath = getAddressImagePath(token.network, token.address);
+        mkdirIfNeeded(path.dirname(addressImagePath));
+        fs.copyFileSync(imagePath, addressImagePath);
+      }
+
+      for (const token of config.tokens) {
+        const addressImagePath = getVoltswapAddressImagePath(token.network, token.address);
         mkdirIfNeeded(path.dirname(addressImagePath));
         fs.copyFileSync(imagePath, addressImagePath);
       }
