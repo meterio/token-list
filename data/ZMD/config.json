@@ -1,0 +1,14 @@
+{
+  "resourceID": "0x0000000000000000000000ad72cb20907f807d9f5e55c4278247bd7d3cfe6601",
+  "name": "ZMD",
+  "symbol": "ZMD",
+  "decimals": 18,
+  "tokens": [
+    {
+      "network": "Meter",
+      "address": "0xAD72cB20907F807D9F5E55c4278247bD7d3Cfe66",
+      "name": "ZMD",
+      "symbol": "ZMD"
+    }
+  ]
+}
