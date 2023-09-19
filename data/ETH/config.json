@@ -4,6 +4,7 @@
   "name": "Ether",
   "symbol": "ETH",
   "decimals": 18,
+  "rank": 4,
   "tokens": [
     {
       "network": "Ethereum",

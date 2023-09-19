@@ -4,6 +4,7 @@
   "name": "Meter Governance",
   "symbol": "MTRG",
   "decimals": 18,
+  "rank": 2,
   "tokens": [
     {
       "network": "Ethereum",

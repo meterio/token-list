@@ -4,6 +4,7 @@
   "name": "Wrapped Staked MTRG for DeFi",
   "symbol": "wstMTRG",
   "decimals": 18,
+  "rank": 2,
   "tokens": [
     {
       "network": "Meter",

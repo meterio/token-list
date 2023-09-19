@@ -1,5 +1,55 @@
 [
   {
+    "address": "0x0000000000000000000000000000000000000001",
+    "name": "ETH",
+    "symbol": "ETH",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png",
+    "resourceId": "0x0000000000000000000000000000000000000000000000000000000000000101",
+    "native": true,
+    "decimals": 18,
+    "coinId": "ethereum"
+  },
+  {
+    "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "name": "USDC",
+    "symbol": "USDC",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDC/logo.png",
+    "resourceId": "0x0000000000000000000000a0b86991c6218b36c1d19d4a2e9eb0ce3606eb4801",
+    "native": false,
+    "decimals": 6,
+    "coinId": "usd-coin"
+  },
+  {
+    "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDT/logo.png",
+    "resourceId": "0x0000000000000000000000dac17f958d2ee523a2206206994597c13d831ec701",
+    "native": false,
+    "decimals": 6,
+    "coinId": "tether"
+  },
+  {
+    "address": "0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F",
+    "name": "Wrapped MTRG Meter Governance by Meter.io",
+    "symbol": "eMTRG",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png",
+    "resourceId": "0x0000000000000000000000bd2949f67dcdc549c6ebe98696449fa79d988a9f01",
+    "native": false,
+    "decimals": 18,
+    "coinId": "meter"
+  },
+  {
+    "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+    "name": "Wrapped BTC",
+    "symbol": "WBTC",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/WBTC/logo.png",
+    "resourceId": "0x00000000000000000000002260fac5e5542a773aa44fbcfedf7c193bc2c59901",
+    "native": false,
+    "decimals": 8,
+    "coinId": "wrapped-bitcoin"
+  },
+  {
     "address": "0xD46bA6D942050d489DBd938a2C909A5d5039A161",
     "name": "AmpleForth",
     "symbol": "AMPL",
@@ -49,76 +99,6 @@
     "coinId": "dai"
   },
   {
-    "address": "0x0000000000000000000000000000000000000001",
-    "name": "ETH",
-    "symbol": "ETH",
-    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png",
-    "resourceId": "0x0000000000000000000000000000000000000000000000000000000000000101",
-    "native": true,
-    "decimals": 18,
-    "coinId": "ethereum"
-  },
-  {
-    "address": "0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F",
-    "name": "Wrapped MTRG Meter Governance by Meter.io",
-    "symbol": "eMTRG",
-    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png",
-    "resourceId": "0x0000000000000000000000bd2949f67dcdc549c6ebe98696449fa79d988a9f01",
-    "native": false,
-    "decimals": 18,
-    "coinId": "meter"
-  },
-  {
-    "address": "0xd478161c952357f05f0292b56012cd8457f1cfbf",
-    "name": "Polkamarkets",
-    "symbol": "POLK",
-    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/POLK/logo.png",
-    "resourceId": "0x0000000000000000000000d478161c952357f05f0292b56012cd8457f1cfbf01",
-    "native": false,
-    "decimals": 18,
-    "coinId": "polkamarkets"
-  },
-  {
-    "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-    "name": "USDC",
-    "symbol": "USDC",
-    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDC/logo.png",
-    "resourceId": "0x0000000000000000000000a0b86991c6218b36c1d19d4a2e9eb0ce3606eb4801",
-    "native": false,
-    "decimals": 6,
-    "coinId": "usd-coin"
-  },
-  {
-    "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
-    "name": "Tether USD",
-    "symbol": "USDT",
-    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDT/logo.png",
-    "resourceId": "0x0000000000000000000000dac17f958d2ee523a2206206994597c13d831ec701",
-    "native": false,
-    "decimals": 6,
-    "coinId": "tether"
-  },
-  {
-    "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
-    "name": "Wrapped BTC",
-    "symbol": "WBTC",
-    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/WBTC/logo.png",
-    "resourceId": "0x00000000000000000000002260fac5e5542a773aa44fbcfedf7c193bc2c59901",
-    "native": false,
-    "decimals": 8,
-    "coinId": "wrapped-bitcoin"
-  },
-  {
-    "address": "0xabe580e7ee158da464b51ee1a83ac0289622e6be",
-    "name": "Offshift",
-    "symbol": "XFT",
-    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/XFT/logo.png",
-    "resourceId": "0x000000000000000000000abe580e7ee158da464b51ee1a83ac0289622e6be001",
-    "native": false,
-    "decimals": 18,
-    "coinId": "offshift"
-  },
-  {
     "address": "0x0A3BB08b3a15A19b4De82F8AcFc862606FB69A2D",
     "name": "iZUMi Bond USD",
     "symbol": "iUSD",
@@ -137,5 +117,25 @@
     "native": false,
     "decimals": 18,
     "coinId": "izumi-finance"
+  },
+  {
+    "address": "0xd478161c952357f05f0292b56012cd8457f1cfbf",
+    "name": "Polkamarkets",
+    "symbol": "POLK",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/POLK/logo.png",
+    "resourceId": "0x0000000000000000000000d478161c952357f05f0292b56012cd8457f1cfbf01",
+    "native": false,
+    "decimals": 18,
+    "coinId": "polkamarkets"
+  },
+  {
+    "address": "0xabe580e7ee158da464b51ee1a83ac0289622e6be",
+    "name": "Offshift",
+    "symbol": "XFT",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/XFT/logo.png",
+    "resourceId": "0x000000000000000000000abe580e7ee158da464b51ee1a83ac0289622e6be001",
+    "native": false,
+    "decimals": 18,
+    "coinId": "offshift"
   }
 ]

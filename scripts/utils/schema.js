@@ -129,6 +129,7 @@ const schema = {
     decimals: { type: 'number', maximum: 20, minimum: 1 }, // number between 1-20
     enable: { type: 'boolean' }, // true - enable | false - disable
     tokens: { type: 'array', items: tokenSchema, minItems: 1 },
+    rank: { type: 'number' }
   },
   required: ['resourceID', 'name', 'symbol', 'decimals', 'tokens'],
 };

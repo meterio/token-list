@@ -4,6 +4,7 @@
   "name": "Wrapped BTC",
   "symbol": "WBTC",
   "decimals": 8,
+  "rank": 1,
   "tokens": [
     {
       "network": "Ethereum",

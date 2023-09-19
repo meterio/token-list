@@ -42,9 +42,21 @@ const genConfigForPassport = (symbols) => {
         decimals: token.decimals || config.decimals,
         tokenProxy: token.tokenProxy || undefined,
         coinId,
+        rank: config.rank
       };
       passportTokens[token.network].push(tokenConfig);
     }
+  }
+
+  for (const net of Object.keys(passportTokens)) {
+    passportTokens[net] = passportTokens[net].sort((a, b) => {
+      const rankA = a.rank || 0
+      const rankB = b.rank || 0
+      return rankB - rankA
+    }).map(t => {
+      delete t.rank
+      return t
+    })
   }
 
   const chainConfigDir = path.join(OUT_PATH, 'chain-configs');

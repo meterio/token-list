@@ -1,5 +1,35 @@
 [
   {
+    "address": "0x3e5a2A4812D319Ded22479A88ed708c6B55ca0b1",
+    "name": "Wrapped USDT",
+    "symbol": "USDT",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDT/logo.png",
+    "resourceId": "0x0000000000000000000000dac17f958d2ee523a2206206994597c13d831ec701",
+    "native": false,
+    "decimals": 6,
+    "coinId": "tether"
+  },
+  {
+    "address": "0x8A419EF4941355476CF04933E90BF3BBF2F73814",
+    "name": "Meter Governance",
+    "symbol": "MTRG",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png",
+    "resourceId": "0x0000000000000000000000228ebBeE999c6a7ad74A6130E81b12f9Fe237Ba301",
+    "native": false,
+    "decimals": 18,
+    "coinId": "meter"
+  },
+  {
+    "address": "0xcfd9102a2675e0d898982f1fd1dd0264aaa901da",
+    "name": "BTC on Meter",
+    "symbol": "WBTC",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/WBTC/logo.png",
+    "resourceId": "0x00000000000000000000002260fac5e5542a773aa44fbcfedf7c193bc2c59901",
+    "native": false,
+    "decimals": 8,
+    "coinId": "wrapped-bitcoin"
+  },
+  {
     "address": "0xd259ED8E7ACa1f5eA16fD58a860c09Af335b8198",
     "name": "AmpleForth",
     "symbol": "AMPL",
@@ -20,26 +50,6 @@
     "coinId": "MEN"
   },
   {
-    "address": "0x8A419EF4941355476CF04933E90BF3BBF2F73814",
-    "name": "Meter Governance",
-    "symbol": "MTRG",
-    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png",
-    "resourceId": "0x0000000000000000000000228ebBeE999c6a7ad74A6130E81b12f9Fe237Ba301",
-    "native": false,
-    "decimals": 18,
-    "coinId": "meter"
-  },
-  {
-    "address": "0x3e5a2A4812D319Ded22479A88ed708c6B55ca0b1",
-    "name": "Wrapped USDT",
-    "symbol": "USDT",
-    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDT/logo.png",
-    "resourceId": "0x0000000000000000000000dac17f958d2ee523a2206206994597c13d831ec701",
-    "native": false,
-    "decimals": 6,
-    "coinId": "tether"
-  },
-  {
     "address": "0x6af7f7cddfd0d69ba9b03863347bd762bd70f8dc",
     "name": "Volt",
     "symbol": "VOLT",
@@ -48,15 +58,5 @@
     "native": false,
     "decimals": 18,
     "coinId": "voltswap"
-  },
-  {
-    "address": "0xcfd9102a2675e0d898982f1fd1dd0264aaa901da",
-    "name": "BTC on Meter",
-    "symbol": "WBTC",
-    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/WBTC/logo.png",
-    "resourceId": "0x00000000000000000000002260fac5e5542a773aa44fbcfedf7c193bc2c59901",
-    "native": false,
-    "decimals": 8,
-    "coinId": "wrapped-bitcoin"
   }
 ]

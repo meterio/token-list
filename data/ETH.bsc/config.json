@@ -4,6 +4,7 @@
   "symbol": "ETH.bsc",
   "decimals": 18,
   "enable": true,
+  "rank": 4,
   "tokens": [
     {
       "network": "BSC",

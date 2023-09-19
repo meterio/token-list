@@ -1,5 +1,15 @@
 [
   {
+    "address": "0x53ccb3D86B04b5FD7e647e11a39d1AAE746C2E98",
+    "name": "Meter Governance mapped by Meter.io",
+    "symbol": "MTRG",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png",
+    "resourceId": "0x0000000000000000000000228ebBeE999c6a7ad74A6130E81b12f9Fe237Ba301",
+    "native": false,
+    "decimals": 18,
+    "coinId": "meter"
+  },
+  {
     "address": "0x75c00CF8B6C932AaD2E20fa238a57D389aE3842d",
     "name": "AmpleForth",
     "symbol": "AMPL",
@@ -18,15 +28,5 @@
     "native": false,
     "decimals": 18,
     "coinId": "crowns"
-  },
-  {
-    "address": "0x53ccb3D86B04b5FD7e647e11a39d1AAE746C2E98",
-    "name": "Meter Governance mapped by Meter.io",
-    "symbol": "MTRG",
-    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png",
-    "resourceId": "0x0000000000000000000000228ebBeE999c6a7ad74A6130E81b12f9Fe237Ba301",
-    "native": false,
-    "decimals": 18,
-    "coinId": "meter"
   }
 ]

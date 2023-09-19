@@ -3,6 +3,7 @@
   "name": "USDC from MoonRiver Wrapped by Anyswap",
   "symbol": "USDC",
   "decimals": 6,
+  "rank": 3,
   "tokens": [
     {
       "network": "Moonriver",

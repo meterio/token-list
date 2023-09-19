@@ -3,6 +3,7 @@
   "name": "BTC.bsc",
   "symbol": "BTC.bsc",
   "decimals": 18,
+  "rank": 1,
   "tokens": [
     {
       "network": "BSC",
