@@ -80,16 +80,6 @@
     "coinId": "crowns"
   },
   {
-    "address": "0x0B5B9806b1B202e22aA26Cfd527fDCafEF9eDAcf",
-    "name": "DAI from Ethereum on Moonriver",
-    "symbol": "DAI.eth",
-    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/DAI/logo.png",
-    "resourceId": "0x00000000000000000000006b175474e89094c44da98b954eedeac495271d0f01",
-    "native": false,
-    "decimals": 18,
-    "coinId": "dai"
-  },
-  {
     "address": "0x59A1B7B7469b968eb051f6c71512d2B61F27794d",
     "name": "EnergyWeb Token",
     "symbol": "EWT",

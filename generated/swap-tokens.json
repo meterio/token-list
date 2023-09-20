@@ -807,14 +807,6 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/CWS/logo.png"
     },
     {
-      "name": "DAI from Ethereum on Moonriver",
-      "address": "0x0B5B9806b1B202e22aA26Cfd527fDCafEF9eDAcf",
-      "symbol": "DAI.eth",
-      "decimals": 18,
-      "chainId": 1285,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/DAI/logo.png"
-    },
-    {
       "name": "EnergyWeb Token",
       "address": "0x59A1B7B7469b968eb051f6c71512d2B61F27794d",
       "symbol": "EWT",

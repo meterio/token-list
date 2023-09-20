@@ -89,16 +89,6 @@
     "coinId": "crowns"
   },
   {
-    "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
-    "name": "DAI",
-    "symbol": "DAI",
-    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/DAI/logo.png",
-    "resourceId": "0x00000000000000000000006b175474e89094c44da98b954eedeac495271d0f01",
-    "native": false,
-    "decimals": 18,
-    "coinId": "dai"
-  },
-  {
     "address": "0xd478161c952357f05f0292b56012cd8457f1cfbf",
     "name": "Polkamarkets",
     "symbol": "POLK",
