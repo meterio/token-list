@@ -8,12 +8,6 @@
       "network": "Ethereum",
       "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
       "name": "DAI"
-    },
-    {
-      "network": "Moonriver",
-      "address": "0x0B5B9806b1B202e22aA26Cfd527fDCafEF9eDAcf",
-      "name": "DAI from Ethereum on Moonriver",
-      "symbol": "DAI.eth"
     }
   ]
 }
