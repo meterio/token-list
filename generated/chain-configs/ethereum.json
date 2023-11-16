@@ -89,26 +89,6 @@
     "coinId": "crowns"
   },
   {
-    "address": "0xd478161c952357f05f0292b56012cd8457f1cfbf",
-    "name": "Polkamarkets",
-    "symbol": "POLK",
-    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/POLK/logo.png",
-    "resourceId": "0x0000000000000000000000d478161c952357f05f0292b56012cd8457f1cfbf01",
-    "native": false,
-    "decimals": 18,
-    "coinId": "polkamarkets"
-  },
-  {
-    "address": "0xabe580e7ee158da464b51ee1a83ac0289622e6be",
-    "name": "Offshift",
-    "symbol": "XFT",
-    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/XFT/logo.png",
-    "resourceId": "0x000000000000000000000abe580e7ee158da464b51ee1a83ac0289622e6be001",
-    "native": false,
-    "decimals": 18,
-    "coinId": "offshift"
-  },
-  {
     "address": "0x0A3BB08b3a15A19b4De82F8AcFc862606FB69A2D",
     "name": "iZUMi Bond USD",
     "symbol": "iUSD",
@@ -127,5 +107,25 @@
     "native": false,
     "decimals": 18,
     "coinId": "izumi-finance"
+  },
+  {
+    "address": "0xd478161c952357f05f0292b56012cd8457f1cfbf",
+    "name": "Polkamarkets",
+    "symbol": "POLK",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/POLK/logo.png",
+    "resourceId": "0x0000000000000000000000d478161c952357f05f0292b56012cd8457f1cfbf01",
+    "native": false,
+    "decimals": 18,
+    "coinId": "polkamarkets"
+  },
+  {
+    "address": "0xabe580e7ee158da464b51ee1a83ac0289622e6be",
+    "name": "Offshift",
+    "symbol": "XFT",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/XFT/logo.png",
+    "resourceId": "0x000000000000000000000abe580e7ee158da464b51ee1a83ac0289622e6be001",
+    "native": false,
+    "decimals": 18,
+    "coinId": "offshift"
   }
 ]

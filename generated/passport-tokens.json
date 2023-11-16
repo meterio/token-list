@@ -90,26 +90,6 @@
       "coinId": "crowns"
     },
     {
-      "address": "0xd478161c952357f05f0292b56012cd8457f1cfbf",
-      "name": "Polkamarkets",
-      "symbol": "POLK",
-      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/POLK/logo.png",
-      "resourceId": "0x0000000000000000000000d478161c952357f05f0292b56012cd8457f1cfbf01",
-      "native": false,
-      "decimals": 18,
-      "coinId": "polkamarkets"
-    },
-    {
-      "address": "0xabe580e7ee158da464b51ee1a83ac0289622e6be",
-      "name": "Offshift",
-      "symbol": "XFT",
-      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/XFT/logo.png",
-      "resourceId": "0x000000000000000000000abe580e7ee158da464b51ee1a83ac0289622e6be001",
-      "native": false,
-      "decimals": 18,
-      "coinId": "offshift"
-    },
-    {
       "address": "0x0A3BB08b3a15A19b4De82F8AcFc862606FB69A2D",
       "name": "iZUMi Bond USD",
       "symbol": "iUSD",
@@ -128,6 +108,26 @@
       "native": false,
       "decimals": 18,
       "coinId": "izumi-finance"
+    },
+    {
+      "address": "0xd478161c952357f05f0292b56012cd8457f1cfbf",
+      "name": "Polkamarkets",
+      "symbol": "POLK",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/POLK/logo.png",
+      "resourceId": "0x0000000000000000000000d478161c952357f05f0292b56012cd8457f1cfbf01",
+      "native": false,
+      "decimals": 18,
+      "coinId": "polkamarkets"
+    },
+    {
+      "address": "0xabe580e7ee158da464b51ee1a83ac0289622e6be",
+      "name": "Offshift",
+      "symbol": "XFT",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/XFT/logo.png",
+      "resourceId": "0x000000000000000000000abe580e7ee158da464b51ee1a83ac0289622e6be001",
+      "native": false,
+      "decimals": 18,
+      "coinId": "offshift"
     }
   ],
   "BSC": [
@@ -222,26 +222,6 @@
       "coinId": "dai"
     },
     {
-      "address": "0x27d72484f1910F5d0226aFA4E03742c9cd2B297a",
-      "name": "Moonscape",
-      "symbol": "MSCP",
-      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/MSCP/logo.png",
-      "resourceId": "0x0000000000000000000005c22ba65f65adffadfc0947382f2e7c286a0fe45505",
-      "native": false,
-      "decimals": 18,
-      "coinId": "moonscape"
-    },
-    {
-      "address": "0xe138c66982Fd5c890c60b94FDBa1747faF092c20",
-      "name": "Offshift",
-      "symbol": "XFT",
-      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/XFT/logo.png",
-      "resourceId": "0x000000000000000000000abe580e7ee158da464b51ee1a83ac0289622e6be001",
-      "native": false,
-      "decimals": 18,
-      "coinId": "offshift"
-    },
-    {
       "address": "0x0A3BB08b3a15A19b4De82F8AcFc862606FB69A2D",
       "name": "iZUMi Bond USD",
       "symbol": "iUSD",
@@ -260,6 +240,26 @@
       "native": false,
       "decimals": 18,
       "coinId": "izumi-finance"
+    },
+    {
+      "address": "0x27d72484f1910F5d0226aFA4E03742c9cd2B297a",
+      "name": "Moonscape",
+      "symbol": "MSCP",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/MSCP/logo.png",
+      "resourceId": "0x0000000000000000000005c22ba65f65adffadfc0947382f2e7c286a0fe45505",
+      "native": false,
+      "decimals": 18,
+      "coinId": "moonscape"
+    },
+    {
+      "address": "0xe138c66982Fd5c890c60b94FDBa1747faF092c20",
+      "name": "Offshift",
+      "symbol": "XFT",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/XFT/logo.png",
+      "resourceId": "0x000000000000000000000abe580e7ee158da464b51ee1a83ac0289622e6be001",
+      "native": false,
+      "decimals": 18,
+      "coinId": "offshift"
     }
   ],
   "Avalanche": [
@@ -385,6 +385,26 @@
       "coinId": "FTB"
     },
     {
+      "address": "0x46b40202da16761633e757674661683fd733b845",
+      "name": "iZUMi Bond USD",
+      "symbol": "iUSD",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/iUSD/logo.png",
+      "resourceId": "0x00000000000000000000000a3bb08b3a15a19b4de82f8acfc862606fb69a2d01",
+      "native": false,
+      "decimals": 18,
+      "coinId": "izumi-bond-usd"
+    },
+    {
+      "address": "0x55137322647150d4ff0de22967589690c57a24d3",
+      "name": "izumi Token",
+      "symbol": "iZi",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/iZi/logo.png",
+      "resourceId": "0x000000000000000000000060d01ec2d5e98ac51c8b4cf84dfcce98d527c74701",
+      "native": false,
+      "decimals": 18,
+      "coinId": "izumi-finance"
+    },
+    {
       "address": "0x01d18666A27Cf91F32549f181F53e517BA6dc473",
       "name": "Meter MEN",
       "symbol": "MEN",
@@ -403,6 +423,45 @@
       "native": false,
       "decimals": 18,
       "coinId": "moonriver"
+    },
+    {
+      "address": "0xe85411C030fB32A9D8b14Bbbc6CB19417391F711",
+      "name": "Sumer Bitcoin",
+      "symbol": "suBTC",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/suBTC/logo.png",
+      "resourceId": "0x0000000000000000000000e85411c030fb32a9d8b14bbbc6cb19417391f71101",
+      "native": false,
+      "decimals": 18,
+      "coinId": "bitcoin"
+    },
+    {
+      "address": "0x1c22531AA9747d76fFF8F0A43b37954ca67d28e0",
+      "name": "Sumer Ethereum",
+      "symbol": "suETH",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/suETH/logo.png",
+      "resourceId": "0x00000000000000000000001c22531aa9747d76fff8f0a43b37954ca67d28e001",
+      "native": false,
+      "decimals": 18,
+      "coinId": "ethereum"
+    },
+    {
+      "address": "0x553d713e0fb958932b6c40abaf0b5a1ffae73da2",
+      "name": "Sumer coin",
+      "symbol": "SUMER",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/SUMER/logo.png",
+      "resourceId": "0x0000000000000000000000553d713e0fb958932b6c40abaf0b5a1ffae73da201",
+      "native": false,
+      "decimals": 18
+    },
+    {
+      "address": "0x8BF591Eae535f93a242D5A954d3Cde648b48A5A8",
+      "name": "Sumer USDC",
+      "symbol": "suUSD",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/suUSD/logo.png",
+      "resourceId": "0x00000000000000000000008bf591eae535f93a242d5a954d3cde648b48a5a801",
+      "native": false,
+      "decimals": 18,
+      "coinId": "usd-coin"
     },
     {
       "address": "0xd5e615BB3c761AB4cD9251dEEd78Dac58BE9CcBF",
@@ -443,26 +502,6 @@
       "native": false,
       "decimals": 18,
       "coinId": "voltswap"
-    },
-    {
-      "address": "0x46b40202da16761633e757674661683fd733b845",
-      "name": "iZUMi Bond USD",
-      "symbol": "iUSD",
-      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/iUSD/logo.png",
-      "resourceId": "0x00000000000000000000000a3bb08b3a15a19b4de82f8acfc862606fb69a2d01",
-      "native": false,
-      "decimals": 18,
-      "coinId": "izumi-bond-usd"
-    },
-    {
-      "address": "0x55137322647150d4ff0de22967589690c57a24d3",
-      "name": "izumi Token",
-      "symbol": "iZi",
-      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/iZi/logo.png",
-      "resourceId": "0x000000000000000000000060d01ec2d5e98ac51c8b4cf84dfcce98d527c74701",
-      "native": false,
-      "decimals": 18,
-      "coinId": "izumi-finance"
     }
   ],
   "Ropsten": [
@@ -557,6 +596,45 @@
       "native": false,
       "decimals": 18,
       "coinId": "MEN"
+    },
+    {
+      "address": "0x0477763b021e0f30680b7266a264d1044fe77a4d",
+      "name": "Sumer Bitcoin",
+      "symbol": "suBTC",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/suBTC/logo.png",
+      "resourceId": "0x00000000000000000000000477763b021e0f30680b7266a264d1044fe77a4d01",
+      "native": false,
+      "decimals": 18,
+      "coinId": "bitcoin"
+    },
+    {
+      "address": "0x4b0d849e5bf7f62bcbb0b7c364ddda552c2c3a8a",
+      "name": "Sumer Ethereum",
+      "symbol": "suETH",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/suETH/logo.png",
+      "resourceId": "0x00000000000000000000004b0d849e5bf7f62bcbb0b7c364ddda552c2c3a8a01",
+      "native": false,
+      "decimals": 18,
+      "coinId": "ethereum"
+    },
+    {
+      "address": "0x264b7316b535515db9759a77dc4041c0c2263527",
+      "name": "Sumer coin",
+      "symbol": "SUMER",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/SUMER/logo.png",
+      "resourceId": "0x0000000000000000000000264b7316b535515db9759a77dc4041c0c226352701",
+      "native": false,
+      "decimals": 18
+    },
+    {
+      "address": "0x37d982d96ac985a4fa9522383de5010109f0627c",
+      "name": "Sumer USDC",
+      "symbol": "suUSD",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/suUSD/logo.png",
+      "resourceId": "0x000000000000000000000037d982d96ac985a4fa9522383de5010109f0627c01",
+      "native": false,
+      "decimals": 18,
+      "coinId": "usd-coin"
     },
     {
       "address": "0x6af7f7cddfd0d69ba9b03863347bd762bd70f8dc",

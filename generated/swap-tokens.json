@@ -383,6 +383,38 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/stMTRG/logo.png"
     },
     {
+      "name": "Sumer Bitcoin",
+      "address": "0xe85411C030fB32A9D8b14Bbbc6CB19417391F711",
+      "symbol": "suBTC",
+      "decimals": 18,
+      "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/suBTC/logo.png"
+    },
+    {
+      "name": "Sumer Ethereum",
+      "address": "0x1c22531AA9747d76fFF8F0A43b37954ca67d28e0",
+      "symbol": "suETH",
+      "decimals": 18,
+      "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/suETH/logo.png"
+    },
+    {
+      "name": "Sumer coin",
+      "address": "0x553d713e0fb958932b6c40abaf0b5a1ffae73da2",
+      "symbol": "SUMER",
+      "decimals": 18,
+      "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/SUMER/logo.png"
+    },
+    {
+      "name": "Sumer USDC",
+      "address": "0x8BF591Eae535f93a242D5A954d3Cde648b48A5A8",
+      "symbol": "suUSD",
+      "decimals": 18,
+      "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/suUSD/logo.png"
+    },
+    {
       "name": "Theta Drop",
       "address": "0xd5e615BB3c761AB4cD9251dEEd78Dac58BE9CcBF",
       "symbol": "TDROP",
@@ -485,6 +517,14 @@
       "decimals": 18,
       "chainId": 83,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/suETH/logo.png"
+    },
+    {
+      "name": "Sumer coin",
+      "address": "0x264b7316b535515db9759a77dc4041c0c2263527",
+      "symbol": "SUMER",
+      "decimals": 18,
+      "chainId": 83,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/SUMER/logo.png"
     },
     {
       "name": "Sumer USDC",
