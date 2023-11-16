@@ -72,20 +72,6 @@
     },
     {
       "chainId": 82,
-      "name": "iZUMi Bond USD",
-      "address": "0x46b40202da16761633e757674661683fd733b845",
-      "symbol": "iUSD",
-      "decimals": 18
-    },
-    {
-      "chainId": 82,
-      "name": "izumi Token",
-      "address": "0x55137322647150d4ff0de22967589690c57a24d3",
-      "symbol": "iZi",
-      "decimals": 18
-    },
-    {
-      "chainId": 82,
       "name": "Meter MEN",
       "address": "0x01d18666A27Cf91F32549f181F53e517BA6dc473",
       "symbol": "MEN",
@@ -121,37 +107,9 @@
     },
     {
       "chainId": 82,
-      "name": "Staked MTRG",
-      "address": "0x215d603293357ca222bE92A1bf75eEc38DeF0aad",
-      "symbol": "stMTRG",
-      "decimals": 18
-    },
-    {
-      "chainId": 82,
-      "name": "Sumer Bitcoin",
-      "address": "0xe85411C030fB32A9D8b14Bbbc6CB19417391F711",
-      "symbol": "suBTC",
-      "decimals": 18
-    },
-    {
-      "chainId": 82,
-      "name": "Sumer Ethereum",
-      "address": "0x1c22531AA9747d76fFF8F0A43b37954ca67d28e0",
-      "symbol": "suETH",
-      "decimals": 18
-    },
-    {
-      "chainId": 82,
       "name": "Sumer coin",
       "address": "0x553d713e0fb958932b6c40abaf0b5a1ffae73da2",
       "symbol": "SUMER",
-      "decimals": 18
-    },
-    {
-      "chainId": 82,
-      "name": "Sumer USDC",
-      "address": "0x8BF591Eae535f93a242D5A954d3Cde648b48A5A8",
-      "symbol": "suUSD",
       "decimals": 18
     },
     {
@@ -202,6 +160,48 @@
       "address": "0xc1f6C86ABEe8e2e0B6fd5BD80F0b51fef783635C",
       "symbol": "WBTC.eth",
       "decimals": 8
+    },
+    {
+      "chainId": 82,
+      "name": "iZUMi Bond USD",
+      "address": "0x46b40202da16761633e757674661683fd733b845",
+      "symbol": "iUSD",
+      "decimals": 18
+    },
+    {
+      "chainId": 82,
+      "name": "izumi Token",
+      "address": "0x55137322647150d4ff0de22967589690c57a24d3",
+      "symbol": "iZi",
+      "decimals": 18
+    },
+    {
+      "chainId": 82,
+      "name": "Staked MTRG",
+      "address": "0x215d603293357ca222bE92A1bf75eEc38DeF0aad",
+      "symbol": "stMTRG",
+      "decimals": 18
+    },
+    {
+      "chainId": 82,
+      "name": "Sumer Bitcoin",
+      "address": "0xe85411C030fB32A9D8b14Bbbc6CB19417391F711",
+      "symbol": "suBTC",
+      "decimals": 18
+    },
+    {
+      "chainId": 82,
+      "name": "Sumer Ethereum",
+      "address": "0x1c22531AA9747d76fFF8F0A43b37954ca67d28e0",
+      "symbol": "suETH",
+      "decimals": 18
+    },
+    {
+      "chainId": 82,
+      "name": "Sumer USDC",
+      "address": "0x8BF591Eae535f93a242D5A954d3Cde648b48A5A8",
+      "symbol": "suUSD",
+      "decimals": 18
     },
     {
       "chainId": 82,
