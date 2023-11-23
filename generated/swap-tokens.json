@@ -383,7 +383,7 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/stMTRG/logo.png"
     },
     {
-      "name": "Sumer Bitcoin",
+      "name": "Sumerian BTC",
       "address": "0xe85411C030fB32A9D8b14Bbbc6CB19417391F711",
       "symbol": "suBTC",
       "decimals": 18,
@@ -391,7 +391,7 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/suBTC/logo.png"
     },
     {
-      "name": "Sumer Ethereum",
+      "name": "Sumerian ETH",
       "address": "0x1c22531AA9747d76fFF8F0A43b37954ca67d28e0",
       "symbol": "suETH",
       "decimals": 18,
@@ -407,7 +407,7 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/SUMER/logo.png"
     },
     {
-      "name": "Sumer USDC",
+      "name": "Sumerian USD",
       "address": "0x8BF591Eae535f93a242D5A954d3Cde648b48A5A8",
       "symbol": "suUSD",
       "decimals": 18,
@@ -503,7 +503,7 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png"
     },
     {
-      "name": "Sumer Bitcoin",
+      "name": "Sumerian BTC",
       "address": "0x0477763b021e0f30680b7266a264d1044fe77a4d",
       "symbol": "suBTC",
       "decimals": 18,
@@ -511,7 +511,7 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/suBTC/logo.png"
     },
     {
-      "name": "Sumer Ethereum",
+      "name": "Sumerian ETH",
       "address": "0x4b0d849e5bf7f62bcbb0b7c364ddda552c2c3a8a",
       "symbol": "suETH",
       "decimals": 18,
@@ -527,7 +527,7 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/SUMER/logo.png"
     },
     {
-      "name": "Sumer USDC",
+      "name": "Sumerian USD",
       "address": "0x37d982d96ac985a4fa9522383de5010109f0627c",
       "symbol": "suUSD",
       "decimals": 18,

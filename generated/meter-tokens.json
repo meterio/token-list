@@ -184,21 +184,21 @@
     },
     {
       "chainId": 82,
-      "name": "Sumer Bitcoin",
+      "name": "Sumerian BTC",
       "address": "0xe85411C030fB32A9D8b14Bbbc6CB19417391F711",
       "symbol": "suBTC",
       "decimals": 18
     },
     {
       "chainId": 82,
-      "name": "Sumer Ethereum",
+      "name": "Sumerian ETH",
       "address": "0x1c22531AA9747d76fFF8F0A43b37954ca67d28e0",
       "symbol": "suETH",
       "decimals": 18
     },
     {
       "chainId": 82,
-      "name": "Sumer USDC",
+      "name": "Sumerian USD",
       "address": "0x8BF591Eae535f93a242D5A954d3Cde648b48A5A8",
       "symbol": "suUSD",
       "decimals": 18

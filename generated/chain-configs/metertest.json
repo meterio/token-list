@@ -70,32 +70,29 @@
   },
   {
     "address": "0x0477763b021e0f30680b7266a264d1044fe77a4d",
-    "name": "Sumer Bitcoin",
+    "name": "Sumerian BTC",
     "symbol": "suBTC",
     "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/suBTC/logo.png",
     "resourceId": "0x00000000000000000000000477763b021e0f30680b7266a264d1044fe77a4d01",
     "native": false,
-    "decimals": 18,
-    "coinId": "bitcoin"
+    "decimals": 18
   },
   {
     "address": "0x4b0d849e5bf7f62bcbb0b7c364ddda552c2c3a8a",
-    "name": "Sumer Ethereum",
+    "name": "Sumerian ETH",
     "symbol": "suETH",
     "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/suETH/logo.png",
     "resourceId": "0x00000000000000000000004b0d849e5bf7f62bcbb0b7c364ddda552c2c3a8a01",
     "native": false,
-    "decimals": 18,
-    "coinId": "ethereum"
+    "decimals": 18
   },
   {
     "address": "0x37d982d96ac985a4fa9522383de5010109f0627c",
-    "name": "Sumer USDC",
+    "name": "Sumerian USD",
     "symbol": "suUSD",
     "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/suUSD/logo.png",
     "resourceId": "0x000000000000000000000037d982d96ac985a4fa9522383de5010109f0627c01",
     "native": false,
-    "decimals": 18,
-    "coinId": "usd-coin"
+    "decimals": 18
   }
 ]
