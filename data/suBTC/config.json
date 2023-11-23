@@ -1,20 +1,20 @@
 {
   "resourceID": "0x0000000000000000000000e85411c030fb32a9d8b14bbbc6cb19417391f71101",
   "testResourceID": "0x00000000000000000000000477763b021e0f30680b7266a264d1044fe77a4d01",
-  "name": "Sumer Bitcoin",
+  "name": "Sumerian BTC",
   "symbol": "suBTC",
   "decimals": 18,
   "tokens": [
     {
       "network": "MeterTest",
       "address": "0x0477763b021e0f30680b7266a264d1044fe77a4d",
-      "name": "Sumer Bitcoin",
+      "name": "Sumerian BTC",
       "symbol": "suBTC"
     },
     {
       "network": "Meter",
       "address": "0xe85411C030fB32A9D8b14Bbbc6CB19417391F711",
-      "name": "Sumer Bitcoin",
+      "name": "Sumerian BTC",
       "symbol": "suBTC"
     }
   ]
