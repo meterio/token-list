@@ -480,7 +480,8 @@
       "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/suBTC/logo.png",
       "resourceId": "0x0000000000000000000000e85411c030fb32a9d8b14bbbc6cb19417391f71101",
       "native": false,
-      "decimals": 18
+      "decimals": 18,
+      "coinId": "suBTC"
     },
     {
       "address": "0x1c22531AA9747d76fFF8F0A43b37954ca67d28e0",
@@ -489,7 +490,8 @@
       "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/suETH/logo.png",
       "resourceId": "0x00000000000000000000001c22531aa9747d76fff8f0a43b37954ca67d28e001",
       "native": false,
-      "decimals": 18
+      "decimals": 18,
+      "coinId": "suETH"
     },
     {
       "address": "0x8BF591Eae535f93a242D5A954d3Cde648b48A5A8",
@@ -498,7 +500,8 @@
       "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/suUSD/logo.png",
       "resourceId": "0x00000000000000000000008bf591eae535f93a242d5a954d3cde648b48a5a801",
       "native": false,
-      "decimals": 18
+      "decimals": 18,
+      "coinId": "suUSD"
     }
   ],
   "Ropsten": [
@@ -620,7 +623,8 @@
       "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/suBTC/logo.png",
       "resourceId": "0x00000000000000000000000477763b021e0f30680b7266a264d1044fe77a4d01",
       "native": false,
-      "decimals": 18
+      "decimals": 18,
+      "coinId": "suBTC"
     },
     {
       "address": "0x4b0d849e5bf7f62bcbb0b7c364ddda552c2c3a8a",
@@ -629,7 +633,8 @@
       "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/suETH/logo.png",
       "resourceId": "0x00000000000000000000004b0d849e5bf7f62bcbb0b7c364ddda552c2c3a8a01",
       "native": false,
-      "decimals": 18
+      "decimals": 18,
+      "coinId": "suETH"
     },
     {
       "address": "0x37d982d96ac985a4fa9522383de5010109f0627c",
@@ -638,7 +643,8 @@
       "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/suUSD/logo.png",
       "resourceId": "0x000000000000000000000037d982d96ac985a4fa9522383de5010109f0627c01",
       "native": false,
-      "decimals": 18
+      "decimals": 18,
+      "coinId": "suUSD"
     }
   ],
   "BSCTest": [
