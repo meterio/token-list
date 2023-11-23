@@ -1,20 +1,20 @@
 {
   "resourceID": "0x0000000000000000000000553d713e0fb958932b6c40abaf0b5a1ffae73da201",
   "testResourceID": "0x0000000000000000000000264b7316b535515db9759a77dc4041c0c226352701",
-  "name": "Sumer USDC",
-  "symbol": "suUSD",
+  "name": "Sumerian Token",
+  "symbol": "SUMER",
   "decimals": 18,
   "tokens": [
     {
       "network": "MeterTest",
       "address": "0x264b7316b535515db9759a77dc4041c0c2263527",
-      "name": "Sumer coin",
+      "name": "Sumerian Token",
       "symbol": "SUMER"
     },
     {
       "network": "Meter",
       "address": "0x553d713e0fb958932b6c40abaf0b5a1ffae73da2",
-      "name": "Sumer coin",
+      "name": "Sumerian Token",
       "symbol": "SUMER"
     }
   ]
