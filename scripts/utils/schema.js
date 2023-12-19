@@ -101,6 +101,11 @@ const CHAINS = [
     chainId: 8453,
     nativeToken: { name: 'Ether', symbol: 'ETH', decimals: 18 },
   },
+  {
+    enum: 'Arbitrum',
+    chainId: 42161,
+    nativeToken: { name: 'Ether', symbol: 'ETH', decimals: 18 },
+  },
 ];
 
 const tokenSchema = {
