@@ -1,5 +1,15 @@
 [
   {
+    "address": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+    "name": "USDC",
+    "symbol": "USDC",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDC/logo.png",
+    "resourceId": "0x0000000000000000000000a0b86991c6218b36c1d19d4a2e9eb0ce3606eb4801",
+    "native": false,
+    "decimals": 6,
+    "coinId": "usd-coin"
+  },
+  {
     "address": "0x553d713e0fb958932b6c40abaf0b5a1ffae73da2",
     "name": "Sumerian Token",
     "symbol": "SUMER",

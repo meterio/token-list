@@ -1023,6 +1023,14 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/suUSD/logo.png"
     },
     {
+      "name": "USDC",
+      "address": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 42161,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDC/logo.png"
+    },
+    {
       "name": "AmpleForth",
       "address": "0x027dbcA046ca156De9622cD1e2D907d375e53aa7",
       "symbol": "AMPL",
