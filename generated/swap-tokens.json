@@ -247,14 +247,6 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png"
     },
     {
-      "name": "Crowns",
-      "address": "0xbcf39F0EDDa668C58371E519AF37CA705f2bFcbd",
-      "symbol": "pCWS",
-      "decimals": 18,
-      "chainId": 56,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/CWS/logo.png"
-    },
-    {
       "name": "Offshift",
       "address": "0xe138c66982Fd5c890c60b94FDBa1747faF092c20",
       "symbol": "XFT",
