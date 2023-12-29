@@ -18,15 +18,5 @@
     "native": false,
     "decimals": 9,
     "coinId": "ampleforth"
-  },
-  {
-    "address": "0x4Ca0ACab9f6B9C084d216F40963c070Eef95033B",
-    "name": "Crowns",
-    "symbol": "pCWS",
-    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/CWS/logo.png",
-    "resourceId": "0x000000000000000000000fde9cad69e98b3cc8c998a8f2094293cb0bd6911507",
-    "native": false,
-    "decimals": 18,
-    "coinId": "crowns"
   }
 ]

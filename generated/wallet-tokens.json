@@ -45,17 +45,6 @@
       "resourceId": "0x000000000000000000000037fe0f067fa808ffbdd12891c0858532cfe7361d01"
     },
     {
-      "name": "Crowns",
-      "address": "0xac0104cca91d167873b8601d2e71eb3d4d8c33e0",
-      "symbol": "CWS",
-      "decimals": 18,
-      "chainId": 1,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/CWS/logo.png",
-      "coinId": "crowns",
-      "native": false,
-      "resourceId": "0x0000000000000000000000ac0104cca91d167873b8601d2e71eb3d4d8c33e001"
-    },
-    {
       "name": "DAI",
       "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
       "symbol": "DAI",
@@ -175,17 +164,6 @@
       "coinId": "ampleforth",
       "native": false,
       "resourceId": "0x1f3eb8ee12ce38ffa19fc4c635621ad2c9a0bd609def9ddce77680e33bc2224b"
-    },
-    {
-      "name": "Crowns",
-      "address": "0xaaeffc5B43Ef3FB83c9F4888301CE7e9c6DEDDC4",
-      "symbol": "CWS",
-      "decimals": 18,
-      "chainId": 3,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/CWS/logo.png",
-      "coinId": "crowns",
-      "native": false,
-      "resourceId": "0x000000000000000000000fde9cad69e98b3cc8c998a8f2094293cb0bd6911507"
     },
     {
       "name": "Ropsten Ether",
@@ -817,17 +795,6 @@
       "resourceId": "0x0000000000000000000000228ebBeE999c6a7ad74A6130E81b12f9Fe237Ba301"
     },
     {
-      "name": "Crowns",
-      "address": "0x4Ca0ACab9f6B9C084d216F40963c070Eef95033B",
-      "symbol": "pCWS",
-      "decimals": 18,
-      "chainId": 97,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/CWS/logo.png",
-      "coinId": "crowns",
-      "native": false,
-      "resourceId": "0x000000000000000000000fde9cad69e98b3cc8c998a8f2094293cb0bd6911507"
-    },
-    {
       "name": "DragonMaster Token",
       "address": "0x04f177fcacf6fb4d2f95d41d7d3fee8e565ca1d0",
       "symbol": "DMT",
@@ -1064,17 +1031,6 @@
       "resourceId": "0x0000000000000000000000e9e7cea3dedca5984780bafc599bd69add087d5601"
     },
     {
-      "name": "Crowns",
-      "address": "0x1aBB8FdE5e64be3419FceF80df335C68dD2956C7",
-      "symbol": "CWS",
-      "decimals": 18,
-      "chainId": 1284,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/CWS/logo.png",
-      "coinId": "crowns",
-      "native": false,
-      "resourceId": "0x0000000000000000000000ac0104cca91d167873b8601d2e71eb3d4d8c33e001"
-    },
-    {
       "name": "GLMR",
       "address": "0xAcc15dC74880C9944775448304B263D191c6077F",
       "symbol": "GLMR",
@@ -1194,17 +1150,6 @@
       "coinId": "binance-usd",
       "native": false,
       "resourceId": "0x0000000000000000000000e9e7cea3dedca5984780bafc599bd69add087d5601"
-    },
-    {
-      "name": "Crowns",
-      "address": "0x6fc9651f45B262AE6338a701D563Ab118B1eC0Ce",
-      "symbol": "CWS",
-      "decimals": 18,
-      "chainId": 1285,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/CWS/logo.png",
-      "coinId": "crowns",
-      "native": false,
-      "resourceId": "0x0000000000000000000000ac0104cca91d167873b8601d2e71eb3d4d8c33e001"
     },
     {
       "name": "EnergyWeb Token",
@@ -1348,17 +1293,6 @@
       "coinId": "offshift",
       "native": false,
       "resourceId": "0x000000000000000000000abe580e7ee158da464b51ee1a83ac0289622e6be001"
-    },
-    {
-      "name": "Crowns",
-      "address": "0xFde9cad69E98b3Cc8C998a8F2094293cb0bD6911",
-      "symbol": "CWS",
-      "decimals": 18,
-      "chainId": 1287,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/CWS/logo.png",
-      "coinId": "crowns",
-      "native": false,
-      "resourceId": "0x000000000000000000000fde9cad69e98b3cc8c998a8f2094293cb0bd6911507"
     },
     {
       "name": "DEV Token",

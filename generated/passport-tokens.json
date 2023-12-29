@@ -80,16 +80,6 @@
       "decimals": 18
     },
     {
-      "address": "0xac0104cca91d167873b8601d2e71eb3d4d8c33e0",
-      "name": "Crowns",
-      "symbol": "CWS",
-      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/CWS/logo.png",
-      "resourceId": "0x0000000000000000000000ac0104cca91d167873b8601d2e71eb3d4d8c33e001",
-      "native": false,
-      "decimals": 18,
-      "coinId": "crowns"
-    },
-    {
       "address": "0xd478161c952357f05f0292b56012cd8457f1cfbf",
       "name": "Polkamarkets",
       "symbol": "POLK",
@@ -524,16 +514,6 @@
       "native": false,
       "decimals": 9,
       "coinId": "ampleforth"
-    },
-    {
-      "address": "0xaaeffc5B43Ef3FB83c9F4888301CE7e9c6DEDDC4",
-      "name": "Crowns",
-      "symbol": "CWS",
-      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/CWS/logo.png",
-      "resourceId": "0x000000000000000000000fde9cad69e98b3cc8c998a8f2094293cb0bd6911507",
-      "native": false,
-      "decimals": 18,
-      "coinId": "crowns"
     }
   ],
   "MeterTest": [
@@ -657,16 +637,6 @@
       "native": false,
       "decimals": 9,
       "coinId": "ampleforth"
-    },
-    {
-      "address": "0x4Ca0ACab9f6B9C084d216F40963c070Eef95033B",
-      "name": "Crowns",
-      "symbol": "pCWS",
-      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/CWS/logo.png",
-      "resourceId": "0x000000000000000000000fde9cad69e98b3cc8c998a8f2094293cb0bd6911507",
-      "native": false,
-      "decimals": 18,
-      "coinId": "crowns"
     }
   ],
   "Moonriver": [
@@ -739,16 +709,6 @@
       "native": false,
       "decimals": 18,
       "coinId": "binance-usd"
-    },
-    {
-      "address": "0x6fc9651f45B262AE6338a701D563Ab118B1eC0Ce",
-      "name": "Crowns",
-      "symbol": "CWS",
-      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/CWS/logo.png",
-      "resourceId": "0x0000000000000000000000ac0104cca91d167873b8601d2e71eb3d4d8c33e001",
-      "native": false,
-      "decimals": 18,
-      "coinId": "crowns"
     },
     {
       "address": "0x59A1B7B7469b968eb051f6c71512d2B61F27794d",
@@ -891,16 +851,6 @@
       "native": false,
       "decimals": 18,
       "coinId": "binance-usd"
-    },
-    {
-      "address": "0x1aBB8FdE5e64be3419FceF80df335C68dD2956C7",
-      "name": "Crowns",
-      "symbol": "CWS",
-      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/CWS/logo.png",
-      "resourceId": "0x0000000000000000000000ac0104cca91d167873b8601d2e71eb3d4d8c33e001",
-      "native": false,
-      "decimals": 18,
-      "coinId": "crowns"
     },
     {
       "address": "0xAcc15dC74880C9944775448304B263D191c6077F",
@@ -1087,38 +1037,6 @@
       "coinId": "voltswap"
     }
   ],
-  "Moonbase": [
-    {
-      "address": "0xFde9cad69E98b3Cc8C998a8F2094293cb0bD6911",
-      "name": "Crowns",
-      "symbol": "CWS",
-      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/CWS/logo.png",
-      "resourceId": "0x000000000000000000000fde9cad69e98b3cc8c998a8f2094293cb0bd6911507",
-      "native": false,
-      "decimals": 18,
-      "coinId": "crowns"
-    },
-    {
-      "address": "0xF2C84Cb3d1e9Fac001F36c965260aA2a9c9D822D",
-      "name": "Moonscape",
-      "symbol": "MSCP",
-      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/MSCP/logo.png",
-      "resourceId": "0x000000000000000000000f2c84cb3d1e9fac001f36c965260aa2a9c9d822d507",
-      "native": false,
-      "decimals": 18,
-      "coinId": "moonscape"
-    },
-    {
-      "address": "0xE29A4BD665e4782a4c002aA30D3d25f010E8A394",
-      "name": "RiverBoat",
-      "symbol": "RIB",
-      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/RIB/logo.png",
-      "resourceId": "0x000000000000000000000e29a4bd665e4782a4c002aa30d3d25f010e8a394507",
-      "native": false,
-      "decimals": 18,
-      "coinId": "riverboat"
-    }
-  ],
   "Polygon": [
     {
       "address": "0x04f177fcacf6fb4d2f95d41d7d3fee8e565ca1d0",
@@ -1171,6 +1089,28 @@
       "native": true,
       "decimals": 18,
       "coinId": "energy-web-token"
+    }
+  ],
+  "Moonbase": [
+    {
+      "address": "0xF2C84Cb3d1e9Fac001F36c965260aA2a9c9D822D",
+      "name": "Moonscape",
+      "symbol": "MSCP",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/MSCP/logo.png",
+      "resourceId": "0x000000000000000000000f2c84cb3d1e9fac001f36c965260aa2a9c9d822d507",
+      "native": false,
+      "decimals": 18,
+      "coinId": "moonscape"
+    },
+    {
+      "address": "0xE29A4BD665e4782a4c002aA30D3d25f010E8A394",
+      "name": "RiverBoat",
+      "symbol": "RIB",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/RIB/logo.png",
+      "resourceId": "0x000000000000000000000e29a4bd665e4782a4c002aa30d3d25f010e8a394507",
+      "native": false,
+      "decimals": 18,
+      "coinId": "riverboat"
     }
   ],
   "Base": [
