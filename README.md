@@ -263,7 +263,7 @@ genericHandler Proxy: 0x0B9709FE3aa76068f07d054fd4417445D5c7DA9A
 ### On Base
 
 ```
-Polygon Contract Addresses  ID: 11
+Base Contract Addresses  ID: 11
 ================================================================
 bridge Impl: 0x911F32FD5d347b4EEB61fDb80d9F1063Be1E78E6
 bridge Proxy: 0xB3a128242e23AA80C37D14dB2d577727a1Fd4608
@@ -271,6 +271,19 @@ erc20Handler Impl: 0x8B7176Db605B801663f745472D8Ba89ce41d75CA
 erc20Handler Proxy: 0x880009982273e6560B75F6E30174E48B503c9747
 genericHandler Impl: 0x92D144A99bD3aB1177B8Df600769Ad5422DE7819
 genericHandler Proxy: 0xFEDAD08Ba2219489F3090ff118AC9E8b040C8Ad7
+```
+
+### On Arbitrum
+
+```
+Arbitrum Contract Addresses  ID: 12
+================================================================
+bridge Impl: 0x890143505a99d625c8f2775efFE800780DBCA640
+bridge Proxy: 0x5Bc89e202f5aA0244746754ccDe3abf159f765f6
+erc20Handler Impl: 0x085f02E24868D46b307436e36b92082840291256
+erc20Handler Proxy: 0x195d3cAefa6495514eb19D4CA3e21d3299889D11
+genericHandler Impl: 0x7FbB4e3E9959d7C07626A00f061386f5A4F4736d
+genericHandler Proxy: 0x93a884a6d5D66011322E8627e00543edE242aC81
 ```
 
 ## Generate configs
