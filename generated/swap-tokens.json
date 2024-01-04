@@ -63,6 +63,14 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png"
     },
     {
+      "name": "GeekyPunks",
+      "address": "0x7ccc3b2ffc90aeb6870950e79cd09592b92ac888",
+      "symbol": "GP",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/GP/logo.png"
+    },
+    {
       "name": "iZUMi Bond USD",
       "address": "0x0A3BB08b3a15A19b4De82F8AcFc862606FB69A2D",
       "symbol": "iUSD",
