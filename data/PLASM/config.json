@@ -1,0 +1,13 @@
+{
+    "resourceID": "0x00000000000000000000005c2fb1e2594e85c5f1579b07dd5b8dfea3f929e001",
+    "name": "PLASM",
+    "symbol": "PLASM",
+    "decimals": 18,
+    "tokens": [
+      {
+        "network": "Theta",
+        "address": "0x5c2fb1e2594e85c5f1579b07dd5b8dfea3f929e0",
+        "name": "PLASM"
+      }
+    ]
+  }
