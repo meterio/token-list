@@ -805,6 +805,17 @@
       "resourceId": "0x0000000000000000000000228ebBeE999c6a7ad74A6130E81b12f9Fe237Ba301"
     },
     {
+      "name": "BEPRO Network",
+      "address": "0x07CC1cC3628Cc1615120DF781eF9fc8EC2feAE09",
+      "symbol": "BEPRO",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/BEPRO/logo.png",
+      "coinId": "bet-protocol",
+      "native": false,
+      "resourceId": "0x0000000000000000000000cf3c8be2e2c42331da80ef210e9b1b307c03d36a01"
+    },
+    {
       "name": "DragonMaster Token",
       "address": "0x04f177fcacf6fb4d2f95d41d7d3fee8e565ca1d0",
       "symbol": "DMT",
@@ -910,6 +921,16 @@
       "coinId": "meter",
       "native": false,
       "resourceId": "0x0000000000000000000000bd2949f67dcdc549c6ebe98696449fa79d988a9f01"
+    },
+    {
+      "name": "PLASM",
+      "address": "0x5c2fb1e2594e85c5f1579b07dd5b8dfea3f929e0",
+      "symbol": "PLASM",
+      "decimals": 18,
+      "chainId": 361,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/PLASM/logo.png",
+      "native": false,
+      "resourceId": "0x00000000000000000000005c2fb1e2594e85c5f1579b07dd5b8dfea3f929e001"
     },
     {
       "name": "Theta Drop",
@@ -1366,6 +1387,38 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png",
       "coinId": "ethereum",
       "native": true
+    },
+    {
+      "name": "Sumerian ETH",
+      "address": "0x1c22531AA9747d76fFF8F0A43b37954ca67d28e0",
+      "symbol": "suETH",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/suETH/logo.png",
+      "coinId": "suETH",
+      "native": false,
+      "resourceId": "0x00000000000000000000001c22531aa9747d76fff8f0a43b37954ca67d28e001"
+    },
+    {
+      "name": "Sumerian Token",
+      "address": "0x553d713e0fb958932b6c40abaf0b5a1ffae73da2",
+      "symbol": "SUMER",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/SUMER/logo.png",
+      "native": false,
+      "resourceId": "0x0000000000000000000000553d713e0fb958932b6c40abaf0b5a1ffae73da201"
+    },
+    {
+      "name": "Sumerian USD",
+      "address": "0x8BF591Eae535f93a242D5A954d3Cde648b48A5A8",
+      "symbol": "suUSD",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/suUSD/logo.png",
+      "coinId": "suUSD",
+      "native": false,
+      "resourceId": "0x00000000000000000000008bf591eae535f93a242d5a954d3cde648b48a5a801"
     },
     {
       "name": "Ether",

@@ -167,6 +167,14 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/PASS/logo.png"
     },
     {
+      "name": "PLASM",
+      "address": "0x5c2fb1e2594e85c5f1579b07dd5b8dfea3f929e0",
+      "symbol": "PLASM",
+      "decimals": 18,
+      "chainId": 361,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/PLASM/logo.png"
+    },
+    {
       "name": "SKILL by cryptoblades.io",
       "address": "0x45a7ca9511a49508B01d37F09f9F142bEa85Ce14",
       "symbol": "SKILL",
@@ -188,6 +196,14 @@
       "symbol": "SUMER",
       "decimals": 18,
       "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/SUMER/logo.png"
+    },
+    {
+      "name": "Sumerian Token",
+      "address": "0x553d713e0fb958932b6c40abaf0b5a1ffae73da2",
+      "symbol": "SUMER",
+      "decimals": 18,
+      "chainId": 8453,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/SUMER/logo.png"
     },
     {
@@ -407,6 +423,14 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/suETH/logo.png"
     },
     {
+      "name": "Sumerian ETH",
+      "address": "0x1c22531AA9747d76fFF8F0A43b37954ca67d28e0",
+      "symbol": "suETH",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/suETH/logo.png"
+    },
+    {
       "name": "Sumerian USD",
       "address": "0x37d982d96ac985a4fa9522383de5010109f0627c",
       "symbol": "suUSD",
@@ -420,6 +444,14 @@
       "symbol": "suUSD",
       "decimals": 18,
       "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/suUSD/logo.png"
+    },
+    {
+      "name": "Sumerian USD",
+      "address": "0x8BF591Eae535f93a242D5A954d3Cde648b48A5A8",
+      "symbol": "suUSD",
+      "decimals": 18,
+      "chainId": 8453,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/suUSD/logo.png"
     },
     {
