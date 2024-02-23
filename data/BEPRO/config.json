@@ -15,10 +15,6 @@
     {
       "network": "Moonbeam",
       "address": "0x4EdF8E0778967012D46968ceadb75436d0426f88"
-    },
-    {
-      "network": "Polygon",
-      "address": "0x07CC1cC3628Cc1615120DF781eF9fc8EC2feAE09"
     }
   ]
 }
