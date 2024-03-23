@@ -1,0 +1,27 @@
+{
+  "resourceID": "0x0000000000000000000000c797e9bb22d453bc8ecdfe91e4548b39abc6e0a701",
+  "testResourceID": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+  "name": "Tigris",
+  "symbol": "TIG",
+  "decimals": 18,
+  "tokens": [
+    {
+      "network": "Meter",
+      "address": "0xc797E9BB22D453Bc8ecdfe91E4548b39AbC6e0A7",
+      "name": "Tigris",
+      "symbol": "TIG"
+    },
+    {
+      "network": "Arbitrum",
+      "address": "0x3A33473d7990a605a88ac72A78aD4EFC40a54ADB",
+      "name": "Tigris",
+      "symbol": "TIG"
+    },
+    {
+      "network": "Polygon",
+      "address": "0x7157Fe7533f2fc77498755Cc253d79046c746560",
+      "name": "Tigris",
+      "symbol": "TIG"
+    }
+  ]
+}
