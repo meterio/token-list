@@ -128,6 +128,13 @@
     },
     {
       "chainId": 82,
+      "name": "Tigris",
+      "address": "0xc797E9BB22D453Bc8ecdfe91E4548b39AbC6e0A7",
+      "symbol": "TIG",
+      "decimals": 18
+    },
+    {
+      "chainId": 82,
       "name": "DragonMaster Totem",
       "address": "0x1adcef5c780d8895ac77e6ee9239b4b3ecb76da2",
       "symbol": "TOTEM",

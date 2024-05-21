@@ -415,6 +415,14 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/TFUEL/logo.png"
     },
     {
+      "name": "Tigris",
+      "address": "0xc797E9BB22D453Bc8ecdfe91E4548b39AbC6e0A7",
+      "symbol": "TIG",
+      "decimals": 18,
+      "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/TIG/logo.png"
+    },
+    {
       "name": "DragonMaster Totem",
       "address": "0x1adcef5c780d8895ac77e6ee9239b4b3ecb76da2",
       "symbol": "TOTEM",
@@ -581,6 +589,14 @@
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/GLMR/logo.png"
+    },
+    {
+      "name": "Tigris",
+      "address": "0x7157Fe7533f2fc77498755Cc253d79046c746560",
+      "symbol": "TIG",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/TIG/logo.png"
     },
     {
       "name": "DragonMaster Totem",
@@ -1005,6 +1021,14 @@
       "decimals": 18,
       "chainId": 42161,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/suUSD/logo.png"
+    },
+    {
+      "name": "Tigris",
+      "address": "0x3A33473d7990a605a88ac72A78aD4EFC40a54ADB",
+      "symbol": "TIG",
+      "decimals": 18,
+      "chainId": 42161,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/TIG/logo.png"
     },
     {
       "name": "USDC",

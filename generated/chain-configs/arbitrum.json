@@ -19,6 +19,16 @@
     "decimals": 18
   },
   {
+    "address": "0x3A33473d7990a605a88ac72A78aD4EFC40a54ADB",
+    "name": "Tigris",
+    "symbol": "TIG",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/TIG/logo.png",
+    "resourceId": "0x0000000000000000000000c797e9bb22d453bc8ecdfe91e4548b39abc6e0a701",
+    "native": false,
+    "decimals": 18,
+    "coinId": "tigris"
+  },
+  {
     "address": "0xe85411C030fB32A9D8b14Bbbc6CB19417391F711",
     "name": "Sumerian BTC",
     "symbol": "suBTC",

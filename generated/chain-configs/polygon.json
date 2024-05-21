@@ -30,6 +30,16 @@
     "coinId": "moonbeam"
   },
   {
+    "address": "0x7157Fe7533f2fc77498755Cc253d79046c746560",
+    "name": "Tigris",
+    "symbol": "TIG",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/TIG/logo.png",
+    "resourceId": "0x0000000000000000000000c797e9bb22d453bc8ecdfe91e4548b39abc6e0a701",
+    "native": false,
+    "decimals": 18,
+    "coinId": "tigris"
+  },
+  {
     "address": "0x1adcef5c780d8895ac77e6ee9239b4b3ecb76da2",
     "name": "DragonMaster Totem",
     "symbol": "TOTEM",
