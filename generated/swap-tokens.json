@@ -559,14 +559,6 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png"
     },
     {
-      "name": "BEPRO Network",
-      "address": "0x07CC1cC3628Cc1615120DF781eF9fc8EC2feAE09",
-      "symbol": "BEPRO",
-      "decimals": 18,
-      "chainId": 137,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/BEPRO/logo.png"
-    },
-    {
       "name": "DragonMaster Token",
       "address": "0x04f177fcacf6fb4d2f95d41d7d3fee8e565ca1d0",
       "symbol": "DMT",
