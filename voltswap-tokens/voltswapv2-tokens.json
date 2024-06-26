@@ -175,6 +175,14 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/PLASM/logo.png"
     },
     {
+      "name": "Replay Token",
+      "address": "0x3Da3D8CDE7B12CD2CBb688E2655BcaCD8946399D",
+      "symbol": "RPLAY",
+      "decimals": 18,
+      "chainId": 361,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/RPLAY/logo.png"
+    },
+    {
       "name": "SKILL by cryptoblades.io",
       "address": "0x45a7ca9511a49508B01d37F09f9F142bEa85Ce14",
       "symbol": "SKILL",

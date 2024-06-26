@@ -89,6 +89,15 @@
     "coinId": "polkamarkets"
   },
   {
+    "address": "0x3Da3D8CDE7B12CD2CBb688E2655BcaCD8946399D",
+    "name": "Replay Token",
+    "symbol": "RPLAY",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/RPLAY/logo.png",
+    "resourceId": "0x00000000000000000000003da3d8cde7b12cd2cbb688e2655bcacd8946399d01",
+    "native": false,
+    "decimals": 18
+  },
+  {
     "address": "0xabe580e7ee158da464b51ee1a83ac0289622e6be",
     "name": "Offshift",
     "symbol": "XFT",

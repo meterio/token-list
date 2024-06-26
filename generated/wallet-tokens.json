@@ -121,6 +121,16 @@
       "resourceId": "0x0000000000000000000000d478161c952357f05f0292b56012cd8457f1cfbf01"
     },
     {
+      "name": "Replay Token",
+      "address": "0x3Da3D8CDE7B12CD2CBb688E2655BcaCD8946399D",
+      "symbol": "RPLAY",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/RPLAY/logo.png",
+      "native": false,
+      "resourceId": "0x00000000000000000000003da3d8cde7b12cd2cbb688e2655bcacd8946399d01"
+    },
+    {
       "name": "USDC",
       "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
       "symbol": "USDC",
@@ -942,6 +952,16 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/PLASM/logo.png",
       "native": false,
       "resourceId": "0x00000000000000000000005c2fb1e2594e85c5f1579b07dd5b8dfea3f929e001"
+    },
+    {
+      "name": "Replay Token",
+      "address": "0x3Da3D8CDE7B12CD2CBb688E2655BcaCD8946399D",
+      "symbol": "RPLAY",
+      "decimals": 18,
+      "chainId": 361,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/RPLAY/logo.png",
+      "native": false,
+      "resourceId": "0x00000000000000000000003da3d8cde7b12cd2cbb688e2655bcacd8946399d01"
     },
     {
       "name": "Theta Drop",
