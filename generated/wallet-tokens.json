@@ -371,6 +371,16 @@
       "resourceId": "0x1f3eb8ee12ce38ffa19fc4c635621ad2c9a0bd609def9ddce77680e33bc2224b"
     },
     {
+      "name": "BBStudios Token",
+      "address": "0x4f78861e9464a91f70fd8e0f85b7c103cb96ded8",
+      "symbol": "BBT",
+      "decimals": 18,
+      "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/BBT/logo.png",
+      "native": false,
+      "resourceId": "0x00000000000000000000004f78861e9464a91f70fd8e0f85b7c103cb96ded801"
+    },
+    {
       "name": "BNB from BSC on Meter",
       "address": "0xF0E86246519Be0810C9FAfc8430C49799985aAA8",
       "symbol": "BNB",
