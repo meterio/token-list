@@ -109,6 +109,26 @@
     "coinId": "FTB"
   },
   {
+    "address": "0x46b40202da16761633e757674661683fd733b845",
+    "name": "iZUMi Bond USD",
+    "symbol": "iUSD",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/iUSD/logo.png",
+    "resourceId": "0x00000000000000000000000a3bb08b3a15a19b4de82f8acfc862606fb69a2d01",
+    "native": false,
+    "decimals": 18,
+    "coinId": "izumi-bond-usd"
+  },
+  {
+    "address": "0x55137322647150d4ff0de22967589690c57a24d3",
+    "name": "izumi Token",
+    "symbol": "iZi",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/iZi/logo.png",
+    "resourceId": "0x000000000000000000000060d01ec2d5e98ac51c8b4cf84dfcce98d527c74701",
+    "native": false,
+    "decimals": 18,
+    "coinId": "izumi-finance"
+  },
+  {
     "address": "0x01d18666A27Cf91F32549f181F53e517BA6dc473",
     "name": "Meter MEN",
     "symbol": "MEN",
@@ -129,6 +149,26 @@
     "coinId": "moonriver"
   },
   {
+    "address": "0xe85411C030fB32A9D8b14Bbbc6CB19417391F711",
+    "name": "Sumerian BTC",
+    "symbol": "suBTC",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/suBTC/logo.png",
+    "resourceId": "0x0000000000000000000000e85411c030fb32a9d8b14bbbc6cb19417391f71101",
+    "native": false,
+    "decimals": 18,
+    "coinId": "wrapped-bitcoin"
+  },
+  {
+    "address": "0x1c22531AA9747d76fFF8F0A43b37954ca67d28e0",
+    "name": "Sumerian ETH",
+    "symbol": "suETH",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/suETH/logo.png",
+    "resourceId": "0x00000000000000000000001c22531aa9747d76fff8f0a43b37954ca67d28e001",
+    "native": false,
+    "decimals": 18,
+    "coinId": "ethereum"
+  },
+  {
     "address": "0x553d713e0fb958932b6c40abaf0b5a1ffae73da2",
     "name": "Sumerian Token",
     "symbol": "SUMER",
@@ -136,6 +176,16 @@
     "resourceId": "0x0000000000000000000000553d713e0fb958932b6c40abaf0b5a1ffae73da201",
     "native": false,
     "decimals": 18
+  },
+  {
+    "address": "0x8BF591Eae535f93a242D5A954d3Cde648b48A5A8",
+    "name": "Sumerian USD",
+    "symbol": "suUSD",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/suUSD/logo.png",
+    "resourceId": "0x00000000000000000000008bf591eae535f93a242d5a954d3cde648b48a5a801",
+    "native": false,
+    "decimals": 18,
+    "coinId": "sumer-money-suusd"
   },
   {
     "address": "0xd5e615BB3c761AB4cD9251dEEd78Dac58BE9CcBF",
@@ -186,55 +236,5 @@
     "native": false,
     "decimals": 18,
     "coinId": "voltswap"
-  },
-  {
-    "address": "0x46b40202da16761633e757674661683fd733b845",
-    "name": "iZUMi Bond USD",
-    "symbol": "iUSD",
-    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/iUSD/logo.png",
-    "resourceId": "0x00000000000000000000000a3bb08b3a15a19b4de82f8acfc862606fb69a2d01",
-    "native": false,
-    "decimals": 18,
-    "coinId": "izumi-bond-usd"
-  },
-  {
-    "address": "0x55137322647150d4ff0de22967589690c57a24d3",
-    "name": "izumi Token",
-    "symbol": "iZi",
-    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/iZi/logo.png",
-    "resourceId": "0x000000000000000000000060d01ec2d5e98ac51c8b4cf84dfcce98d527c74701",
-    "native": false,
-    "decimals": 18,
-    "coinId": "izumi-finance"
-  },
-  {
-    "address": "0xe85411C030fB32A9D8b14Bbbc6CB19417391F711",
-    "name": "Sumerian BTC",
-    "symbol": "suBTC",
-    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/suBTC/logo.png",
-    "resourceId": "0x0000000000000000000000e85411c030fb32a9d8b14bbbc6cb19417391f71101",
-    "native": false,
-    "decimals": 18,
-    "coinId": "wrapped-bitcoin"
-  },
-  {
-    "address": "0x1c22531AA9747d76fFF8F0A43b37954ca67d28e0",
-    "name": "Sumerian ETH",
-    "symbol": "suETH",
-    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/suETH/logo.png",
-    "resourceId": "0x00000000000000000000001c22531aa9747d76fff8f0a43b37954ca67d28e001",
-    "native": false,
-    "decimals": 18,
-    "coinId": "ethereum"
-  },
-  {
-    "address": "0x8BF591Eae535f93a242D5A954d3Cde648b48A5A8",
-    "name": "Sumerian USD",
-    "symbol": "suUSD",
-    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/suUSD/logo.png",
-    "resourceId": "0x00000000000000000000008bf591eae535f93a242d5a954d3cde648b48a5a801",
-    "native": false,
-    "decimals": 18,
-    "coinId": "sumer-money-suusd"
   }
 ]

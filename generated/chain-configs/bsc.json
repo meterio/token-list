@@ -80,26 +80,6 @@
     "coinId": "dai"
   },
   {
-    "address": "0x27d72484f1910F5d0226aFA4E03742c9cd2B297a",
-    "name": "Moonscape",
-    "symbol": "MSCP",
-    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/MSCP/logo.png",
-    "resourceId": "0x0000000000000000000005c22ba65f65adffadfc0947382f2e7c286a0fe45505",
-    "native": false,
-    "decimals": 18,
-    "coinId": "moonscape"
-  },
-  {
-    "address": "0xe138c66982Fd5c890c60b94FDBa1747faF092c20",
-    "name": "Offshift",
-    "symbol": "XFT",
-    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/XFT/logo.png",
-    "resourceId": "0x000000000000000000000abe580e7ee158da464b51ee1a83ac0289622e6be001",
-    "native": false,
-    "decimals": 18,
-    "coinId": "offshift"
-  },
-  {
     "address": "0x0A3BB08b3a15A19b4De82F8AcFc862606FB69A2D",
     "name": "iZUMi Bond USD",
     "symbol": "iUSD",
@@ -118,5 +98,25 @@
     "native": false,
     "decimals": 18,
     "coinId": "izumi-finance"
+  },
+  {
+    "address": "0x27d72484f1910F5d0226aFA4E03742c9cd2B297a",
+    "name": "Moonscape",
+    "symbol": "MSCP",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/MSCP/logo.png",
+    "resourceId": "0x0000000000000000000005c22ba65f65adffadfc0947382f2e7c286a0fe45505",
+    "native": false,
+    "decimals": 18,
+    "coinId": "moonscape"
+  },
+  {
+    "address": "0xe138c66982Fd5c890c60b94FDBa1747faF092c20",
+    "name": "Offshift",
+    "symbol": "XFT",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/XFT/logo.png",
+    "resourceId": "0x000000000000000000000abe580e7ee158da464b51ee1a83ac0289622e6be001",
+    "native": false,
+    "decimals": 18,
+    "coinId": "offshift"
   }
 ]
