@@ -183,6 +183,14 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/PLASM/logo.png"
     },
     {
+      "name": "POG Coin",
+      "address": "0x71dC74256d1acB42A216CC5c3c097B8dA71026b0",
+      "symbol": "POGS",
+      "decimals": 18,
+      "chainId": 361,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/POGS/logo.png"
+    },
+    {
       "name": "Replay Token",
       "address": "0x3Da3D8CDE7B12CD2CBb688E2655BcaCD8946399D",
       "symbol": "RPLAY",

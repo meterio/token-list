@@ -87,6 +87,14 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/iZi/logo.png"
     },
     {
+      "name": "POG Coin",
+      "address": "0x906c012fa4C30d580537c2b72d1789F56F488a80",
+      "symbol": "POGS",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/POGS/logo.png"
+    },
+    {
       "name": "Polkamarkets",
       "address": "0xd478161c952357f05f0292b56012cd8457f1cfbf",
       "symbol": "POLK",
@@ -669,6 +677,14 @@
       "decimals": 18,
       "chainId": 361,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/PLASM/logo.png"
+    },
+    {
+      "name": "POG Coin",
+      "address": "0x71dC74256d1acB42A216CC5c3c097B8dA71026b0",
+      "symbol": "POGS",
+      "decimals": 18,
+      "chainId": 361,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/POGS/logo.png"
     },
     {
       "name": "Replay Token",

@@ -10,6 +10,25 @@
     "coinId": "usd-coin"
   },
   {
+    "address": "0x553d713e0fb958932b6c40abaf0b5a1ffae73da2",
+    "name": "Sumerian Token",
+    "symbol": "SUMER",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/SUMER/logo.png",
+    "resourceId": "0x0000000000000000000000553d713e0fb958932b6c40abaf0b5a1ffae73da201",
+    "native": false,
+    "decimals": 18
+  },
+  {
+    "address": "0x3A33473d7990a605a88ac72A78aD4EFC40a54ADB",
+    "name": "Tigris",
+    "symbol": "TIG",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/TIG/logo.png",
+    "resourceId": "0x0000000000000000000000c797e9bb22d453bc8ecdfe91e4548b39abc6e0a701",
+    "native": false,
+    "decimals": 18,
+    "coinId": "tigris"
+  },
+  {
     "address": "0xe85411C030fB32A9D8b14Bbbc6CB19417391F711",
     "name": "Sumerian BTC",
     "symbol": "suBTC",
@@ -30,15 +49,6 @@
     "coinId": "ethereum"
   },
   {
-    "address": "0x553d713e0fb958932b6c40abaf0b5a1ffae73da2",
-    "name": "Sumerian Token",
-    "symbol": "SUMER",
-    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/SUMER/logo.png",
-    "resourceId": "0x0000000000000000000000553d713e0fb958932b6c40abaf0b5a1ffae73da201",
-    "native": false,
-    "decimals": 18
-  },
-  {
     "address": "0x8BF591Eae535f93a242D5A954d3Cde648b48A5A8",
     "name": "Sumerian USD",
     "symbol": "suUSD",
@@ -47,15 +57,5 @@
     "native": false,
     "decimals": 18,
     "coinId": "sumer-money-suusd"
-  },
-  {
-    "address": "0x3A33473d7990a605a88ac72A78aD4EFC40a54ADB",
-    "name": "Tigris",
-    "symbol": "TIG",
-    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/TIG/logo.png",
-    "resourceId": "0x0000000000000000000000c797e9bb22d453bc8ecdfe91e4548b39abc6e0a701",
-    "native": false,
-    "decimals": 18,
-    "coinId": "tigris"
   }
 ]
