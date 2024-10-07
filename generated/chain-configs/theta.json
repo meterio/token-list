@@ -40,16 +40,6 @@
     "coinId": "wrapped-bitcoin"
   },
   {
-    "address": "0x7B37d0787A3424A0810E02b24743a45eBd5530B2",
-    "name": "BUSD from BSC on Theta",
-    "symbol": "BUSD.bsc",
-    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/BUSD/logo.png",
-    "resourceId": "0x0000000000000000000000e9e7cea3dedca5984780bafc599bd69add087d5601",
-    "native": false,
-    "decimals": 18,
-    "coinId": "binance-usd"
-  },
-  {
     "address": "0x71dC74256d1acB42A216CC5c3c097B8dA71026b0",
     "name": "POG Coin",
     "symbol": "POGS",
@@ -86,16 +76,6 @@
     "native": true,
     "decimals": 18,
     "coinId": "theta-fuel"
-  },
-  {
-    "address": "0xE6a991Ffa8CfE62B0bf6BF72959A3d4f11B2E0f5",
-    "name": "Volt from Meter on Theta",
-    "symbol": "VOLT",
-    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/VOLT/logo.png",
-    "resourceId": "0x00000000000000000000008df95e66cb0ef38f91d2776da3c921768982fba001",
-    "native": false,
-    "decimals": 18,
-    "coinId": "voltswap"
   },
   {
     "address": "0xae6f0539e33f624ac685cce9ba57cc1d948d909d",

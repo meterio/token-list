@@ -70,16 +70,6 @@
     "coinId": "binancecoin"
   },
   {
-    "address": "0x24aA189DfAa76c671c279262F94434770F557c35",
-    "name": "BUSD from BSC on Meter",
-    "symbol": "BUSD.bsc",
-    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/BUSD/logo.png",
-    "resourceId": "0x0000000000000000000000e9e7cea3dedca5984780bafc599bd69add087d5601",
-    "native": false,
-    "decimals": 18,
-    "coinId": "binance-usd"
-  },
-  {
     "address": "0xdf3ff78702fac3885acac3b42a99fb37dfce912e",
     "name": "Civilization from Ethereum on Meter",
     "symbol": "CIV",
@@ -158,16 +148,6 @@
     "coinId": "theta-fuel"
   },
   {
-    "address": "0xc797E9BB22D453Bc8ecdfe91E4548b39AbC6e0A7",
-    "name": "Tigris",
-    "symbol": "TIG",
-    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/TIG/logo.png",
-    "resourceId": "0x0000000000000000000000c797e9bb22d453bc8ecdfe91e4548b39abc6e0a701",
-    "native": false,
-    "decimals": 18,
-    "coinId": "tigris"
-  },
-  {
     "address": "0x1adcef5c780d8895ac77e6ee9239b4b3ecb76da2",
     "name": "DragonMaster Totem",
     "symbol": "TOTEM",
@@ -176,16 +156,6 @@
     "native": false,
     "decimals": 6,
     "coinId": "dragonmaster-totem"
-  },
-  {
-    "address": "0x8Df95e66Cb0eF38F91D2776DA3c921768982fBa0",
-    "name": "Volt",
-    "symbol": "VOLT",
-    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/VOLT/logo.png",
-    "resourceId": "0x00000000000000000000008df95e66cb0ef38f91d2776da3c921768982fba001",
-    "native": false,
-    "decimals": 18,
-    "coinId": "voltswap"
   },
   {
     "address": "0x46b40202da16761633e757674661683fd733b845",

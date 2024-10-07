@@ -10,16 +10,6 @@
     "coinId": "usd-coin"
   },
   {
-    "address": "0xe3f5a90f9cb311505cd691a46596599aa1a0ad7d",
-    "name": "USDC from MoonRiver Wrapped by Anyswap",
-    "symbol": "USDC",
-    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDC.movr/logo.png",
-    "resourceId": "0x0000000000000000000000e3f5a90f9cb311505cd691a46596599aa1a0ad7d01",
-    "native": false,
-    "decimals": 6,
-    "coinId": "usd-coin"
-  },
-  {
     "address": "0x3674D64AaB971aB974B2035667a4B3d09B5ec2B3",
     "name": "USDT from Ethereum on Moonriver",
     "symbol": "USDT.eth",
@@ -58,16 +48,6 @@
     "native": false,
     "decimals": 18,
     "coinId": "bet-protocol"
-  },
-  {
-    "address": "0xaBD347F625194D8e56F8e8b5E8562F34B6Df3469",
-    "name": "BUSD from BSC on Moonriver",
-    "symbol": "BUSD.bsc",
-    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/BUSD/logo.png",
-    "resourceId": "0x0000000000000000000000e9e7cea3dedca5984780bafc599bd69add087d5601",
-    "native": false,
-    "decimals": 18,
-    "coinId": "binance-usd"
   },
   {
     "address": "0x59A1B7B7469b968eb051f6c71512d2B61F27794d",

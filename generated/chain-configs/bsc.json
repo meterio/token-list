@@ -50,16 +50,6 @@
     "coinId": "binancecoin"
   },
   {
-    "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
-    "name": "BUSD",
-    "symbol": "BUSD",
-    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/BUSD/logo.png",
-    "resourceId": "0x0000000000000000000000e9e7cea3dedca5984780bafc599bd69add087d5601",
-    "native": false,
-    "decimals": 18,
-    "coinId": "binance-usd"
-  },
-  {
     "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
     "name": "CAKE",
     "symbol": "CAKE",
@@ -68,16 +58,6 @@
     "native": false,
     "decimals": 18,
     "coinId": "pancakeswap-token"
-  },
-  {
-    "address": "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3",
-    "name": "DAI",
-    "symbol": "DAI.bsc",
-    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/DAI.bsc/logo.png",
-    "resourceId": "0x00000000000000000000001af3f329e8be154074d8769d1ffa4ee058b1dbc301",
-    "native": false,
-    "decimals": 18,
-    "coinId": "dai"
   },
   {
     "address": "0x27d72484f1910F5d0226aFA4E03742c9cd2B297a",
