@@ -5,6 +5,16 @@ const { mkdirIfNeeded } = require('./common');
 
 const coingecko = require('../coingecko.json');
 
+const DisabledToken = {
+  Meter: ['VOLT', 'BUSD.bsc', 'TIG'],
+  BSC: ['DAI.bsc', 'BUSD'],
+  Moonriver: ['BUSD.bsc', 'USDC', 'USDT'],
+  Theta: ['VOLT', 'BUSD.bsc'],
+  Moonbeam: ['BUSD.bsc', 'USDC', 'USDT'],
+  Polygon: ['TIG'],
+  Arbitrum: ['TIG']
+}
+
 /**
  * generate token list for meter passport with given symbol array
  * @param {Array} symbols
@@ -31,11 +41,15 @@ const genConfigForPassport = (symbols) => {
       if (!(token.network in passportTokens)) {
         passportTokens[token.network] = [];
       }
-
+      const disabledToken = DisabledToken[token.network];
+      const symbol = token.symbol || config.symbol;
+      if (disabledToken && disabledToken.includes(symbol)) {
+        continue;
+      }
       let tokenConfig = {
         address: token.address,
         name: token.name || config.name,
-        symbol: token.symbol || config.symbol,
+        symbol,
         imageUri: getImageUri(sym),
         resourceId: isTestnet(token.network) ? config.testResourceID : config.resourceID,
         native: token.native || false,
