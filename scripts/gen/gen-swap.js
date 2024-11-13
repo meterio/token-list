@@ -66,11 +66,12 @@ const genConfigForSwapOnMeter = (symbols) => {
   const parsed = version.split('.');
   const tokenList = [
     {
-      chainId: 82,
       name: 'Wrapped MTR',
       address: '0x160361ce13ec33C993b5cCA8f62B6864943eb083',
       symbol: 'WMTR',
       decimals: 18,
+      chainId: 82,
+      logoURI: getImageUri('MTR')
     },
   ];
   for (const sym of symbols) {
@@ -79,12 +80,15 @@ const genConfigForSwapOnMeter = (symbols) => {
     for (const token of config.tokens) {
       if (token.network === 'Meter') {
         const chainId = getChainId(token.network);
+        const name = token.name || config.name;
+        const symbol = token.symbol || config.symbol;
         tokenList.push({
-          chainId,
-          name: token.name || config.name,
+          name,
           address: token.address,
-          symbol: token.symbol || config.symbol,
+          symbol,
           decimals: token.decimals || config.decimals,
+          chainId,
+          logoURI: getImageUri(symbol)
         });
       }
     }

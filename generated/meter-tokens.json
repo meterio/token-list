@@ -15,214 +15,244 @@
   ],
   "tokens": [
     {
-      "chainId": 82,
       "name": "Wrapped MTR",
       "address": "0x160361ce13ec33C993b5cCA8f62B6864943eb083",
       "symbol": "WMTR",
-      "decimals": 18
+      "decimals": 18,
+      "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTR/logo.png"
     },
     {
-      "chainId": 82,
       "name": "AmpleForth",
       "address": "0x1cf09D1B5Da9d9d24365D87B932A7c4bD018A419",
       "symbol": "AMPL",
-      "decimals": 9
+      "decimals": 9,
+      "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/AMPL/logo.png"
     },
     {
-      "chainId": 82,
       "name": "BBStudios Token",
       "address": "0x4f78861e9464a91f70fd8e0f85b7c103cb96ded8",
       "symbol": "BBT",
-      "decimals": 18
+      "decimals": 18,
+      "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/BBT/logo.png"
     },
     {
-      "chainId": 82,
       "name": "BNB from BSC on Meter",
       "address": "0xF0E86246519Be0810C9FAfc8430C49799985aAA8",
       "symbol": "BNB",
-      "decimals": 18
+      "decimals": 18,
+      "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/BNB/logo.png"
     },
     {
-      "chainId": 82,
       "name": "BUSD from BSC on Meter",
       "address": "0x24aA189DfAa76c671c279262F94434770F557c35",
       "symbol": "BUSD.bsc",
-      "decimals": 18
+      "decimals": 18,
+      "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/BUSD.bsc/logo.png"
     },
     {
-      "chainId": 82,
       "name": "Civilization from Ethereum on Meter",
       "address": "0xdf3ff78702fac3885acac3b42a99fb37dfce912e",
       "symbol": "CIV",
-      "decimals": 18
+      "decimals": 18,
+      "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/CIV/logo.png"
     },
     {
-      "chainId": 82,
       "name": "DragonMaster Token",
       "address": "0x8c0b5d2b6f128944695c03a53ed899e6035f6d75",
       "symbol": "DMT",
-      "decimals": 18
+      "decimals": 18,
+      "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/DMT/logo.png"
     },
     {
-      "chainId": 82,
       "name": "ETH from Ethereum on Meter",
       "address": "0x983147FB73A45FC7F8B4DFA1cd61Bdc7b111e5b6",
       "symbol": "ETH",
-      "decimals": 18
+      "decimals": 18,
+      "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png"
     },
     {
-      "chainId": 82,
       "name": "Factory Builders Token",
       "address": "0x6CFe9AdaD5215195c1Aa9755DAed29360e6Ab986",
       "symbol": "FTB",
-      "decimals": 18
+      "decimals": 18,
+      "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/FTB/logo.png"
     },
     {
-      "chainId": 82,
-      "name": "Meter MEN",
-      "address": "0x01d18666A27Cf91F32549f181F53e517BA6dc473",
-      "symbol": "MEN",
-      "decimals": 18
-    },
-    {
-      "chainId": 82,
-      "name": "MOVR from MoonRiver on Meter",
-      "address": "0xb158870beB809Ad955Bf56065C5C10D7Fd957cC0",
-      "symbol": "MOVR",
-      "decimals": 18
-    },
-    {
-      "chainId": 82,
-      "name": "Meter Governance",
-      "address": "0x228ebBeE999c6a7ad74A6130E81b12f9Fe237Ba3",
-      "symbol": "MTRG",
-      "decimals": 18
-    },
-    {
-      "chainId": 82,
-      "name": "PASS",
-      "address": "0xb8c2eb8702e129c8fecfbfd6e55bb6b3330f30f1",
-      "symbol": "PASS",
-      "decimals": 18
-    },
-    {
-      "chainId": 82,
-      "name": "SKILL by cryptoblades.io",
-      "address": "0x45a7ca9511a49508B01d37F09f9F142bEa85Ce14",
-      "symbol": "SKILL",
-      "decimals": 18
-    },
-    {
-      "chainId": 82,
-      "name": "Sumerian Token",
-      "address": "0x553d713e0fb958932b6c40abaf0b5a1ffae73da2",
-      "symbol": "SUMER",
-      "decimals": 18
-    },
-    {
-      "chainId": 82,
-      "name": "Theta Drop",
-      "address": "0xd5e615BB3c761AB4cD9251dEEd78Dac58BE9CcBF",
-      "symbol": "TDROP",
-      "decimals": 18
-    },
-    {
-      "chainId": 82,
-      "name": "Theta Fuel",
-      "address": "0x75Fd6F7EDCc5E7A8100eAd3D29CCD844153ef0F3",
-      "symbol": "TFUEL",
-      "decimals": 18
-    },
-    {
-      "chainId": 82,
-      "name": "Tigris",
-      "address": "0xc797E9BB22D453Bc8ecdfe91E4548b39AbC6e0A7",
-      "symbol": "TIG",
-      "decimals": 18
-    },
-    {
-      "chainId": 82,
-      "name": "DragonMaster Totem",
-      "address": "0x1adcef5c780d8895ac77e6ee9239b4b3ecb76da2",
-      "symbol": "TOTEM",
-      "decimals": 6
-    },
-    {
-      "chainId": 82,
-      "name": "USDC from Ethereum on Meter",
-      "address": "0xd86e243fc0007e6226b07c9a50c9d70d78299eb5",
-      "symbol": "USDC.eth",
-      "decimals": 6
-    },
-    {
-      "chainId": 82,
-      "name": "USDT from Ethereum on Meter",
-      "address": "0x5Fa41671c48e3C951AfC30816947126CCC8C162e",
-      "symbol": "USDT.eth",
-      "decimals": 6
-    },
-    {
-      "chainId": 82,
-      "name": "Volt",
-      "address": "0x8Df95e66Cb0eF38F91D2776DA3c921768982fBa0",
-      "symbol": "VOLT",
-      "decimals": 18
-    },
-    {
-      "chainId": 82,
-      "name": "WBTC from Ethereum on Meter",
-      "address": "0xc1f6C86ABEe8e2e0B6fd5BD80F0b51fef783635C",
-      "symbol": "WBTC.eth",
-      "decimals": 8
-    },
-    {
-      "chainId": 82,
       "name": "iZUMi Bond USD",
       "address": "0x46b40202da16761633e757674661683fd733b845",
       "symbol": "iUSD",
-      "decimals": 18
+      "decimals": 18,
+      "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/iUSD/logo.png"
     },
     {
-      "chainId": 82,
       "name": "izumi Token",
       "address": "0x55137322647150d4ff0de22967589690c57a24d3",
       "symbol": "iZi",
-      "decimals": 18
+      "decimals": 18,
+      "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/iZi/logo.png"
     },
     {
+      "name": "Meter MEN",
+      "address": "0x01d18666A27Cf91F32549f181F53e517BA6dc473",
+      "symbol": "MEN",
+      "decimals": 18,
       "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MEN/logo.png"
+    },
+    {
+      "name": "MOVR from MoonRiver on Meter",
+      "address": "0xb158870beB809Ad955Bf56065C5C10D7Fd957cC0",
+      "symbol": "MOVR",
+      "decimals": 18,
+      "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MOVR/logo.png"
+    },
+    {
+      "name": "Meter Governance",
+      "address": "0x228ebBeE999c6a7ad74A6130E81b12f9Fe237Ba3",
+      "symbol": "MTRG",
+      "decimals": 18,
+      "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png"
+    },
+    {
+      "name": "PASS",
+      "address": "0xb8c2eb8702e129c8fecfbfd6e55bb6b3330f30f1",
+      "symbol": "PASS",
+      "decimals": 18,
+      "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/PASS/logo.png"
+    },
+    {
+      "name": "SKILL by cryptoblades.io",
+      "address": "0x45a7ca9511a49508B01d37F09f9F142bEa85Ce14",
+      "symbol": "SKILL",
+      "decimals": 18,
+      "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/SKILL/logo.png"
+    },
+    {
       "name": "Staked MTRG",
       "address": "0x215d603293357ca222bE92A1bf75eEc38DeF0aad",
       "symbol": "stMTRG",
-      "decimals": 18
+      "decimals": 18,
+      "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/stMTRG/logo.png"
     },
     {
-      "chainId": 82,
       "name": "Sumerian BTC",
       "address": "0xe85411C030fB32A9D8b14Bbbc6CB19417391F711",
       "symbol": "suBTC",
-      "decimals": 18
+      "decimals": 18,
+      "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/suBTC/logo.png"
     },
     {
-      "chainId": 82,
       "name": "Sumerian ETH",
       "address": "0x1c22531AA9747d76fFF8F0A43b37954ca67d28e0",
       "symbol": "suETH",
-      "decimals": 18
+      "decimals": 18,
+      "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/suETH/logo.png"
     },
     {
+      "name": "Sumerian Token",
+      "address": "0x553d713e0fb958932b6c40abaf0b5a1ffae73da2",
+      "symbol": "SUMER",
+      "decimals": 18,
       "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/SUMER/logo.png"
+    },
+    {
       "name": "Sumerian USD",
       "address": "0x8BF591Eae535f93a242D5A954d3Cde648b48A5A8",
       "symbol": "suUSD",
-      "decimals": 18
+      "decimals": 18,
+      "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/suUSD/logo.png"
     },
     {
+      "name": "Theta Drop",
+      "address": "0xd5e615BB3c761AB4cD9251dEEd78Dac58BE9CcBF",
+      "symbol": "TDROP",
+      "decimals": 18,
       "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/TDROP/logo.png"
+    },
+    {
+      "name": "Theta Fuel",
+      "address": "0x75Fd6F7EDCc5E7A8100eAd3D29CCD844153ef0F3",
+      "symbol": "TFUEL",
+      "decimals": 18,
+      "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/TFUEL/logo.png"
+    },
+    {
+      "name": "Tigris",
+      "address": "0xc797E9BB22D453Bc8ecdfe91E4548b39AbC6e0A7",
+      "symbol": "TIG",
+      "decimals": 18,
+      "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/TIG/logo.png"
+    },
+    {
+      "name": "DragonMaster Totem",
+      "address": "0x1adcef5c780d8895ac77e6ee9239b4b3ecb76da2",
+      "symbol": "TOTEM",
+      "decimals": 6,
+      "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/TOTEM/logo.png"
+    },
+    {
+      "name": "USDC from Ethereum on Meter",
+      "address": "0xd86e243fc0007e6226b07c9a50c9d70d78299eb5",
+      "symbol": "USDC.eth",
+      "decimals": 6,
+      "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDC.eth/logo.png"
+    },
+    {
+      "name": "USDT from Ethereum on Meter",
+      "address": "0x5Fa41671c48e3C951AfC30816947126CCC8C162e",
+      "symbol": "USDT.eth",
+      "decimals": 6,
+      "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDT.eth/logo.png"
+    },
+    {
+      "name": "Volt",
+      "address": "0x8Df95e66Cb0eF38F91D2776DA3c921768982fBa0",
+      "symbol": "VOLT",
+      "decimals": 18,
+      "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/VOLT/logo.png"
+    },
+    {
+      "name": "WBTC from Ethereum on Meter",
+      "address": "0xc1f6C86ABEe8e2e0B6fd5BD80F0b51fef783635C",
+      "symbol": "WBTC.eth",
+      "decimals": 8,
+      "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/WBTC.eth/logo.png"
+    },
+    {
       "name": "Wrapped Staked MTRG for DeFi",
       "address": "0xE2dE616fBD8cb9180B26FcFB1B761A232FE56717",
       "symbol": "wstMTRG",
-      "decimals": 18
+      "decimals": 18,
+      "chainId": 82,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/wstMTRG/logo.png"
     }
   ]
 }
