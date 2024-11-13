@@ -33,6 +33,11 @@
       "network": "Arbitrum",
       "address": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
       "name": "USDC"
+    },
+    {
+      "network": "MeterTest",
+      "address": "0x2b27f5f7f2867ad9d2b7065f81e985c1bd1b7274",
+      "name": "Wrapped USDC"
     }
   ]
 }

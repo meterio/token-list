@@ -1,0 +1,114 @@
+{
+  "name": "Voltswap Default List",
+  "timestamp": "",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "",
+  "keywords": [
+    "voltswap",
+    "default",
+    "metertest"
+  ],
+  "tokens": [
+    {
+      "name": "Wrapped MTR",
+      "address": "0xfAC315d105E5A7fe2174B3EB1f95C257A9A5e271",
+      "symbol": "WMTR",
+      "decimals": 18,
+      "chainId": 83,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTR/logo.png"
+    },
+    {
+      "name": "AmpleForth",
+      "address": "0xd259ED8E7ACa1f5eA16fD58a860c09Af335b8198",
+      "symbol": "AMPL",
+      "decimals": 9,
+      "chainId": 83,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/AMPL/logo.png"
+    },
+    {
+      "name": "Meter MEN",
+      "address": "0x8eb76752dd045f8d135bccf966e252fed2a90fd3",
+      "symbol": "MEN",
+      "decimals": 18,
+      "chainId": 83,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MEN/logo.png"
+    },
+    {
+      "name": "Meter Governance",
+      "address": "0x8A419EF4941355476CF04933E90BF3BBF2F73814",
+      "symbol": "MTRG",
+      "decimals": 18,
+      "chainId": 83,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png"
+    },
+    {
+      "name": "Sumerian BTC",
+      "address": "0x0477763b021e0f30680b7266a264d1044fe77a4d",
+      "symbol": "suBTC",
+      "decimals": 18,
+      "chainId": 83,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/suBTC/logo.png"
+    },
+    {
+      "name": "Sumerian ETH",
+      "address": "0x4b0d849e5bf7f62bcbb0b7c364ddda552c2c3a8a",
+      "symbol": "suETH",
+      "decimals": 18,
+      "chainId": 83,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/suETH/logo.png"
+    },
+    {
+      "name": "Sumerian Token",
+      "address": "0x264b7316b535515db9759a77dc4041c0c2263527",
+      "symbol": "SUMER",
+      "decimals": 18,
+      "chainId": 83,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/SUMER/logo.png"
+    },
+    {
+      "name": "Sumerian USD",
+      "address": "0x37d982d96ac985a4fa9522383de5010109f0627c",
+      "symbol": "suUSD",
+      "decimals": 18,
+      "chainId": 83,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/suUSD/logo.png"
+    },
+    {
+      "name": "Wrapped USDC",
+      "address": "0x2b27f5f7f2867ad9d2b7065f81e985c1bd1b7274",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 83,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDC/logo.png"
+    },
+    {
+      "name": "Wrapped USDT",
+      "address": "0x2398633bee182cad2d0388b41735fd9fb742098d",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 83,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDT/logo.png"
+    },
+    {
+      "name": "Volt",
+      "address": "0x6af7f7cddfd0d69ba9b03863347bd762bd70f8dc",
+      "symbol": "VOLT",
+      "decimals": 18,
+      "chainId": 83,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/VOLT/logo.png"
+    },
+    {
+      "name": "BTC on Meter",
+      "address": "0xcfd9102a2675e0d898982f1fd1dd0264aaa901da",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "chainId": 83,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/WBTC/logo.png"
+    }
+  ]
+}

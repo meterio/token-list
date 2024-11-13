@@ -115,7 +115,67 @@ const genConfigForSwapOnMeter = (symbols) => {
   console.log('-'.repeat(40));
 };
 
+/**
+ * generate token list for voltswap with given symbol array
+ * @param {Array} symbols
+ */
+const genConfigForSwapOnMeterTest = (symbols) => {
+  console.log('-'.repeat(40));
+  console.log('* Start: Generate config for Swap on metertest');
+  const parsed = version.split('.');
+  const tokenList = [
+    {
+      name: 'Wrapped MTR',
+      address: '0xfAC315d105E5A7fe2174B3EB1f95C257A9A5e271',
+      symbol: 'WMTR',
+      decimals: 18,
+      chainId: 83,
+      logoURI: getImageUri('MTR')
+    },
+  ];
+  for (const sym of symbols) {
+    const config = getConfig(sym);
+
+    for (const token of config.tokens) {
+      if (token.network === 'MeterTest') {
+        const chainId = getChainId(token.network);
+        const name = token.name || config.name;
+        const symbol = token.symbol || config.symbol;
+        tokenList.push({
+          name,
+          address: token.address,
+          symbol,
+          decimals: token.decimals || config.decimals,
+          chainId,
+          logoURI: getImageUri(symbol)
+        });
+      }
+    }
+  }
+
+  const swapTokens = {
+    name: 'Voltswap Default List',
+    timestamp: '', //new Date().toISOString(),
+    version: {
+      major: +parsed[0],
+      minor: +parsed[1],
+      patch: +parsed[2],
+    },
+    tags: {},
+    logoURI: '', //FIXME: ipfs logo?
+    keywords: ['voltswap', 'default', 'metertest'],
+    tokens: tokenList,
+  };
+
+  const outPath = path.join(OUT_PATH, `metertest-tokens.json`);
+  fs.writeFileSync(outPath, JSON.stringify(swapTokens, null, 2));
+  console.log(`write meter tokens formated with uniswap to ${outPath}`);
+  console.log('* END: Generate config for Swap on meter');
+  console.log('-'.repeat(40));
+};
+
 module.exports = {
   genConfigForSwap,
   genConfigForSwapOnMeter,
+  genConfigForSwapOnMeterTest
 };
