@@ -1,12 +1,19 @@
 {
-  "resourceID": "0x00000000000000000000004f78861e9464a91f70fd8e0f85b7c103cb96ded801",
+  "resourceID": "0x00000000000000000000004F78861E9464A91f70FD8E0f85b7C103cb96dED801",
   "name": "BBStudios Token",
   "symbol": "BBT",
   "decimals": 18,
   "tokens": [
     {
       "network": "Meter",
-      "address": "0x4f78861e9464a91f70fd8e0f85b7c103cb96ded8",
+      "address": "0x4F78861E9464A91f70FD8E0f85b7C103cb96dED8",
+      "name": "BBStudios Token",
+      "symbol": "BBT",
+      "native": true
+    },
+    {
+      "network": "Arbitrum",
+      "address": "0x83ef5478a324aa2a508aa8b58b4b66ec189fca51",
       "name": "BBStudios Token",
       "symbol": "BBT"
     }
