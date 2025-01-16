@@ -319,14 +319,6 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png"
     },
     {
-      "name": "Factory Builders Token",
-      "address": "0x6CFe9AdaD5215195c1Aa9755DAed29360e6Ab986",
-      "symbol": "FTB",
-      "decimals": 18,
-      "chainId": 82,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/FTB/logo.png"
-    },
-    {
       "name": "iZUMi Bond USD",
       "address": "0x46b40202da16761633e757674661683fd733b845",
       "symbol": "iUSD",
@@ -551,8 +543,16 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/suUSD/logo.png"
     },
     {
+      "name": "Wrapped USDC",
+      "address": "0x2b27f5f7f2867ad9d2b7065f81e985c1bd1b7274",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 83,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDC/logo.png"
+    },
+    {
       "name": "Wrapped USDT",
-      "address": "0x3e5a2A4812D319Ded22479A88ed708c6B55ca0b1",
+      "address": "0x2398633bee182cad2d0388b41735fd9fb742098d",
       "symbol": "USDT",
       "decimals": 6,
       "chainId": 83,
@@ -597,14 +597,6 @@
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/DMT/logo.png"
-    },
-    {
-      "name": "Factory Builders Token",
-      "address": "0xf305012ea754252184f1071c86ae99fac5b40320",
-      "symbol": "FTB",
-      "decimals": 18,
-      "chainId": 137,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/FTB/logo.png"
     },
     {
       "name": "GLMR from Moonbeam",
@@ -1029,6 +1021,14 @@
       "decimals": 18,
       "chainId": 8453,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/suUSD/logo.png"
+    },
+    {
+      "name": "BBStudios Token",
+      "address": "0x83ef5478a324aa2a508aa8b58b4b66ec189fca51",
+      "symbol": "BBT",
+      "decimals": 18,
+      "chainId": 42161,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/BBT/logo.png"
     },
     {
       "name": "Sumerian BTC",

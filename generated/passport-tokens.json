@@ -314,6 +314,15 @@
       "coinId": "ampleforth"
     },
     {
+      "address": "0x4f78861e9464a91f70fd8e0f85b7c103cb96ded8",
+      "name": "BBStudios Token",
+      "symbol": "BBT",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/BBT/logo.png",
+      "resourceId": "0x00000000000000000000004f78861e9464a91f70fd8e0f85b7c103cb96ded801",
+      "native": true,
+      "decimals": 18
+    },
+    {
       "address": "0xF0E86246519Be0810C9FAfc8430C49799985aAA8",
       "name": "BNB from BSC on Meter",
       "symbol": "BNB",
@@ -341,16 +350,6 @@
       "native": false,
       "decimals": 18,
       "coinId": "dragonmaster-token"
-    },
-    {
-      "address": "0x6CFe9AdaD5215195c1Aa9755DAed29360e6Ab986",
-      "name": "Factory Builders Token",
-      "symbol": "FTB",
-      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/FTB/logo.png",
-      "resourceId": "0x0000000000000000000000f305012ea754252184f1071c86ae99fac5b4032001",
-      "native": false,
-      "decimals": 18,
-      "coinId": "FTB"
     },
     {
       "address": "0x01d18666A27Cf91F32549f181F53e517BA6dc473",
@@ -496,7 +495,17 @@
   ],
   "MeterTest": [
     {
-      "address": "0x3e5a2A4812D319Ded22479A88ed708c6B55ca0b1",
+      "address": "0x2b27f5f7f2867ad9d2b7065f81e985c1bd1b7274",
+      "name": "Wrapped USDC",
+      "symbol": "USDC",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDC/logo.png",
+      "resourceId": "0x0000000000000000000000a0b86991c6218b36c1d19d4a2e9eb0ce3606eb4801",
+      "native": false,
+      "decimals": 6,
+      "coinId": "usd-coin"
+    },
+    {
+      "address": "0x2398633bee182cad2d0388b41735fd9fb742098d",
       "name": "Wrapped USDT",
       "symbol": "USDT",
       "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDT/logo.png",
@@ -615,6 +624,66 @@
       "native": false,
       "decimals": 9,
       "coinId": "ampleforth"
+    }
+  ],
+  "Arbitrum": [
+    {
+      "address": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+      "name": "USDC",
+      "symbol": "USDC",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDC/logo.png",
+      "resourceId": "0x0000000000000000000000a0b86991c6218b36c1d19d4a2e9eb0ce3606eb4801",
+      "native": false,
+      "decimals": 6,
+      "coinId": "usd-coin"
+    },
+    {
+      "address": "0x83ef5478a324aa2a508aa8b58b4b66ec189fca51",
+      "name": "BBStudios Token",
+      "symbol": "BBT",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/BBT/logo.png",
+      "resourceId": "0x00000000000000000000004f78861e9464a91f70fd8e0f85b7c103cb96ded801",
+      "native": false,
+      "decimals": 18
+    },
+    {
+      "address": "0x553d713e0fb958932b6c40abaf0b5a1ffae73da2",
+      "name": "Sumerian Token",
+      "symbol": "SUMER",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/SUMER/logo.png",
+      "resourceId": "0x0000000000000000000000553d713e0fb958932b6c40abaf0b5a1ffae73da201",
+      "native": false,
+      "decimals": 18
+    },
+    {
+      "address": "0xe85411C030fB32A9D8b14Bbbc6CB19417391F711",
+      "name": "Sumerian BTC",
+      "symbol": "suBTC",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/suBTC/logo.png",
+      "resourceId": "0x0000000000000000000000e85411c030fb32a9d8b14bbbc6cb19417391f71101",
+      "native": false,
+      "decimals": 18,
+      "coinId": "wrapped-bitcoin"
+    },
+    {
+      "address": "0x1c22531AA9747d76fFF8F0A43b37954ca67d28e0",
+      "name": "Sumerian ETH",
+      "symbol": "suETH",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/suETH/logo.png",
+      "resourceId": "0x00000000000000000000001c22531aa9747d76fff8f0a43b37954ca67d28e001",
+      "native": false,
+      "decimals": 18,
+      "coinId": "ethereum"
+    },
+    {
+      "address": "0x8BF591Eae535f93a242D5A954d3Cde648b48A5A8",
+      "name": "Sumerian USD",
+      "symbol": "suUSD",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/suUSD/logo.png",
+      "resourceId": "0x00000000000000000000008bf591eae535f93a242d5a954d3cde648b48a5a801",
+      "native": false,
+      "decimals": 18,
+      "coinId": "sumer-money-suusd"
     }
   ],
   "Moonriver": [
@@ -985,16 +1054,6 @@
       "coinId": "dragonmaster-token"
     },
     {
-      "address": "0xf305012ea754252184f1071c86ae99fac5b40320",
-      "name": "Factory Builders Token",
-      "symbol": "FTB",
-      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/FTB/logo.png",
-      "resourceId": "0x0000000000000000000000f305012ea754252184f1071c86ae99fac5b4032001",
-      "native": false,
-      "decimals": 18,
-      "coinId": "FTB"
-    },
-    {
       "address": "0x3Ca3fEFA944753b43c751336A5dF531bDD6598B6",
       "name": "GLMR from Moonbeam",
       "symbol": "GLMR",
@@ -1078,57 +1137,6 @@
       "native": false,
       "decimals": 18,
       "coinId": "voltswap"
-    },
-    {
-      "address": "0x1c22531AA9747d76fFF8F0A43b37954ca67d28e0",
-      "name": "Sumerian ETH",
-      "symbol": "suETH",
-      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/suETH/logo.png",
-      "resourceId": "0x00000000000000000000001c22531aa9747d76fff8f0a43b37954ca67d28e001",
-      "native": false,
-      "decimals": 18,
-      "coinId": "ethereum"
-    },
-    {
-      "address": "0x8BF591Eae535f93a242D5A954d3Cde648b48A5A8",
-      "name": "Sumerian USD",
-      "symbol": "suUSD",
-      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/suUSD/logo.png",
-      "resourceId": "0x00000000000000000000008bf591eae535f93a242d5a954d3cde648b48a5a801",
-      "native": false,
-      "decimals": 18,
-      "coinId": "sumer-money-suusd"
-    }
-  ],
-  "Arbitrum": [
-    {
-      "address": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
-      "name": "USDC",
-      "symbol": "USDC",
-      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDC/logo.png",
-      "resourceId": "0x0000000000000000000000a0b86991c6218b36c1d19d4a2e9eb0ce3606eb4801",
-      "native": false,
-      "decimals": 6,
-      "coinId": "usd-coin"
-    },
-    {
-      "address": "0x553d713e0fb958932b6c40abaf0b5a1ffae73da2",
-      "name": "Sumerian Token",
-      "symbol": "SUMER",
-      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/SUMER/logo.png",
-      "resourceId": "0x0000000000000000000000553d713e0fb958932b6c40abaf0b5a1ffae73da201",
-      "native": false,
-      "decimals": 18
-    },
-    {
-      "address": "0xe85411C030fB32A9D8b14Bbbc6CB19417391F711",
-      "name": "Sumerian BTC",
-      "symbol": "suBTC",
-      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/suBTC/logo.png",
-      "resourceId": "0x0000000000000000000000e85411c030fb32a9d8b14bbbc6cb19417391f71101",
-      "native": false,
-      "decimals": 18,
-      "coinId": "wrapped-bitcoin"
     },
     {
       "address": "0x1c22531AA9747d76fFF8F0A43b37954ca67d28e0",

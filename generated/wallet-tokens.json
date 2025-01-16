@@ -387,7 +387,7 @@
       "decimals": 18,
       "chainId": 82,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/BBT/logo.png",
-      "native": false,
+      "native": true,
       "resourceId": "0x00000000000000000000004f78861e9464a91f70fd8e0f85b7c103cb96ded801"
     },
     {
@@ -443,17 +443,6 @@
       "coinId": "ethereum",
       "native": false,
       "resourceId": "0x0000000000000000000000000000000000000000000000000000000000000101"
-    },
-    {
-      "name": "Factory Builders Token",
-      "address": "0x6CFe9AdaD5215195c1Aa9755DAed29360e6Ab986",
-      "symbol": "FTB",
-      "decimals": 18,
-      "chainId": 82,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/FTB/logo.png",
-      "coinId": "FTB",
-      "native": false,
-      "resourceId": "0x0000000000000000000000f305012ea754252184f1071c86ae99fac5b4032001"
     },
     {
       "name": "iZUMi Bond USD",
@@ -781,8 +770,19 @@
       "resourceId": "0x000000000000000000000037d982d96ac985a4fa9522383de5010109f0627c01"
     },
     {
+      "name": "Wrapped USDC",
+      "address": "0x2b27f5f7f2867ad9d2b7065f81e985c1bd1b7274",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 83,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDC/logo.png",
+      "coinId": "usd-coin",
+      "native": false,
+      "resourceId": "0x0000000000000000000000a0b86991c6218b36c1d19d4a2e9eb0ce3606eb4801"
+    },
+    {
       "name": "Wrapped USDT",
-      "address": "0x3e5a2A4812D319Ded22479A88ed708c6B55ca0b1",
+      "address": "0x2398633bee182cad2d0388b41735fd9fb742098d",
       "symbol": "USDT",
       "decimals": 6,
       "chainId": 83,
@@ -855,17 +855,6 @@
       "coinId": "dragonmaster-token",
       "native": false,
       "resourceId": "0x000000000000000000000004f177fcacf6fb4d2f95d41d7d3fee8e565ca1d001"
-    },
-    {
-      "name": "Factory Builders Token",
-      "address": "0xf305012ea754252184f1071c86ae99fac5b40320",
-      "symbol": "FTB",
-      "decimals": 18,
-      "chainId": 137,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/FTB/logo.png",
-      "coinId": "FTB",
-      "native": false,
-      "resourceId": "0x0000000000000000000000f305012ea754252184f1071c86ae99fac5b4032001"
     },
     {
       "name": "GLMR from Moonbeam",
@@ -1480,6 +1469,16 @@
       "coinId": "sumer-money-suusd",
       "native": false,
       "resourceId": "0x00000000000000000000008bf591eae535f93a242d5a954d3cde648b48a5a801"
+    },
+    {
+      "name": "BBStudios Token",
+      "address": "0x83ef5478a324aa2a508aa8b58b4b66ec189fca51",
+      "symbol": "BBT",
+      "decimals": 18,
+      "chainId": 42161,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/BBT/logo.png",
+      "native": false,
+      "resourceId": "0x00000000000000000000004f78861e9464a91f70fd8e0f85b7c103cb96ded801"
     },
     {
       "name": "Ether",

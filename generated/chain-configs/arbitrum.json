@@ -10,6 +10,15 @@
     "coinId": "usd-coin"
   },
   {
+    "address": "0x83ef5478a324aa2a508aa8b58b4b66ec189fca51",
+    "name": "BBStudios Token",
+    "symbol": "BBT",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/BBT/logo.png",
+    "resourceId": "0x00000000000000000000004f78861e9464a91f70fd8e0f85b7c103cb96ded801",
+    "native": false,
+    "decimals": 18
+  },
+  {
     "address": "0x553d713e0fb958932b6c40abaf0b5a1ffae73da2",
     "name": "Sumerian Token",
     "symbol": "SUMER",

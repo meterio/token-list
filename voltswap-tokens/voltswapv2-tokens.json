@@ -87,14 +87,6 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png"
     },
     {
-      "name": "Factory Builders Token",
-      "address": "0x6CFe9AdaD5215195c1Aa9755DAed29360e6Ab986",
-      "symbol": "FTB",
-      "decimals": 18,
-      "chainId": 82,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/FTB/logo.png"
-    },
-    {
       "name": "GOT",
       "address": "0xe943b24169c5261e727a0f5146feb4fb63eb4c14",
       "symbol": "GOT",
@@ -303,6 +295,14 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDC/logo.png"
     },
     {
+      "name": "Wrapped USDC",
+      "address": "0x2b27f5f7f2867ad9d2b7065f81e985c1bd1b7274",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 83,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/USDC/logo.png"
+    },
+    {
       "name": "USDT from Ethereum on Meter",
       "address": "0x5Fa41671c48e3C951AfC30816947126CCC8C162e",
       "symbol": "USDT.eth",
@@ -320,7 +320,7 @@
     },
     {
       "name": "Wrapped USDT",
-      "address": "0x3e5a2A4812D319Ded22479A88ed708c6B55ca0b1",
+      "address": "0x2398633bee182cad2d0388b41735fd9fb742098d",
       "symbol": "USDT",
       "decimals": 6,
       "chainId": 83,

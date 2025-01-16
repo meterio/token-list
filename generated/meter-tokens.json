@@ -79,14 +79,6 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png"
     },
     {
-      "name": "Factory Builders Token",
-      "address": "0x6CFe9AdaD5215195c1Aa9755DAed29360e6Ab986",
-      "symbol": "FTB",
-      "decimals": 18,
-      "chainId": 82,
-      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/FTB/logo.png"
-    },
-    {
       "name": "Meter MEN",
       "address": "0x01d18666A27Cf91F32549f181F53e517BA6dc473",
       "symbol": "MEN",

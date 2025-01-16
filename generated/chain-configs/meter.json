@@ -60,6 +60,15 @@
     "coinId": "ampleforth"
   },
   {
+    "address": "0x4f78861e9464a91f70fd8e0f85b7c103cb96ded8",
+    "name": "BBStudios Token",
+    "symbol": "BBT",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/BBT/logo.png",
+    "resourceId": "0x00000000000000000000004f78861e9464a91f70fd8e0f85b7c103cb96ded801",
+    "native": true,
+    "decimals": 18
+  },
+  {
     "address": "0xF0E86246519Be0810C9FAfc8430C49799985aAA8",
     "name": "BNB from BSC on Meter",
     "symbol": "BNB",
@@ -87,16 +96,6 @@
     "native": false,
     "decimals": 18,
     "coinId": "dragonmaster-token"
-  },
-  {
-    "address": "0x6CFe9AdaD5215195c1Aa9755DAed29360e6Ab986",
-    "name": "Factory Builders Token",
-    "symbol": "FTB",
-    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/FTB/logo.png",
-    "resourceId": "0x0000000000000000000000f305012ea754252184f1071c86ae99fac5b4032001",
-    "native": false,
-    "decimals": 18,
-    "coinId": "FTB"
   },
   {
     "address": "0x01d18666A27Cf91F32549f181F53e517BA6dc473",
