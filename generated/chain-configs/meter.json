@@ -65,7 +65,7 @@
     "symbol": "BBT",
     "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/BBT/logo.png",
     "resourceId": "0x00000000000000000000004f78861e9464a91f70fd8e0f85b7c103cb96ded801",
-    "native": true,
+    "native": false,
     "decimals": 18
   },
   {
