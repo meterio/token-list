@@ -8,8 +8,7 @@
       "network": "Meter",
       "address": "0x4f78861e9464a91f70fd8e0f85b7c103cb96ded8",
       "name": "BBStudios Token",
-      "symbol": "BBT",
-      "native": true
+      "symbol": "BBT"
     },
     {
       "network": "Arbitrum",
