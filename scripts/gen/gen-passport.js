@@ -6,7 +6,7 @@ const { mkdirIfNeeded } = require('./common');
 const coingecko = require('../coingecko.json');
 
 const DisabledToken = {
-  Meter: ['VOLT', 'BUSD.bsc', 'TIG'],
+  Meter: ['VOLT', 'BUSD.bsc', 'TIG', 'BBT'],
   BSC: ['DAI.bsc', 'BUSD'],
   Moonriver: ['BUSD.bsc', 'USDC', 'USDT'],
   Theta: ['VOLT', 'BUSD.bsc'],
