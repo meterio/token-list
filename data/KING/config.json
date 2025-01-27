@@ -1,0 +1,20 @@
+{
+  "resourceID": "0x00000000000000000000000684cfd481d4504e2faec28bfc8ae7a6eb46661b01",
+  "name": "Theta Kingdom",
+  "symbol": "KING",
+  "decimals": 18,
+  "tokens": [
+    {
+      "network": "Theta",
+      "address": "0x0684cfd481d4504e2faec28bfc8ae7a6eb46661b",
+      "name": "Theta Kingdom",
+      "symbol": "KING"
+    },
+    {
+      "network": "Base",
+      "address": "0x0bc80966127a9701dfe5c0b1772cb57925088fda",
+      "name": "Theta Kingdom",
+      "symbol": "KING"
+    }
+  ]
+}
