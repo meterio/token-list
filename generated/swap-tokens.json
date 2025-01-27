@@ -647,6 +647,14 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/GOT/logo.png"
     },
     {
+      "name": "Theta Kingdom",
+      "address": "0x0684cfd481d4504e2faec28bfc8ae7a6eb46661b",
+      "symbol": "KING",
+      "decimals": 18,
+      "chainId": 361,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/KING/logo.png"
+    },
+    {
       "name": "Lavita",
       "address": "0x46fbf4487fa1b9c70d35bd761c51c360df9459ed",
       "symbol": "LAVITA",
@@ -997,6 +1005,14 @@
       "decimals": 18,
       "chainId": 8453,
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MTRG/logo.png"
+    },
+    {
+      "name": "Theta Kingdom",
+      "address": "0x0bc80966127a9701dfe5c0b1772cb57925088fda",
+      "symbol": "KING",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/KING/logo.png"
     },
     {
       "name": "Sumerian ETH",

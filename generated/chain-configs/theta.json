@@ -40,6 +40,15 @@
     "coinId": "wrapped-bitcoin"
   },
   {
+    "address": "0x0684cfd481d4504e2faec28bfc8ae7a6eb46661b",
+    "name": "Theta Kingdom",
+    "symbol": "KING",
+    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/KING/logo.png",
+    "resourceId": "0x00000000000000000000000684cfd481d4504e2faec28bfc8ae7a6eb46661b01",
+    "native": false,
+    "decimals": 18
+  },
+  {
     "address": "0x71dC74256d1acB42A216CC5c3c097B8dA71026b0",
     "name": "POG Coin",
     "symbol": "POGS",

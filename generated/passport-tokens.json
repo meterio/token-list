@@ -985,6 +985,15 @@
       "coinId": "wrapped-bitcoin"
     },
     {
+      "address": "0x0684cfd481d4504e2faec28bfc8ae7a6eb46661b",
+      "name": "Theta Kingdom",
+      "symbol": "KING",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/KING/logo.png",
+      "resourceId": "0x00000000000000000000000684cfd481d4504e2faec28bfc8ae7a6eb46661b01",
+      "native": false,
+      "decimals": 18
+    },
+    {
       "address": "0x71dC74256d1acB42A216CC5c3c097B8dA71026b0",
       "name": "POG Coin",
       "symbol": "POGS",
@@ -1077,28 +1086,6 @@
       "coinId": "energy-web-token"
     }
   ],
-  "Moonbase": [
-    {
-      "address": "0xF2C84Cb3d1e9Fac001F36c965260aA2a9c9D822D",
-      "name": "Moonscape",
-      "symbol": "MSCP",
-      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/MSCP/logo.png",
-      "resourceId": "0x000000000000000000000f2c84cb3d1e9fac001f36c965260aa2a9c9d822d507",
-      "native": false,
-      "decimals": 18,
-      "coinId": "moonscape"
-    },
-    {
-      "address": "0xE29A4BD665e4782a4c002aA30D3d25f010E8A394",
-      "name": "RiverBoat",
-      "symbol": "RIB",
-      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/RIB/logo.png",
-      "resourceId": "0x000000000000000000000e29a4bd665e4782a4c002aa30d3d25f010e8a394507",
-      "native": false,
-      "decimals": 18,
-      "coinId": "riverboat"
-    }
-  ],
   "Base": [
     {
       "address": "0xa023E6f6B4862EA38cbe45e377abD908abAb2f82",
@@ -1109,6 +1096,15 @@
       "native": false,
       "decimals": 18,
       "coinId": "meter"
+    },
+    {
+      "address": "0x0bc80966127a9701dfe5c0b1772cb57925088fda",
+      "name": "Theta Kingdom",
+      "symbol": "KING",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/KING/logo.png",
+      "resourceId": "0x00000000000000000000000684cfd481d4504e2faec28bfc8ae7a6eb46661b01",
+      "native": false,
+      "decimals": 18
     },
     {
       "address": "0x553d713e0fb958932b6c40abaf0b5a1ffae73da2",
@@ -1148,6 +1144,28 @@
       "native": false,
       "decimals": 18,
       "coinId": "sumer-money-suusd"
+    }
+  ],
+  "Moonbase": [
+    {
+      "address": "0xF2C84Cb3d1e9Fac001F36c965260aA2a9c9D822D",
+      "name": "Moonscape",
+      "symbol": "MSCP",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/MSCP/logo.png",
+      "resourceId": "0x000000000000000000000f2c84cb3d1e9fac001f36c965260aa2a9c9d822d507",
+      "native": false,
+      "decimals": 18,
+      "coinId": "moonscape"
+    },
+    {
+      "address": "0xE29A4BD665e4782a4c002aA30D3d25f010E8A394",
+      "name": "RiverBoat",
+      "symbol": "RIB",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/RIB/logo.png",
+      "resourceId": "0x000000000000000000000e29a4bd665e4782a4c002aa30d3d25f010e8a394507",
+      "native": false,
+      "decimals": 18,
+      "coinId": "riverboat"
     }
   ]
 }
