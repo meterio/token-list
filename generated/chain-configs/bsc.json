@@ -88,15 +88,5 @@
     "native": false,
     "decimals": 18,
     "coinId": "izumi-bond-usd"
-  },
-  {
-    "address": "0x60D01EC2D5E98Ac51C8B4cF84DfCCE98D527c747",
-    "name": "izumi Token",
-    "symbol": "iZi",
-    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/iZi/logo.png",
-    "resourceId": "0x000000000000000000000060d01ec2d5e98ac51c8b4cf84dfcce98d527c74701",
-    "native": false,
-    "decimals": 18,
-    "coinId": "izumi-finance"
   }
 ]

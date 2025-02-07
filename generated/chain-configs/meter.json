@@ -158,16 +158,6 @@
     "coinId": "izumi-bond-usd"
   },
   {
-    "address": "0x55137322647150d4ff0de22967589690c57a24d3",
-    "name": "izumi Token",
-    "symbol": "iZi",
-    "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/iZi/logo.png",
-    "resourceId": "0x000000000000000000000060d01ec2d5e98ac51c8b4cf84dfcce98d527c74701",
-    "native": false,
-    "decimals": 18,
-    "coinId": "izumi-finance"
-  },
-  {
     "address": "0xe85411C030fB32A9D8b14Bbbc6CB19417391F711",
     "name": "Sumerian BTC",
     "symbol": "suBTC",
