@@ -9,11 +9,12 @@ const DisabledToken = {
   Meter: ['VOLT', 'BUSD.bsc', 'TIG', 'BBT', 'iZi'],
   BSC: ['DAI.bsc', 'BUSD', 'iZi'],
   Moonriver: ['BUSD.bsc', 'USDC', 'USDT'],
-  Theta: ['VOLT', 'BUSD.bsc'],
+  Theta: ['VOLT', 'TVOLT', 'KING', 'BUSD.bsc'],
   Moonbeam: ['BUSD.bsc', 'USDC', 'USDT'],
   Polygon: ['TIG'],
   Arbitrum: ['TIG'],
-  Ethereum: ['iZi']
+  Ethereum: ['iZi'],
+  Base: ['KING']
 }
 
 /**
