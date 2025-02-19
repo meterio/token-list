@@ -932,6 +932,16 @@
       "resourceId": "0x0000000000000000000000e943b24169c5261e727a0f5146feb4fb63eb4c1401"
     },
     {
+      "name": "Kawigan Fuel",
+      "address": "0x31d9e3d9f1184d60fa1f5a9acec933c4a68558eb",
+      "symbol": "KFUEL",
+      "decimals": 18,
+      "chainId": 361,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/KFUEL/logo.png",
+      "native": false,
+      "resourceId": "0x000000000000000000000031d9e3d9f1184d60fa1f5a9acec933c4a68558eb01"
+    },
+    {
       "name": "Theta Kingdom",
       "address": "0x0684cfd481d4504e2faec28bfc8ae7a6eb46661b",
       "symbol": "KING",
@@ -1447,6 +1457,16 @@
       "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/ETH/logo.png",
       "coinId": "ethereum",
       "native": true
+    },
+    {
+      "name": "KFUEL",
+      "address": "0xc3D3A755F391b40D94EEd8283134c0323DB49209",
+      "symbol": "KFUEL",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/KFUEL/logo.png",
+      "native": false,
+      "resourceId": "0x000000000000000000000031d9e3d9f1184d60fa1f5a9acec933c4a68558eb01"
     },
     {
       "name": "Theta Kingdom",

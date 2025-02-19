@@ -955,6 +955,15 @@
       "coinId": "wrapped-bitcoin"
     },
     {
+      "address": "0x31d9e3d9f1184d60fa1f5a9acec933c4a68558eb",
+      "name": "Kawigan Fuel",
+      "symbol": "KFUEL",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/KFUEL/logo.png",
+      "resourceId": "0x000000000000000000000031d9e3d9f1184d60fa1f5a9acec933c4a68558eb01",
+      "native": false,
+      "decimals": 18
+    },
+    {
       "address": "0x0684cfd481d4504e2faec28bfc8ae7a6eb46661b",
       "name": "Theta Kingdom",
       "symbol": "KING",
@@ -1066,6 +1075,15 @@
       "native": false,
       "decimals": 18,
       "coinId": "meter"
+    },
+    {
+      "address": "0xc3D3A755F391b40D94EEd8283134c0323DB49209",
+      "name": "KFUEL",
+      "symbol": "KFUEL",
+      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/KFUEL/logo.png",
+      "resourceId": "0x000000000000000000000031d9e3d9f1184d60fa1f5a9acec933c4a68558eb01",
+      "native": false,
+      "decimals": 18
     },
     {
       "address": "0x0bc80966127a9701dfe5c0b1772cb57925088fda",
