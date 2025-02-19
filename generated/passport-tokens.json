@@ -964,15 +964,6 @@
       "decimals": 18
     },
     {
-      "address": "0x0684cfd481d4504e2faec28bfc8ae7a6eb46661b",
-      "name": "Theta Kingdom",
-      "symbol": "KING",
-      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/KING/logo.png",
-      "resourceId": "0x00000000000000000000000684cfd481d4504e2faec28bfc8ae7a6eb46661b01",
-      "native": false,
-      "decimals": 18
-    },
-    {
       "address": "0x71dC74256d1acB42A216CC5c3c097B8dA71026b0",
       "name": "POG Coin",
       "symbol": "POGS",
@@ -1009,16 +1000,6 @@
       "native": true,
       "decimals": 18,
       "coinId": "theta-fuel"
-    },
-    {
-      "address": "0xae6f0539e33f624ac685cce9ba57cc1d948d909d",
-      "name": "Theta TVOLT",
-      "symbol": "TVOLT",
-      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/VOLT/logo.png",
-      "resourceId": "0x00000000000000000000008df95e66cb0ef38f91d2776da3c921768982fba001",
-      "native": false,
-      "decimals": 18,
-      "coinId": "voltswap"
     }
   ],
   "Polygon": [
@@ -1082,15 +1063,6 @@
       "symbol": "KFUEL",
       "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/KFUEL/logo.png",
       "resourceId": "0x000000000000000000000031d9e3d9f1184d60fa1f5a9acec933c4a68558eb01",
-      "native": false,
-      "decimals": 18
-    },
-    {
-      "address": "0x0bc80966127a9701dfe5c0b1772cb57925088fda",
-      "name": "Theta Kingdom",
-      "symbol": "KING",
-      "imageUri": "https://raw.githubusercontent.com/meterio/token-list/master/data/KING/logo.png",
-      "resourceId": "0x00000000000000000000000684cfd481d4504e2faec28bfc8ae7a6eb46661b01",
       "native": false,
       "decimals": 18
     },
