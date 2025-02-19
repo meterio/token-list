@@ -1,0 +1,19 @@
+{
+  "resourceID": "0x000000000000000000000031d9e3d9f1184d60fa1f5a9acec933c4a68558eb01",
+  "name": "Kawigan Fuel",
+  "symbol": "KFUEL",
+  "decimals": 18,
+  "tokens": [
+    {
+      "network": "Theta",
+      "address": "0x31d9e3d9f1184d60fa1f5a9acec933c4a68558eb",
+      "name": "Kawigan Fuel",
+      "symbol": "KFUEL"
+    },
+    {
+      "network": "Base",
+      "address": "0xc3D3A755F391b40D94EEd8283134c0323DB49209",
+      "name": "KFUEL"
+    }
+  ]
+}
